@@ -1,0 +1,17 @@
+"id","url","language","status","priority","retry_count","last_error","created_at","updated_at","scraped_at","max_retries"
+225,"https://www.booking.com/hotel/sc/garden-hill-resort-amp-spa.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:04:03.400016","2026-02-24 01:04:03.400016",3
+226,"https://www.booking.com/hotel/sc/cb-seychelles.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:11:51.771737","2026-02-24 01:11:51.771737",3
+227,"https://www.booking.com/hotel/sc/avani-seychelles-barbarons-resort-amp-spa.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:19:40.247585","2026-02-24 01:19:40.247585",3
+228,"https://www.booking.com/hotel/bb/leroy.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:27:27.869215","2026-02-24 01:27:27.869215",3
+229,"https://www.booking.com/hotel/bs/the-island-garden.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:35:12.541075","2026-02-24 01:35:12.541075",3
+230,"https://www.booking.com/hotel/tc/grace-bay-club.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:43:03.931221","2026-02-24 01:43:03.931221",3
+231,"https://www.booking.com/hotel/tc/south-bank.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:50:48.594867","2026-02-24 01:50:48.594867",3
+232,"https://www.booking.com/hotel/vc/the-pink-sands-club.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 01:58:34.504476","2026-02-24 01:58:34.504476",3
+233,"https://www.booking.com/hotel/mv/niyama-private-islands-maldives.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:06:21.991903","2026-02-24 02:06:21.991903",3
+234,"https://www.booking.com/hotel/mv/ananea-madivaru-maldives.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:14:08.280139","2026-02-24 02:14:08.280139",3
+235,"https://www.booking.com/hotel/mv/cocomo-maldives-k-himmafushi.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:22:20.483167","2026-02-24 02:22:20.483167",3
+236,"https://www.booking.com/hotel/mv/cheval-blanc-randheli-noonu-atoll.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:29:53.728799","2026-02-24 02:29:53.728799",3
+237,"https://www.booking.com/hotel/mv/icom-blue-seaview.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:37:39.718988","2026-02-24 02:37:39.718988",3
+238,"https://www.booking.com/hotel/mv/eri-maldives.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:45:24.80551","2026-02-24 02:45:24.80551",3
+239,"https://www.booking.com/hotel/mv/dusitd2-feydhoo-maldives-all-inclusive-resort.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 02:53:10.92742","2026-02-24 02:53:10.92742",3
+240,"https://www.booking.com/hotel/mv/centara-grand-lagoon-maldives.html","en","completed",5,0,NULL,"2026-02-24 00:56:11.518707","2026-02-24 03:00:57.110558","2026-02-24 03:00:57.110558",3
