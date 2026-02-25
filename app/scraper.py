@@ -1,6 +1,19 @@
 """
-BookingScraper/app/scraper.py  v3.1  [FIXED - Block detection + Language verification]
+BookingScraper/app/scraper.py  v4.0  [FIXED - English enforcement + Image language rules]
 Scraper HTTP para Booking.com - BookingScraper Pro
+
+CAMBIOS v4.0 [FIX CRÍTICO IDIOMA INGLÉS]:
+  [FIX #20] scrape_hotel() CloudScraper: cuando Booking.com devuelve contenido en idioma
+    incorrecto (GeoIP override), se trata como fallo de intento y SE REINTENTA en lugar de
+    retornar datos en idioma incorrecto. Para lang='en', el reintento usa sesión nueva.
+    Sin este fix: contenido español era retornado al caller que lo guardaba etiquetado como 'en'.
+  [FIX #21] scrape_hotel() Selenium: mismo fix — wrong language → continue (retry) en lugar de return.
+  [FIX #22] _detect_page_language(): mejorado para manejar edge cases ('x-default', lang vacío, etc.)
+    y para detectar idioma mediante múltiples señales adicionales del DOM de Booking.com:
+    meta name="language", CanonicalURL con sufijo de idioma, texto del selector de idioma.
+  [FIX #23] LANG_MISMATCH_MAX_RETRIES: constante para controlar reintentos por idioma incorrecto.
+    Solo se reintentan mismatches cuando language == DEFAULT_LANG ('en'), para no bloquear
+    idiomas adicionales donde el mismatch es menos crítico.
 
 CAMBIOS v3.1 [FIX DETECCIÓN DE BLOQUEO + VERIFICACIÓN DE IDIOMA]:
   [FIX CRÍTICO #14] BLOCK_SIGNALS: eliminadas "cookie-consent" y "privacymanager".
@@ -146,6 +159,12 @@ BLOCK_SIGNALS = [
 # que sea un captcha → se omite la verificación para evitar falsos positivos.
 _BLOCK_CHECK_MAX_BYTES = 500_000
 
+# [FIX v4.0] Idioma predeterminado que DEBE cumplirse estrictamente.
+# Si Booking.com devuelve otro idioma, se reintenta en lugar de retornar datos incorrectos.
+_DEFAULT_LANGUAGE = "en"
+# Máximo de reintentos extra por mismatch de idioma (además de los reintentos normales)
+_LANG_MISMATCH_MAX_RETRIES = 2
+
 
 def _is_hotel_page(html: str) -> bool:
     html_low = html.lower()
@@ -172,33 +191,97 @@ def _is_blocked(html: str) -> bool:
 
 def _detect_page_language(html: str) -> Optional[str]:
     """
-    [v3.1] Detecta el idioma real de la página recibida desde Booking.com.
+    [v4.0] Detecta el idioma real de la página recibida desde Booking.com.
     Booking.com puede ignorar ?lang= si el GeoIP de la IP/VPN contradice el parámetro.
+
     Estrategias en orden de fiabilidad:
       1. Atributo lang del <html> (e.g. lang="es", lang="en-US")
+         - Ignora valores como "x-default", "und", "" o lang < 2 chars
       2. Meta og:locale (e.g. <meta property="og:locale" content="es_ES">)
       3. Meta http-equiv Content-Language
-    Retorna el código ISO 639-1 de 2 letras (en, es, de, fr, it...) o None.
-    """
-    # Estrategia 1: <html lang="...">
-    m = re.search(r'<html[^>]+\blang=["\']([a-zA-Z]{2,5}(?:-[a-zA-Z]{2,4})?)["\']',
-                  html[:2000], re.IGNORECASE)
-    if m:
-        lang_raw = m.group(1).lower()
-        return lang_raw[:2]  # "es-ES" → "es", "en-US" → "en"
+      4. Sufijo de idioma en URL canónica (og:url o link[rel=canonical])
+         - https://www.booking.com/hotel/sc/foo.es.html → "es"
+         - https://www.booking.com/hotel/sc/foo.html    → "en" (URL base = inglés)
+      5. Presencia de texto inequívoco de Booking.com en DOM por idioma
 
-    # Estrategia 2: og:locale
-    m = re.search(r'og:locale["\']?\s+content=["\']([a-zA-Z]{2,5}(?:[_-][a-zA-Z]{2,4})?)["\']',
-                  html[:5000], re.IGNORECASE)
+    Retorna el código ISO 639-1 de 2 letras (en, es, de, fr, it...) o None.
+
+    [FIX v4.0] Ignora valores inválidos: "x-default", "und", lang < 2 chars,
+    para evitar falsos positivos de mismatch que bloquearían el scraping.
+    """
+    _INVALID_LANGS = {"x-default", "und", "xx", "zz", "qaa", ""}
+
+    # Estrategia 1: <html lang="...">
+    m = re.search(r'<html[^>]+\blang=["\']([a-zA-Z]{2,10}(?:-[a-zA-Z0-9]{2,8})?)["\']',
+                  html[:3000], re.IGNORECASE)
     if m:
-        lang_raw = m.group(1).lower()
-        return lang_raw[:2]
+        lang_raw = m.group(1).lower().strip()
+        code = lang_raw[:2]
+        if code not in _INVALID_LANGS and len(code) == 2 and code.isalpha():
+            return code  # "es-ES" → "es", "en-US" → "en"
+
+    # Estrategia 2: og:locale  e.g. content="es_ES" o content="en_US"
+    m = re.search(
+        r'property=["\']og:locale["\'][^>]+content=["\']([a-zA-Z]{2,5}(?:[_-][a-zA-Z]{2,4})?)["\']',
+        html[:8000], re.IGNORECASE
+    )
+    if not m:
+        m = re.search(
+            r'content=["\']([a-zA-Z]{2,5}(?:[_-][a-zA-Z]{2,4})?)["\'][^>]+property=["\']og:locale["\']',
+            html[:8000], re.IGNORECASE
+        )
+    if m:
+        lang_raw = m.group(1).lower().replace("_", "-")
+        code = lang_raw[:2]
+        if code not in _INVALID_LANGS and len(code) == 2 and code.isalpha():
+            return code
 
     # Estrategia 3: Content-Language meta
     m = re.search(r'http-equiv=["\']Content-Language["\'][^>]+content=["\']([a-zA-Z]{2})',
-                  html[:5000], re.IGNORECASE)
+                  html[:8000], re.IGNORECASE)
     if m:
-        return m.group(1).lower()
+        code = m.group(1).lower()
+        if code not in _INVALID_LANGS:
+            return code
+
+    # Estrategia 4: Sufijo de idioma en la URL canónica
+    # og:url o canonical link → .es.html → "es"; .html (sin sufijo) → "en"
+    for url_search in [
+        r'property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
+        r'content=["\']([^"\']+)["\'][^>]+property=["\']og:url["\']',
+        r'rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+        r'href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']',
+    ]:
+        mu = re.search(url_search, html[:8000], re.IGNORECASE)
+        if mu:
+            canon_url = mu.group(1)
+            # Buscar sufijo de idioma: .es.html, .de.html, .en-gb.html, etc.
+            ms = re.search(r'\.([a-z]{2}(?:-[a-z]{2,4})?)\.(html?)(\?|$)',
+                           canon_url, re.IGNORECASE)
+            if ms:
+                code = ms.group(1).lower()[:2]
+                if code not in _INVALID_LANGS and code.isalpha():
+                    return code
+            elif re.search(r'\.(html?)(\?|$)', canon_url, re.IGNORECASE):
+                # URL termina en .html sin sufijo de idioma → es la URL base = inglés
+                return "en"
+
+    # Estrategia 5: Señales de texto del DOM específicas por idioma (Booking.com)
+    # Estas frases son inequívocas y solo aparecen en el DOM del idioma correspondiente
+    _LANG_SIGNALS = {
+        "es": ["Ver disponibilidad", "Normas de la casa", "Servicios", "Valoración de los huéspedes"],
+        "de": ["Verfügbarkeit prüfen", "Hausregeln", "Ausstattung", "Bewertungen"],
+        "fr": ["Vérifier la disponibilité", "Règlement", "Services", "Commentaires"],
+        "it": ["Verifica disponibilità", "Regole della casa", "Servizi", "Recensioni"],
+        "pt": ["Verificar disponibilidade", "Regras da casa", "Serviços", "Avaliações"],
+        "nl": ["Beschikbaarheid controleren", "Huisregels", "Diensten", "Beoordelingen"],
+        "en": ["Check availability", "House rules", "Facilities", "Guest reviews"],
+    }
+    html_check = html[2000:50000]  # Saltar cabecera HTML, buscar en el cuerpo
+    for lang_code, signals in _LANG_SIGNALS.items():
+        matches = sum(1 for sig in signals if sig in html_check)
+        if matches >= 2:  # Al menos 2 señales coinciden → idioma detectado
+            return lang_code
 
     return None
 
@@ -277,6 +360,10 @@ class BookingScraperCloudScraper:
     def scrape_hotel(self, url: str, language: str = "en") -> Optional[Dict]:
         logger.info(f"🔍 [cloudscraper] {url}")
 
+        # [FIX v4.0] Para el idioma predeterminado (en), se permiten reintentos
+        # adicionales cuando Booking.com devuelve idioma incorrecto (GeoIP override).
+        lang_mismatch_retries = 0
+
         for attempt in range(1, settings.MAX_RETRIES + 1):
             # [FIX] Si ya hubo 2+ bloqueos con esta sesión, forzar sesión nueva
             force_new = (attempt > 1 and self._blocked_count >= 2)
@@ -290,9 +377,6 @@ class BookingScraperCloudScraper:
                 session  = self._get_session(force_new=force_new)
 
                 # [FIX BUG #4 + v3.0] Actualizar cookie selectedLanguage con locale correcto.
-                # _get_session() la fija en "en-us" por defecto; aquí la sobreescribimos
-                # por idioma específico usando LANG_COOKIE_LOCALE para que Booking.com sirva
-                # el contenido correcto (e.g. "de", "fr", "zh-cn", "en-us", etc.)
                 locale = LANG_COOKIE_LOCALE.get(language, language)
                 session.cookies.set("selectedLanguage", locale, domain=".booking.com")
 
@@ -367,13 +451,37 @@ class BookingScraperCloudScraper:
                 title = m.group(1).strip() if m else "(sin título)"
                 logger.debug(f"  📄 '{title}' | {html_len:,}b")
 
-                # [v3.1] Verificar idioma de página recibida
+                # [FIX v4.0] Verificar idioma de página recibida — ESTRICTO para lang='en'
                 detected_lang = _detect_page_language(html_content)
                 if detected_lang and detected_lang != language:
                     logger.warning(
                         f"  ⚠️ IDIOMA INCORRECTO: solicitado='{language}' "
                         f"recibido='{detected_lang}' | URL={url}"
                     )
+                    # [FIX v4.0] Para el idioma predeterminado (en), REINTENTAR en lugar
+                    # de retornar datos incorrectos. Forzar sesión nueva y esperar más.
+                    if language == _DEFAULT_LANGUAGE and lang_mismatch_retries < _LANG_MISMATCH_MAX_RETRIES:
+                        lang_mismatch_retries += 1
+                        self._blocked_count += 1  # forzar nueva sesión en siguiente intento
+                        self._save_debug_html(url, html_content, f"lang_mismatch_{detected_lang}")
+                        wait = random.uniform(20, 40)
+                        logger.warning(
+                            f"  🔄 Reintento por idioma incorrecto [{lang_mismatch_retries}/"
+                            f"{_LANG_MISMATCH_MAX_RETRIES}] — esperando {wait:.0f}s con sesión nueva"
+                        )
+                        time.sleep(wait)
+                        continue  # REINTENTAR con sesión nueva (force_new se activará por _blocked_count)
+                    else:
+                        # Agotados los reintentos de idioma → retornar None
+                        # para que el caller (scraper_service) decida qué hacer
+                        if language == _DEFAULT_LANGUAGE:
+                            logger.error(
+                                f"  ✗ Reintentos de idioma agotados para '{language}'. "
+                                f"Booking.com devuelve '{detected_lang}'. "
+                                f"Posible causa: sin VPN o IP geolocalizada fuera de zona anglófona."
+                            )
+                            self._save_debug_html(url, html_content, f"lang_fail_{detected_lang}")
+                            return None  # [v4.0] No retornar datos en idioma incorrecto para 'en'
 
                 from app.extractor import BookingExtractor
                 extractor = BookingExtractor(html_content, language)
@@ -568,12 +676,14 @@ class BookingScraperSelenium:
 
     def scrape_hotel(self, url: str, language: str = "en") -> Optional[Dict]:
         """
-        v2.3: retry interno con re-navegación si la primera carga falla.
-        No depende de un solo intento.
+        v4.0: retry por idioma incorrecto + v2.3: retry interno con re-navegación.
         """
         if self.driver is None:
             logger.error("✗ Driver Selenium no disponible")
             return None
+
+        # [FIX v4.0] Contador de reintentos por idioma incorrecto (para lang='en')
+        lang_mismatch_retries = 0
 
         for attempt in range(1, 4):  # hasta 3 reintentos por URL
             try:
@@ -590,12 +700,6 @@ class BookingScraperSelenium:
                     ))
 
                 # [v3.0 FIX CRÍTICO] Configuración de idioma en 3 niveles:
-                # 1. Accept-Language via CDP (nivel de red — siempre aplicable)
-                # 2. Cookie selectedLanguage via CDP Network.setCookies (ANTES de navegar)
-                #    [FIX v3.0] Se usa CDP para inyectar la cookie sin necesitar estar en
-                #    booking.com. Esto resuelve el bug donde el primer idioma (en) no tenía
-                #    cookie aplicada porque el driver arrancaba en about:blank.
-                # 3. ?lang=LOCALE en URL (nivel servidor — máxima prioridad)
                 try:
                     # Nivel 1: Accept-Language header via CDP
                     self.driver.execute_cdp_cmd(
@@ -625,7 +729,6 @@ class BookingScraperSelenium:
                     })
                     logger.debug(f"  🌐 Cookie CDP inyectada: selectedLanguage={locale}")
                 except Exception as cdp_cookie_err:
-                    # Fallback: método clásico add_cookie (solo funciona en booking.com)
                     logger.debug(f"  ⚠️ CDP setCookies falló ({cdp_cookie_err}), usando fallback add_cookie")
                     try:
                         current_url = self.driver.current_url or ""
@@ -655,14 +758,11 @@ class BookingScraperSelenium:
                     if any(s in html_check for s in ["just a moment", "checking your browser", "access denied"]):
                         logger.warning(f"  ⚠️ Cloudflare challenge detectado (intento {attempt})")
                         continue  # retry
-                    # No challenge pero tampoco página hotel → intentar de todas formas
 
                 self._close_popups()
                 self._scroll_page()
 
                 # [v2.6] Abrir galería completa para capturar TODAS las imágenes.
-                # El modal GalleryGridViewModal queda abierto en el DOM y el
-                # extractor lo captura en su paso 1 (selector GalleryGridViewModal-wrapper).
                 self._open_gallery_and_extract_images()
 
                 html_content = self.driver.page_source
@@ -679,16 +779,32 @@ class BookingScraperSelenium:
                     logger.warning(f"  ⚠️ Página de bloqueo detectada (Cloudflare/CAPTCHA, {html_len:,}b)")
                     continue
 
-                # [v3.1] Verificar que el idioma de la página coincide con el solicitado.
-                # Booking.com puede ignorar ?lang= si la IP/VPN da señales contradictorias.
+                # [FIX v4.0] Verificar que el idioma de la página coincide con el solicitado.
                 detected_lang = _detect_page_language(html_content)
                 if detected_lang and detected_lang != language:
                     logger.warning(
                         f"  ⚠️ IDIOMA INCORRECTO: solicitado='{language}' "
                         f"recibido='{detected_lang}' | URL={url}"
                     )
-                    # Anotar en data para trazabilidad (no descartamos la página)
-                    # El caller en scraper_service puede decidir si aceptar o no.
+                    # [FIX v4.0] Para el idioma predeterminado (en), REINTENTAR
+                    if language == _DEFAULT_LANGUAGE and lang_mismatch_retries < _LANG_MISMATCH_MAX_RETRIES:
+                        lang_mismatch_retries += 1
+                        self._save_debug_html(url, html_content)
+                        wait = random.uniform(20, 40)
+                        logger.warning(
+                            f"  🔄 Reintento por idioma incorrecto [{lang_mismatch_retries}/"
+                            f"{_LANG_MISMATCH_MAX_RETRIES}] — esperando {wait:.0f}s"
+                        )
+                        time.sleep(wait)
+                        continue  # REINTENTAR
+                    elif language == _DEFAULT_LANGUAGE:
+                        logger.error(
+                            f"  ✗ Reintentos de idioma agotados para '{language}'. "
+                            f"Booking.com devuelve '{detected_lang}'. "
+                            f"Posible causa: sin VPN o IP geolocalizada fuera de zona anglófona."
+                        )
+                        self._save_debug_html(url, html_content)
+                        return None  # [v4.0] No retornar datos en idioma incorrecto para 'en'
 
                 from app.extractor import BookingExtractor
                 extractor = BookingExtractor(html_content, language)
@@ -696,7 +812,7 @@ class BookingScraperSelenium:
                 data["url"]              = url
                 data["html_length"]      = html_len
                 data["page_title"]       = page_title
-                data["detected_lang"]    = detected_lang  # [v3.1] para trazabilidad
+                data["detected_lang"]    = detected_lang  # para trazabilidad
 
                 if data.get("name"):
                     logger.success(
@@ -705,19 +821,14 @@ class BookingScraperSelenium:
                     return data
                 else:
                     logger.warning(f"  ⚠️ Sin nombre extraído | '{page_title}' | {html_len:,}b")
-                    # Si la página cargó pero no hay nombre → guardar debug
                     self._save_debug_html(url, html_content)
-                    # Si hay título de página que no sea error → aun así devolver
                     if page_title and "booking.com" in page_title.lower():
-                        return data  # el extractor hará lo que pueda
+                        return data
 
             except Exception as e:
                 err_msg = str(e)
                 logger.error(f"  ✗ Selenium error (intento {attempt}): {err_msg[:200]}")
 
-                # [FIX v2.4] invalid session id = browser crasheó completamente.
-                # driver.get() con sesion muerta puede tardar ~26 minutos en timeout.
-                # Solucion: recrear el driver inmediatamente sin esperar ese timeout.
                 if "invalid session id" in err_msg.lower():
                     logger.warning(f"  ⚠️ Session Brave muerta (intento {attempt}) — recreando driver...")
                     try:
@@ -725,8 +836,6 @@ class BookingScraperSelenium:
                     except Exception:
                         pass
                     try:
-                        # Reinicializar usando el mismo flujo que __init__
-                        from selenium.webdriver.chrome.options import Options as ChromeOptions
                         self.driver = None
                         success = False
                         for browser_name, try_func in [
@@ -748,7 +857,6 @@ class BookingScraperSelenium:
                     except Exception as re_err:
                         logger.error(f"  ✗ Error recreando driver: {re_err}")
                         return None
-                    # Reintentar inmediatamente sin espera extra
                     continue
 
                 if attempt < 3:
