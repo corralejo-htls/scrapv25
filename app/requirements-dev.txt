@@ -1,0 +1,29 @@
+# =============================================================================
+# BookingScraper Pro v6.0 — Development / Test Dependencies
+# Python 3.14.x  |  Windows 11  |  v40 (2026-03-06)
+#
+# [FIX LOW-40-003] Extracted from requirements.txt inline comments.
+# Install with:
+#   pip install -r requirements-dev.txt
+#
+# These packages are NOT required for production. Do not install in
+# production environments.
+# =============================================================================
+
+# ── Test Runner ───────────────────────────────────────────────────────────────
+pytest>=8.3.0,<8.4.0
+pytest-asyncio>=0.24.0,<0.25.0
+pytest-cov>=6.0.0,<6.1.0
+
+# ── Static Analysis ───────────────────────────────────────────────────────────
+mypy>=1.13.0,<1.14.0
+ruff>=0.8.0,<0.9.0
+
+# ── Pre-commit Hooks ──────────────────────────────────────────────────────────
+pre-commit>=4.0.0,<4.1.0
+
+# ── HTTP test client (also in requirements.txt) ───────────────────────────────
+httpx>=0.28.0,<0.29.0
+
+# ── FastAPI test utilities ────────────────────────────────────────────────────
+httpx>=0.28.0,<0.29.0
