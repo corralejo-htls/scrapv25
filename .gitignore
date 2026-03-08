@@ -1,148 +1,67 @@
-# =============================================================================
-# .gitignore - Booking Scraper Pro
-# Archivos y directorios ignorados por Git
-# =============================================================================
+# BookingScraper Pro — .gitignore
 
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
+*.pyd
+*.pyo
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
 *.egg
-MANIFEST
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+*.dylib
 
-# Virtual Environment
+# Virtual environments
+.venv/
 venv/
 env/
 ENV/
-env.bak/
-venv.bak/
 
-# IDEs
+# Environment & Secrets — NEVER COMMIT
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+*.sqlite3
+celerybeat-schedule.db
+celerybeat.pid
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Debug HTML (may contain hotel page content)
+debug_html/
+
+# Images (large binary files)
+images/
+
+# Exports
+exports/
+
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.project
-.pydevproject
-.settings/
-*.sublime-project
-*.sublime-workspace
-
-# Environment Variables
-.env
-.env.local
-.env.*.local
-!.env.example
-!.env.windows.example
-
-# Logs
-*.log
-logs/
-*.log.*
-data/logs/*.log
-data/logs/**/*.log
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Backups
-backups/
-*.sql
-*.backup
-!init_db.sql
-
-# Data
-data/images/**/*
-data/exports/**/*
-data/temp/**/*
-!data/images/.gitkeep
-!data/exports/.gitkeep
-!data/temp/.gitkeep
-
-# OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-desktop.ini
 
-# Windows
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-*.lnk
-
-# Celery
-celerybeat-schedule
-celerybeat.pid
-
-# Redis/Memurai
-dump.rdb
-appendonly.aof
-
-# Pytest
+# Testing
 .pytest_cache/
 .coverage
 htmlcov/
-*.cover
-.hypothesis/
 .tox/
-.nox/
 
-# Jupyter
-.ipynb_checkpoints
-*.ipynb
+# Alembic — do not ignore revision files
+# migrations/versions/*.py  ← keep these
 
-# Documentation
-docs/_build/
-site/
-
-# Temporary files
-*.tmp
-*.temp
-*.cache
-*.swp
-*.swo
-
-# Requirements backup
-requirements_before_update.txt
-requirements_after_update.txt
-requirements_installed.txt
-
-# Instaladores antiguos
-install_windows.bat
-install_windows_mejorado.bat
-install_windows_completo.bat
-
-# Versiones antiguas
-*_old.*
-*_backup.*
-*_bak.*
-*.old
+# Windows
+desktop.ini
+$RECYCLE.BIN/
