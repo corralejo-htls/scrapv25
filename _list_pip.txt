@@ -1,0 +1,11 @@
+Package          Version
+---------------- -----------
+lxml             6.0.2
+numpy            2.4.2
+pandas           3.0.1
+pip              26.0.1
+python-dateutil  2.9.0.post0
+pywin32          311
+six              1.17.0
+sortedcontainers 2.4.0
+tzdata           2025.3
