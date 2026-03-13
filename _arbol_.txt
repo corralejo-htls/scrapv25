@@ -3,46 +3,48 @@
 
  Directorio de C:\BookingScraper
 
-12/03/2026  22:36    <DIR>          .
+13/03/2026  00:56    <DIR>          .
 07/03/2026  20:54    <DIR>          migrations
+13/03/2026  00:49    <DIR>          logs
 11/03/2026  15:37    <DIR>          tests
 07/03/2026  20:54    <DIR>          templates
-12/03/2026  22:24    <DIR>          logs
 09/03/2026  06:24    <DIR>          drivers
-12/03/2026  22:31    <DIR>          app
-07/03/2026  20:54    <DIR>          backups
 07/03/2026  20:54    <DIR>          docs
+13/03/2026  00:49    <DIR>          app
+07/03/2026  20:54    <DIR>          backups
 12/03/2026  22:09    <DIR>          scripts
-07/03/2026  20:54    <DIR>          data
+13/03/2026  00:10    <DIR>          data
+08/03/2026  08:00               854 start_server.bat
 12/03/2026  22:27             2.637 check_memurai_log.bat
 07/03/2026  20:54               510 cleanup_logs.bat
 11/03/2026  15:31             1.069 create_db.bat
-12/03/2026  22:27             4.898 start_redis.bat
-12/03/2026  22:28             4.387 debug_memurai.bat
-08/03/2026  21:51             9.427 diagnostico_vpn.bat
-08/03/2026  08:00               854 start_server.bat
-07/03/2026  20:54               578 backup_db.bat
 07/03/2026  20:54               305 stop_celery.bat
+12/03/2026  22:28             4.387 debug_memurai.bat
+13/03/2026  00:55            10.974 diagnostico_vpn.bat
+07/03/2026  20:54               578 backup_db.bat
+07/03/2026  20:54               243 stop_server.bat
+12/03/2026  22:43             2.431 add_memurai_to_path.bat
 07/03/2026  20:54               440 export_data.bat
 07/03/2026  20:54             2.734 fix_lxml.bat
-12/03/2026  21:19             8.775 inicio_rapido.bat
+13/03/2026  00:55             8.665 inicio_rapido.bat
 09/03/2026  06:19               413 install_chromedriver.bat
+12/03/2026  22:56             4.619 start_redis.bat
 08/03/2026  08:00               642 start_celery_beat.bat
-08/03/2026  08:00               671 start_celery.bat
 07/03/2026  20:39             2.470 limpiar_cache.bat
 07/03/2026  20:54               491 load_urls.bat
-07/03/2026  20:54               243 stop_server.bat
-07/03/2026  20:54               709 show_status.bat
+12/03/2026  22:56               890 verify_memurai.bat
+08/03/2026  08:00               671 start_celery.bat
 07/03/2026  20:54               285 verify_system.bat
+07/03/2026  20:54               709 show_status.bat
 12/03/2026  21:58             5.595 setup_memurai.bat
 07/03/2026  20:54             4.091 setup_env.bat
 12/03/2026  22:03               568 directo.bat
 07/03/2026  20:54               413 restart_all.bat
-12/03/2026  21:26            97.850 memurai.conf
+13/03/2026  00:45             2.644 memurai.conf
 12/03/2026  17:44             2.327 urls_ejemplo.csv
 12/03/2026  00:12           333.270 URL_Julliette.csv
-12/03/2026  19:11            32.768 celerybeat-schedule.db-shm
-12/03/2026  19:18           103.032 celerybeat-schedule.db-wal
+13/03/2026  00:38            32.768 celerybeat-schedule.db-shm
+13/03/2026  00:48           111.272 celerybeat-schedule.db-wal
 08/03/2026  21:23             3.507 .env
 07/03/2026  20:54             3.280 .env.example
 07/03/2026  20:54               695 .gitignore
@@ -50,25 +52,25 @@
 07/03/2026  20:54            17.967 PROJECT_REPORT_EN.md
 07/03/2026  20:54            15.452 PROJECT_REPORT_ES.md
 07/03/2026  20:54             4.252 windows_service.py
-08/03/2026  21:33             9.330 test_config.py
 09/03/2026  06:19             8.089 install_chromedriver_helper.py
+08/03/2026  21:33             9.330 test_config.py
 12/03/2026  17:54            26.908 install_clean_v50.sql
+08/03/2026  08:24             2.744 requirements.txt
 07/03/2026  20:54               743 requirements-optional.txt
 07/03/2026  20:54               253 requirements-dev.txt
-08/03/2026  08:24             2.744 requirements.txt
-12/03/2026  22:36                 0 _arbol_.txt
+13/03/2026  00:56                 0 _arbol_.txt
 07/03/2026  21:03    <DIR>          .venv
-              43 archivos        716.546 bytes
+              45 archivos        634.059 bytes
 
  Directorio de C:\BookingScraper\.venv
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  21:04    <DIR>          Scripts
 07/03/2026  21:04    <DIR>          Include
 07/03/2026  21:03    <DIR>          Lib
 07/03/2026  21:03    <DIR>          .
-12/03/2026  22:29               299 pyvenv.cfg
-12/03/2026  22:29                71 .gitignore
+13/03/2026  00:34               299 pyvenv.cfg
+13/03/2026  00:34                71 .gitignore
                2 archivos            370 bytes
 
  Directorio de C:\BookingScraper\.venv\Include
@@ -186,7 +188,7 @@
 07/03/2026  21:04    <DIR>          psycopg
 07/03/2026  21:04    <DIR>          pycparser
 07/03/2026  21:04    <DIR>          psycopg_binary
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04         2.646.502 PyWin32.chm
 07/03/2026  21:04    <DIR>          psycopg-3.2.13.dist-info
 07/03/2026  21:04    <DIR>          pycparser-3.0.dist-info
@@ -345,7 +347,7 @@
 07/03/2026  21:04    <DIR>          ddl
 07/03/2026  21:04    <DIR>          runtime
 07/03/2026  21:04    <DIR>          operations
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               167 op.py
 07/03/2026  21:04                41 migration.py
 07/03/2026  21:04                78 __main__.py
@@ -362,7 +364,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\autogenerate
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            35.482 render.py
 07/03/2026  21:04             7.846 rewriter.py
@@ -374,19 +376,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\autogenerate\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            50.324 compare.cpython-314.pyc
-12/03/2026  22:31            54.221 render.cpython-314.pyc
-12/03/2026  22:31            10.636 rewriter.cpython-314.pyc
-12/03/2026  22:31               599 __init__.cpython-314.pyc
-12/03/2026  22:31            24.568 api.cpython-314.pyc
-               5 archivos        140.348 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\ddl
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            30.195 impl.py
 07/03/2026  21:04            14.219 mssql.py
 07/03/2026  21:04            17.316 mysql.py
@@ -401,23 +398,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\ddl\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            19.803 base.cpython-314.pyc
-12/03/2026  22:31            41.301 impl.cpython-314.pyc
-12/03/2026  22:31            19.090 mssql.cpython-314.pyc
-12/03/2026  22:31            17.818 mysql.cpython-314.pyc
-12/03/2026  22:31            10.424 oracle.cpython-314.pyc
-12/03/2026  22:31            37.673 postgresql.cpython-314.pyc
-12/03/2026  22:31             9.598 sqlite.cpython-314.pyc
-12/03/2026  22:31            19.828 _autogen.cpython-314.pyc
-12/03/2026  22:31               361 __init__.cpython-314.pyc
-               9 archivos        175.896 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\operations
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            74.474 base.py
 07/03/2026  21:04             9.468 schemaobj.py
 07/03/2026  21:04             7.517 toimpl.py
@@ -429,19 +417,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\operations\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            36.367 batch.cpython-314.pyc
-12/03/2026  22:31           122.225 ops.cpython-314.pyc
-12/03/2026  22:31            13.645 schemaobj.cpython-314.pyc
-12/03/2026  22:31            13.528 toimpl.cpython-314.pyc
-12/03/2026  22:31               461 __init__.cpython-314.pyc
-12/03/2026  22:31            74.226 base.cpython-314.pyc
-               6 archivos        260.452 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\runtime
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
 07/03/2026  21:04            49.857 migration.py
@@ -451,16 +433,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\runtime\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            70.347 migration.cpython-314.pyc
-12/03/2026  22:31               168 __init__.cpython-314.pyc
-12/03/2026  22:31            42.650 environment.cpython-314.pyc
-               3 archivos        113.165 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\script
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             5.036 write_hooks.py
 07/03/2026  21:04               100 __init__.py
@@ -471,12 +450,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\script\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            73.173 revision.cpython-314.pyc
-12/03/2026  22:31             7.641 write_hooks.cpython-314.pyc
-12/03/2026  22:31               281 __init__.cpython-314.pyc
-12/03/2026  22:31            50.553 base.cpython-314.pyc
-               4 archivos        131.648 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\templates
 
@@ -602,7 +577,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04                98 exc.py
 07/03/2026  21:04             2.630 compat.py
 07/03/2026  21:04             3.250 messaging.py
@@ -616,25 +591,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\util\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             4.140 compat.cpython-314.pyc
-12/03/2026  22:31             3.787 editor.cpython-314.pyc
-12/03/2026  22:31               575 exc.cpython-314.pyc
-12/03/2026  22:31            17.960 langhelpers.cpython-314.pyc
-12/03/2026  22:31             6.127 messaging.cpython-314.pyc
-12/03/2026  22:31             6.074 pyfiles.cpython-314.pyc
-12/03/2026  22:31            31.778 sqla_compat.cpython-314.pyc
-12/03/2026  22:31             1.428 __init__.cpython-314.pyc
-               8 archivos         71.869 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               331 op.cpython-314.pyc
-12/03/2026  22:31               251 __init__.cpython-314.pyc
-12/03/2026  22:31               348 context.cpython-314.pyc
-               3 archivos            930 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\alembic-1.14.1.dist-info
 
@@ -654,7 +618,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.357 basic_message.py
 07/03/2026  21:04            74.475 channel.py
 07/03/2026  21:04            27.541 connection.py
@@ -674,7 +638,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\amqp\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\amqp-5.3.1.dist-info
@@ -692,7 +656,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\annotated_types
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            13.819 __init__.py
 07/03/2026  21:04             6.421 test_cases.py
@@ -702,9 +666,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\annotated_types\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            23.581 __init__.cpython-314.pyc
-               1 archivos         23.581 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\annotated_types-0.7.0.dist-info
 
@@ -732,7 +695,7 @@
 07/03/2026  21:04    <DIR>          _core
 07/03/2026  21:04    <DIR>          _backends
 07/03/2026  21:04    <DIR>          streams
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            10.244 pytest_plugin.py
 07/03/2026  21:04             5.158 lowlevel.py
 07/03/2026  21:04             7.100 to_interpreter.py
@@ -748,7 +711,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            13.258 _sockets.py
 07/03/2026  21:04            10.749 _eventloop.py
 07/03/2026  21:04             2.067 _subprocesses.py
@@ -762,22 +725,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\abc\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            22.561 _eventloop.cpython-314.pyc
-12/03/2026  22:31             2.059 _resources.cpython-314.pyc
-12/03/2026  22:31            20.613 _sockets.cpython-314.pyc
-12/03/2026  22:31            11.901 _streams.cpython-314.pyc
-12/03/2026  22:31             4.339 _subprocesses.cpython-314.pyc
-12/03/2026  22:31             5.919 _tasks.cpython-314.pyc
-12/03/2026  22:31             3.383 _testing.cpython-314.pyc
-12/03/2026  22:31             2.350 __init__.cpython-314.pyc
-               8 archivos         73.125 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\streams
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            10.740 memory.py
 07/03/2026  21:04             6.263 buffered.py
 07/03/2026  21:04             5.765 text.py
@@ -790,17 +745,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\streams\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             9.472 stapled.cpython-314.pyc
-12/03/2026  22:31            22.451 tls.cpython-314.pyc
-12/03/2026  22:31               166 __init__.cpython-314.pyc
-12/03/2026  22:31            17.967 memory.cpython-314.pyc
-               4 archivos         50.056 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\_backends
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  18:44    <DIR>          __pycache__
+13/03/2026  00:13    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
 07/03/2026  21:04            41.456 _trio.py
@@ -810,14 +761,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\_backends\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  18:44    <DIR>          .
+13/03/2026  00:13    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\_core
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             7.215 _contextmanagers.py
 07/03/2026  21:04             6.448 _eventloop.py
 07/03/2026  21:04             4.407 _exceptions.py
@@ -839,33 +790,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\_core\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            10.231 _contextmanagers.cpython-314.pyc
-12/03/2026  22:31             9.909 _eventloop.cpython-314.pyc
-12/03/2026  22:31             8.638 _exceptions.cpython-314.pyc
-12/03/2026  22:31            58.828 _fileio.cpython-314.pyc
-12/03/2026  22:31             1.070 _resources.cpython-314.pyc
-12/03/2026  22:31             1.440 _signals.cpython-314.pyc
-12/03/2026  22:31            44.639 _sockets.cpython-314.pyc
-12/03/2026  22:31             2.540 _streams.cpython-314.pyc
-12/03/2026  22:31            10.331 _subprocesses.cpython-314.pyc
-12/03/2026  22:31            45.110 _synchronization.cpython-314.pyc
-12/03/2026  22:31             9.581 _tasks.cpython-314.pyc
-12/03/2026  22:31            33.056 _tempfile.cpython-314.pyc
-12/03/2026  22:31             4.836 _testing.cpython-314.pyc
-12/03/2026  22:31             4.628 _typedattr.cpython-314.pyc
-12/03/2026  22:31               164 __init__.cpython-314.pyc
-              15 archivos        245.001 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            10.040 lowlevel.cpython-314.pyc
-12/03/2026  22:31             3.353 to_thread.cpython-314.pyc
-12/03/2026  22:31             4.773 __init__.cpython-314.pyc
-12/03/2026  22:31            30.137 from_thread.cpython-314.pyc
-               4 archivos         48.303 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\anyio-4.12.1.dist-info
 
@@ -891,7 +823,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.117 _cmp.py
 07/03/2026  21:04             1.977 exceptions.py
 07/03/2026  21:04             2.222 _version_info.py
@@ -920,27 +852,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\attr\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             4.509 converters.cpython-314.pyc
-12/03/2026  22:31             3.626 exceptions.cpython-314.pyc
-12/03/2026  22:31             2.986 filters.cpython-314.pyc
-12/03/2026  22:31             1.861 setters.cpython-314.pyc
-12/03/2026  22:31            27.742 validators.cpython-314.pyc
-12/03/2026  22:31             5.134 _cmp.cpython-314.pyc
-12/03/2026  22:31             3.785 _compat.cpython-314.pyc
-12/03/2026  22:31             1.067 _config.cpython-314.pyc
-12/03/2026  22:31            13.873 _funcs.cpython-314.pyc
-12/03/2026  22:31           113.063 _make.cpython-314.pyc
-12/03/2026  22:31            25.230 _next_gen.cpython-314.pyc
-12/03/2026  22:31             3.415 _version_info.cpython-314.pyc
-12/03/2026  22:31             3.438 __init__.cpython-314.pyc
-              13 archivos        209.729 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\attrs
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04                73 filters.py
 07/03/2026  21:04                76 converters.py
 07/03/2026  21:04                73 setters.py
@@ -954,14 +873,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\attrs\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               199 exceptions.cpython-314.pyc
-12/03/2026  22:31               193 filters.cpython-314.pyc
-12/03/2026  22:31               193 setters.cpython-314.pyc
-12/03/2026  22:31               199 validators.cpython-314.pyc
-12/03/2026  22:31             1.722 __init__.cpython-314.pyc
-12/03/2026  22:31               199 converters.cpython-314.pyc
-               6 archivos          2.705 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\attrs-25.4.0.dist-info
 
@@ -1005,7 +918,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          dummy
 07/03/2026  21:04            32.924 connection.py
 07/03/2026  21:04            13.154 context.py
@@ -1053,7 +966,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\billiard\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\billiard-4.2.4.dist-info
@@ -1073,7 +986,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          builder
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            57.024 dammit.py
 07/03/2026  21:04             7.846 diagnose.py
 07/03/2026  21:04           120.237 element.py
@@ -1091,7 +1004,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\bs4\builder
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            18.969 _lxml.py
 07/03/2026  21:04            31.194 __init__.py
@@ -1102,28 +1015,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\bs4\builder\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            16.522 _htmlparser.cpython-314.pyc
-12/03/2026  22:31            21.849 _lxml.cpython-314.pyc
-12/03/2026  22:31            32.012 __init__.cpython-314.pyc
-12/03/2026  22:31            31.101 _html5lib.cpython-314.pyc
-               4 archivos        101.484 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\bs4\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            14.865 css.cpython-314.pyc
-12/03/2026  22:31            53.677 dammit.cpython-314.pyc
-12/03/2026  22:31           131.619 element.cpython-314.pyc
-12/03/2026  22:31             2.062 exceptions.cpython-314.pyc
-12/03/2026  22:31            33.721 filter.cpython-314.pyc
-12/03/2026  22:31            11.125 formatter.cpython-314.pyc
-12/03/2026  22:31             4.957 _deprecation.cpython-314.pyc
-12/03/2026  22:31             6.532 _typing.cpython-314.pyc
-12/03/2026  22:31             6.478 _warnings.cpython-314.pyc
-12/03/2026  22:31            45.332 __init__.cpython-314.pyc
-              10 archivos        310.368 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery
 
@@ -1141,7 +1040,7 @@
 07/03/2026  21:04    <DIR>          events
 07/03/2026  21:04    <DIR>          loaders
 07/03/2026  21:04    <DIR>          fixups
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            16.087 local.py
 07/03/2026  21:04            25.289 platforms.py
 07/03/2026  21:04            35.612 result.py
@@ -1161,7 +1060,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.445 annotations.py
 07/03/2026  21:04             2.506 autoretry.py
 07/03/2026  21:04             2.746 backends.py
@@ -1183,13 +1082,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\app\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\apps
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            13.291 worker.py
 07/03/2026  21:04                 0 __init__.py
@@ -1200,7 +1099,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\apps\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\backends
@@ -1208,7 +1107,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          database
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.127 azureblockblob.py
 07/03/2026  21:04            43.982 base.py
 07/03/2026  21:04             4.831 cache.py
@@ -1249,14 +1148,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\backends\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\bin
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             9.173 base.py
 07/03/2026  21:04             2.592 beat.py
 07/03/2026  21:04             2.370 call.py
@@ -1280,14 +1179,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\bin\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\concurrency
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.126 eventlet.py
 07/03/2026  21:04            51.466 asynpool.py
 07/03/2026  21:04             5.850 prefork.py
@@ -1301,7 +1200,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\concurrency\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\contrib
@@ -1310,7 +1209,7 @@
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          testing
 07/03/2026  21:04    <DIR>          django
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.005 rdb.py
 07/03/2026  21:04             3.391 sphinx.py
 07/03/2026  21:04             5.003 abortable.py
@@ -1356,14 +1255,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\contrib\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\events
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.116 dumper.py
 07/03/2026  21:04            17.961 cursesmon.py
 07/03/2026  21:04             4.998 receiver.py
@@ -1377,13 +1276,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\events\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\fixups
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                14 __init__.py
 07/03/2026  21:04             7.300 django.py
@@ -1392,13 +1291,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\fixups\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\loaders
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.520 default.py
 07/03/2026  21:04               490 __init__.py
@@ -1409,7 +1308,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\loaders\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\security
@@ -1435,7 +1334,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          static
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          dispatch
 07/03/2026  21:04             3.620 deprecated.py
 07/03/2026  21:04             4.709 debug.py
@@ -1462,7 +1361,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\utils\dispatch
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                74 __init__.py
 07/03/2026  21:04            13.603 signal.py
@@ -1471,13 +1370,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\utils\dispatch\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\utils\static
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             2.556 celery_128.png
 07/03/2026  21:04               299 __init__.py
@@ -1486,20 +1385,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\utils\static\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\utils\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\worker
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          consumer
 07/03/2026  21:04             7.497 components.py
 07/03/2026  21:04            19.882 control.py
@@ -1518,7 +1417,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.026 connection.py
 07/03/2026  21:04            29.091 consumer.py
 07/03/2026  21:04               946 control.py
@@ -1534,22 +1433,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\worker\consumer\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\worker\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             6.420 __init__.cpython-314.pyc
-12/03/2026  22:31            25.888 local.cpython-314.pyc
-               2 archivos         32.308 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\celery-5.4.0.dist-info
 
@@ -1568,7 +1465,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\certifi
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04           272.441 cacert.pem
 07/03/2026  21:04                94 __init__.py
@@ -1580,10 +1477,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\certifi\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               287 __init__.cpython-314.pyc
-12/03/2026  22:31             2.696 core.cpython-314.pyc
-               2 archivos          2.983 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\certifi-2026.2.25.dist-info
 
@@ -1608,7 +1503,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            18.786 _embedding.h
 07/03/2026  21:04             3.908 _cffi_errors.h
 07/03/2026  21:04             5.976 parse_c_type.h
@@ -1636,7 +1531,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cffi\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cffi-2.0.0.dist-info
@@ -1664,7 +1559,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          cli
 07/03/2026  21:04            14.060 cd.py
 07/03/2026  21:04               115 __main__.py
@@ -1699,15 +1594,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\charset_normalizer\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            19.219 api.cpython-314.pyc
-12/03/2026  22:31            48.685 constant.cpython-314.pyc
-12/03/2026  22:31             3.295 legacy.cpython-314.pyc
-12/03/2026  22:31            21.989 models.cpython-314.pyc
-12/03/2026  22:31            19.633 utils.cpython-314.pyc
-12/03/2026  22:31               350 version.cpython-314.pyc
-12/03/2026  22:31             1.738 __init__.cpython-314.pyc
-               7 archivos        114.909 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\charset_normalizer-3.4.5.dist-info
 
@@ -1733,7 +1621,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            18.461 decorators.py
 07/03/2026  21:04             9.954 exceptions.py
 07/03/2026  21:04             9.730 formatting.py
@@ -1757,21 +1645,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           153.912 core.cpython-314.pyc
-12/03/2026  22:31            26.840 decorators.cpython-314.pyc
-12/03/2026  22:31            17.965 exceptions.cpython-314.pyc
-12/03/2026  22:31            16.221 formatting.cpython-314.pyc
-12/03/2026  22:31             3.774 globals.cpython-314.pyc
-12/03/2026  22:31            23.880 parser.cpython-314.pyc
-12/03/2026  22:31            36.438 termui.cpython-314.pyc
-12/03/2026  22:31            59.370 types.cpython-314.pyc
-12/03/2026  22:31            29.011 utils.cpython-314.pyc
-12/03/2026  22:31            31.452 _compat.cpython-314.pyc
-12/03/2026  22:31             1.394 _utils.cpython-314.pyc
-12/03/2026  22:31            14.985 _winconsole.cpython-314.pyc
-12/03/2026  22:31             4.192 __init__.cpython-314.pyc
-              13 archivos        419.434 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click-8.3.1.dist-info
 
@@ -1794,7 +1669,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_didyoumean
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             2.054 __init__.py
                1 archivos          2.054 bytes
@@ -1802,7 +1677,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_didyoumean\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_didyoumean-0.3.1.dist-info
@@ -1819,7 +1694,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_plugins
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             2.249 __init__.py
 07/03/2026  21:04             2.475 core.py
@@ -1828,7 +1703,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_plugins\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_plugins-1.1.1.2.dist-info
@@ -1855,7 +1730,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_repl
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             9.760 _completer.py
 07/03/2026  21:04             4.513 _repl.py
@@ -1867,7 +1742,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_repl\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\click_repl-0.3.0.dist-info
@@ -1889,7 +1764,7 @@
 07/03/2026  21:04    <DIR>          captcha
 07/03/2026  21:04    <DIR>          user_agent
 07/03/2026  21:04    <DIR>          interpreters
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            19.993 cloudflare.py
 07/03/2026  21:04            15.960 __init__.py
 07/03/2026  21:04             2.100 help.py
@@ -1900,7 +1775,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             6.152 anticaptcha.py
 07/03/2026  21:04            10.643 2captcha.py
 07/03/2026  21:04             6.060 capsolver.py
@@ -1913,15 +1788,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\captcha\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             2.261 __init__.cpython-314.pyc
-               1 archivos          2.261 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\interpreters
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.356 js2py.py
 07/03/2026  21:04             3.355 chakracore.py
 07/03/2026  21:04             8.626 native.py
@@ -1935,14 +1809,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\interpreters\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             2.579 __init__.cpython-314.pyc
-               1 archivos          2.579 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\user_agent
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04         1.206.600 browsers.json
 07/03/2026  21:04             5.409 __init__.py
@@ -1951,18 +1824,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\user_agent\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             7.642 __init__.cpython-314.pyc
-               1 archivos          7.642 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             4.076 exceptions.cpython-314.pyc
-12/03/2026  22:31            15.479 __init__.cpython-314.pyc
-12/03/2026  22:31            17.762 cloudflare.cpython-314.pyc
-               3 archivos         37.317 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\cloudscraper-1.2.71.dist-info
 
@@ -1982,7 +1851,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          tests
-12/03/2026  18:23    <DIR>          __pycache__
+13/03/2026  00:36    <DIR>          __pycache__
 07/03/2026  21:04             2.522 ansi.py
 07/03/2026  21:04             6.181 win32.py
 07/03/2026  21:04             7.134 winterm.py
@@ -2014,7 +1883,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\colorama\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  18:23    <DIR>          .
+13/03/2026  00:36    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\colorama-0.4.6.dist-info
@@ -2041,7 +1910,7 @@
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          zoneinfo
 07/03/2026  21:04    <DIR>          parser
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          tz
 07/03/2026  21:04            24.903 relativedelta.py
 07/03/2026  21:04             1.965 utils.py
@@ -2056,7 +1925,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\parser
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.766 __init__.py
 07/03/2026  21:04            58.796 _parser.py
@@ -2066,13 +1935,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\parser\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\tz
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            12.977 _common.py
 07/03/2026  21:04             2.569 _factories.py
@@ -2084,7 +1953,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\tz\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\zoneinfo
@@ -2106,14 +1975,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dateutil\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dotenv
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.326 ipython.py
 07/03/2026  21:04            14.683 main.py
 07/03/2026  21:04             5.179 parser.py
@@ -2128,19 +1997,15 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\dotenv\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            13.568 parser.cpython-314.pyc
-12/03/2026  22:31             7.345 variables.cpython-314.pyc
-12/03/2026  22:31             2.075 __init__.cpython-314.pyc
-12/03/2026  22:31            23.813 main.cpython-314.pyc
-               4 archivos         46.801 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          security
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          openapi
 07/03/2026  21:04    <DIR>          middleware
 07/03/2026  21:04    <DIR>          dependencies
@@ -2173,7 +2038,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\dependencies
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
 07/03/2026  21:04            36.619 utils.py
@@ -2183,17 +2048,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\dependencies\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            47.886 utils.cpython-314.pyc
-12/03/2026  22:31               173 __init__.cpython-314.pyc
-12/03/2026  22:31             3.818 models.cpython-314.pyc
-               3 archivos         51.877 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\middleware
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04                79 cors.py
 07/03/2026  21:04               109 trustedhost.py
 07/03/2026  21:04                79 wsgi.py
@@ -2205,13 +2067,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\middleware\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\openapi
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            15.397 models.py
 07/03/2026  21:04            23.964 utils.py
@@ -2223,19 +2085,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\openapi\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            12.157 docs.cpython-314.pyc
-12/03/2026  22:31            35.554 models.cpython-314.pyc
-12/03/2026  22:31            25.569 utils.cpython-314.pyc
-12/03/2026  22:31               168 __init__.cpython-314.pyc
-12/03/2026  22:31               343 constants.cpython-314.pyc
-               5 archivos         73.791 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\security
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            13.606 http.py
 07/03/2026  21:04             9.094 api_key.py
 07/03/2026  21:04             2.722 open_id_connect_url.py
@@ -2248,39 +2105,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\security\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            11.073 api_key.cpython-314.pyc
-12/03/2026  22:31               763 base.cpython-314.pyc
-12/03/2026  22:31            15.852 http.cpython-314.pyc
-12/03/2026  22:31            20.582 oauth2.cpython-314.pyc
-12/03/2026  22:31             3.768 open_id_connect_url.cpython-314.pyc
-12/03/2026  22:31               787 utils.cpython-314.pyc
-12/03/2026  22:31               825 __init__.cpython-314.pyc
-               7 archivos         53.650 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            91.628 applications.cpython-314.pyc
-12/03/2026  22:31             2.552 background.cpython-314.pyc
-12/03/2026  22:31             1.862 concurrency.cpython-314.pyc
-12/03/2026  22:31            10.686 datastructures.cpython-314.pyc
-12/03/2026  22:31            12.602 encoders.cpython-314.pyc
-12/03/2026  22:31             8.733 exceptions.cpython-314.pyc
-12/03/2026  22:31             2.539 exception_handlers.cpython-314.pyc
-12/03/2026  22:31               260 logger.cpython-314.pyc
-12/03/2026  22:31            32.177 params.cpython-314.pyc
-12/03/2026  22:31            46.680 param_functions.cpython-314.pyc
-12/03/2026  22:31               251 requests.cpython-314.pyc
-12/03/2026  22:31             2.839 responses.cpython-314.pyc
-12/03/2026  22:31            92.945 routing.cpython-314.pyc
-12/03/2026  22:31               811 types.cpython-314.pyc
-12/03/2026  22:31            10.716 utils.cpython-314.pyc
-12/03/2026  22:31               300 websockets.cpython-314.pyc
-12/03/2026  22:31            41.597 _compat.cpython-314.pyc
-12/03/2026  22:31             1.066 __init__.cpython-314.pyc
-              18 archivos        360.244 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\fastapi-0.115.14.dist-info
 
@@ -2307,7 +2139,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          tests
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          platform
 07/03/2026  21:04             1.066 TBrokenGreenlet.cpp
 07/03/2026  21:04            24.215 TUserGreenlet.cpp
@@ -2429,9 +2261,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\greenlet\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             1.041 __init__.cpython-314.pyc
-               1 archivos          1.041 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\greenlet-3.3.2.dist-info
 
@@ -2457,7 +2288,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.815 _abnf.py
 07/03/2026  21:04            26.863 _connection.py
 07/03/2026  21:04            11.792 _events.py
@@ -2475,19 +2306,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\h11\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             1.739 _abnf.cpython-314.pyc
-12/03/2026  22:31            27.121 _connection.cpython-314.pyc
-12/03/2026  22:31            15.419 _events.cpython-314.pyc
-12/03/2026  22:31            10.455 _headers.cpython-314.pyc
-12/03/2026  22:31            12.470 _readers.cpython-314.pyc
-12/03/2026  22:31             6.402 _receivebuffer.cpython-314.pyc
-12/03/2026  22:31            10.759 _state.cpython-314.pyc
-12/03/2026  22:31             5.990 _util.cpython-314.pyc
-12/03/2026  22:31               185 _version.cpython-314.pyc
-12/03/2026  22:31             8.863 _writers.cpython-314.pyc
-12/03/2026  22:31             1.055 __init__.cpython-314.pyc
-              11 archivos        100.458 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\h11-0.16.0.dist-info
 
@@ -2513,7 +2333,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          _sync
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          _async
 07/03/2026  21:04    <DIR>          _backends
 07/03/2026  21:04             1.184 _exceptions.py
@@ -2531,7 +2351,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            13.880 http11.py
 07/03/2026  21:04             8.449 connection.py
 07/03/2026  21:04            14.701 http_proxy.py
@@ -2545,22 +2365,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\_async\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            14.066 connection.cpython-314.pyc
-12/03/2026  22:31            22.291 connection_pool.cpython-314.pyc
-12/03/2026  22:31            24.762 http11.cpython-314.pyc
-12/03/2026  22:31            36.298 http2.cpython-314.pyc
-12/03/2026  22:31            20.866 http_proxy.cpython-314.pyc
-12/03/2026  22:31             7.052 interfaces.cpython-314.pyc
-12/03/2026  22:31            18.890 socks_proxy.cpython-314.pyc
-12/03/2026  22:31             2.062 __init__.cpython-314.pyc
-               8 archivos        146.287 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\_backends
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.042 base.py
 07/03/2026  21:04             5.252 anyio.py
 07/03/2026  21:04             7.977 sync.py
@@ -2573,21 +2385,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\_backends\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            10.170 anyio.cpython-314.pyc
-12/03/2026  22:31             3.241 auto.cpython-314.pyc
-12/03/2026  22:31             7.163 base.cpython-314.pyc
-12/03/2026  22:31            10.551 mock.cpython-314.pyc
-12/03/2026  22:31            13.735 sync.cpython-314.pyc
-12/03/2026  22:31            10.586 trio.cpython-314.pyc
-12/03/2026  22:31               171 __init__.cpython-314.pyc
-               7 archivos         55.617 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\_sync
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            13.476 http11.py
 07/03/2026  21:04             8.238 connection.py
 07/03/2026  21:04            14.463 http_proxy.py
@@ -2601,30 +2406,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\_sync\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            12.684 connection.cpython-314.pyc
-12/03/2026  22:31            21.356 connection_pool.cpython-314.pyc
-12/03/2026  22:31            22.293 http11.cpython-314.pyc
-12/03/2026  22:31            32.436 http2.cpython-314.pyc
-12/03/2026  22:31            20.039 http_proxy.cpython-314.pyc
-12/03/2026  22:31             6.619 interfaces.cpython-314.pyc
-12/03/2026  22:31            17.653 socks_proxy.cpython-314.pyc
-12/03/2026  22:31             2.006 __init__.cpython-314.pyc
-               8 archivos        135.086 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             3.978 _api.cpython-314.pyc
-12/03/2026  22:31             3.626 _exceptions.cpython-314.pyc
-12/03/2026  22:31            27.644 _models.cpython-314.pyc
-12/03/2026  22:31               728 _ssl.cpython-314.pyc
-12/03/2026  22:31            18.964 _synchronization.cpython-314.pyc
-12/03/2026  22:31             6.846 _trace.cpython-314.pyc
-12/03/2026  22:31             1.420 _utils.cpython-314.pyc
-12/03/2026  22:31             4.028 __init__.cpython-314.pyc
-               8 archivos         67.234 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpcore-1.0.9.dist-info
 
@@ -2648,7 +2437,7 @@
 
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          parser
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               153 __init__.py
 07/03/2026  21:04               588 _version.py
@@ -2658,7 +2447,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.144 cparser.pxd
 07/03/2026  21:04               144 python.pxd
 07/03/2026  21:04               810 url_cparser.pxd
@@ -2676,13 +2465,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httptools\parser\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httptools\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httptools-0.7.1.dist-info
@@ -2708,7 +2497,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          _transports
 07/03/2026  21:04            11.891 _auth.py
 07/03/2026  21:04            68.032 _client.py
@@ -2735,7 +2524,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.234 asgi.py
 07/03/2026  21:04             1.232 mock.py
 07/03/2026  21:04             4.825 wsgi.py
@@ -2747,38 +2536,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpx\_transports\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             4.794 base.cpython-314.pyc
-12/03/2026  22:31            19.063 default.cpython-314.pyc
-12/03/2026  22:31             2.425 mock.cpython-314.pyc
-12/03/2026  22:31             7.984 wsgi.cpython-314.pyc
-12/03/2026  22:31               416 __init__.cpython-314.pyc
-12/03/2026  22:31             8.703 asgi.cpython-314.pyc
-               6 archivos         43.385 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpx\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            12.829 _api.cpython-314.pyc
-12/03/2026  22:31            18.593 _auth.cpython-314.pyc
-12/03/2026  22:31            76.332 _client.cpython-314.pyc
-12/03/2026  22:31             2.779 _compat.cpython-314.pyc
-12/03/2026  22:31            18.800 _config.cpython-314.pyc
-12/03/2026  22:31            12.955 _content.cpython-314.pyc
-12/03/2026  22:31            21.250 _decoders.cpython-314.pyc
-12/03/2026  22:31            14.185 _exceptions.cpython-314.pyc
-12/03/2026  22:31            22.914 _main.cpython-314.pyc
-12/03/2026  22:31            67.886 _models.cpython-314.pyc
-12/03/2026  22:31            14.865 _multipart.cpython-314.pyc
-12/03/2026  22:31             8.379 _status_codes.cpython-314.pyc
-12/03/2026  22:31             5.584 _types.cpython-314.pyc
-12/03/2026  22:31            20.091 _urlparse.cpython-314.pyc
-12/03/2026  22:31            33.962 _urls.cpython-314.pyc
-12/03/2026  22:31            23.418 _utils.cpython-314.pyc
-12/03/2026  22:31             3.364 __init__.cpython-314.pyc
-12/03/2026  22:31               287 __version__.cpython-314.pyc
-              18 archivos        378.473 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\httpx-0.27.2.dist-info
 
@@ -2804,7 +2569,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               316 compat.py
 07/03/2026  21:04            13.246 core.py
 07/03/2026  21:04            79.623 idnadata.py
@@ -2819,13 +2584,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\idna\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           100.908 idnadata.cpython-314.pyc
-12/03/2026  22:31             3.382 intranges.cpython-314.pyc
-12/03/2026  22:31               186 package_data.cpython-314.pyc
-12/03/2026  22:31               855 __init__.cpython-314.pyc
-12/03/2026  22:31            20.346 core.cpython-314.pyc
-               5 archivos        125.677 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\idna-3.11.dist-info
 
@@ -2913,7 +2673,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             6.162 api_jwk.py
 07/03/2026  21:04            13.017 api_jws.py
 07/03/2026  21:04            22.141 api_jwt.py
@@ -2932,19 +2692,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\jwt\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            48.374 algorithms.cpython-314.pyc
-12/03/2026  22:31            10.556 api_jwk.cpython-314.pyc
-12/03/2026  22:31            16.927 api_jws.cpython-314.pyc
-12/03/2026  22:31            24.995 api_jwt.cpython-314.pyc
-12/03/2026  22:31             5.478 exceptions.cpython-314.pyc
-12/03/2026  22:31             6.765 jwks_client.cpython-314.pyc
-12/03/2026  22:31             2.510 jwk_set_cache.cpython-314.pyc
-12/03/2026  22:31             3.029 types.cpython-314.pyc
-12/03/2026  22:31             7.574 utils.cpython-314.pyc
-12/03/2026  22:31               827 warnings.cpython-314.pyc
-12/03/2026  22:31             1.682 __init__.cpython-314.pyc
-              11 archivos        128.717 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu
 
@@ -2953,7 +2702,7 @@
 07/03/2026  21:04    <DIR>          utils
 07/03/2026  21:04    <DIR>          asynchronous
 07/03/2026  21:04    <DIR>          transport
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             6.752 compat.py
 07/03/2026  21:04             2.984 compression.py
 07/03/2026  21:04            41.693 connection.py
@@ -2980,7 +2729,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          aws
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          http
 07/03/2026  21:04             3.561 semaphore.py
 07/03/2026  21:04             6.922 timer.py
@@ -3043,7 +2792,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\asynchronous\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\transport
@@ -3052,7 +2801,7 @@
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          virtual
 07/03/2026  21:04    <DIR>          sqlalchemy
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            12.141 confluentkafka.py
 07/03/2026  21:04             9.424 consul.py
 07/03/2026  21:04             8.644 etcd.py
@@ -3093,7 +2842,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\transport\virtual
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               476 __init__.py
 07/03/2026  21:04             4.894 exchange.py
@@ -3103,20 +2852,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\transport\virtual\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\transport\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\utils
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               942 collections.py
 07/03/2026  21:04             3.444 compat.py
 07/03/2026  21:04             2.049 debug.py
@@ -3140,13 +2889,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\utils\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\kombu-5.6.2.dist-info
@@ -3173,7 +2922,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          testing
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          ext
 07/03/2026  21:04            47.736 codegen.py
 07/03/2026  21:04             1.820 compat.py
@@ -3198,7 +2947,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             2.091 babelplugin.py
 07/03/2026  21:04             2.578 beaker_cache.py
 07/03/2026  21:04             4.659 extract.py
@@ -3213,10 +2962,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\mako\ext\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               161 __init__.cpython-314.pyc
-12/03/2026  22:31             6.111 pygmentplugin.cpython-314.pyc
-               2 archivos          6.272 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\mako\testing
 
@@ -3241,23 +2988,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\mako\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             8.126 ast.cpython-314.pyc
-12/03/2026  22:31             8.320 cache.cpython-314.pyc
-12/03/2026  22:31            61.837 codegen.cpython-314.pyc
-12/03/2026  22:31             3.185 compat.cpython-314.pyc
-12/03/2026  22:31            15.358 exceptions.cpython-314.pyc
-12/03/2026  22:31             6.872 filters.cpython-314.pyc
-12/03/2026  22:31            21.667 lexer.cpython-314.pyc
-12/03/2026  22:31            31.428 parsetree.cpython-314.pyc
-12/03/2026  22:31            11.653 pygen.cpython-314.pyc
-12/03/2026  22:31            12.755 pyparser.cpython-314.pyc
-12/03/2026  22:31            39.677 runtime.cpython-314.pyc
-12/03/2026  22:31            26.646 template.cpython-314.pyc
-12/03/2026  22:31            21.104 util.cpython-314.pyc
-12/03/2026  22:31            37.305 _ast_util.cpython-314.pyc
-12/03/2026  22:31               186 __init__.cpython-314.pyc
-              15 archivos        306.119 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\mako-1.3.10.dist-info
 
@@ -3283,7 +3015,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.527 _speedups.c
 07/03/2026  21:04            13.644 __init__.py
 07/03/2026  21:04               218 _native.py
@@ -3295,9 +3027,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\markupsafe\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            28.429 __init__.cpython-314.pyc
-               1 archivos         28.429 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\markupsafe-3.0.3.dist-info
 
@@ -3338,7 +3069,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\outcome
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               941 _util.py
 07/03/2026  21:04               201 _version.py
@@ -3350,12 +3081,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\outcome\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             2.573 _util.cpython-314.pyc
-12/03/2026  22:31               567 _version.cpython-314.pyc
-12/03/2026  22:31               585 __init__.cpython-314.pyc
-12/03/2026  22:31            11.231 _impl.cpython-314.pyc
-               4 archivos         14.956 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\outcome-1.3.0.post0.dist-info
 
@@ -3376,7 +3103,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          licenses
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            39.360 metadata.py
 07/03/2026  21:04               494 __init__.py
 07/03/2026  21:04            22.537 pylock.py
@@ -3413,7 +3140,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\packaging\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\packaging-26.0.dist-info
@@ -3442,7 +3169,7 @@
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:03    <DIR>          _vendor
 07/03/2026  21:03    <DIR>          _internal
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03               854 __main__.py
 07/03/2026  21:03             1.450 __pip-runner__.py
 07/03/2026  21:03               355 __init__.py
@@ -3466,7 +3193,7 @@
 07/03/2026  21:03    <DIR>          metadata
 07/03/2026  21:03    <DIR>          models
 07/03/2026  21:03    <DIR>          network
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             4.555 pyproject.py
 07/03/2026  21:03            32.165 exceptions.py
 07/03/2026  21:03            14.568 configuration.py
@@ -3482,7 +3209,7 @@
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             9.168 base_command.py
 07/03/2026  21:03            36.164 cmdoptions.py
 07/03/2026  21:03               817 command_context.py
@@ -3501,14 +3228,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\cli\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\commands
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             2.244 check.py
 07/03/2026  21:03             4.565 completion.py
 07/03/2026  21:03            10.105 configuration.py
@@ -3533,7 +3260,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\commands\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\distributions
@@ -3574,7 +3301,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\locations
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03             7.779 _sysconfig.py
 07/03/2026  21:03            14.157 __init__.py
@@ -3585,13 +3312,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\locations\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\metadata
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          importlib
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03             2.711 _json.py
@@ -3603,7 +3330,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\metadata\importlib
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03             5.333 _envs.py
 07/03/2026  21:03               135 __init__.py
@@ -3614,20 +3341,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\metadata\importlib\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\metadata\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\models
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             6.555 direct_url.py
 07/03/2026  21:03             2.471 format_control.py
 07/03/2026  21:03             1.030 index.py
@@ -3646,7 +3373,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\models\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\network
@@ -3802,7 +3529,7 @@
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             2.514 compat.py
 07/03/2026  21:03             6.630 compatibility_tags.py
 07/03/2026  21:03               868 datetime.py
@@ -3834,7 +3561,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\utils\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\vcs
@@ -3859,7 +3586,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_internal\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor
@@ -3885,7 +3612,7 @@
 07/03/2026  21:03    <DIR>          tomli
 07/03/2026  21:03    <DIR>          tomli_w
 07/03/2026  21:03    <DIR>          truststore
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             4.907 __init__.py
 07/03/2026  21:03             9.394 README.rst
 07/03/2026  21:03               342 vendor.txt
@@ -3937,7 +3664,7 @@
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
 07/03/2026  21:03               989 LICENSE
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03           270.954 cacert.pem
 07/03/2026  21:03                94 __init__.py
 07/03/2026  21:03               255 __main__.py
@@ -3948,7 +3675,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\certifi\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\dependency_groups
@@ -4061,7 +3788,7 @@
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
 07/03/2026  21:03               197 LICENSE
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          licenses
 07/03/2026  21:03            10.174 LICENSE.APACHE
 07/03/2026  21:03             1.344 LICENSE.BSD
@@ -4101,7 +3828,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\packaging\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pkg_resources
@@ -4123,7 +3850,7 @@
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             1.089 LICENSE
 07/03/2026  21:03             9.281 api.py
 07/03/2026  21:03             6.322 macos.py
@@ -4139,7 +3866,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\platformdirs\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments
@@ -4147,7 +3874,7 @@
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
 07/03/2026  21:03    <DIR>          styles
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          filters
 07/03/2026  21:03             1.331 LICENSE
 07/03/2026  21:03    <DIR>          formatters
@@ -4172,7 +3899,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\filters
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03            40.392 __init__.py
                1 archivos         40.392 bytes
@@ -4180,7 +3907,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\filters\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\formatters
@@ -4201,7 +3928,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\lexers
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03            12.115 __init__.py
 07/03/2026  21:03            77.602 _mapping.py
@@ -4211,13 +3938,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\lexers\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\styles
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03             2.042 __init__.py
 07/03/2026  21:03             3.312 _mapping.py
@@ -4226,20 +3953,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\styles\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pygments\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks
 
 07/03/2026  21:03    <DIR>          ..
 07/03/2026  21:03             1.081 LICENSE
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          _in_process
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03               691 __init__.py
@@ -4250,7 +3977,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03               557 __init__.py
 07/03/2026  21:03            12.216 _in_process.py
@@ -4259,13 +3986,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\requests
@@ -4342,7 +4069,7 @@
 
 07/03/2026  21:03    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:03             1.056 LICENSE
 07/03/2026  21:03             6.921 ansi.py
 07/03/2026  21:03             3.263 bar.py
@@ -4427,7 +4154,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\rich\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\tomli
@@ -4613,13 +4340,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\_vendor\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip\__pycache__
 
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pip-26.0.1.dist-info
@@ -4837,7 +4564,7 @@
 07/03/2026  21:04    <DIR>          filters
 07/03/2026  21:04    <DIR>          formatted_text
 07/03/2026  21:04    <DIR>          input
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.916 keys.py
 07/03/2026  21:04               358 enums.py
 07/03/2026  21:04            40.547 document.py
@@ -4864,7 +4591,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\application
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.619 dummy.py
 07/03/2026  21:04             3.767 run_in_terminal.py
@@ -4876,13 +4603,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\application\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\clipboard
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.160 pyperclip.py
 07/03/2026  21:04               439 __init__.py
@@ -4893,14 +4620,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\clipboard\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\completion
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.949 filesystem.py
 07/03/2026  21:04            16.103 base.py
 07/03/2026  21:04             3.844 nested.py
@@ -4913,7 +4640,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\completion\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\contrib
@@ -5003,7 +4730,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\eventloop
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             3.200 utils.py
 07/03/2026  21:04             2.286 win32.py
@@ -5015,13 +4742,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\eventloop\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\filters
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.867 cli.py
 07/03/2026  21:04               859 utils.py
@@ -5033,14 +4760,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\filters\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\formatted_text
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             9.824 ansi.py
 07/03/2026  21:04               780 pygments.py
 07/03/2026  21:04             3.044 utils.py
@@ -5052,14 +4779,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\formatted_text\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\input
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.030 base.py
 07/03/2026  21:04             2.500 defaults.py
 07/03/2026  21:04             3.158 posix_pipe.py
@@ -5076,7 +4803,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\input\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\key_binding
@@ -5084,7 +4811,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          bindings
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.975 defaults.py
 07/03/2026  21:04            20.933 key_bindings.py
 07/03/2026  21:04            17.555 key_processor.py
@@ -5098,7 +4825,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             7.229 basic.py
 07/03/2026  21:04             6.903 completion.py
 07/03/2026  21:04               786 cpr.py
@@ -5118,20 +4845,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\key_binding\bindings\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\key_binding\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\layout
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            35.993 controls.py
 07/03/2026  21:04             6.948 dimension.py
 07/03/2026  21:04             1.047 dummy.py
@@ -5150,13 +4877,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\layout\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\lexers
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               409 __init__.py
 07/03/2026  21:04            11.922 pygments.py
@@ -5166,14 +4893,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\lexers\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\output
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.569 color_depth.py
 07/03/2026  21:04             1.865 conemu.py
 07/03/2026  21:04             3.689 defaults.py
@@ -5189,7 +4916,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\output\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\shortcuts
@@ -5197,7 +4924,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          progress_bar
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            60.747 prompt.py
 07/03/2026  21:04             6.950 utils.py
 07/03/2026  21:04             1.020 __init__.py
@@ -5208,7 +4935,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\shortcuts\progress_bar
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               540 __init__.py
 07/03/2026  21:04            11.739 formatters.py
@@ -5218,20 +4945,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\shortcuts\progress_bar\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\shortcuts\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\styles
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.367 named_colors.py
 07/03/2026  21:04             5.064 base.py
 07/03/2026  21:04            13.263 style.py
@@ -5244,13 +4971,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\styles\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\widgets
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            13.419 menus.py
 07/03/2026  21:04            12.178 toolbars.py
@@ -5262,13 +4989,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\widgets\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\prompt_toolkit-3.0.52.dist-info
@@ -5296,7 +5023,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          tests
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            15.747 _compat.py
 07/03/2026  21:04            19.242 _psaix.py
 07/03/2026  21:04            33.190 _psbsd.py
@@ -5344,12 +5071,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psutil\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            19.019 _compat.cpython-314.pyc
-12/03/2026  22:31            46.698 _pswindows.cpython-314.pyc
-12/03/2026  22:31            91.780 __init__.cpython-314.pyc
-12/03/2026  22:31            36.207 _common.cpython-314.pyc
-               4 archivos        193.704 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psutil-6.1.1.dist-info
 
@@ -5368,7 +5091,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          types
 07/03/2026  21:04    <DIR>          pq
 07/03/2026  21:04    <DIR>          crdb
@@ -5450,7 +5173,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            42.135 pq_ctypes.py
 07/03/2026  21:04             8.047 abc.py
 07/03/2026  21:04             6.004 _enums.py
@@ -5464,18 +5187,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg\pq\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            10.169 misc.cpython-314.pyc
-12/03/2026  22:31             5.322 _enums.cpython-314.pyc
-12/03/2026  22:31             4.550 __init__.cpython-314.pyc
-12/03/2026  22:31            33.618 abc.cpython-314.pyc
-               4 archivos         53.659 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg\types
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.163 bool.py
 07/03/2026  21:04            11.897 composite.py
 07/03/2026  21:04            25.504 datetime.py
@@ -5498,82 +5217,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg\types\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            26.470 array.cpython-314.pyc
-12/03/2026  22:31             3.757 bool.cpython-314.pyc
-12/03/2026  22:31            21.568 composite.cpython-314.pyc
-12/03/2026  22:31            47.643 datetime.cpython-314.pyc
-12/03/2026  22:31            13.920 enum.cpython-314.pyc
-12/03/2026  22:31            15.710 json.cpython-314.pyc
-12/03/2026  22:31            33.508 multirange.cpython-314.pyc
-12/03/2026  22:31            13.315 net.cpython-314.pyc
-12/03/2026  22:31             1.868 none.cpython-314.pyc
-12/03/2026  22:31            31.349 numeric.cpython-314.pyc
-12/03/2026  22:31             6.488 numpy.cpython-314.pyc
-12/03/2026  22:31            39.864 range.cpython-314.pyc
-12/03/2026  22:31            13.881 string.cpython-314.pyc
-12/03/2026  22:31             4.398 uuid.cpython-314.pyc
-12/03/2026  22:31               340 __init__.cpython-314.pyc
-              15 archivos        274.079 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            14.317 abc.cpython-314.pyc
-12/03/2026  22:31             7.717 adapt.cpython-314.pyc
-12/03/2026  22:31             4.559 client_cursor.cpython-314.pyc
-12/03/2026  22:31            30.898 connection.cpython-314.pyc
-12/03/2026  22:31            36.315 connection_async.cpython-314.pyc
-12/03/2026  22:31             5.958 conninfo.cpython-314.pyc
-12/03/2026  22:31             1.942 copy.cpython-314.pyc
-12/03/2026  22:31            16.844 cursor.cpython-314.pyc
-12/03/2026  22:31            19.042 cursor_async.cpython-314.pyc
-12/03/2026  22:31             8.679 dbapi20.cpython-314.pyc
-12/03/2026  22:31            96.293 errors.cpython-314.pyc
-12/03/2026  22:31            16.284 generators.cpython-314.pyc
-12/03/2026  22:31             7.985 postgres.cpython-314.pyc
-12/03/2026  22:31             4.268 raw_cursor.cpython-314.pyc
-12/03/2026  22:31            15.210 rows.cpython-314.pyc
-12/03/2026  22:31            25.926 sql.cpython-314.pyc
-12/03/2026  22:31            17.453 transaction.cpython-314.pyc
-12/03/2026  22:31               468 version.cpython-314.pyc
-12/03/2026  22:31            18.706 waiting.cpython-314.pyc
-12/03/2026  22:31             5.255 _acompat.cpython-314.pyc
-12/03/2026  22:31            13.780 _adapters_map.cpython-314.pyc
-12/03/2026  22:31             7.937 _capabilities.cpython-314.pyc
-12/03/2026  22:31             1.030 _cmodule.cpython-314.pyc
-12/03/2026  22:31             7.595 _column.cpython-314.pyc
-12/03/2026  22:31             2.276 _compat.cpython-314.pyc
-12/03/2026  22:31            40.363 _connection_base.cpython-314.pyc
-12/03/2026  22:31            11.938 _connection_info.cpython-314.pyc
-12/03/2026  22:31             4.454 _conninfo_attempts.cpython-314.pyc
-12/03/2026  22:31             4.773 _conninfo_attempts_async.cpython-314.pyc
-12/03/2026  22:31             5.716 _conninfo_utils.cpython-314.pyc
-12/03/2026  22:31            15.048 _copy.cpython-314.pyc
-12/03/2026  22:31            16.468 _copy_async.cpython-314.pyc
-12/03/2026  22:31            21.863 _copy_base.cpython-314.pyc
-12/03/2026  22:31            33.835 _cursor_base.cpython-314.pyc
-12/03/2026  22:31             6.999 _encodings.cpython-314.pyc
-12/03/2026  22:31             3.059 _enums.cpython-314.pyc
-12/03/2026  22:31             2.420 _oids.cpython-314.pyc
-12/03/2026  22:31             4.883 _pipeline.cpython-314.pyc
-12/03/2026  22:31             5.563 _pipeline_async.cpython-314.pyc
-12/03/2026  22:31            11.558 _pipeline_base.cpython-314.pyc
-12/03/2026  22:31            10.019 _preparing.cpython-314.pyc
-12/03/2026  22:31            18.253 _queries.cpython-314.pyc
-12/03/2026  22:31             9.254 _server_cursor.cpython-314.pyc
-12/03/2026  22:31            10.820 _server_cursor_async.cpython-314.pyc
-12/03/2026  22:31            13.336 _server_cursor_base.cpython-314.pyc
-12/03/2026  22:31             4.027 _struct.cpython-314.pyc
-12/03/2026  22:31             6.731 _tpc.cpython-314.pyc
-12/03/2026  22:31               694 _transformer.cpython-314.pyc
-12/03/2026  22:31            20.478 _typeinfo.cpython-314.pyc
-12/03/2026  22:31             6.480 _typemod.cpython-314.pyc
-12/03/2026  22:31             2.087 _tz.cpython-314.pyc
-12/03/2026  22:31             8.676 _wrappers.cpython-314.pyc
-12/03/2026  22:31             3.880 __init__.cpython-314.pyc
-              53 archivos        690.412 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg-3.2.13.dist-info
 
@@ -5599,7 +5250,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               258 version.py
 07/03/2026  21:04               747 __init__.py
 07/03/2026  21:04               793 _uuid.py
@@ -5612,10 +5263,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg_binary\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             1.148 __init__.cpython-314.pyc
-12/03/2026  22:31               490 version.cpython-314.pyc
-               2 archivos          1.638 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\psycopg_binary-3.2.13.dist-info
 
@@ -5693,7 +5342,7 @@
 07/03/2026  21:04    <DIR>          _internal
 07/03/2026  21:04    <DIR>          v1
 07/03/2026  21:04    <DIR>          plugin
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          experimental
 07/03/2026  21:04    <DIR>          deprecated
 07/03/2026  21:04            18.936 dataclasses.py
@@ -5775,7 +5424,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic\plugin
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             7.333 __init__.py
 07/03/2026  21:04             5.267 _schema_validator.py
@@ -5785,11 +5434,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic\plugin\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             8.202 _schema_validator.cpython-314.pyc
-12/03/2026  22:31             9.928 __init__.cpython-314.pyc
-12/03/2026  22:31             2.663 _loader.cpython-314.pyc
-               3 archivos         20.793 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic\v1
 
@@ -5835,7 +5481,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.162 _core_metadata.py
 07/03/2026  21:04             6.487 _core_utils.py
 07/03/2026  21:04            13.158 _dataclasses.py
@@ -5870,57 +5516,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic\_internal\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            17.251 _config.cpython-314.pyc
-12/03/2026  22:31             4.849 _core_metadata.cpython-314.pyc
-12/03/2026  22:31             9.062 _core_utils.cpython-314.pyc
-12/03/2026  22:31            14.405 _dataclasses.cpython-314.pyc
-12/03/2026  22:31            40.870 _decorators.cpython-314.pyc
-12/03/2026  22:31            23.658 _discriminated_union.cpython-314.pyc
-12/03/2026  22:31             6.571 _docs_extraction.cpython-314.pyc
-12/03/2026  22:31            27.328 _fields.cpython-314.pyc
-12/03/2026  22:31             1.500 _forward_ref.cpython-314.pyc
-12/03/2026  22:31           148.926 _generate_schema.cpython-314.pyc
-12/03/2026  22:31            28.200 _generics.cpython-314.pyc
-12/03/2026  22:31             1.071 _import_utils.cpython-314.pyc
-12/03/2026  22:31               326 _internal_dataclass.cpython-314.pyc
-12/03/2026  22:31            15.699 _known_annotated_metadata.cpython-314.pyc
-12/03/2026  22:31            13.836 _mock_val_ser.cpython-314.pyc
-12/03/2026  22:31            40.386 _model_construction.cpython-314.pyc
-12/03/2026  22:31            13.762 _namespace_utils.cpython-314.pyc
-12/03/2026  22:31             9.618 _repr.cpython-314.pyc
-12/03/2026  22:31             9.107 _schema_gather.cpython-314.pyc
-12/03/2026  22:31             7.552 _schema_generation_shared.cpython-314.pyc
-12/03/2026  22:31             7.439 _signature.cpython-314.pyc
-12/03/2026  22:31            31.468 _typing_extra.cpython-314.pyc
-12/03/2026  22:31            24.791 _utils.cpython-314.pyc
-12/03/2026  22:31            28.145 _validators.cpython-314.pyc
-12/03/2026  22:31               171 __init__.cpython-314.pyc
-              25 archivos        525.991 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             7.583 aliases.cpython-314.pyc
-12/03/2026  22:31             6.217 annotated_handlers.cpython-314.pyc
-12/03/2026  22:31            34.322 color.cpython-314.pyc
-12/03/2026  22:31             8.337 config.cpython-314.pyc
-12/03/2026  22:31            19.978 dataclasses.cpython-314.pyc
-12/03/2026  22:31             9.080 errors.cpython-314.pyc
-12/03/2026  22:31            79.889 fields.cpython-314.pyc
-12/03/2026  22:31            39.835 functional_validators.cpython-314.pyc
-12/03/2026  22:31           137.838 json_schema.cpython-314.pyc
-12/03/2026  22:31            85.192 main.cpython-314.pyc
-12/03/2026  22:31            59.219 networks.cpython-314.pyc
-12/03/2026  22:31             9.149 root_model.cpython-314.pyc
-12/03/2026  22:31           109.581 types.cpython-314.pyc
-12/03/2026  22:31            37.214 type_adapter.cpython-314.pyc
-12/03/2026  22:31             5.562 version.cpython-314.pyc
-12/03/2026  22:31             8.808 warnings.cpython-314.pyc
-12/03/2026  22:31            14.697 _migration.cpython-314.pyc
-12/03/2026  22:31            14.956 __init__.cpython-314.pyc
-              18 archivos        687.457 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic-2.12.5.dist-info
 
@@ -5944,7 +5547,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic_core
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             5.286 __init__.py
 07/03/2026  21:04           159.165 core_schema.py
@@ -5956,10 +5559,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic_core\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             3.224 __init__.cpython-314.pyc
-12/03/2026  22:31           166.991 core_schema.cpython-314.pyc
-               2 archivos        170.215 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic_core-2.41.5.dist-info
 
@@ -5983,7 +5584,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            25.756 main.py
 07/03/2026  21:04               572 utils.py
 07/03/2026  21:04                18 version.py
@@ -5995,13 +5596,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic_settings\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           132.027 sources.cpython-314.pyc
-12/03/2026  22:31             1.301 utils.cpython-314.pyc
-12/03/2026  22:31               191 version.cpython-314.pyc
-12/03/2026  22:31             1.176 __init__.cpython-314.pyc
-12/03/2026  22:31            21.721 main.cpython-314.pyc
-               5 archivos        156.416 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\pydantic_settings-2.7.1.dist-info
 
@@ -6513,7 +6109,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\python_multipart
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 08/03/2026  10:00    <DIR>          .
 08/03/2026  10:00            75.744 multipart.py
 08/03/2026  10:00               992 exceptions.py
@@ -6525,12 +6121,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\python_multipart\__pycache__
 
 08/03/2026  10:00    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             1.838 exceptions.cpython-314.pyc
-12/03/2026  22:31            79.240 multipart.cpython-314.pyc
-12/03/2026  22:31               556 __init__.cpython-314.pyc
-12/03/2026  22:31             9.937 decoders.cpython-314.pyc
-               4 archivos         91.571 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\python_multipart-0.0.19.dist-info
 
@@ -6598,7 +6190,7 @@
 07/03/2026  21:04    <DIR>          asyncio
 07/03/2026  21:04    <DIR>          auth
 07/03/2026  21:04    <DIR>          _parsers
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          commands
 07/03/2026  21:04            99.287 cluster.py
 07/03/2026  21:04            61.733 client.py
@@ -6623,7 +6215,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            47.512 connection.py
 07/03/2026  21:04            61.016 client.py
 07/03/2026  21:04             2.219 retry.py
@@ -6637,21 +6229,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\asyncio\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            81.985 client.cpython-314.pyc
-12/03/2026  22:31            85.168 cluster.cpython-314.pyc
-12/03/2026  22:31            72.661 connection.cpython-314.pyc
-12/03/2026  22:31            16.144 lock.cpython-314.pyc
-12/03/2026  22:31             3.706 retry.cpython-314.pyc
-12/03/2026  22:31            20.925 sentinel.cpython-314.pyc
-12/03/2026  22:31             1.969 utils.cpython-314.pyc
-12/03/2026  22:31             1.349 __init__.cpython-314.pyc
-               8 archivos        283.907 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\auth
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             3.125 token.py
 07/03/2026  21:04            12.018 token_manager.py
@@ -6663,11 +6247,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\auth\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            10.916 token.cpython-314.pyc
-12/03/2026  22:31               163 __init__.cpython-314.pyc
-12/03/2026  22:31             2.020 err.cpython-314.pyc
-               3 archivos         13.099 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\commands
 
@@ -6678,7 +6259,7 @@
 07/03/2026  21:04    <DIR>          search
 07/03/2026  21:04    <DIR>          graph
 07/03/2026  21:04    <DIR>          json
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04           238.528 core.py
 07/03/2026  21:04             4.110 sentinel.py
 07/03/2026  21:04            31.598 cluster.py
@@ -6787,20 +6368,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\commands\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           324.119 core.cpython-314.pyc
-12/03/2026  22:31             8.305 helpers.cpython-314.pyc
-12/03/2026  22:31             3.626 redismodules.cpython-314.pyc
-12/03/2026  22:31             6.117 sentinel.cpython-314.pyc
-12/03/2026  22:31               650 __init__.cpython-314.pyc
-12/03/2026  22:31            43.058 cluster.cpython-314.pyc
-               6 archivos        385.875 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\_parsers
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            11.052 commands.py
 07/03/2026  21:04             1.734 encoders.py
 07/03/2026  21:04            29.184 helpers.py
@@ -6815,38 +6390,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\_parsers\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            12.140 base.cpython-314.pyc
-12/03/2026  22:31            12.450 commands.cpython-314.pyc
-12/03/2026  22:31             2.509 encoders.cpython-314.pyc
-12/03/2026  22:31            41.011 helpers.cpython-314.pyc
-12/03/2026  22:31            11.549 hiredis.cpython-314.pyc
-12/03/2026  22:31             5.722 resp2.cpython-314.pyc
-12/03/2026  22:31            11.574 resp3.cpython-314.pyc
-12/03/2026  22:31             8.959 socket.cpython-314.pyc
-12/03/2026  22:31               653 __init__.cpython-314.pyc
-               9 archivos        106.567 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             9.172 backoff.cpython-314.pyc
-12/03/2026  22:31            25.333 cache.cpython-314.pyc
-12/03/2026  22:31            77.528 client.cpython-314.pyc
-12/03/2026  22:31           102.309 cluster.cpython-314.pyc
-12/03/2026  22:31            82.062 connection.cpython-314.pyc
-12/03/2026  22:31             1.136 crc.cpython-314.pyc
-12/03/2026  22:31             5.051 credentials.cpython-314.pyc
-12/03/2026  22:31            28.515 event.cpython-314.pyc
-12/03/2026  22:31             9.378 exceptions.cpython-314.pyc
-12/03/2026  22:31            15.754 lock.cpython-314.pyc
-12/03/2026  22:31             3.621 retry.cpython-314.pyc
-12/03/2026  22:31            19.397 sentinel.cpython-314.pyc
-12/03/2026  22:31             3.057 typing.cpython-314.pyc
-12/03/2026  22:31            11.487 utils.cpython-314.pyc
-12/03/2026  22:31             2.192 __init__.cpython-314.pyc
-              15 archivos        395.992 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\redis-5.3.1.dist-info
 
@@ -6865,7 +6416,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             6.449 api.py
 07/03/2026  21:04            10.186 auth.py
 07/03/2026  21:04               429 certs.py
@@ -6889,25 +6440,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            27.319 adapters.cpython-314.pyc
-12/03/2026  22:31             6.879 api.cpython-314.pyc
-12/03/2026  22:31            14.491 auth.cpython-314.pyc
-12/03/2026  22:31               637 certs.cpython-314.pyc
-12/03/2026  22:31             2.384 compat.cpython-314.pyc
-12/03/2026  22:31            25.433 cookies.cpython-314.pyc
-12/03/2026  22:31             7.980 exceptions.cpython-314.pyc
-12/03/2026  22:31             1.072 hooks.cpython-314.pyc
-12/03/2026  22:31            36.438 models.cpython-314.pyc
-12/03/2026  22:31             1.159 packages.cpython-314.pyc
-12/03/2026  22:31            27.715 sessions.cpython-314.pyc
-12/03/2026  22:31             5.984 status_codes.cpython-314.pyc
-12/03/2026  22:31             5.705 structures.cpython-314.pyc
-12/03/2026  22:31            36.978 utils.cpython-314.pyc
-12/03/2026  22:31             1.988 _internal_utils.cpython-314.pyc
-12/03/2026  22:31             5.455 __init__.cpython-314.pyc
-12/03/2026  22:31               554 __version__.cpython-314.pyc
-              17 archivos        208.171 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests-2.32.5.dist-info
 
@@ -6940,7 +6474,7 @@
 07/03/2026  21:04    <DIR>          utils
 07/03/2026  21:04    <DIR>          multipart
 07/03/2026  21:04    <DIR>          threaded
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               695 exceptions.py
 07/03/2026  21:04             9.260 _compat.py
 07/03/2026  21:04             1.188 __init__.py
@@ -6952,7 +6486,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.396 host_header_ssl.py
 07/03/2026  21:04             7.539 appengine.py
 07/03/2026  21:04             2.608 source.py
@@ -6966,16 +6500,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\adapters\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             3.003 ssl.cpython-314.pyc
-12/03/2026  22:31               546 __init__.cpython-314.pyc
-12/03/2026  22:31             3.331 source.cpython-314.pyc
-               3 archivos          6.880 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\auth
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             3.706 http_proxy_digest.py
 07/03/2026  21:04               910 _digest_auth_compat.py
@@ -6987,12 +6518,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\auth\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             5.292 http_proxy_digest.cpython-314.pyc
-12/03/2026  22:31             1.999 _digest_auth_compat.cpython-314.pyc
-12/03/2026  22:31               175 __init__.cpython-314.pyc
-12/03/2026  22:31             7.884 guess.cpython-314.pyc
-               4 archivos         15.350 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\cookies
 
@@ -7028,7 +6555,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\multipart
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               854 __init__.py
 07/03/2026  21:04            20.769 encoder.py
@@ -7038,11 +6565,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\multipart\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            28.028 encoder.cpython-314.pyc
-12/03/2026  22:31               928 __init__.cpython-314.pyc
-12/03/2026  22:31             8.331 decoder.cpython-314.pyc
-               3 archivos         37.287 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\threaded
 
@@ -7063,7 +6587,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\utils
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             3.233 formdata.py
 07/03/2026  21:04             4.524 user_agent.py
@@ -7075,20 +6599,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\utils\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             6.354 user_agent.cpython-314.pyc
-12/03/2026  22:31               176 __init__.cpython-314.pyc
-12/03/2026  22:31             8.451 dump.cpython-314.pyc
-               3 archivos         14.981 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            12.534 _compat.cpython-314.pyc
-12/03/2026  22:31             1.557 __init__.cpython-314.pyc
-12/03/2026  22:31             5.204 streaming_iterator.cpython-314.pyc
-               3 archivos         19.295 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\requests_toolbelt-1.0.0.dist-info
 
@@ -7107,7 +6625,7 @@
 
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          common
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          webdriver
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               812 __init__.py
@@ -7757,9 +7275,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\selenium\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               190 __init__.cpython-314.pyc
-               1 archivos            190 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\selenium-4.28.1.dist-info
 
@@ -7788,7 +7305,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sniffio
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          _tests
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                89 _version.py
@@ -7815,11 +7332,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sniffio\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               188 _version.cpython-314.pyc
-12/03/2026  22:31               431 __init__.cpython-314.pyc
-12/03/2026  22:31             3.291 _impl.cpython-314.pyc
-               3 archivos          3.910 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sniffio-1.3.1.dist-info
 
@@ -7838,7 +7352,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sortedcontainers
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            19.825 sortedset.py
 07/03/2026  21:04             2.131 __init__.py
@@ -7849,12 +7363,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sortedcontainers\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            84.722 sortedlist.cpython-314.pyc
-12/03/2026  22:31            22.938 sortedset.cpython-314.pyc
-12/03/2026  22:31             2.305 __init__.cpython-314.pyc
-12/03/2026  22:31            26.421 sorteddict.cpython-314.pyc
-               4 archivos        136.386 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sortedcontainers-2.4.0.dist-info
 
@@ -7872,7 +7382,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             9.940 css_types.py
 07/03/2026  21:04            61.404 css_match.py
 07/03/2026  21:04             4.362 pretty.py
@@ -7886,15 +7396,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\soupsieve\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            80.877 css_match.cpython-314.pyc
-12/03/2026  22:31            57.073 css_parser.cpython-314.pyc
-12/03/2026  22:31            22.887 css_types.cpython-314.pyc
-12/03/2026  22:31             5.705 pretty.cpython-314.pyc
-12/03/2026  22:31             6.007 util.cpython-314.pyc
-12/03/2026  22:31             7.162 __init__.cpython-314.pyc
-12/03/2026  22:31             9.205 __meta__.cpython-314.pyc
-               7 archivos        188.916 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\soupsieve-2.8.3.dist-info
 
@@ -7927,7 +7430,7 @@
 07/03/2026  21:04    <DIR>          testing
 07/03/2026  21:04    <DIR>          ext
 07/03/2026  21:04    <DIR>          future
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          sql
 07/03/2026  21:04    <DIR>          orm
 07/03/2026  21:04    <DIR>          pool
@@ -7944,7 +7447,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\connectors
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             8.868 pyodbc.py
 07/03/2026  21:04               494 __init__.py
@@ -7955,16 +7458,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\connectors\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               618 __init__.cpython-314.pyc
-12/03/2026  22:31            29.887 asyncio.cpython-314.pyc
-               2 archivos         30.505 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\cyextension
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               299 immutabledict.pxd
 07/03/2026  21:04               250 __init__.py
 07/03/2026  21:04            68.608 immutabledict.cp314-win_amd64.pyd
@@ -7982,9 +7483,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\cyextension\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               175 __init__.cpython-314.pyc
-               1 archivos            175 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\dialects
 
@@ -7995,7 +7495,7 @@
 07/03/2026  21:04    <DIR>          oracle
 07/03/2026  21:04    <DIR>          postgresql
 07/03/2026  21:04    <DIR>          sqlite
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.860 __init__.py
 07/03/2026  21:04             1.001 _typing.py
 07/03/2026  21:04             8.384 type_migration_guidelines.txt
@@ -8079,7 +7579,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            42.261 asyncpg.py
 07/03/2026  21:04           196.925 base.py
 07/03/2026  21:04            12.465 dml.py
@@ -8104,26 +7604,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\dialects\postgresql\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            21.951 array.cpython-314.pyc
-12/03/2026  22:31            61.524 asyncpg.cpython-314.pyc
-12/03/2026  22:31           226.034 base.cpython-314.pyc
-12/03/2026  22:31            13.048 dml.cpython-314.pyc
-12/03/2026  22:31            21.181 ext.cpython-314.pyc
-12/03/2026  22:31            15.306 hstore.cpython-314.pyc
-12/03/2026  22:31            18.554 json.cpython-314.pyc
-12/03/2026  22:31            24.497 named_types.cpython-314.pyc
-12/03/2026  22:31             2.118 operators.cpython-314.pyc
-12/03/2026  22:31            31.898 pg8000.cpython-314.pyc
-12/03/2026  22:31            12.436 pg_catalog.cpython-314.pyc
-12/03/2026  22:31            42.539 psycopg.cpython-314.pyc
-12/03/2026  22:31            36.605 psycopg2.cpython-314.pyc
-12/03/2026  22:31             2.230 psycopg2cffi.cpython-314.pyc
-12/03/2026  22:31            43.087 ranges.cpython-314.pyc
-12/03/2026  22:31            13.752 types.cpython-314.pyc
-12/03/2026  22:31             8.406 _psycopg_common.cpython-314.pyc
-12/03/2026  22:31             3.408 __init__.cpython-314.pyc
-              18 archivos        598.574 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\dialects\sqlite
 
@@ -8149,16 +7631,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\dialects\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             2.069 __init__.cpython-314.pyc
-12/03/2026  22:31             1.148 _typing.cpython-314.pyc
-               2 archivos          3.217 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\engine
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.920 characteristics.py
 07/03/2026  21:04            35.078 create.py
 07/03/2026  21:04            83.084 cursor.py
@@ -8183,31 +7663,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\engine\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           146.005 base.cpython-314.pyc
-12/03/2026  22:31             8.442 characteristics.cpython-314.pyc
-12/03/2026  22:31            35.994 create.cpython-314.pyc
-12/03/2026  22:31            95.514 cursor.cpython-314.pyc
-12/03/2026  22:31            96.494 default.cpython-314.pyc
-12/03/2026  22:31            40.240 events.cpython-314.pyc
-12/03/2026  22:31           112.949 interfaces.cpython-314.pyc
-12/03/2026  22:31             6.524 mock.cpython-314.pyc
-12/03/2026  22:31             1.289 processors.cpython-314.pyc
-12/03/2026  22:31            87.694 reflection.cpython-314.pyc
-12/03/2026  22:31           113.193 result.cpython-314.pyc
-12/03/2026  22:31            22.638 row.cpython-314.pyc
-12/03/2026  22:31               577 strategies.cpython-314.pyc
-12/03/2026  22:31            37.735 url.cpython-314.pyc
-12/03/2026  22:31             8.402 util.cpython-314.pyc
-12/03/2026  22:31             6.026 _py_processors.cpython-314.pyc
-12/03/2026  22:31             2.244 __init__.cpython-314.pyc
-              17 archivos        821.960 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\event
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             8.329 api.py
 07/03/2026  21:04             8.715 legacy.py
 07/03/2026  21:04            11.534 registry.py
@@ -8219,14 +7682,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\event\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            42.434 attr.cpython-314.pyc
-12/03/2026  22:31            25.927 base.cpython-314.pyc
-12/03/2026  22:31            11.525 legacy.cpython-314.pyc
-12/03/2026  22:31            15.218 registry.cpython-314.pyc
-12/03/2026  22:31               858 __init__.cpython-314.pyc
-12/03/2026  22:31             9.441 api.cpython-314.pyc
-               6 archivos        105.403 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\ext
 
@@ -8234,7 +7691,7 @@
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          mypy
 07/03/2026  21:04    <DIR>          asyncio
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          declarative
 07/03/2026  21:04            21.489 compiler.py
 07/03/2026  21:04            18.323 baked.py
@@ -8308,15 +7765,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\ext\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               330 __init__.cpython-314.pyc
-12/03/2026  22:31            22.364 compiler.cpython-314.pyc
-               2 archivos         22.694 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\future
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               528 __init__.py
 07/03/2026  21:04               510 engine.py
@@ -8325,14 +7780,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\future\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\orm
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            28.472 base.py
 07/03/2026  21:04            75.118 bulk_persistence.py
 07/03/2026  21:04            18.523 clsregistry.py
@@ -8376,13 +7831,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\orm\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\pool
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            19.894 impl.py
 07/03/2026  21:04             1.848 __init__.py
@@ -8393,18 +7848,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\pool\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            15.081 events.cpython-314.pyc
-12/03/2026  22:31            32.032 impl.cpython-314.pyc
-12/03/2026  22:31             1.486 __init__.cpython-314.pyc
-12/03/2026  22:31            68.054 base.cpython-314.pyc
-               4 archivos        116.653 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\sql
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            81.270 base.py
 07/03/2026  21:04            34.710 cache_key.py
 07/03/2026  21:04            42.186 coercions.py
@@ -8441,37 +7892,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\sql\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            26.970 annotation.cpython-314.pyc
-12/03/2026  22:31           121.244 base.cpython-314.pyc
-12/03/2026  22:31            42.833 cache_key.cpython-314.pyc
-12/03/2026  22:31            56.963 coercions.cpython-314.pyc
-12/03/2026  22:31           313.133 compiler.cpython-314.pyc
-12/03/2026  22:31            53.810 crud.cpython-314.pyc
-12/03/2026  22:31            62.020 ddl.cpython-314.pyc
-12/03/2026  22:31            21.663 default_comparator.cpython-314.pyc
-12/03/2026  22:31            81.344 dml.cpython-314.pyc
-12/03/2026  22:31           255.509 elements.cpython-314.pyc
-12/03/2026  22:31            18.235 events.cpython-314.pyc
-12/03/2026  22:31             5.114 expression.cpython-314.pyc
-12/03/2026  22:31            91.303 functions.cpython-314.pyc
-12/03/2026  22:31            57.738 lambdas.cpython-314.pyc
-12/03/2026  22:31             8.858 naming.cpython-314.pyc
-12/03/2026  22:31           105.551 operators.cpython-314.pyc
-12/03/2026  22:31            13.773 roles.cpython-314.pyc
-12/03/2026  22:31           265.603 schema.cpython-314.pyc
-12/03/2026  22:31           296.672 selectable.cpython-314.pyc
-12/03/2026  22:31           165.438 sqltypes.cpython-314.pyc
-12/03/2026  22:31            45.656 traversals.cpython-314.pyc
-12/03/2026  22:31            99.813 type_api.cpython-314.pyc
-12/03/2026  22:31            62.685 util.cpython-314.pyc
-12/03/2026  22:31            43.031 visitors.cpython-314.pyc
-12/03/2026  22:31             4.158 _dml_constructors.cpython-314.pyc
-12/03/2026  22:31            65.449 _elements_constructors.cpython-314.pyc
-12/03/2026  22:31            28.555 _selectable_constructors.cpython-314.pyc
-12/03/2026  22:31            20.146 _typing.cpython-314.pyc
-12/03/2026  22:31             4.783 __init__.cpython-314.pyc
-              29 archivos      2.438.050 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\testing
 
@@ -8570,7 +7992,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.460 concurrency.py
 07/03/2026  21:04            12.413 deprecations.py
 07/03/2026  21:04            67.075 langhelpers.py
@@ -8590,32 +8012,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\util\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            18.442 compat.cpython-314.pyc
-12/03/2026  22:31             4.797 concurrency.cpython-314.pyc
-12/03/2026  22:31            16.486 deprecations.cpython-314.pyc
-12/03/2026  22:31           100.063 langhelpers.cpython-314.pyc
-12/03/2026  22:31             6.241 preloaded.cpython-314.pyc
-12/03/2026  22:31            18.931 queue.cpython-314.pyc
-12/03/2026  22:31             4.478 topological.cpython-314.pyc
-12/03/2026  22:31            33.998 typing.cpython-314.pyc
-12/03/2026  22:31            41.734 _collections.cpython-314.pyc
-12/03/2026  22:31            14.312 _concurrency_py3k.cpython-314.pyc
-12/03/2026  22:31             1.319 _has_cy.cpython-314.pyc
-12/03/2026  22:31             5.712 __init__.cpython-314.pyc
-              12 archivos        266.513 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             8.353 inspection.cpython-314.pyc
-12/03/2026  22:31            14.668 log.cpython-314.pyc
-12/03/2026  22:31             2.341 schema.cpython-314.pyc
-12/03/2026  22:31             2.251 types.cpython-314.pyc
-12/03/2026  22:31             9.549 __init__.cpython-314.pyc
-12/03/2026  22:31            35.748 exc.cpython-314.pyc
-               6 archivos         72.910 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\sqlalchemy-2.0.48.dist-info
 
@@ -8641,7 +8045,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          middleware
 07/03/2026  21:04             1.257 background.py
 07/03/2026  21:04             1.746 concurrency.py
@@ -8673,7 +8077,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             8.971 base.py
 07/03/2026  21:04             7.051 cors.py
 07/03/2026  21:04             8.066 errors.py
@@ -8690,34 +8094,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\starlette\middleware\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            11.556 errors.cpython-314.pyc
-12/03/2026  22:31             4.965 exceptions.cpython-314.pyc
-12/03/2026  22:31             3.229 __init__.cpython-314.pyc
-12/03/2026  22:31            14.129 base.cpython-314.pyc
-               4 archivos         33.879 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\starlette\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            15.727 applications.cpython-314.pyc
-12/03/2026  22:31             3.495 background.cpython-314.pyc
-12/03/2026  22:31             4.099 concurrency.cpython-314.pyc
-12/03/2026  22:31             7.051 convertors.cpython-314.pyc
-12/03/2026  22:31            53.006 datastructures.cpython-314.pyc
-12/03/2026  22:31             3.379 exceptions.cpython-314.pyc
-12/03/2026  22:31            17.412 formparsers.cpython-314.pyc
-12/03/2026  22:31            21.085 requests.cpython-314.pyc
-12/03/2026  22:31            34.312 responses.cpython-314.pyc
-12/03/2026  22:31            55.424 routing.cpython-314.pyc
-12/03/2026  22:31             3.541 status.cpython-314.pyc
-12/03/2026  22:31             1.936 types.cpython-314.pyc
-12/03/2026  22:31            15.035 websockets.cpython-314.pyc
-12/03/2026  22:31             3.912 _exception_handler.cpython-314.pyc
-12/03/2026  22:31             6.870 _utils.cpython-314.pyc
-12/03/2026  22:31               189 __init__.cpython-314.pyc
-              16 archivos        246.473 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\starlette-0.46.2.dist-info
 
@@ -8744,7 +8128,7 @@
 07/03/2026  21:04    <DIR>          _tools
 07/03/2026  21:04    <DIR>          _tests
 07/03/2026  21:04    <DIR>          _subprocess_platform
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          _core
 07/03/2026  21:04    <DIR>          testing
 07/03/2026  21:04               228 to_thread.py
@@ -8810,7 +8194,7 @@
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          _tests
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             9.427 _entry_queue.py
 07/03/2026  21:04             5.785 _exceptions.py
 07/03/2026  21:04             1.627 _generated_instrumentation.py
@@ -8889,36 +8273,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio\_core\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             9.569 _asyncgens.cpython-314.pyc
-12/03/2026  22:31               996 _concat_tb.cpython-314.pyc
-12/03/2026  22:31             9.997 _entry_queue.cpython-314.pyc
-12/03/2026  22:31             7.670 _exceptions.cpython-314.pyc
-12/03/2026  22:31             2.207 _generated_instrumentation.cpython-314.pyc
-12/03/2026  22:31             8.848 _generated_io_windows.cpython-314.pyc
-12/03/2026  22:31            11.820 _generated_run.cpython-314.pyc
-12/03/2026  22:31             2.550 _generated_windows_ffi.cpython-314.pyc
-12/03/2026  22:31             5.652 _instrumentation.cpython-314.pyc
-12/03/2026  22:31             1.417 _io_common.cpython-314.pyc
-12/03/2026  22:31            37.053 _io_windows.cpython-314.pyc
-12/03/2026  22:31            10.972 _ki.cpython-314.pyc
-12/03/2026  22:31             5.719 _local.cpython-314.pyc
-12/03/2026  22:31             9.522 _mock_clock.cpython-314.pyc
-12/03/2026  22:31            12.577 _parking_lot.cpython-314.pyc
-12/03/2026  22:31           134.388 _run.cpython-314.pyc
-12/03/2026  22:31               822 _run_context.cpython-314.pyc
-12/03/2026  22:31            11.222 _thread_cache.cpython-314.pyc
-12/03/2026  22:31            13.461 _traps.cpython-314.pyc
-12/03/2026  22:31             8.891 _unbounded_queue.cpython-314.pyc
-12/03/2026  22:31             5.095 _wakeup_socketpair.cpython-314.pyc
-12/03/2026  22:31            14.486 _windows_cffi.cpython-314.pyc
-12/03/2026  22:31             3.026 __init__.cpython-314.pyc
-              23 archivos        327.960 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio\_subprocess_platform
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               365 windows.py
 07/03/2026  21:04             4.699 __init__.py
@@ -8929,10 +8290,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio\_subprocess_platform\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             6.456 __init__.cpython-314.pyc
-12/03/2026  22:31               827 windows.cpython-314.pyc
-               2 archivos          7.283 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio\_tests
 
@@ -9044,38 +8403,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               478 abc.cpython-314.pyc
-12/03/2026  22:31               530 from_thread.cpython-314.pyc
-12/03/2026  22:31             2.619 lowlevel.cpython-314.pyc
-12/03/2026  22:31            16.775 socket.cpython-314.pyc
-12/03/2026  22:31               302 to_thread.cpython-314.pyc
-12/03/2026  22:31            31.991 _abc.cpython-314.pyc
-12/03/2026  22:31            36.721 _channel.cpython-314.pyc
-12/03/2026  22:31             8.592 _deprecate.cpython-314.pyc
-12/03/2026  22:31            59.026 _dtls.cpython-314.pyc
-12/03/2026  22:31            39.708 _file_io.cpython-314.pyc
-12/03/2026  22:31             7.477 _highlevel_generic.cpython-314.pyc
-12/03/2026  22:31             9.113 _highlevel_open_tcp_listeners.cpython-314.pyc
-12/03/2026  22:31            11.019 _highlevel_open_tcp_stream.cpython-314.pyc
-12/03/2026  22:31             3.108 _highlevel_open_unix_stream.cpython-314.pyc
-12/03/2026  22:31             6.527 _highlevel_serve_listeners.cpython-314.pyc
-12/03/2026  22:31            16.368 _highlevel_socket.cpython-314.pyc
-12/03/2026  22:31             7.128 _highlevel_ssl_helpers.cpython-314.pyc
-12/03/2026  22:31            17.713 _path.cpython-314.pyc
-12/03/2026  22:31             8.696 _signals.cpython-314.pyc
-12/03/2026  22:31            57.307 _socket.cpython-314.pyc
-12/03/2026  22:31            30.836 _ssl.cpython-314.pyc
-12/03/2026  22:31            55.079 _subprocess.cpython-314.pyc
-12/03/2026  22:31            48.039 _sync.cpython-314.pyc
-12/03/2026  22:31            32.451 _threads.cpython-314.pyc
-12/03/2026  22:31             8.875 _timeouts.cpython-314.pyc
-12/03/2026  22:31            17.100 _util.cpython-314.pyc
-12/03/2026  22:31               186 _version.cpython-314.pyc
-12/03/2026  22:31             2.861 _wait_for_object.cpython-314.pyc
-12/03/2026  22:31             9.128 _windows_pipes.cpython-314.pyc
-12/03/2026  22:31             3.417 __init__.cpython-314.pyc
-              30 archivos        549.170 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\trio-0.33.0.dist-info
 
@@ -9149,7 +8478,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\typing_inspection
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            17.166 typing_objects.py
 07/03/2026  21:04                 0 __init__.py
@@ -9161,11 +8490,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\typing_inspection\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            18.762 typing_objects.cpython-314.pyc
-12/03/2026  22:31               170 __init__.cpython-314.pyc
-12/03/2026  22:31            19.510 introspection.cpython-314.pyc
-               3 archivos         38.442 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\typing_inspection-0.4.2.dist-info
 
@@ -9190,7 +8516,7 @@
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          zoneinfo
 07/03/2026  21:04             9.102 zones
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               252 __init__.py
                2 archivos          9.354 bytes
@@ -9232,7 +8558,7 @@
 07/03/2026  21:04               130 Iceland
 07/03/2026  21:04    <DIR>          Indian
 07/03/2026  21:04               812 Iran
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.074 Israel
 07/03/2026  21:04               339 Jamaica
 07/03/2026  21:04               213 Japan
@@ -9971,14 +9297,14 @@
 07/03/2026  21:04               478 Zagreb
 07/03/2026  21:04               558 Zaporozhye
 07/03/2026  21:04               497 Zurich
-12/03/2026  18:44    <DIR>          __pycache__
+13/03/2026  00:13    <DIR>          __pycache__
 07/03/2026  21:04                 0 __init__.py
               65 archivos         52.722 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\tzdata\zoneinfo\Europe\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  18:44    <DIR>          .
+13/03/2026  00:13    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\tzdata\zoneinfo\Indian
@@ -10110,13 +9436,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\tzdata\zoneinfo\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\tzdata\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\tzdata-2025.3.dist-info
@@ -10151,7 +9477,7 @@
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          util
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          contrib
 07/03/2026  21:04    <DIR>          http2
 07/03/2026  21:04            10.829 fields.py
@@ -10173,7 +9499,7 @@
 
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          emscripten
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
 07/03/2026  21:04             7.547 socks.py
@@ -10202,15 +9528,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\contrib\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               168 __init__.cpython-314.pyc
-12/03/2026  22:31             8.936 socks.cpython-314.pyc
-               2 archivos          9.104 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\http2
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             1.741 __init__.py
 07/03/2026  21:04             3.014 probe.py
@@ -10220,16 +9544,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\http2\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             2.034 __init__.cpython-314.pyc
-12/03/2026  22:31             4.615 probe.cpython-314.pyc
-               2 archivos          6.649 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\util
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.148 proxy.py
 07/03/2026  21:04             8.363 request.py
 07/03/2026  21:04             3.374 response.py
@@ -10248,39 +9570,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\util\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             5.414 connection.cpython-314.pyc
-12/03/2026  22:31             1.335 proxy.cpython-314.pyc
-12/03/2026  22:31             9.133 request.cpython-314.pyc
-12/03/2026  22:31             3.337 response.cpython-314.pyc
-12/03/2026  22:31            23.013 retry.cpython-314.pyc
-12/03/2026  22:31            17.370 ssltransport.cpython-314.pyc
-12/03/2026  22:31            18.891 ssl_.cpython-314.pyc
-12/03/2026  22:31             6.179 ssl_match_hostname.cpython-314.pyc
-12/03/2026  22:31            12.720 timeout.cpython-314.pyc
-12/03/2026  22:31            19.038 url.cpython-314.pyc
-12/03/2026  22:31             2.489 util.cpython-314.pyc
-12/03/2026  22:31             4.511 wait.cpython-314.pyc
-12/03/2026  22:31               976 __init__.cpython-314.pyc
-              13 archivos        124.406 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            43.966 connection.cpython-314.pyc
-12/03/2026  22:31            43.494 connectionpool.cpython-314.pyc
-12/03/2026  22:31            20.460 exceptions.cpython-314.pyc
-12/03/2026  22:31            13.177 fields.cpython-314.pyc
-12/03/2026  22:31             3.914 filepost.cpython-314.pyc
-12/03/2026  22:31            26.310 poolmanager.cpython-314.pyc
-12/03/2026  22:31            69.885 response.cpython-314.pyc
-12/03/2026  22:31             8.308 _base_connection.cpython-314.pyc
-12/03/2026  22:31            29.348 _collections.cpython-314.pyc
-12/03/2026  22:31            10.607 _request_methods.cpython-314.pyc
-12/03/2026  22:31             1.300 _version.cpython-314.pyc
-12/03/2026  22:31             7.615 __init__.cpython-314.pyc
-              12 archivos        278.384 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\urllib3-2.6.3.dist-info
 
@@ -10309,7 +9606,7 @@
 07/03/2026  21:04    <DIR>          lifespan
 07/03/2026  21:04    <DIR>          middleware
 07/03/2026  21:04    <DIR>          loops
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             4.236 logging.py
 07/03/2026  21:04             1.128 importer.py
 07/03/2026  21:04                62 __main__.py
@@ -10326,7 +9623,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\lifespan
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
 07/03/2026  21:04             5.184 on.py
@@ -10336,13 +9633,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\lifespan\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\loops
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               148 uvloop.py
 07/03/2026  21:04                 0 __init__.py
@@ -10353,13 +9650,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\loops\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\middleware
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04             3.065 proxy_headers.py
 07/03/2026  21:04             7.111 wsgi.py
@@ -10371,19 +9668,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\middleware\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31             5.517 message_logger.cpython-314.pyc
-12/03/2026  22:31             4.266 proxy_headers.cpython-314.pyc
-12/03/2026  22:31            11.489 wsgi.cpython-314.pyc
-12/03/2026  22:31               171 __init__.cpython-314.pyc
-12/03/2026  22:31             1.448 asgi2.cpython-314.pyc
-               5 archivos         22.891 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols
 
 07/03/2026  21:04    <DIR>          ..
 07/03/2026  21:04    <DIR>          http
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          websockets
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04                 0 __init__.py
@@ -10393,7 +9685,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols\http
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            20.765 h11_impl.py
 07/03/2026  21:04            21.491 httptools_impl.py
@@ -10405,13 +9697,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols\http\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols\websockets
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04            15.341 wsproto_impl.py
 07/03/2026  21:04                 0 __init__.py
@@ -10422,20 +9714,20 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols\websockets\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\protocols\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\supervisors
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             3.831 basereload.py
 07/03/2026  21:04             3.010 watchfilesreload.py
 07/03/2026  21:04             5.486 watchgodreload.py
@@ -10447,26 +9739,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\supervisors\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            16.889 multiprocess.cpython-314.pyc
-12/03/2026  22:31             5.407 watchfilesreload.cpython-314.pyc
-12/03/2026  22:31               959 __init__.cpython-314.pyc
-12/03/2026  22:31             8.467 basereload.cpython-314.pyc
-               4 archivos         31.722 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            27.874 config.cpython-314.pyc
-12/03/2026  22:31             1.993 importer.cpython-314.pyc
-12/03/2026  22:31             9.142 logging.cpython-314.pyc
-12/03/2026  22:31            20.560 main.cpython-314.pyc
-12/03/2026  22:31            19.169 server.cpython-314.pyc
-12/03/2026  22:31             3.134 _subprocess.cpython-314.pyc
-12/03/2026  22:31            12.326 _types.cpython-314.pyc
-12/03/2026  22:31               358 __init__.cpython-314.pyc
-               8 archivos         94.556 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\uvicorn-0.30.6.dist-info
 
@@ -10492,7 +9772,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.620 abstract.py
 07/03/2026  21:04             2.960 synchronization.py
 07/03/2026  21:04               853 utils.py
@@ -10504,7 +9784,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\vine\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\vine-5.1.0.dist-info
@@ -10523,7 +9803,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             5.288 filters.py
 07/03/2026  21:04            15.608 main.py
 07/03/2026  21:04                63 __main__.py
@@ -10539,13 +9819,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\watchfiles\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31            20.126 main.cpython-314.pyc
-12/03/2026  22:31            23.462 run.cpython-314.pyc
-12/03/2026  22:31               256 version.cpython-314.pyc
-12/03/2026  22:31               522 __init__.cpython-314.pyc
-12/03/2026  22:31             9.088 filters.cpython-314.pyc
-               5 archivos         53.454 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\watchfiles-1.1.1.dist-info
 
@@ -10570,7 +9845,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04             1.579 control_codes.py
 07/03/2026  21:04             3.097 escape_sequences.py
 07/03/2026  21:04            13.382 grapheme.py
@@ -10592,7 +9867,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\wcwidth\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\wcwidth-0.6.0.dist-info
@@ -10767,7 +10042,7 @@
 09/03/2026  06:12    <DIR>          ..
 07/03/2026  21:04    <DIR>          asyncio
 07/03/2026  21:04    <DIR>          sync
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          legacy
 07/03/2026  21:04    <DIR>          extensions
 07/03/2026  21:04             6.149 speedups.c
@@ -10801,7 +10076,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04               816 compatibility.py
 07/03/2026  21:04             9.253 async_timeout.py
 07/03/2026  21:04            11.445 messages.py
@@ -10815,13 +10090,13 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\asyncio\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\extensions
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04               102 __init__.py
 07/03/2026  21:04            26.469 permessage_deflate.py
@@ -10831,14 +10106,14 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\extensions\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\legacy
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            27.518 client.py
 07/03/2026  21:04             1.995 exceptions.py
 07/03/2026  21:04             6.590 framing.py
@@ -10853,7 +10128,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\legacy\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\sync
@@ -10879,7 +10154,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\websockets-16.0.dist-info
@@ -11175,7 +10450,7 @@
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            47.709 commctrl.py
 07/03/2026  21:04            31.230 mmsystem.py
 07/03/2026  21:04             6.895 netbios.py
@@ -11214,9 +10489,8 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\win32\lib\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               546 pywin32_bootstrap.cpython-314.pyc
-               1 archivos            546 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\win32\libs
 
@@ -12162,7 +11436,7 @@
 
 07/03/2026  21:04    <DIR>          .
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  19:24    <DIR>          __pycache__
+13/03/2026  00:49    <DIR>          __pycache__
 07/03/2026  21:04            28.639 constructor.py
 07/03/2026  21:04             3.851 cyaml.py
 07/03/2026  21:04             2.837 dumper.py
@@ -12186,7 +11460,7 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\yaml\__pycache__
 
 07/03/2026  21:04    <DIR>          ..
-12/03/2026  19:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\_yaml
@@ -12206,19 +11480,17 @@
  Directorio de C:\BookingScraper\.venv\Lib\site-packages\__pycache__
 
 09/03/2026  06:12    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31           175.501 typing_extensions.cpython-314.pyc
-12/03/2026  22:31            35.088 socks.cpython-314.pyc
-               2 archivos        210.589 bytes
+13/03/2026  00:49    <DIR>          .
+               0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\.venv\Scripts
 
 07/03/2026  21:04    <DIR>          .
 07/03/2026  21:03    <DIR>          ..
-12/03/2026  22:29             2.166 activate
+13/03/2026  00:34             2.166 activate
 07/03/2026  22:22    <DIR>          __pycache__
 03/02/2026  17:31               393 deactivate.bat
-12/03/2026  22:29             1.001 activate.bat
+13/03/2026  00:34             1.001 activate.bat
 07/03/2026  21:04           108.340 celery.exe
 07/03/2026  21:04           108.339 alembic.exe
 07/03/2026  21:04           108.342 wsdump.exe
@@ -12237,7 +11509,7 @@
 07/03/2026  21:04           108.354 pywin32_testall.exe
 07/03/2026  21:04           108.337 watchfiles.exe
 07/03/2026  21:04           108.337 uvicorn.exe
-12/03/2026  22:29             2.260 activate.fish
+13/03/2026  00:34             2.260 activate.fish
 03/02/2026  17:33             9.031 Activate.ps1
 07/03/2026  21:04            25.736 pywin32_postinstall.py
 07/03/2026  21:04             3.847 pywin32_testall.py
@@ -12251,16 +11523,16 @@
 
  Directorio de C:\BookingScraper\app
 
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:36    <DIR>          ..
-12/03/2026  22:31    <DIR>          __pycache__
+13/03/2026  00:56    <DIR>          ..
+13/03/2026  00:49    <DIR>          .
+07/03/2026  20:54             1.296 alembic_env.py
 08/03/2026  09:26             2.849 celery_app.py
 07/03/2026  20:54             5.306 completeness_service.py
 11/03/2026  15:31            21.409 config.py
 07/03/2026  20:54             8.914 database.py
 12/03/2026  17:54            32.582 extractor.py
 10/03/2026  11:03            11.578 image_downloader.py
-07/03/2026  20:54             1.296 alembic_env.py
+13/03/2026  00:11            40.089 main.py
 12/03/2026  17:54            22.591 models.py
 10/03/2026  19:35            48.954 scraper.py
 12/03/2026  17:54            26.377 scraper_service.py
@@ -12268,49 +11540,41 @@
 07/03/2026  20:54               487 vpn_manager.py
 11/03/2026  15:31            22.755 vpn_manager_windows.py
 12/03/2026  18:20               471 __init__.py
-12/03/2026  19:05            39.804 main.py
-              15 archivos        259.209 bytes
-
- Directorio de C:\BookingScraper\app\__pycache__
-
-12/03/2026  22:31    <DIR>          ..
-12/03/2026  22:31    <DIR>          .
-12/03/2026  22:31               645 __init__.cpython-314.pyc
-12/03/2026  22:31            23.893 config.cpython-314.pyc
-               2 archivos         24.538 bytes
+              15 archivos        259.494 bytes
 
  Directorio de C:\BookingScraper\backups
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
                1 archivos              0 bytes
 
  Directorio de C:\BookingScraper\data
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
+07/03/2026  20:54    <DIR>          logs
 07/03/2026  20:54    <DIR>          exports
 12/03/2026  17:56    <DIR>          images
-07/03/2026  20:54    <DIR>          logs
-07/03/2026  20:54    <DIR>          .
-               0 archivos              0 bytes
+13/03/2026  00:10    <DIR>          .
+13/03/2026  00:10             8.018 dump.rdb
+               1 archivos          8.018 bytes
 
  Directorio de C:\BookingScraper\data\exports
 
-07/03/2026  20:54    <DIR>          ..
+13/03/2026  00:10    <DIR>          ..
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
                1 archivos              0 bytes
 
  Directorio de C:\BookingScraper\data\images
 
-07/03/2026  20:54    <DIR>          ..
+13/03/2026  00:10    <DIR>          ..
 12/03/2026  17:56    <DIR>          .
                0 archivos              0 bytes
 
  Directorio de C:\BookingScraper\data\logs
 
-07/03/2026  20:54    <DIR>          ..
+13/03/2026  00:10    <DIR>          ..
 07/03/2026  20:54    <DIR>          debug
 07/03/2026  20:54    <DIR>          .
                0 archivos              0 bytes
@@ -12324,7 +11588,7 @@
 
  Directorio de C:\BookingScraper\docs
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
 07/03/2026  20:54             3.492 WINDOWS_SETUP.md
@@ -12332,32 +11596,29 @@
 
  Directorio de C:\BookingScraper\drivers
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 09/03/2026  06:24    <DIR>          .
 09/03/2026  06:24        20.134.912 chromedriver.exe
                1 archivos     20.134.912 bytes
 
  Directorio de C:\BookingScraper\logs
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  20:54    <DIR>          debug
-12/03/2026  22:24    <DIR>          .
+13/03/2026  00:49    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
-12/03/2026  22:33            12.543 memurai.log
-12/03/2026  19:11             1.188 bookingscraper.log
-12/03/2026  22:13            10.446 memurai.md
-               4 archivos         24.177 bytes
+               1 archivos              0 bytes
 
  Directorio de C:\BookingScraper\logs\debug
 
-12/03/2026  22:24    <DIR>          ..
+13/03/2026  00:49    <DIR>          ..
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
                1 archivos              0 bytes
 
  Directorio de C:\BookingScraper\migrations
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  20:54    <DIR>          versions
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54               512 script.py.mako
@@ -12374,7 +11635,7 @@
 
  Directorio de C:\BookingScraper\scripts
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 12/03/2026  22:09    <DIR>          .
 07/03/2026  20:54             1.495 create_project_structure.py
 11/03/2026  15:31               589 create_tables.py
@@ -12387,14 +11648,14 @@
 
  Directorio de C:\BookingScraper\templates
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 07/03/2026  20:54    <DIR>          .
 07/03/2026  20:54                 0 .gitkeep
                1 archivos              0 bytes
 
  Directorio de C:\BookingScraper\tests
 
-12/03/2026  22:36    <DIR>          ..
+13/03/2026  00:56    <DIR>          ..
 11/03/2026  15:37    <DIR>          .
 11/03/2026  15:31             3.624 conftest.py
 07/03/2026  20:54             4.318 test_completeness.py
@@ -12406,5 +11667,5 @@
                7 archivos         26.230 bytes
 
      Total de archivos en la lista:
-            5483 archivos    135.140.570 bytes
-            2965 dirs  308.452.028.416 bytes libres
+            4751 archivos    119.120.561 bytes
+            2962 dirs  308.537.065.472 bytes libres
