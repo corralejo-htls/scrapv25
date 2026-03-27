@@ -1,6 +1,0 @@
-{"time":"2026-03-26T16:44:53","level":"INFO","logger":"app.main","msg":Starting BookingScraper Pro v6.0.0 build 58 | platform=win32}
-{"time":"2026-03-26T16:44:55","level":"INFO","logger":"app.database","msg":Database engine created: host=localhost db=bookingscraper pool_size=10 max_overflow=5}
-{"time":"2026-03-26T16:46:37","level":"INFO","logger":"app.main","msg":load-csv completado — insertadas: 13  external_ref actualizado: 0  sin cambios: 0  invalidas: 0}
-{"time":"2026-03-26T22:19:44","level":"INFO","logger":"app.main","msg":Starting BookingScraper Pro v6.0.0 build 58 | platform=win32}
-{"time":"2026-03-26T22:19:44","level":"INFO","logger":"app.database","msg":Database engine created: host=localhost db=bookingscraper pool_size=10 max_overflow=5}
-{"time":"2026-03-26T22:20:37","level":"INFO","logger":"app.main","msg":load-csv completado — insertadas: 13  external_ref actualizado: 0  sin cambios: 0  invalidas: 0}
