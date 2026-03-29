@@ -1,5 +1,5 @@
 # BookingScraper System Documentation
-## Version 6.0.0 Build 59
+## Version 6.0.0 Build 60
 
 ---
 
