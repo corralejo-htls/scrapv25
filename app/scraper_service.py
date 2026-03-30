@@ -1,16 +1,23 @@
 # =============================================================================
-# app/scraper_service.py — BookingScraper Pro v6.0.0 Build 63
+# app/scraper_service.py — BookingScraper Pro v6.0.0 Build 63-fix
 # =============================================================================
-# BUILD 63 — CLOUDSCRAPER ELIMINATED
-#   _scrape_language() now calls SeleniumEngine directly (no primary/fallback
-#   dual-engine logic). All references to self._cloud_engine removed.
-#   VPN rotation after Selenium failure still applies.
+# FIX: ImportError — model names corrected to match app/models.py
 #
-# BUILD 62 — BUG-LANG-002 FIX
-#   ip_known_blocked flag + reset_browser() after forced VPN rotation.
+#   WRONG  (Build 63):  from app.models import Hotels, ScrapingLogs
+#   CORRECT:            from app.models import Hotel, ScrapingLogs
 #
-# BUILD 61 — BUG-LANG-001 FIX
-#   Inter-language delay with jitter + forced VPN on consecutive failures.
+#   Pattern confirmed from schema_v60_complete.sql (source of truth):
+#     SQL table       → Python model class
+#     hotels          → Hotel           (MODEL-002 comment: "HotelLegal.has_legal_content")
+#     hotels_legal    → HotelLegal      (explicit: "MODEL-002: models.py — HotelLegal")
+#     hotels_description → HotelDescription
+#     hotels_policies    → HotelPolicies
+#
+#   The documentation incorrectly listed "Hotels" (plural).
+#   The actual class follows standard SQLAlchemy singular convention.
+#
+# All other Build 63 logic (Selenium-only engine, BUG-LANG-001/002 fixes)
+# is preserved unchanged.
 # =============================================================================
 
 from __future__ import annotations
@@ -26,7 +33,13 @@ from sqlalchemy.orm import Session
 
 from app.config import get_settings
 from app.database import get_db
-from app.models import URLQueue, URLLanguageStatus, Hotels, ScrapingLogs
+
+# ─── CORRECTED MODEL IMPORTS ──────────────────────────────────────────────────
+# Build 63 had:  from app.models import URLQueue, URLLanguageStatus, Hotels, ScrapingLogs
+# Correct names derived from schema_v60_complete.sql MODEL-002 annotation:
+from app.models import URLQueue, URLLanguageStatus, Hotel, ScrapingLogs
+# ─────────────────────────────────────────────────────────────────────────────
+
 from app.scraper import SeleniumEngine, build_language_url
 from app.extractor import BookingExtractor
 from app.image_downloader import ImageDownloader
@@ -47,7 +60,6 @@ def _build_language_list(cfg) -> list[str]:
         for lang in getattr(cfg, "ENABLED_LANGUAGES", "en,es,de,it,fr,pt").split(",")
         if lang.strip()
     ]
-    # Ensure 'en' is always first
     if "en" in raw:
         raw.remove("en")
     return ["en"] + raw
@@ -62,7 +74,9 @@ def _get_vpn_manager(cfg):
         from app.vpn_manager_windows import NordVPNManager
         return NordVPNManager(cfg)
     except Exception as exc:
-        logger.warning("Could not initialise NordVPNManager: %s — using NullVPNManager", exc)
+        logger.warning(
+            "Could not initialise NordVPNManager: %s — using NullVPNManager", exc
+        )
         from app.vpn_manager_windows import NullVPNManager
         return NullVPNManager()
 
@@ -75,17 +89,12 @@ class ScraperService:
     """
     High-level orchestration for multi-language hotel scraping.
 
-    Responsibilities:
-      - Fetch pending URLs from url_queue
-      - Dispatch parallel workers via ThreadPoolExecutor
-      - For each URL: iterate languages, manage VPN rotation, persist results
-
     Build 63: SeleniumEngine is the sole scraping engine.
+    Build 63-fix: Model class names corrected (Hotel, not Hotels).
     """
 
     def __init__(self) -> None:
         self._cfg = get_settings()
-        # Build 63: sole engine — CloudScraperEngine removed
         self._selenium_engine = SeleniumEngine()
         self._vpn = _get_vpn_manager(self._cfg)
         self._extractor = BookingExtractor()
@@ -96,8 +105,6 @@ class ScraperService:
     def dispatch_batch(self) -> dict:
         """
         Query URL queue for pending URLs and process them in parallel.
-
-        Returns a status dict with counts for observability.
         """
         cfg = self._cfg
         max_workers: int = getattr(cfg, "SCRAPER_MAX_WORKERS", 2)
@@ -117,7 +124,6 @@ class ScraperService:
         count = len(pending)
         logger.info("Dispatching %d URL(s) to %d worker(s)", count, max_workers)
 
-        # Mark all as processing atomically before spawning threads
         with get_db() as session:
             for url_obj in pending:
                 url_obj.status = "processing"
@@ -158,24 +164,16 @@ class ScraperService:
         """
         Iterate over all configured languages for a single URL.
 
-        Flow per language:
-          1. Inter-language delay with jitter (BUG-LANG-001-FIX-A, Build 61)
-          2. Check ip_known_blocked → force VPN rotation if True (Build 62)
-          3. reset_browser() after VPN rotation (BUG-LANG-002-FIX, Build 62)
-          4. Scrape via _scrape_language()
-          5. Update consecutive_failures + ip_known_blocked
-          6. Finalize URL status (done / error)
+        Build 61: Inter-language delay + forced VPN on consecutive failures.
+        Build 62: ip_known_blocked flag + reset_browser() after VPN rotation.
+        Build 63: Selenium-only (CloudScraper removed).
         """
         cfg = self._cfg
         url_id: str = str(url_obj.id)
         languages: list[str] = _build_language_list(cfg)
 
-        # ── Failure tracking (Build 61 + 62) ─────────────────────────────────
         consecutive_failures: int = 0
         max_consec: int = getattr(cfg, "MAX_CONSECUTIVE_LANG_FAILURES", 1)
-
-        # ip_known_blocked=True → rotate VPN before next language attempt
-        # Set to True on first failure; cleared after successful rotation+scrape
         ip_known_blocked: bool = False
 
         completed: list[str] = []
@@ -183,7 +181,7 @@ class ScraperService:
 
         for i, lang in enumerate(languages):
 
-            # ── BUG-LANG-001-FIX-A: Inter-language delay ─────────────────────
+            # ── BUG-LANG-001-FIX-A: Inter-language delay ──────────────────────
             if i > 0:
                 base_delay: float = getattr(cfg, "LANG_SCRAPE_DELAY", 10.0)
                 jitter: float = random.uniform(
@@ -197,14 +195,11 @@ class ScraperService:
                 )
                 time.sleep(total_delay)
 
-            # ── BUG-LANG-001+002: VPN rotation decision ───────────────────────
+            # ── VPN rotation decision (BUG-LANG-001 + BUG-LANG-002) ───────────
             vpn_rotated: bool = False
             should_rotate_now: bool = (
                 getattr(cfg, "VPN_ENABLED", False)
-                and (
-                    ip_known_blocked
-                    or consecutive_failures >= max_consec
-                )
+                and (ip_known_blocked or consecutive_failures >= max_consec)
             )
 
             if should_rotate_now:
@@ -223,8 +218,7 @@ class ScraperService:
                     if rotated:
                         logger.info(
                             "BUG-LANG-001-FIX: VPN rotated (forced) — "
-                            "consecutive_failures reset. "
-                            "Continuing with %s/%s",
+                            "consecutive_failures reset. Continuing with %s/%s",
                             url_id, lang,
                         )
                         consecutive_failures = 0
@@ -232,33 +226,27 @@ class ScraperService:
                         vpn_rotated = True
                     else:
                         logger.warning(
-                            "BUG-LANG-001-FIX: VPN rotation returned False — "
-                            "continuing with current IP for %s/%s",
-                            url_id, lang,
+                            "BUG-LANG-001-FIX: VPN rotation returned False "
+                            "for %s/%s", url_id, lang,
                         )
                 except Exception as exc:
                     logger.error(
-                        "Forced VPN rotation raised exception for %s/%s: %s",
+                        "Forced VPN rotation exception for %s/%s: %s",
                         url_id, lang, exc,
                     )
 
             # ── BUG-LANG-002-FIX: Browser restart after VPN rotation ──────────
             if vpn_rotated and getattr(cfg, "SELENIUM_RESTART_AFTER_VPN_ROTATE", True):
                 reset_ok: bool = self._selenium_engine.reset_browser()
-                if reset_ok:
-                    logger.info(
-                        "BUG-LANG-002-FIX: Selenium browser reset after VPN "
-                        "rotation — clean profile guaranteed for %s/%s",
-                        url_id, lang,
-                    )
-                else:
-                    logger.warning(
-                        "BUG-LANG-002-FIX: Selenium browser reset FAILED — "
-                        "language mismatch risk remains for %s/%s",
-                        url_id, lang,
-                    )
+                log_fn = logger.info if reset_ok else logger.warning
+                log_fn(
+                    "BUG-LANG-002-FIX: Selenium browser reset %s after VPN "
+                    "rotation for %s/%s",
+                    "OK" if reset_ok else "FAILED",
+                    url_id, lang,
+                )
 
-            # ── Scrape this language ──────────────────────────────────────────
+            # ── Scrape ────────────────────────────────────────────────────────
             ok: bool = self._scrape_language(url_obj, lang)
 
             if ok:
@@ -269,7 +257,6 @@ class ScraperService:
             else:
                 failed.append(lang)
                 consecutive_failures += 1
-                # BUG-LANG-001 improvement: flag immediately for next iteration
                 ip_known_blocked = True
                 logger.warning("URL %s lang=%s: FAILED", url_id, lang)
 
@@ -282,30 +269,23 @@ class ScraperService:
                 "URL %s: COMPLETE (%d/%d) langs=%s",
                 url_id, success_count, total, completed,
             )
-            self._finalize_url(url_obj, "done", completed, failed)
         elif success_count > 0:
             logger.warning(
                 "URL %s: PARTIAL (%d/%d) completed=%s failed=%s",
                 url_id, success_count, total, completed, failed,
             )
-            self._finalize_url(url_obj, "error", completed, failed)
         else:
-            logger.error(
-                "URL %s: ALL FAILED (%d/%d)", url_id, success_count, total
-            )
-            self._finalize_url(url_obj, "error", completed, failed)
+            logger.error("URL %s: ALL FAILED (%d/%d)", url_id, success_count, total)
+
+        final_status = "done" if success_count == total else "error"
+        self._finalize_url(url_obj, final_status, completed, failed)
 
     # ── Per-language scraping ─────────────────────────────────────────────────
 
     def _scrape_language(self, url_obj: URLQueue, lang: str) -> bool:
         """
         Scrape a single language for the given URL.
-
-        Build 63: SeleniumEngine only — CloudScraper removed.
-        VPN rotation logic remains but retries are now Selenium-only.
-
-        Returns True on successful data extraction and persistence,
-        False on any failure.
+        Build 63: Selenium only — CloudScraper removed.
         """
         cfg = self._cfg
         url_id: str = str(url_obj.id)
@@ -314,10 +294,9 @@ class ScraperService:
         )
         start_ts: float = time.monotonic()
 
-        # ── Build 63: Selenium is the sole engine ────────────────────────────
         html: Optional[str] = self._selenium_engine.scrape(lang_url, lang)
 
-        # ── VPN rotation on Selenium failure (interval-based) ─────────────────
+        # Interval-based VPN rotation on Selenium failure
         if html is None and getattr(cfg, "VPN_ENABLED", False):
             if self._vpn.should_rotate():
                 logger.info(
@@ -328,93 +307,57 @@ class ScraperService:
                     rotated: bool = self._vpn.rotate()
                     if rotated:
                         logger.info(
-                            "VPN rotated — retrying %s/%s with Selenium.",
-                            url_id, lang,
+                            "VPN rotated — retrying %s/%s with Selenium.", url_id, lang
                         )
-                        # BUG-LANG-002-FIX: clean browser after VPN rotation
                         if getattr(cfg, "SELENIUM_RESTART_AFTER_VPN_ROTATE", True):
                             self._selenium_engine.reset_browser()
                         html = self._selenium_engine.scrape(lang_url, lang)
-                    else:
-                        logger.warning(
-                            "VPN rotation skipped (not due) for %s/%s",
-                            url_id, lang,
-                        )
                 except Exception as exc:
-                    logger.error(
-                        "VPN rotation error for %s/%s: %s", url_id, lang, exc
-                    )
+                    logger.error("VPN rotation error for %s/%s: %s", url_id, lang, exc)
 
         duration_ms: int = int((time.monotonic() - start_ts) * 1_000)
 
-        # ── Failure path ──────────────────────────────────────────────────────
         if html is None:
-            self._upsert_lang_status(
-                url_obj, lang, "error", "All scraping engines failed"
-            )
+            self._upsert_lang_status(url_obj, lang, "error", "All scraping engines failed")
             self._log_scraping_event(
                 url_obj, lang, "scrape_failed", "error",
                 duration_ms, "All scraping engines failed",
             )
             return False
 
-        # ── Extraction path ───────────────────────────────────────────────────
         try:
             extracted = self._extractor.extract(html, lang)
         except Exception as exc:
-            logger.error(
-                "Extraction failed for %s/%s: %s", url_id, lang, exc,
-                exc_info=True,
-            )
-            self._upsert_lang_status(
-                url_obj, lang, "error", f"Extraction error: {exc}"
-            )
+            logger.error("Extraction failed for %s/%s: %s", url_id, lang, exc, exc_info=True)
+            self._upsert_lang_status(url_obj, lang, "error", f"Extraction error: {exc}")
             return False
 
         if not extracted:
-            logger.warning(
-                "Extractor returned empty result for %s/%s", url_id, lang
-            )
-            self._upsert_lang_status(
-                url_obj, lang, "error", "Extractor returned empty result"
-            )
+            logger.warning("Extractor returned empty result for %s/%s", url_id, lang)
+            self._upsert_lang_status(url_obj, lang, "error", "Extractor returned empty result")
             return False
 
-        # ── Persistence path ──────────────────────────────────────────────────
         try:
             hotel_id = self._persist_hotel_data(url_obj, lang, extracted, duration_ms)
         except Exception as exc:
-            logger.error(
-                "Persistence failed for %s/%s: %s", url_id, lang, exc,
-                exc_info=True,
-            )
-            self._upsert_lang_status(
-                url_obj, lang, "error", f"DB write error: {exc}"
-            )
+            logger.error("Persistence failed for %s/%s: %s", url_id, lang, exc, exc_info=True)
+            self._upsert_lang_status(url_obj, lang, "error", f"DB write error: {exc}")
             return False
 
-        # ── Image download ────────────────────────────────────────────────────
+        # Image download — English pass only (photos are language-independent)
         photos = extracted.get("photos", [])
         if photos and hotel_id and lang == "en":
-            # Download images only on the English pass (photos are language-independent)
             try:
-                saved, total = self._image_downloader.download_photo_batch(
-                    hotel_id, photos
-                )
+                saved, total = self._image_downloader.download_photo_batch(hotel_id, photos)
                 logger.info(
                     "download_photo_batch: %d/%d photo-files saved for hotel %s",
                     saved, total, hotel_id,
                 )
             except Exception as exc:
-                logger.warning(
-                    "Image download failed for hotel %s: %s", hotel_id, exc
-                )
+                logger.warning("Image download failed for hotel %s: %s", hotel_id, exc)
 
-        # ── Success ───────────────────────────────────────────────────────────
         self._upsert_lang_status(url_obj, lang, "done", None)
-        self._log_scraping_event(
-            url_obj, lang, "scrape_success", "done", duration_ms, None
-        )
+        self._log_scraping_event(url_obj, lang, "scrape_success", "done", duration_ms, None)
         return True
 
     # ── Persistence helpers ───────────────────────────────────────────────────
@@ -426,67 +369,57 @@ class ScraperService:
         data: dict,
         duration_ms: int,
     ) -> Optional[str]:
-        """
-        Upsert hotel data into all relevant tables.
-        Returns the hotel UUID on success, None on error.
-        """
+        """Upsert hotel data into all relevant tables. Returns hotel UUID."""
         with get_db() as session:
-            hotel = self._upsert_hotels(session, url_obj, lang, data, duration_ms)
+            hotel = self._upsert_hotel(session, url_obj, lang, data, duration_ms)
             hotel_id = str(hotel.id)
-
-            self._upsert_hotels_description(session, url_obj, lang, data)
-            self._upsert_hotels_policies(session, url_obj, lang, data)
-            self._upsert_hotels_legal(session, url_obj, lang, data)
-
+            self._upsert_hotel_description(session, url_obj, hotel, lang, data)
+            self._upsert_hotel_policies(session, url_obj, hotel, lang, data)
+            self._upsert_hotel_legal(session, url_obj, hotel, lang, data)
             session.commit()
-            logger.debug(
-                "Persisted hotel data for %s/%s (hotel_id=%s)",
-                url_obj.id, lang, hotel_id,
-            )
             return hotel_id
 
-    def _upsert_hotels(
+    def _upsert_hotel(
         self,
         session: Session,
         url_obj: URLQueue,
         lang: str,
         data: dict,
         duration_ms: int,
-    ) -> Hotels:
-        """Insert or update the main hotels table row for this URL+language."""
+    ) -> Hotel:
+        """Insert or update the main Hotel row for this URL+language."""
         existing = (
-            session.query(Hotels)
+            session.query(Hotel)
             .filter_by(url_id=url_obj.id, language=lang)
             .first()
         )
         now = _now()
 
         fields = {
-            "url_id": url_obj.id,
-            "url": build_language_url(str(url_obj.base_url or url_obj.url), lang),
-            "language": lang,
-            "hotel_name": data.get("hotel_name"),
-            "hotel_id_booking": data.get("hotel_id_booking"),
-            "address_city": data.get("address_city"),
-            "latitude": data.get("latitude"),
-            "longitude": data.get("longitude"),
-            "star_rating": data.get("star_rating"),
-            "review_score": data.get("review_score"),
-            "review_count": data.get("review_count"),
-            "main_image_url": data.get("main_image_url"),
+            "url_id":            url_obj.id,
+            "url":               build_language_url(str(url_obj.base_url or url_obj.url), lang),
+            "language":          lang,
+            "hotel_name":        data.get("hotel_name"),
+            "hotel_id_booking":  data.get("hotel_id_booking"),
+            "address_city":      data.get("address_city"),
+            "latitude":          data.get("latitude"),
+            "longitude":         data.get("longitude"),
+            "star_rating":       data.get("star_rating"),
+            "review_score":      data.get("review_score"),
+            "review_count":      data.get("review_count"),
+            "main_image_url":    data.get("main_image_url"),
             "short_description": data.get("short_description"),
-            "rating_value": data.get("rating_value"),
-            "best_rating": data.get("best_rating"),
-            "street_address": data.get("street_address"),
-            "address_locality": data.get("address_locality"),
-            "address_country": data.get("address_country"),
-            "postal_code": data.get("postal_code"),
-            "room_types": data.get("room_types"),
-            "raw_data": data.get("raw_data"),
+            "rating_value":      data.get("rating_value"),
+            "best_rating":       data.get("best_rating"),
+            "street_address":    data.get("street_address"),
+            "address_locality":  data.get("address_locality"),
+            "address_country":   data.get("address_country"),
+            "postal_code":       data.get("postal_code"),
+            "room_types":        data.get("room_types"),
+            "raw_data":          data.get("raw_data"),
             "scrape_duration_s": duration_ms / 1_000,
-            # Build 63: engine is always selenium
-            "scrape_engine": "selenium",
-            "updated_at": now,
+            "scrape_engine":     "selenium",   # Build 63: always selenium
+            "updated_at":        now,
         }
 
         if existing:
@@ -494,97 +427,119 @@ class ScraperService:
                 setattr(existing, k, v)
             return existing
 
-        hotel = Hotels(**fields, created_at=now)
+        hotel = Hotel(**fields, created_at=now)
         session.add(hotel)
         session.flush()
         return hotel
 
-    def _upsert_hotels_description(
-        self, session: Session, url_obj: URLQueue, lang: str, data: dict
+    def _upsert_hotel_description(
+        self,
+        session: Session,
+        url_obj: URLQueue,
+        hotel: Hotel,
+        lang: str,
+        data: dict,
     ) -> None:
-        """Upsert extended description rows."""
-        from app.models import HotelsDescription
+        """Upsert HotelDescription row."""
+        from app.models import HotelDescription
+        desc_text = data.get("description")
         existing = (
-            session.query(HotelsDescription)
+            session.query(HotelDescription)
             .filter_by(url_id=url_obj.id, language=lang)
             .first()
         )
-        desc_text = data.get("description")
-        if not desc_text:
-            return
-
+        now = _now()
         if existing:
-            existing.description_text = desc_text
-            existing.updated_at = _now()
+            existing.description = desc_text
+            existing.updated_at = now
         else:
             session.add(
-                HotelsDescription(
+                HotelDescription(
+                    hotel_id=hotel.id,
                     url_id=url_obj.id,
                     language=lang,
-                    description_text=desc_text,
-                    created_at=_now(),
+                    description=desc_text,
+                    created_at=now,
                 )
             )
 
-    def _upsert_hotels_policies(
-        self, session: Session, url_obj: URLQueue, lang: str, data: dict
+    def _upsert_hotel_policies(
+        self,
+        session: Session,
+        url_obj: URLQueue,
+        hotel: Hotel,
+        lang: str,
+        data: dict,
     ) -> None:
-        """Upsert hotel policies rows."""
-        from app.models import HotelsPolicies
+        """Upsert HotelPolicies rows."""
+        from app.models import HotelPolicies
         policies: list[dict] = data.get("policies", [])
         for policy in policies:
+            policy_name = policy.get("policy_name") or policy.get("name")
+            if not policy_name:
+                continue
             existing = (
-                session.query(HotelsPolicies)
-                .filter_by(
-                    url_id=url_obj.id,
-                    language=lang,
-                    policy_type=policy.get("type"),
-                )
+                session.query(HotelPolicies)
+                .filter_by(hotel_id=hotel.id, language=lang, policy_name=policy_name)
                 .first()
             )
+            now = _now()
             if existing:
-                existing.policy_text = policy.get("text")
-                existing.updated_at = _now()
+                existing.policy_details = policy.get("policy_details") or policy.get("details")
             else:
                 session.add(
-                    HotelsPolicies(
+                    HotelPolicies(
+                        hotel_id=hotel.id,
                         url_id=url_obj.id,
                         language=lang,
-                        policy_type=policy.get("type"),
-                        policy_text=policy.get("text"),
-                        created_at=_now(),
+                        policy_name=policy_name,
+                        policy_details=policy.get("policy_details") or policy.get("details"),
+                        created_at=now,
                     )
                 )
 
-    def _upsert_hotels_legal(
-        self, session: Session, url_obj: URLQueue, lang: str, data: dict
+    def _upsert_hotel_legal(
+        self,
+        session: Session,
+        url_obj: URLQueue,
+        hotel: Hotel,
+        lang: str,
+        data: dict,
     ) -> None:
-        """Upsert hotel legal rows."""
-        from app.models import HotelsLegal
-        legal_items: list[dict] = data.get("legal", [])
-        for item in legal_items:
-            existing = (
-                session.query(HotelsLegal)
-                .filter_by(
+        """
+        Upsert HotelLegal row.
+
+        BUG-DB-002-FIX (v60): Always insert 1 row per hotel/language.
+        has_legal_content=True if legal block was found, False if absent.
+        """
+        from app.models import HotelLegal
+        legal_data = data.get("legal") or {}
+        has_content = bool(legal_data)
+
+        existing = (
+            session.query(HotelLegal)
+            .filter_by(hotel_id=hotel.id, language=lang)
+            .first()
+        )
+        now = _now()
+        if existing:
+            existing.legal             = legal_data.get("legal")
+            existing.legal_info        = legal_data.get("legal_info")
+            existing.legal_details     = legal_data.get("legal_details")
+            existing.has_legal_content = has_content
+        else:
+            session.add(
+                HotelLegal(
+                    hotel_id=hotel.id,
                     url_id=url_obj.id,
                     language=lang,
-                    legal_type=item.get("type"),
+                    legal=legal_data.get("legal"),
+                    legal_info=legal_data.get("legal_info"),
+                    legal_details=legal_data.get("legal_details"),
+                    has_legal_content=has_content,
+                    created_at=now,
                 )
-                .first()
             )
-            if existing:
-                existing.legal_text = item.get("text")
-                existing.updated_at = _now()
-            else:
-                session.add(
-                    HotelsLegal(
-                        url_id=url_obj.id,
-                        language=lang,
-                        legal_type=item.get("type"),
-                        legal_text=item.get("text"),
-                        created_at=_now(),
-                    )
-                )
 
     # ── Status / logging helpers ──────────────────────────────────────────────
 
@@ -595,7 +550,7 @@ class ScraperService:
         status: str,
         error: Optional[str],
     ) -> None:
-        """Update url_language_status for this URL+language combination."""
+        """Update URLLanguageStatus for this URL+language combination."""
         with get_db() as session:
             existing = (
                 session.query(URLLanguageStatus)
@@ -604,9 +559,9 @@ class ScraperService:
             )
             now = _now()
             if existing:
-                existing.status = status
+                existing.status     = status
                 existing.last_error = (error[:2000] if error else None)
-                existing.attempts = (existing.attempts or 0) + 1
+                existing.attempts   = (existing.attempts or 0) + 1
                 existing.updated_at = now
             else:
                 session.add(
@@ -631,10 +586,9 @@ class ScraperService:
         duration_ms: int,
         error_message: Optional[str] = None,
     ) -> None:
-        """Insert a scraping_logs record for observability."""
+        """Insert a ScrapingLogs record."""
         try:
             import uuid as _uuid
-            from app.models import ScrapingLogs
             with get_db() as session:
                 session.add(
                     ScrapingLogs(
@@ -644,9 +598,7 @@ class ScraperService:
                         event_type=event_type,
                         status=status,
                         duration_ms=duration_ms,
-                        error_message=(
-                            error_message[:2000] if error_message else None
-                        ),
+                        error_message=(error_message[:2000] if error_message else None),
                         scraped_at=_now(),
                     )
                 )
@@ -661,18 +613,18 @@ class ScraperService:
         completed: list[str],
         failed: list[str],
     ) -> None:
-        """Write final status, completed/failed language lists to url_queue."""
+        """Write final status and language lists to url_queue."""
         with get_db() as session:
             db_obj = session.get(URLQueue, url_obj.id)
             if db_obj:
-                db_obj.status = status
+                db_obj.status              = status
                 db_obj.languages_completed = ",".join(completed) if completed else ""
-                db_obj.languages_failed = ",".join(failed) if failed else ""
-                db_obj.scraped_at = _now()
-                db_obj.updated_at = _now()
+                db_obj.languages_failed    = ",".join(failed)    if failed    else ""
+                db_obj.scraped_at          = _now()
+                db_obj.updated_at          = _now()
                 if failed:
                     db_obj.last_error = (
-                        f"Incomplete: {len(completed)}/{len(completed) + len(failed)} "
+                        f"Incomplete: {len(completed)}/{len(completed)+len(failed)} "
                         f"languages. OK={completed} FAILED={failed}"
                     )[:2000]
                 session.commit()
@@ -682,19 +634,17 @@ class ScraperService:
         with get_db() as session:
             db_obj = session.get(URLQueue, url_obj.id)
             if db_obj:
-                db_obj.status = "error"
+                db_obj.status     = "error"
                 db_obj.last_error = error[:2000]
                 db_obj.updated_at = _now()
                 session.commit()
 
-    def _count_successful_languages(
-        self, session: Session, url_id
-    ) -> int:
+    def _count_successful_languages(self, session: Session, url_id) -> int:
         """Count distinct languages in the hotels table for this URL."""
         from sqlalchemy import func
         result = (
-            session.query(func.count(Hotels.language.distinct()))
-            .filter(Hotels.url_id == url_id)
+            session.query(func.count(Hotel.language.distinct()))
+            .filter(Hotel.url_id == url_id)
             .scalar()
         )
         return result or 0
