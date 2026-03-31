@@ -149,6 +149,19 @@ class ScraperService:
                         url_obj.id, exc, exc_info=True,
                     )
 
+        # BUG-BROWSER-001 (Build 63-fix): Brave stays open after batch
+        # completes because SeleniumEngine uses a singleton driver that
+        # persists until the Worker is stopped.  Calling reset_browser()
+        # here quits the driver (driver.quit()) and sets self._driver=None
+        # so the next batch starts with a clean profile.  This closes Brave
+        # after every batch rather than leaving it open indefinitely on the
+        # last scraped page.
+        try:
+            self._selenium_engine.reset_browser()
+            logger.info("Selenium: Brave closed after batch completion.")
+        except Exception as _exc:
+            logger.warning("Selenium: reset_browser after batch raised: %s", _exc)
+
         return {"status": "done", "processed": count}
 
     def _process_url_safe(self, url_obj: URLQueue) -> None:
