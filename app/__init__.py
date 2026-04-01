@@ -23,17 +23,6 @@ Cambios build 64:
        Delay pre-scrape exclusivo para italiano. Reduce probabilidad de
        desafíos anti-bot acumulados durante la sesión.
 
-NOTA: NO importar celery_app aqui.
-  from app.celery_app import celery_app  ← PROHIBIDO en __init__.py
-  Causaria importacion circular: celery_app.py → app.config → app.__init__
-  Celery debe referenciarse siempre con notacion explicita:
-      python -m celery -A app.celery_app:celery_app <comando>
-"""
-
-__version__ = "6.0.0"
-__version_info__ = (6, 0, 0)
-APP_VERSION = "6.0.0"
-BUILD_VERSION = 64
   BUG-DB-002-FIX : scraper_service._upsert_legal() — inserción incondicional
                    de registro en hotels_legal aunque no se encuentre bloque
                    legal en el HTML. Elimina el fallo silencioso que dejaba
@@ -49,8 +38,8 @@ BUILD_VERSION = 64
                    schema_v60_complete.sql actualizado.
 
 NOTA: NO importar celery_app aqui.
-  from app.celery_app import celery_app  ← PROHIBIDO en __init__.py
-  Causaria importacion circular: celery_app.py → app.config → app.__init__
+  from app.celery_app import celery_app  <- PROHIBIDO en __init__.py
+  Causaria importacion circular: celery_app.py -> app.config -> app.__init__
   Celery debe referenciarse siempre con notacion explicita:
       python -m celery -A app.celery_app:celery_app <comando>
 """
@@ -58,7 +47,7 @@ NOTA: NO importar celery_app aqui.
 __version__ = "6.0.0"
 __version_info__ = (6, 0, 0)
 APP_VERSION = "6.0.0"
-BUILD_VERSION = 63
+BUILD_VERSION = 64
 
 
 # Build 63-fix — Fixes acumulados en sesión de auditoría:
@@ -71,6 +60,6 @@ BUILD_VERSION = 63
 #   BUG-EXTRACTOR-001 : BookingExtractor mal instanciada como singleton
 #   BUG-PERSIST-001 : 7 tablas sin upsert (amenities, popular_services, fine_print,
 #                     all_services, faqs, guest_reviews, property_highlights)
-#   BUG-PHOTO-001   : photos eliminada de extract_all() → ahora llama extract_hotel_photos()
+#   BUG-PHOTO-001   : photos eliminada de extract_all() -> ahora llama extract_hotel_photos()
 #   BUG-BROWSER-001 : Brave no cerraba al terminar batch
 #   FIX-PH-LEGACY-001: Property highlights DOM legacy div.property-highlights
