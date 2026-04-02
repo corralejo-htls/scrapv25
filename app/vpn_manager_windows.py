@@ -1,27 +1,44 @@
 """
-vpn_manager_windows.py — BookingScraper Pro v6.0.0 build 61
-BUG-LANG-001-FIX (v61): rotate(force=False) — nuevo parámetro opcional.
-  force=True omite VPN_ROTATION_INTERVAL para rotación inmediata ante fallos
-  consecutivos de idioma. NullVPNManager actualizado con la misma firma.
-Enterprise rebuild merging v48 architecture with v2.3 field-validated fixes.
+vpn_manager_windows.py — BookingScraper Pro v6.0.0 Build 69
+=============================================================
+BUG-VPN-002-FIX (Build 69): NordVPN popup "¿Pausar la conexión automática?"
+  blocks rotation when nordvpn -d is called.
 
-v48 features retained:
-  VPNCircuitBreaker  : Opens after N failures, auto-recovers after cooldown.
-  NullVPNManager     : No-op when VPN_ENABLED=False.
-  get_vpn_manager()  : Factory selecting real or null manager.
+  Root causes identified from logs/screenshots (2026-04-02):
+    1. DOUBLE DISCONNECT: rotate() called self.disconnect() (nordvpn -d),
+       then _connect_via_cli() called nordvpn -d AGAIN — two popups per rotation.
+    2. WRONG POPUP TIMING: _dismiss_nordvpn_popup() was called AFTER the connect
+       command, but the popup appears DURING/AFTER the disconnect command.
+       By the time dismiss ran, NordVPN auto-connect had already fired and
+       reconnected to the same server.
+    3. Result: VPN stayed on same IP despite "successful" rotation.
 
-v2.3 fixes restored (field-validated):
-  FIX-v2.3-A  : get_current_ip() — 30s cache with threading.Lock.
-                 Prevents multiple simultaneous threads saturating external
-                 IP-check services (rate-limit → "Unknown" cascade → DNS
-                 instability → ERR_NAME_NOT_RESOLVED in Brave).
-  FIX-v2.3-B  : verify_vpn_active() — when original_ip or current = "Unknown",
-                 ASSUME VPN active (not inactive). Prevents mass reconnect loops.
-  FIX-v2.3-C  : _dismiss_nordvpn_popup() — closes NordVPN GUI popup
-                 "Pause automatic connection this session?" via PowerShell/WScript.
-                 Without this, popup steals focus and blocks Brave window.
-  FIX-v1.1-A  : interactive=False for Celery mode — no blocking input() calls.
-  FIX-v1.1-B  : shell=False for all subprocess calls (security + reliability).
+  Fix A — Remove nordvpn -d from _connect_via_cli().
+    Eliminates the second disconnect entirely. rotate() already disconnects;
+    _connect_via_cli() should only connect.
+
+  Fix B — Background popup dismiss thread.
+    After nordvpn -d, a daemon thread fires _dismiss_nordvpn_popup() every
+    second for 8 seconds during the post-disconnect wait. Catches the popup
+    however fast NordVPN GUI renders it.
+
+  Fix C — Pre-dismiss before disconnect.
+    _dismiss_nordvpn_popup() called once BEFORE nordvpn -d so any previously
+    stuck popup is cleared before the new one appears.
+
+BUG-VPN-003-FIX (Build 69): Same IP returned after rotation.
+  Root cause: IP validation in _connect_via_cli() only checked
+    new_ip != self._original_ip (home IP before any VPN).
+  After rotating from NL → US, if auto-connect reconnected to NL,
+    79.116.133.126 != 185.111.157.211 (home) → True → success logged with WRONG IP.
+  Fix: track self._prev_vpn_ip; require new IP to differ from BOTH original AND prev.
+
+BUG-LANG-001-FIX (v61) preserved:
+  rotate(force=False) — force=True skips interval for immediate rotation.
+
+v48/v2.3 features preserved:
+  VPNCircuitBreaker, NullVPNManager, get_vpn_manager(), IP cache (FIX-v2.3-A),
+  verify_vpn_active() Unknown-IP handling (FIX-v2.3-B), home-country exclusion.
 
 Platform: Windows 11 / NordVPN CLI / Celery worker (non-interactive).
 """
@@ -175,6 +192,14 @@ class NordVPNManager:
         self._ip_cache_ttl:   float = 30.0
         self._ip_cache_lock   = threading.Lock()
 
+        # BUG-VPN-003-FIX (Build 69): track previous VPN IP so we can detect
+        # when auto-connect silently reconnects to the same server after a rotation.
+        # Validation now requires: new_ip != original_ip AND new_ip != _prev_vpn_ip.
+        self._prev_vpn_ip: str = "Unknown"
+
+        # BUG-VPN-002-FIX (Build 69): event to stop background popup dismiss thread
+        self._popup_dismiss_stop: threading.Event = threading.Event()
+
         # Capture original IP (before any VPN connection)
         self._original_ip = self._detect_original_ip()
 
@@ -237,7 +262,21 @@ class NordVPNManager:
         return success
 
     def disconnect(self) -> bool:
-        """Disconnect VPN."""
+        """
+        Disconnect VPN.
+
+        BUG-VPN-002-FIX (Build 69):
+          1. Pre-dismiss: clear any existing popup BEFORE sending nordvpn -d.
+          2. Background dismiss thread: fires _dismiss_nordvpn_popup() every
+             second for _POST_DISCONNECT_DISMISS_SECS after the -d command,
+             catching the popup however fast the NordVPN GUI renders it.
+          3. The background thread is stopped by rotate() before connect() runs
+             so it does not interfere with the connection phase.
+        """
+        # 1. Pre-dismiss: clear any existing popup before disconnect triggers a new one
+        self._dismiss_nordvpn_popup()
+
+        # 2. Execute disconnect
         try:
             result = subprocess.run(
                 [self._NORDVPN_EXE, "-d"],
@@ -249,10 +288,24 @@ class NordVPNManager:
                 logger.info("VPN disconnected.")
             else:
                 logger.warning("VPN disconnect returned code %d: %r", result.returncode, result.stderr)
-            return success
         except Exception as exc:
             logger.error("VPN disconnect failed: [%s] %s", type(exc).__name__, exc)
-            return False
+            success = False
+
+        # 3. Background dismiss thread — keeps dismissing during post-disconnect wait.
+        # The popup appears 0–3 s after the -d command; this thread catches it.
+        self._popup_dismiss_stop.clear()
+        _t = threading.Thread(
+            target=self._background_popup_dismiss,
+            args=(self._POST_DISCONNECT_DISMISS_SECS,),
+            daemon=True,
+        )
+        _t.start()
+
+        return success
+
+    # How long (seconds) the background dismiss thread runs after disconnect.
+    _POST_DISCONNECT_DISMISS_SECS: int = 8
 
     def rotate(self, force: bool = False) -> bool:
         """
@@ -266,6 +319,14 @@ class NordVPNManager:
                         fallos consecutivos de idioma para obtener nueva IP de
                         inmediato sin esperar VPN_ROTATION_INTERVAL.
           force=False — comportamiento original (comprueba intervalo).
+
+        BUG-VPN-002-FIX (Build 69):
+          disconnect() now launches a background dismiss thread.
+          rotate() stops that thread before calling connect() so the popup
+          dismisser does not interfere with the connection phase.
+          The wait between disconnect and connect is kept (5s) to allow the
+          tunnel to release, but reduced from 5s to 3s since the background
+          dismiss thread already covers the popup window.
         """
         with self._lock:
             # BUG-VPN-LOCK: another thread may have just rotated while we were waiting.
@@ -280,8 +341,15 @@ class NordVPNManager:
                 return True  # Previous rotation counts as success
 
             logger.info("VPN: rotating (current=%s)...", self._current_country)
-            self.disconnect()
+            self.disconnect()   # → starts background dismiss thread internally
+
+            # BUG-VPN-002-FIX: wait 5 s for tunnel teardown while background
+            # dismiss thread handles the popup continuously.
             time.sleep(5)
+
+            # Stop background dismiss thread before connecting
+            # (popup is gone by now; don't let it interfere with connect phase)
+            self._popup_dismiss_stop.set()
 
             cfg_countries = self._cfg.VPN_COUNTRIES
             available = self._names_to_codes(cfg_countries) or list(self.COUNTRY_NAMES.keys())
@@ -322,14 +390,25 @@ class NordVPNManager:
     # ── Internal ──────────────────────────────────────────────────────────────
 
     def _connect_via_cli(self, country_name: str) -> bool:
-        """Execute NordVPN CLI connect command."""
+        """
+        Execute NordVPN CLI connect command.
+
+        BUG-VPN-002-FIX (Build 69):
+          Removed the redundant nordvpn -d call that was here.
+          rotate() already calls disconnect() before reaching this method.
+          The previous double-disconnect triggered the popup TWICE per rotation
+          and gave auto-connect two chances to reconnect to the same server.
+
+        BUG-VPN-003-FIX (Build 69):
+          IP validation now checks new_ip != self._prev_vpn_ip in addition to
+          != self._original_ip.  This catches the case where auto-connect after
+          the popup silently reconnects to the same VPN server, returning the
+          same IP that was used in the previous rotation slot.
+        """
         try:
-            # Disconnect first
-            subprocess.run(
-                [self._NORDVPN_EXE, "-d"],
-                capture_output=True, timeout=30, shell=False,
-            )
-            time.sleep(3)
+            # BUG-VPN-002-FIX: NO nordvpn -d here. rotate() already disconnected.
+            # Previously this caused a SECOND disconnect → second popup → auto-connect
+            # race that often reconnected to the same server.
 
             result = subprocess.run(
                 [self._NORDVPN_EXE, "-c", "-g", country_name],
@@ -340,28 +419,46 @@ class NordVPNManager:
                 or "connected" in result.stdout.lower()
             )
             if connected:
-                # BUG-VPN-POPUP: popup appears 1-3s AFTER CLI confirms connection.
-                # First dismiss runs immediately; second runs after 2s to catch late popup.
-                # FIX-v2.3-C: dismiss "Pausar la conexión automática" dialog via ESC.
+                # FIX-v2.3-C: dismiss "Pausar la conexión automática" dialog.
+                # Popup may appear 1-3 s after CLI confirms connection.
                 self._dismiss_nordvpn_popup()
                 time.sleep(2)
                 self._dismiss_nordvpn_popup()   # Second attempt for late-appearing popup
                 time.sleep(8)                   # Allow VPN tunnel to fully stabilise
 
                 # BUG-VPN-CACHE: invalidate cached IP before checking new IP.
-                # Without this, the 30s cache returns the PREVIOUS VPN IP, making
-                # Netherlands → Sweden look like "same IP" and logging wrong country.
                 with self._ip_cache_lock:
                     self._ip_cache_time  = 0.0
                     self._ip_cache_value = "Unknown"
 
                 new_ip = self.get_current_ip()
-                if new_ip != self._original_ip and new_ip != "Unknown":
+
+                # BUG-VPN-003-FIX: require new IP to differ from BOTH home IP AND
+                # the previous VPN IP. Before this fix, rotating NL → US when
+                # auto-connect silently reconnected to NL returned the same IP
+                # (79.116.133.126) but the check only tested != original_ip
+                # (185.111.157.211) so it logged "success" with the wrong IP.
+                ip_changed_from_home = new_ip != self._original_ip
+                ip_changed_from_prev = new_ip != self._prev_vpn_ip or self._prev_vpn_ip == "Unknown"
+
+                if new_ip != "Unknown" and ip_changed_from_home and ip_changed_from_prev:
                     logger.info("VPN connected to %s — IP: %s", country_name, new_ip)
+                    self._prev_vpn_ip = new_ip    # BUG-VPN-003-FIX: record for next validation
                     return True
+                elif new_ip == self._prev_vpn_ip and new_ip != "Unknown":
+                    logger.error(
+                        "BUG-VPN-003: IP unchanged after rotation "
+                        "(prev=%s current=%s) — auto-connect likely reconnected "
+                        "to same server. country=%s",
+                        self._prev_vpn_ip, new_ip, country_name,
+                    )
+                    return False
                 else:
-                    logger.error("VPN CLI connected but IP unchanged (original=%s current=%s)",
-                                 self._original_ip, new_ip)
+                    logger.error(
+                        "VPN CLI connected but IP unchanged "
+                        "(original=%s prev_vpn=%s current=%s) country=%s",
+                        self._original_ip, self._prev_vpn_ip, new_ip, country_name,
+                    )
                     return False
             else:
                 logger.error("NordVPN connect failed: country=%s rc=%d stderr=%r stdout=%r",
@@ -412,6 +509,24 @@ class NordVPNManager:
             )
         except Exception:
             pass  # Non-critical — popup TTL is short and VPN still connects
+
+    def _background_popup_dismiss(self, duration_secs: int) -> None:
+        """
+        BUG-VPN-002-FIX (Build 69): Background daemon thread that fires
+        _dismiss_nordvpn_popup() every second for *duration_secs* seconds,
+        or until _popup_dismiss_stop is set by rotate().
+
+        The popup after nordvpn -d can appear at any point in the 0–3 s window
+        after the disconnect command returns. A single timed dismiss call misses
+        it when the popup appears after the dismiss runs. This thread guarantees
+        coverage across the entire post-disconnect window.
+        """
+        deadline = time.monotonic() + duration_secs
+        while time.monotonic() < deadline:
+            if self._popup_dismiss_stop.is_set():
+                break
+            self._dismiss_nordvpn_popup()
+            time.sleep(1.0)
 
     def _detect_original_ip(self) -> str:
         """Capture IP before any VPN connection."""

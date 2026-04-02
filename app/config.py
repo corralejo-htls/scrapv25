@@ -100,7 +100,7 @@ class Settings(BaseSettings):
         description="Application semantic version (SemVer).",
     )
     BUILD_VERSION: int = Field(
-        default=68,
+        default=69,
         description="Incremental build number.",
     )
 
