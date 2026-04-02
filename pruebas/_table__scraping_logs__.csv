@@ -1,0 +1,22 @@
+id,url_id,hotel_id,language,event_type,status,error_message,duration_ms,worker_id,extra_data,scraped_at
+aa747598-8912-4208-bd5f-388659b42937,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,en,scrape_failed,error,All scraping engines failed,693574,,{},2026-04-02 16:08:07.491315+01
+f23f2f18-8ffd-4b8d-b3d5-bcb4189a2810,1bbfb565-beda-40e2-93b2-be22752197e1,,en,scrape_failed,error,All scraping engines failed,756283,,{},2026-04-02 16:09:10.190562+01
+f0db264d-fb92-4159-bd67-e628a76fb6ac,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,es,scrape_failed,error,All scraping engines failed,693915,,{},2026-04-02 16:20:40.032322+01
+ffd6521a-23f6-4d00-b61b-5535c033b77c,1bbfb565-beda-40e2-93b2-be22752197e1,,es,scrape_failed,error,All scraping engines failed,693889,,{},2026-04-02 16:21:42.690996+01
+4cf5c549-b1a5-448d-981b-b1e503a5e304,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,de,scrape_failed,error,All scraping engines failed,693525,,{},2026-04-02 16:33:12.176417+01
+387c528b-f2d6-4f2b-abc0-ef595f00663d,1bbfb565-beda-40e2-93b2-be22752197e1,,de,scrape_failed,error,All scraping engines failed,693592,,{},2026-04-02 16:34:14.916451+01
+0782f1a2-b204-4403-9662-68e7a5d9d087,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,it,scrape_failed,error,All scraping engines failed,713771,,{},2026-04-02 16:46:04.634787+01
+efdf2621-3a6d-41d6-b5fe-4bafce0875f8,1bbfb565-beda-40e2-93b2-be22752197e1,,it,scrape_failed,error,All scraping engines failed,708756,,{},2026-04-02 16:47:07.305215+01
+bcd373d9-c690-4be5-9a04-3ee94af448b3,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,fr,scrape_failed,error,All scraping engines failed,693587,,{},2026-04-02 16:58:36.903328+01
+c45e121c-b5a7-4932-ba6a-b41929f7fb9b,1bbfb565-beda-40e2-93b2-be22752197e1,,fr,scrape_failed,error,All scraping engines failed,693546,,{},2026-04-02 16:59:39.499601+01
+0c07706a-8a31-499e-bb94-6ce1dcda783d,872dbc24-fadd-45c0-8fd7-21e7a0cca791,,pt,scrape_failed,error,All scraping engines failed,693772,,{},2026-04-02 17:11:09.216581+01
+e169f33e-d53a-44cd-804d-ec6a73b3c84b,1bbfb565-beda-40e2-93b2-be22752197e1,,pt,scrape_failed,error,All scraping engines failed,693752,,{},2026-04-02 17:12:11.894417+01
+4c172e53-ac06-4e85-911d-1d5fb602b784,aa56d13e-70bc-47f6-a0ed-6e462c347c19,,en,scrape_failed,error,All scraping engines failed,693499,,{},2026-04-02 17:24:10.704883+01
+aaa3d00b-2ded-4f0e-b8c6-8d53338a3721,ab5cd3ed-2630-460f-8fcf-bc76b656c6c5,,en,scrape_failed,error,All scraping engines failed,756137,,{},2026-04-02 17:25:13.35153+01
+69ff0403-1a40-4a99-a49f-c21ad1b6b97f,aa56d13e-70bc-47f6-a0ed-6e462c347c19,,es,scrape_failed,error,All scraping engines failed,693635,,{},2026-04-02 17:36:42.950626+01
+40c1642f-7ad0-417f-85d1-77b6be5ee251,ab5cd3ed-2630-460f-8fcf-bc76b656c6c5,,es,scrape_failed,error,All scraping engines failed,693566,,{},2026-04-02 17:37:45.592931+01
+8d6c1a67-9158-4a76-a646-70f8668088b7,aa56d13e-70bc-47f6-a0ed-6e462c347c19,,de,scrape_failed,error,All scraping engines failed,693651,,{},2026-04-02 17:49:15.210209+01
+de852e45-be4e-4e1d-97a9-9060d0f975c4,ab5cd3ed-2630-460f-8fcf-bc76b656c6c5,,de,scrape_failed,error,All scraping engines failed,693677,,{},2026-04-02 17:50:17.914236+01
+3fc74668-5a6a-4b09-81b3-745db475e53a,aa56d13e-70bc-47f6-a0ed-6e462c347c19,,it,scrape_failed,error,All scraping engines failed,713785,,{},2026-04-02 18:02:07.702994+01
+af5d6ce1-2a1a-48d7-863f-f2b2df94db5f,ab5cd3ed-2630-460f-8fcf-bc76b656c6c5,,it,scrape_failed,error,All scraping engines failed,708833,,{},2026-04-02 18:03:10.335223+01
+4baeda19-59e7-449f-92e5-dacc55ee2800,aa56d13e-70bc-47f6-a0ed-6e462c347c19,,fr,scrape_failed,error,All scraping engines failed,627757,,{},2026-04-02 18:13:34.046289+01
