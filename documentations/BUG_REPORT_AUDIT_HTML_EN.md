@@ -14,8 +14,8 @@ rejected after cross-checking against the live codebase and schema:
 |---|---|---|
 | CloudScraperEngine = primary engine | **Eliminated in Build 63.** Selenium is the sole engine. | `scraper.py` line 281 |
 | Extraction flow Step 1 = `CloudScraperEngine.fetch()` | **Does not exist.** Flow starts at `HotelScraper.scrape()` | `scraper_service.py` |
-| `hotels_amenities` table | **Deleted in Build 65.** Canonical source is `hotels_popular_services` | `schema_v67_complete.sql` line 23 |
-| `hotels_room_types` table | **Does not exist.** `room_types` is a JSONB column in the `hotels` table | `schema_v67_complete.sql` line 181 |
+| `hotels_amenities` table | **Deleted in Build 65.** Canonical source is `hotels_popular_services` | `schema_v77_complete.sql` line 23 |
+| `hotels_room_types` table | **Does not exist.** `room_types` is a JSONB column in the `hotels` table | `schema_v77_complete.sql` line 181 |
 | `.bui-title__text` / `.bui-list__description` classes | **BUI legacy.** Not present in current Booking.com React DOM | DOM audit |
 | `div[data-testid="house-rules"] .bui-list__item` | `.bui-list__item` is obsolete BUI class | DOM audit |
 | `div[data-testid="checkin-checkout-info"]` | Extractor correctly uses `property-section--policies` | `extractor.py` line ~847 |
@@ -79,7 +79,7 @@ if fac_groups:
 ### Technical Analysis
 
 `scraper_service.py` line 585 explicitly reads `data.get("room_types")` and
-persists it to `Hotel.room_types` (JSONB, `schema_v67_complete.sql` line 181).
+persists it to `Hotel.room_types` (JSONB, `schema_v77_complete.sql` line 181).
 However `extractor.py` never included `"room_types"` in the `extract_all()` dict,
 so `data.get("room_types")` always returned `None` → column always NULL for
 all 13 URLs × 6 languages.
