@@ -1,0 +1,757 @@
+id,url_id,language,status,attempts,last_error,created_at,updated_at
+8eb4df7e-679b-47ad-bd65-09b560b26936,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('43777240-9c41-41f4-bcdf-a8b3c8a07a3f'), 'language_1': 'en', 'room_name_1': 'One-Bedroom Overwater Villa with Jacuzzi King', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:40:46.694435+01,2026-04-06 11:40:46.694435+01
+737e962a-d2ee-458e-befc-673fbde246ee,f1708b35-8330-4d75-ac00-5978564e2e33,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('2f981821-2ecf-4e42-8458-abf4c8c08c15'), 'language_1': 'en', 'room_name_1': 'Double Room with Garden View', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:41:10.205918+01,2026-04-06 11:41:10.205918+01
+80f123c8-52e3-443f-bec9-11adbf64081f,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('6e4afa8c-c812-4797-9f79-866d4450484e'), 'language_1': 'es', 'room_name_1': 'Villa de 1 dormitorio extragrande sobre el agua con jacuzzi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:41:48.596044+01,2026-04-06 11:41:48.596044+01
+1afa4e1c-466f-4f96-9ade-063c3defe7d8,f1708b35-8330-4d75-ac00-5978564e2e33,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('59f526ce-c55d-4c9e-96cb-13dbac8cf5ce'), 'language_1': 'es', 'room_name_1': 'Habitación Doble con vistas al jardín', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:42:17.910522+01,2026-04-06 11:42:17.910522+01
+afd461af-3c46-447b-bfb8-0deaac1f202d,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('ef10996b-cee9-40c8-ab3f-ee900a529670'), 'language_1': 'de', 'room_name_1': 'One-Bedroom Overwater Villa with Jacuzzi King', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:42:42.979504+01,2026-04-06 11:42:42.979504+01
+44618c6a-1dd7-4e36-b675-cd2c476d19a2,f1708b35-8330-4d75-ac00-5978564e2e33,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('aaafbe5c-f7bb-4b92-bf35-335b4413ecd7'), 'language_1': 'de', 'room_name_1': 'Doppelzimmer mit Gartenblick', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:43:29.213381+01,2026-04-06 11:43:29.213381+01
+9d6e3ad8-c07d-4169-aafc-91c41fcea8eb,f1708b35-8330-4d75-ac00-5978564e2e33,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('2f516217-8bda-4645-bb9d-909288b9ab37'), 'language_1': 'it', 'room_name_1': 'Camera Matrimoniale con Vista Giardino', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:44:33.584469+01,2026-04-06 11:44:33.584469+01
+c9832096-a7a9-4030-ab90-af590f57c83c,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('ab9a04f4-88f0-4c71-bb2a-6d9ffbfc887f'), 'language_1': 'it', 'room_name_1': 'One-Bedroom Overwater Villa with Jacuzzi King', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:44:48.078548+01,2026-04-06 11:44:48.078548+01
+f30fc1ce-20db-4c82-8525-5ba9df7c1867,f1708b35-8330-4d75-ac00-5978564e2e33,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('693c0478-fe39-4dff-bbdb-f21f5de67c4c'), 'language_1': 'fr', 'room_name_1': 'Chambre Double - Vue sur Jardin', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:45:22.254387+01,2026-04-06 11:45:22.254387+01
+50267ecc-52ae-4483-a4fe-2ad307a23538,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3d1697f8-c60a-440f-9734-be8fdb75fa46'), 'language_1': 'fr', 'room_name_1': 'Villa 1\xa0Chambre Lit King-Size avec Bain à Remous\xa0-\xa0Sur Pilotis', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:45:38.357095+01,2026-04-06 11:45:38.357095+01
+5d17207d-1480-40ef-8ccf-b80ee8ced79c,f1708b35-8330-4d75-ac00-5978564e2e33,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('901cb1fa-9a4a-4c24-b656-edba70fe5ead'), 'language_1': 'pt', 'room_name_1': 'Quarto Duplo com Vista Jardim', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:46:17.128716+01,2026-04-06 11:46:17.128716+01
+47563c73-11e7-46c3-9b32-d48266bc6fac,0e3df4fa-08aa-4982-b8f6-eed85ac3f739,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('1bf65480-1cb5-42d2-bad4-fe05efce3ccd'), 'language_1': 'pt', 'room_name_1': 'One-Bedroom Overwater Villa with Jacuzzi King', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:46:43.956519+01,2026-04-06 11:46:43.956519+01
+dc43deb2-eba8-4f5c-9421-1607c2985700,306a0e3a-4527-4376-9fbe-9d5c980b12ba,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('6a4e3826-e972-4bbe-a05f-d80930882604'), 'language_1': 'en', 'room_name_1': 'One Bedroom Oceanview  Suite', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:48:23.580781+01,2026-04-06 11:48:23.580781+01
+066208c0-1994-4292-b0bd-270a9267fcba,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('0f978ba2-6ca2-4b5c-ae7a-136e891e4bc7'), 'language_1': 'en', 'room_name_1': 'Beach Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:48:47.808683+01,2026-04-06 11:48:47.808683+01
+072be16a-ba93-4a51-a132-328fbf2c39b2,306a0e3a-4527-4376-9fbe-9d5c980b12ba,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3393c22a-00cc-4a1d-b605-95bc2609bd4f'), 'language_1': 'es', 'room_name_1': 'Suite de 1 dormitorio con vistas al océano', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:49:24.73069+01,2026-04-06 11:49:24.73069+01
+03462203-dc5f-4b9c-bdb2-9bbd05d0ef99,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('504c9ea2-6795-46c9-95ec-0d19ee891f59'), 'language_1': 'es', 'room_name_1': 'Villa Playa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:49:54.75533+01,2026-04-06 11:49:54.75533+01
+3caa5a8e-de83-418d-9c66-56f17f37b830,306a0e3a-4527-4376-9fbe-9d5c980b12ba,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('bdb7027a-7992-4fd8-90cc-f8494ed420ef'), 'language_1': 'de', 'room_name_1': 'Suite mit 1 Schlafzimmer und Meerblick', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:50:13.967038+01,2026-04-06 11:50:13.967038+01
+66da102d-51dd-4bcb-806d-18321b7afb75,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('04c19f39-d3dc-4b50-9c24-71008d6521b0'), 'language_1': 'de', 'room_name_1': 'Strandvilla', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:51:27.339496+01,2026-04-06 11:51:27.339496+01
+332e31db-29f7-495e-a60e-d5868db51c2c,306a0e3a-4527-4376-9fbe-9d5c980b12ba,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('1f583947-8738-4644-88aa-5b2fc5d52372'), 'language_1': 'it', 'room_name_1': 'Suite con 1 Camera da Letto e Vista Oceano', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:52:06.17902+01,2026-04-06 11:52:06.17902+01
+33bb871d-077b-48e0-9876-a50b56fa6f4b,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('65819446-5b1e-43e9-b9c3-aa661d801664'), 'language_1': 'it', 'room_name_1': 'Villa Spiaggia', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:52:30.993927+01,2026-04-06 11:52:30.993927+01
+4ef53b97-0814-44b4-ab52-059806870306,306a0e3a-4527-4376-9fbe-9d5c980b12ba,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3d153396-d780-4218-ba03-aa20026893c0'), 'language_1': 'fr', 'room_name_1': 'Suite 1 Chambre - Vue sur Océan', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:53:32.284056+01,2026-04-06 11:53:32.284056+01
+5c26d7cb-3cf6-4e42-9a49-58b740e08eeb,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('be07ef17-e899-49fd-8231-6e026856672c'), 'language_1': 'fr', 'room_name_1': 'Villa de Plage', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:53:54.349123+01,2026-04-06 11:53:54.349123+01
+2c0ab484-47cd-4580-aac8-c3c9902750ee,306a0e3a-4527-4376-9fbe-9d5c980b12ba,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('d579251e-2f6d-4559-ba38-1ccd4565ae24'), 'language_1': 'pt', 'room_name_1': 'Suite com 1 Quarto e Vista Mar', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:54:22.226558+01,2026-04-06 11:54:22.226558+01
+e8de5eeb-3d6b-4986-a038-c01d0ae75e9a,8d14b02c-9a74-4d0d-8d88-a934b11d84e2,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3df93de0-197b-4ba5-b0a3-078227910474'), 'language_1': 'pt', 'room_name_1': 'Villa Praia', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:55:12.740881+01,2026-04-06 11:55:12.740881+01
+1000bf62-861c-4f90-beeb-0039b5bb2148,902396ad-fb38-4966-aeb3-ca32d33911ce,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('b95c6806-a1d9-4d66-8f97-cfe9b4bf2995'), 'language_1': 'en', 'room_name_1': 'Deluxe Junior Suite', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:56:15.942507+01,2026-04-06 11:56:15.942507+01
+dbbe57bf-5116-44c6-a902-b11a04bb35e1,293a3ba3-a998-4d05-aa9a-4f0f8a996386,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3675be45-230d-4d80-aab9-083c234d5cee'), 'language_1': 'en', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:56:26.568615+01,2026-04-06 11:56:26.568615+01
+d10ff891-93c2-48db-bdf5-906d63ba985f,902396ad-fb38-4966-aeb3-ca32d33911ce,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('0a89aeb4-8cb7-4ec4-a9bf-ddb27dd6a3b8'), 'language_1': 'es', 'room_name_1': 'Suite Junior Deluxe', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:57:16.261713+01,2026-04-06 11:57:16.261713+01
+056a5afa-525f-4ce6-920e-88f0e13e4553,293a3ba3-a998-4d05-aa9a-4f0f8a996386,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('43fc7757-a50b-46fc-be96-5b0d91d8bcdb'), 'language_1': 'es', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:57:38.604972+01,2026-04-06 11:57:38.604972+01
+510e6c96-7238-4a31-b1ff-8b9cfae2feda,902396ad-fb38-4966-aeb3-ca32d33911ce,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('07b26bcc-7898-40ed-9a7a-83e87370b0f3'), 'language_1': 'de', 'room_name_1': 'Deluxe Junior Suite', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:58:09.432693+01,2026-04-06 11:58:09.432693+01
+19272e31-7f38-441d-bc7d-c72633e8d51f,293a3ba3-a998-4d05-aa9a-4f0f8a996386,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('386d5155-5d03-43d1-99d8-ab562e1ab590'), 'language_1': 'de', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 11:58:27.675964+01,2026-04-06 11:58:27.675964+01
+0e49c09c-5b27-4de6-b400-9373e633f09d,902396ad-fb38-4966-aeb3-ca32d33911ce,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('b607cedb-98ae-4d5e-b98f-9c355bc3d594'), 'language_1': 'it', 'room_name_1': 'Junior Suite Deluxe', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:00:01.479848+01,2026-04-06 12:00:01.479848+01
+2d3b70f0-d7f9-43fb-8588-b84e4145e6af,293a3ba3-a998-4d05-aa9a-4f0f8a996386,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('ab7ff942-12e5-4c8b-8d85-77ab253f46b0'), 'language_1': 'it', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:00:39.382679+01,2026-04-06 12:00:39.382679+01
+20e03c52-2554-4757-a12e-ae6019ba0f2f,902396ad-fb38-4966-aeb3-ca32d33911ce,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('b6360e52-8dbd-4d9c-a715-53d9ec09986b'), 'language_1': 'fr', 'room_name_1': 'Suite Junior Deluxe', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:01:01.980567+01,2026-04-06 12:01:01.980567+01
+dd237300-8831-48b7-baa8-edf831497d9b,293a3ba3-a998-4d05-aa9a-4f0f8a996386,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('92ec2ff3-bade-45ab-b8ee-f3470ccb16dd'), 'language_1': 'fr', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:01:36.80786+01,2026-04-06 12:01:36.80786+01
+ba756c61-e9ec-4ca8-9f39-63f8c99da5da,902396ad-fb38-4966-aeb3-ca32d33911ce,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('d1dc423c-ed78-41cb-a1f6-e932d6e35758'), 'language_1': 'pt', 'room_name_1': 'Suite Júnior Deluxe', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:01:59.317392+01,2026-04-06 12:01:59.317392+01
+b8fbea85-af48-4db4-acc8-a48344f37eff,293a3ba3-a998-4d05-aa9a-4f0f8a996386,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('d551ce21-739f-4add-acb9-c1d87d1f8aa8'), 'language_1': 'pt', 'room_name_1': 'Boat House 1 Bedroom', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:02:43.717939+01,2026-04-06 12:02:43.717939+01
+fcf0e903-9e75-4e8a-90f0-f03c9ed426fb,931ef0e4-18de-444d-bb0c-def9693f04a8,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('b7e76cd9-d266-446c-a5b1-64084d09b056'), 'language_1': 'en', 'room_name_1': 'Garden View Room', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:04:43.361674+01,2026-04-06 12:04:43.361674+01
+c8d6c262-9625-42a2-a45c-c682e2082ee7,bb4871df-49a8-4d28-ac43-ad72d21901b9,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('a8404bbb-e01c-4415-9584-21065c43f998'), 'language_1': 'en', 'room_name_1': 'Small Twin Room', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:05:05.559759+01,2026-04-06 12:05:05.559759+01
+75b23bf5-3c4c-4ac8-9b0a-032799d04821,931ef0e4-18de-444d-bb0c-def9693f04a8,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('a48ac7d2-9701-483a-81a9-425d09d9f003'), 'language_1': 'es', 'room_name_1': 'Habitación con vistas al jardín', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:05:48.396217+01,2026-04-06 12:05:48.396217+01
+5b99693e-e478-4680-a93a-23055f4f4517,bb4871df-49a8-4d28-ac43-ad72d21901b9,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('95529a96-594e-4b64-93cf-8090b3cfbeec'), 'language_1': 'es', 'room_name_1': 'Habitación Doble Pequeña - 2 camas', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:06:11.628768+01,2026-04-06 12:06:11.628768+01
+7b6c3bac-f2dc-4b8b-bef1-cf59a6460c6e,931ef0e4-18de-444d-bb0c-def9693f04a8,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('c88c1e91-9210-465d-b45f-05bc15af2aa3'), 'language_1': 'de', 'room_name_1': 'Zimmer mit Gartenblick', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:07:02.325739+01,2026-04-06 12:07:02.325739+01
+3879951f-9347-46f0-8278-ced1be33fbb5,bb4871df-49a8-4d28-ac43-ad72d21901b9,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('05406828-3bae-4573-8797-e3dfe94b0cee'), 'language_1': 'de', 'room_name_1': 'Kleines Zweibettzimmer', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:07:10.308923+01,2026-04-06 12:07:10.308923+01
+229cc6b7-dea5-4f25-9b29-96f40a946fb1,931ef0e4-18de-444d-bb0c-def9693f04a8,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('360c3753-b846-4fe2-b0eb-9206dd13d9a4'), 'language_1': 'it', 'room_name_1': 'Camera con Vista Giardino', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:08:06.513301+01,2026-04-06 12:08:06.513301+01
+e2af24d5-fd02-47ff-aa9a-3f8867c3c59c,bb4871df-49a8-4d28-ac43-ad72d21901b9,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('3c241c55-607d-4e5c-b386-3e32de2b79f5'), 'language_1': 'it', 'room_name_1': 'Camera Piccola Doppia con Letti Singoli', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:08:41.483595+01,2026-04-06 12:08:41.483595+01
+85a80d58-6138-4827-abf7-bbe9c3d5324e,931ef0e4-18de-444d-bb0c-def9693f04a8,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('e7dee36d-661c-4540-be78-984922513a05'), 'language_1': 'fr', 'room_name_1': 'Chambre avec Vue sur Jardin', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:09:08.907487+01,2026-04-06 12:09:08.907487+01
+8e0a3cf8-095f-4905-8269-7c0bbef6fe2c,bb4871df-49a8-4d28-ac43-ad72d21901b9,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('7038fe96-5a1d-431e-aa46-5cec2f4c0339'), 'language_1': 'fr', 'room_name_1': 'Petite Chambre Lits Jumeaux', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:09:39.813573+01,2026-04-06 12:09:39.813573+01
+7a94ad2b-1094-4d00-b83c-5b47a75b2fa2,931ef0e4-18de-444d-bb0c-def9693f04a8,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('943d586a-3c8b-48fe-a908-85f23fb2dbd1'), 'language_1': 'pt', 'room_name_1': 'Quarto com Vista Jardim', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:10:20.161382+01,2026-04-06 12:10:20.161382+01
+cb0a6d51-f047-45d8-92dd-445f885062d9,bb4871df-49a8-4d28-ac43-ad72d21901b9,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('839d27e4-0522-4667-a933-0f8833e33d94'), 'language_1': 'pt', 'room_name_1': 'Quarto Twin Pequeno', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:11:40.351354+01,2026-04-06 12:11:40.351354+01
+2efcf28d-a2fc-46dc-b857-21c7d54d514a,d754f76b-9231-498d-8727-54ad8f14fb17,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('47f9a9df-8628-4c74-88a1-19fd33da1c5b'), 'language_1': 'en', 'room_name_1': 'Deluxe Room with Garden View', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:12:33.41651+01,2026-04-06 12:12:33.41651+01
+c51fca08-aea8-40a7-9d6c-885d92a2ee61,28ac3b1a-9865-44ad-a9b9-74644a5ac209,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('f261ac7b-8d9e-479f-8dd7-426cd77fe484'), 'language_1': 'en', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:12:59.975888+01,2026-04-06 12:12:59.975888+01
+41802688-1b73-4272-b3c8-db74dfb222f8,d754f76b-9231-498d-8727-54ad8f14fb17,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('dc24f049-38a6-494b-93ef-2908e1ac8209'), 'language_1': 'es', 'room_name_1': 'Habitación Deluxe con vistas al jardín', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:13:54.203882+01,2026-04-06 12:13:54.203882+01
+0beb34d1-5b16-4893-8f8e-0b9db3b1d5f4,28ac3b1a-9865-44ad-a9b9-74644a5ac209,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('7ed8e58e-1d11-4639-8e44-30b62f19db4a'), 'language_1': 'es', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:14:10.946745+01,2026-04-06 12:14:10.946745+01
+6eea6d08-192b-4981-84b4-3779004f5b26,d754f76b-9231-498d-8727-54ad8f14fb17,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('80e4a175-8e52-4f25-acf4-852c2c3f1736'), 'language_1': 'de', 'room_name_1': 'Deluxe Zimmer mit Blick auf den Garten', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:14:46.009726+01,2026-04-06 12:14:46.009726+01
+53ce8a24-3c7e-4a79-8501-ada5965fc33d,28ac3b1a-9865-44ad-a9b9-74644a5ac209,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('6b93da43-2cd3-4e50-813d-063ff56c1389'), 'language_1': 'de', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:15:00.855024+01,2026-04-06 12:15:00.855024+01
+1693180b-ac52-4716-aaf5-5dd64c96993f,d754f76b-9231-498d-8727-54ad8f14fb17,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('eb95a33a-0883-4462-afbc-6ed7fe06bf74'), 'language_1': 'it', 'room_name_1': 'Camera Deluxe con Vista Giardino', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:15:41.249623+01,2026-04-06 12:15:41.249623+01
+f038c4d0-33f1-488c-9566-22abc3f7e814,28ac3b1a-9865-44ad-a9b9-74644a5ac209,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('f30fb816-aa5d-4863-bdf3-764b85430c90'), 'language_1': 'it', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:16:14.761973+01,2026-04-06 12:16:14.761973+01
+8a6f4393-0dbf-4fd6-92e2-1192714662e8,d754f76b-9231-498d-8727-54ad8f14fb17,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('235af0d1-c367-45cf-ab3a-4702923c931d'), 'language_1': 'fr', 'room_name_1': 'Chambre Deluxe - Vue sur Jardin', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:16:35.810238+01,2026-04-06 12:16:35.810238+01
+a7d6f22b-1b9f-4cee-8b08-32059878ce8b,28ac3b1a-9865-44ad-a9b9-74644a5ac209,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('bbbe2b24-b4bf-4d4d-b4e1-777475113d3b'), 'language_1': 'fr', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:17:26.494246+01,2026-04-06 12:17:26.494246+01
+650a46b3-c3f4-4a58-8a3b-a91e1de0eefa,d754f76b-9231-498d-8727-54ad8f14fb17,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('09ecb8c4-aef0-4b33-9c88-6386f6188d75'), 'language_1': 'pt', 'room_name_1': 'Quarto Deluxe com Vista Jardim', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:17:46.758195+01,2026-04-06 12:17:46.758195+01
+7d4eee25-c584-43fb-8d0f-c3568ee4cb6d,28ac3b1a-9865-44ad-a9b9-74644a5ac209,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('a86a7729-71e2-49fd-a9f1-220de80ca9e7'), 'language_1': 'pt', 'room_name_1': 'Jungle Hill Villa', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:18:29.245561+01,2026-04-06 12:18:29.245561+01
+df23014c-18ef-4e8b-9f9f-489852c299c5,0b46830a-51bb-4852-a75c-23498e51ceba,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('0755a720-a53d-466a-a32a-6d85f4394237'), 'language_1': 'en', 'room_name_1': 'Standard Double Room', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:19:24.84709+01,2026-04-06 12:19:24.84709+01
+c45c5331-34d3-4f1d-ba8f-86867dbc1b51,20244364-47aa-47c1-8221-26be6261025b,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('6f3ae820-0d87-40a0-a5c4-ecbebc80347e'), 'language_1': 'en', 'room_name_1': 'Standard Twin Room', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:19:47.476709+01,2026-04-06 12:19:47.476709+01
+5ae28ed9-b3ae-4664-8e93-d25ba842b098,0b46830a-51bb-4852-a75c-23498e51ceba,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('98724cdb-438e-4623-96e6-c1d1c8d5859d'), 'language_1': 'es', 'room_name_1': 'Habitación Doble Estándar', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:20:14.214435+01,2026-04-06 12:20:14.214435+01
+9d9d7636-51a2-4678-90b5-ce9bbee313dc,20244364-47aa-47c1-8221-26be6261025b,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('f7e9cc0f-b375-42b3-8188-c1aea4d7cc83'), 'language_1': 'es', 'room_name_1': 'Habitación Doble Estándar - 2 camas', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:22:08.057497+01,2026-04-06 12:22:08.057497+01
+7137f3ab-0e8f-4bda-b3c4-b728e0c79c87,0b46830a-51bb-4852-a75c-23498e51ceba,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('ba0fabd2-ef31-49bc-9460-dd0a2ace260b'), 'language_1': 'de', 'room_name_1': 'Standard Doppelzimmer', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:22:25.411568+01,2026-04-06 12:22:25.411568+01
+497980e8-661c-4531-ba24-f0ecd8344297,20244364-47aa-47c1-8221-26be6261025b,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('16e978e3-d3ae-4b10-88de-b1b857cbe590'), 'language_1': 'de', 'room_name_1': 'Standard Zweibettzimmer', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:23:04.128625+01,2026-04-06 12:23:04.128625+01
+c8e0de68-edc3-442c-af17-0f8aa416fcb3,0b46830a-51bb-4852-a75c-23498e51ceba,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('2c73dbca-aed0-4715-a06e-05b4f3b75f54'), 'language_1': 'it', 'room_name_1': 'Camera Matrimoniale Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:24:04.691748+01,2026-04-06 12:24:04.691748+01
+8cc52325-57c9-4608-bbe4-587cf872c134,20244364-47aa-47c1-8221-26be6261025b,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('59690de4-263c-44b0-aef7-3492f905e643'), 'language_1': 'it', 'room_name_1': 'Camera Standard Doppia con Letti Singoli', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:24:16.160151+01,2026-04-06 12:24:16.160151+01
+354bf167-08de-4fe9-88e3-11b622713e85,0b46830a-51bb-4852-a75c-23498e51ceba,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('a3e85521-37a0-4bd8-acf0-2373fc2986fb'), 'language_1': 'fr', 'room_name_1': 'Chambre Double Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:24:59.704334+01,2026-04-06 12:24:59.704334+01
+6ec122f3-f64b-4299-8b9d-dd8904f6861c,20244364-47aa-47c1-8221-26be6261025b,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('d6c03bc6-3c16-4624-bc5e-f277d8518467'), 'language_1': 'fr', 'room_name_1': 'Chambre Lits Jumeaux Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:25:23.034346+01,2026-04-06 12:25:23.034346+01
+22b08bc8-166e-45eb-92af-676593c6a331,0b46830a-51bb-4852-a75c-23498e51ceba,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('aeb37cd8-c893-490a-9d50-f8e0def668dc'), 'language_1': 'pt', 'room_name_1': 'Quarto Duplo Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:26:03.566401+01,2026-04-06 12:26:03.566401+01
+33c7cec0-cfc9-47a9-9360-a1973976bce5,20244364-47aa-47c1-8221-26be6261025b,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('f0c166b3-86c0-4e1d-b8cd-be7e8172fce4'), 'language_1': 'pt', 'room_name_1': 'Quarto Twin Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:26:24.677954+01,2026-04-06 12:26:24.677954+01
+1b3100e2-f824-44af-8634-19ffeabdbf32,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('73cac837-2bc1-447c-90df-4a73629133e0'), 'language_1': 'en', 'room_name_1': 'Deluxe Double Room with Sea View', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:27:14.363765+01,2026-04-06 12:27:14.363765+01
+9e9ff506-3be2-4463-80bf-ee1e29aae39a,03d991e9-e515-4c60-b2cb-c1dd397d60fc,en,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('8c973881-28d6-41e9-9fe9-b688248d3e96'), 'language_1': 'en', 'room_name_1': 'Standard Double Room', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:27:36.613442+01,2026-04-06 12:27:36.613442+01
+03e6d7f8-8f8e-4cb5-bf03-763d0d3f8df6,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('743b5ffb-aedf-4c9a-b8b4-9d09135856c7'), 'language_1': 'es', 'room_name_1': 'Habitación Doble Deluxe con vistas al mar', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:28:05.094483+01,2026-04-06 12:28:05.094483+01
+291b78c9-8c25-4fae-8544-d2f05c969bb1,03d991e9-e515-4c60-b2cb-c1dd397d60fc,es,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('2e163524-598b-4c76-8fbd-4c3e0e39aca4'), 'language_1': 'es', 'room_name_1': 'Habitación Doble Estándar', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:28:37.373748+01,2026-04-06 12:28:37.373748+01
+b3ee608f-e617-49e1-889c-edbb73ae64b6,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('7f3c722d-a2c6-438a-a4c4-453df6ebde20'), 'language_1': 'de', 'room_name_1': 'Deluxe Doppelzimmer mit Meerblick', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:29:34.191205+01,2026-04-06 12:29:34.191205+01
+fa58162e-6557-4cca-9080-aec0ea2a6b94,03d991e9-e515-4c60-b2cb-c1dd397d60fc,de,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('716f2588-e1e3-41a3-a0c7-fccdfaf2fb54'), 'language_1': 'de', 'room_name_1': 'Standard Doppelzimmer', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:29:46.533429+01,2026-04-06 12:29:46.533429+01
+1996408a-26a1-44b6-a545-3be609ba9bab,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('01277874-6c8f-4682-a875-edc0d35e93a9'), 'language_1': 'it', 'room_name_1': 'Camera Deluxe Matrimoniale con Vista Mare', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:31:39.177881+01,2026-04-06 12:31:39.177881+01
+150eacc7-ff6d-4681-b947-5fd8b291e9a6,03d991e9-e515-4c60-b2cb-c1dd397d60fc,it,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('053ee546-ed83-4d51-ad20-bde7d0f3243f'), 'language_1': 'it', 'room_name_1': 'Camera Matrimoniale Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:32:34.87214+01,2026-04-06 12:32:34.87214+01
+18481366-7a99-4f5d-834f-cb4bcb59466a,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('aaa833d0-86f3-44b4-8063-536f66f8c17b'), 'language_1': 'fr', 'room_name_1': 'Chambre Double Deluxe - Vue sur Mer', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:32:51.999876+01,2026-04-06 12:32:51.999876+01
+6ed26386-e0cb-46fb-a1ff-f9e9707d036f,03d991e9-e515-4c60-b2cb-c1dd397d60fc,fr,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('483d8859-d090-4cb2-8a2a-69b512a5f7f5'), 'language_1': 'fr', 'room_name_1': 'Chambre Double Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:33:30.981849+01,2026-04-06 12:33:30.981849+01
+1645b7a9-c4ac-4fba-81ca-e45e9c49ba83,d1484850-1a16-4eeb-b7c5-9cc96aa4df32,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('dd40eeea-be59-450b-8ecb-81ef507437e8'), 'language_1': 'pt', 'room_name_1': 'Quarto Duplo Deluxe com Vista Mar', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:33:53.294547+01,2026-04-06 12:33:53.294547+01
+d2eb8f93-185f-4b00-8fa0-ff3aaea27f07,03d991e9-e515-4c60-b2cb-c1dd397d60fc,pt,error,1,"DB write error: (psycopg.errors.UndefinedColumn) no existe la columna hotels_room_types.adults
+LINE 1: ...types.facilities AS hotels_room_types_facilities, hotels_roo...
+                                                             ^
+[SQL: SELECT hotels_room_types.id AS hotels_room_types_id, hotels_room_types.hotel_id AS hotels_room_types_hotel_id, hotels_room_types.url_id AS hotels_room_types_url_id, hotels_room_types.language AS hotels_room_types_language, hotels_room_types.room_name AS hotels_room_types_room_name, hotels_room_types.description AS hotels_room_types_description, hotels_room_types.facilities AS hotels_room_types_facilities, hotels_room_types.adults AS hotels_room_types_adults, hotels_room_types.children AS hotels_room_types_children, hotels_room_types.images AS hotels_room_types_images, hotels_room_types.info AS hotels_room_types_info, hotels_room_types.created_at AS hotels_room_types_created_at 
+FROM hotels_room_types 
+WHERE hotels_room_types.hotel_id = %(hotel_id_1)s::UUID AND hotels_room_types.language = %(language_1)s::VARCHAR AND hotels_room_types.room_name = %(room_name_1)s::VARCHAR 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'hotel_id_1': UUID('349787cb-a30f-430a-b290-24b5833eba77'), 'language_1': 'pt', 'room_name_1': 'Quarto Duplo Standard', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)",2026-04-06 12:34:25.411758+01,2026-04-06 12:34:25.411758+01
