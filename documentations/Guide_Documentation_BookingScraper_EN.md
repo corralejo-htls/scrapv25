@@ -32,7 +32,7 @@
 | **Database** | PostgreSQL 14+ |
 | **Task Queue** | Celery with Redis/Memurai |
 | **Scraping Engine** | Selenium + Brave Browser (**sole engine** — CloudScraper eliminated Build 63) |
-| **Schema Source of Truth** | `schema_v76_complete.sql` |
+| **Schema Source of Truth** | `schema_v77_complete.sql` |
 | **DB Strategy** | Always dropped and recreated at startup — no migrations ever |
 
 ### Core Capabilities
@@ -83,7 +83,7 @@ scrapv25/
 │   └── _HTML-view-source__*.md     # Raw Booking.com HTML for selector validation
 ├── scripts/                        # Utility scripts (load_urls, export, verify)
 ├── tests/                          # Unit and integration tests
-├── schema_v76_complete.sql         # ⚠ SINGLE SOURCE OF TRUTH for all schema
+├── schema_v77_complete.sql         # ⚠ SINGLE SOURCE OF TRUTH for all schema
 ├── env.example                     # Canonical config reference — all parameters
 ├── requirements.txt                # Python dependencies
 ├── requirements-optional.txt       # Optional dependencies
@@ -94,11 +94,11 @@ scrapv25/
 
 | File | Role |
 |------|------|
-| `schema_v76_complete.sql` | **Single source of truth** — recreated on every startup |
+| `schema_v77_complete.sql` | **Single source of truth** — recreated on every startup |
 | `env.example` | Canonical reference for all config parameters |
 | `app/extractor.py` | All data extraction logic — `HotelExtractor.extract_all()` |
 | `app/scraper_service.py` | `_persist_hotel_data()` — writes all tables |
-| `app/models.py` | ORM definitions — must always mirror `schema_v76_complete.sql` |
+| `app/models.py` | ORM definitions — must always mirror `schema_v77_complete.sql` |
 
 ---
 
@@ -119,7 +119,7 @@ SQLAlchemy engine with connection pooling. Key components:
 **Windows 11 constraint**: `max_connections ≤ 100` (Desktop Heap limitation). Antivirus must exclude the PostgreSQL data directory.
 
 #### `models.py`
-SQLAlchemy ORM models using `DeclarativeBase` + `Mapped[]` typed columns. **Class naming convention: singular** (`Hotel`, not `Hotels`). All class names must match the table definitions in `schema_v76_complete.sql`. Compatibility aliases defined at the bottom of the file for import names that differ from class names (`ScrapingLogs = ScrapingLog`, `HotelPolicies = HotelPolicy`).
+SQLAlchemy ORM models using `DeclarativeBase` + `Mapped[]` typed columns. **Class naming convention: singular** (`Hotel`, not `Hotels`). All class names must match the table definitions in `schema_v77_complete.sql`. Compatibility aliases defined at the bottom of the file for import names that differ from class names (`ScrapingLogs = ScrapingLog`, `HotelPolicies = HotelPolicy`).
 
 **Current models (Build 76 patch):**
 
@@ -253,7 +253,7 @@ FastAPI REST API. Key endpoints:
 ### 4.1 Phase 1: Startup & Initialization
 
 1. **Database Recreation**
-   - `schema_v76_complete.sql` executed — drops and recreates entire DB
+   - `schema_v77_complete.sql` executed — drops and recreates entire DB
    - All 22 tables + views + triggers created fresh
    - No migration logic exists or is needed
 
@@ -490,9 +490,9 @@ Celery Beat (30s)
 ### 6.1 Critical Constraints
 
 > ⚠ **The database is always dropped and recreated at startup.**
-> `schema_v76_complete.sql` is the single source of truth for all tables, indexes, constraints, views, triggers, and column definitions. **No migrations. No ALTER TABLE statements. No data preservation between runs.**
+> `schema_v77_complete.sql` is the single source of truth for all tables, indexes, constraints, views, triggers, and column definitions. **No migrations. No ALTER TABLE statements. No data preservation between runs.**
 
-Column names used in `models.py`, `scraper_service.py`, and `extractor.py` must always be verified against `schema_v76_complete.sql` — never assumed.
+Column names used in `models.py`, `scraper_service.py`, and `extractor.py` must always be verified against `schema_v77_complete.sql` — never assumed.
 
 ### 6.2 Tables Overview (22 tables — v76 patch)
 
@@ -857,11 +857,11 @@ English (`en`) is always processed first, regardless of list order.
 | **Document** | Guide_Documentation_BookingScraper_EN.md |
 | **Version** | 2.0 |
 | **Build** | 76 (patch 2026-04-04) |
-| **Schema** | `schema_v76_complete.sql` |
+| **Schema** | `schema_v77_complete.sql` |
 | **Date** | 2026-04-04 |
 | **Status** | Current Baseline |
 | **Previous version** | Guide_Documentation_BookingScraper_EN.md v1.0 (Build 60, 2026-03-29) |
 
 ---
 
-*This documentation reflects the BookingScraper Pro system as of Build 76 patch (2026-04-04). All table structures, extraction methods, and configuration parameters are current. The schema_v76_complete.sql file remains the single authoritative source of truth for all database definitions.*
+*This documentation reflects the BookingScraper Pro system as of Build 76 patch (2026-04-04). All table structures, extraction methods, and configuration parameters are current. The schema_v77_complete.sql file remains the single authoritative source of truth for all database definitions.*
