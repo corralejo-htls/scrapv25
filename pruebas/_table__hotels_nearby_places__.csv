@@ -1,0 +1,1142 @@
+id,hotel_id,url_id,language,place_name,distance,category,created_at
+1,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,RestaurantIlaafathi Restaurant8 km*,8 km*,restaurant,2026-04-06 20:39:16.468199+01
+2,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,RestaurantKurumba Cafe21 km*,21 km*,restaurant,2026-04-06 20:39:16.468199+01
+3,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,RestaurantThila21 km*,21 km*,restaurant,2026-04-06 20:39:16.468199+01
+4,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,Velana International Airport23 km*,23 km*,airport,2026-04-06 20:39:16.468199+01
+5,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,Dharavandhoo Airport95 km*,95 km*,airport,2026-04-06 20:39:16.468199+01
+6,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Icons Gallery100 m,100 m,attraction,2026-04-06 20:39:31.025658+01
+7,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Upper Gate150 m,150 m,attraction,2026-04-06 20:39:31.025658+01
+8,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:39:31.025658+01
+9,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Museum Robev House250 m,250 m,attraction,2026-04-06 20:39:31.025658+01
+10,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:39:31.025658+01
+11,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:39:31.025658+01
+12,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Nature Museum14 km,14 km,attraction,2026-04-06 20:39:31.025658+01
+13,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Bay of Bones Museum16 km,16 km,attraction,2026-04-06 20:39:31.025658+01
+14,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Cafe/barKaterosta1.3 km,1.3 km,restaurant,2026-04-06 20:39:31.025658+01
+15,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Cafe/barCuba Libre Beach2.1 km,2.1 km,restaurant,2026-04-06 20:39:31.025658+01
+16,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Cafe/barMetropolis Beach Bar Ohrid5 km,5 km,restaurant,2026-04-06 20:39:31.025658+01
+17,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,LakeLake Ohrid0 m,0 m,nature,2026-04-06 20:39:31.025658+01
+18,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Saraiste Beach250 m,250 m,beach,2026-04-06 20:39:31.025658+01
+19,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Potpesh Beach400 m,400 m,beach,2026-04-06 20:39:31.025658+01
+20,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Labino Beach1 km,1 km,beach,2026-04-06 20:39:31.025658+01
+21,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Beach Nemo4.6 km,4.6 km,beach,2026-04-06 20:39:31.025658+01
+22,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Green Paradise Beach7 km,7 km,beach,2026-04-06 20:39:31.025658+01
+23,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,BusOhrid Bus Station2.2 km,2.2 km,transport,2026-04-06 20:39:31.025658+01
+24,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Ohrid Airport8 km,8 km,airport,2026-04-06 20:39:31.025658+01
+25,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,RestauranteIlaafathi Restaurant8 km*,8 km*,restaurant,2026-04-06 20:39:54.767766+01
+26,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,RestauranteKurumba Cafe21 km*,21 km*,restaurant,2026-04-06 20:39:54.767766+01
+27,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,RestauranteThila21 km*,21 km*,restaurant,2026-04-06 20:39:54.767766+01
+28,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,Aeropuerto internacional de Velana23 km*,23 km*,airport,2026-04-06 20:39:54.767766+01
+29,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,Aeropuerto de Dharavandhoo95 km*,95 km*,airport,2026-04-06 20:39:54.767766+01
+30,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Icons Gallery100 m,100 m,attraction,2026-04-06 20:40:31.995473+01
+31,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Upper Gate150 m,150 m,attraction,2026-04-06 20:40:31.995473+01
+32,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:40:31.995473+01
+33,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Museum Robev House250 m,250 m,attraction,2026-04-06 20:40:31.995473+01
+34,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:40:31.995473+01
+35,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:40:31.995473+01
+36,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Nature Museum14 km,14 km,attraction,2026-04-06 20:40:31.995473+01
+37,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Museo de la Bahía de los Huesos16 km,16 km,attraction,2026-04-06 20:40:31.995473+01
+38,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,"Cafetería/barKaterosta1,3 km","1,3 km",restaurant,2026-04-06 20:40:31.995473+01
+39,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,"Cafetería/barCuba Libre Beach2,1 km","2,1 km",restaurant,2026-04-06 20:40:31.995473+01
+40,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Cafetería/barMetropolis Beach Bar Ohrid5 km,5 km,restaurant,2026-04-06 20:40:31.995473+01
+41,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,LagoLake Ohrid0 m,0 m,nature,2026-04-06 20:40:31.995473+01
+42,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Playa de Saraiste250 m,250 m,beach,2026-04-06 20:40:31.995473+01
+43,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Playa de Potpesh400 m,400 m,beach,2026-04-06 20:40:31.995473+01
+44,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Playa de Labino1 km,1 km,beach,2026-04-06 20:40:31.995473+01
+45,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,"Playa de Nemo4,6 km","4,6 km",beach,2026-04-06 20:40:31.995473+01
+46,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Playa Green Paradise7 km,7 km,beach,2026-04-06 20:40:31.995473+01
+47,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,"AutobúsOhrid Bus Station2,2 km","2,2 km",transport,2026-04-06 20:40:31.995473+01
+48,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Aeropuerto de Ohrid8 km,8 km,airport,2026-04-06 20:40:31.995473+01
+49,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,RestaurantIlaafathi Restaurant8 km*,8 km*,restaurant,2026-04-06 20:40:46.650572+01
+50,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,RestaurantKurumba Cafe21 km*,21 km*,restaurant,2026-04-06 20:40:46.650572+01
+51,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,RestaurantThila21 km*,21 km*,restaurant,2026-04-06 20:40:46.650572+01
+52,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,Internationaler Flughafen Velana23 km*,23 km*,attraction,2026-04-06 20:40:46.650572+01
+53,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,Flughafen Dharavandhoo95 km*,95 km*,attraction,2026-04-06 20:40:46.650572+01
+54,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Icons Gallery100 m,100 m,attraction,2026-04-06 20:41:01.175803+01
+55,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Upper Gate150 m,150 m,attraction,2026-04-06 20:41:01.175803+01
+56,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:41:01.175803+01
+57,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Museum Robev House250 m,250 m,attraction,2026-04-06 20:41:01.175803+01
+58,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:41:01.175803+01
+59,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:41:01.175803+01
+60,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Nature Museum14 km,14 km,attraction,2026-04-06 20:41:01.175803+01
+61,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Knochenbucht16 km,16 km,attraction,2026-04-06 20:41:01.175803+01
+62,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,"Café/BarKaterosta1,3 km","1,3 km",restaurant,2026-04-06 20:41:01.175803+01
+63,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,"Café/BarCuba Libre Beach2,1 km","2,1 km",restaurant,2026-04-06 20:41:01.175803+01
+64,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Café/BarMetropolis Beach Bar Ohrid5 km,5 km,restaurant,2026-04-06 20:41:01.175803+01
+65,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,SeeOhridsee0 m,0 m,attraction,2026-04-06 20:41:01.175803+01
+66,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Strand Saraiste250 m,250 m,attraction,2026-04-06 20:41:01.175803+01
+67,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Strand Potpesh400 m,400 m,attraction,2026-04-06 20:41:01.175803+01
+68,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Strand Labino1 km,1 km,attraction,2026-04-06 20:41:01.175803+01
+69,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,"Strand Nemo4,6 km","4,6 km",attraction,2026-04-06 20:41:01.175803+01
+70,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Strand Green Paradise7 km,7 km,attraction,2026-04-06 20:41:01.175803+01
+71,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,"BusOhrid Bus Station2,2 km","2,2 km",attraction,2026-04-06 20:41:01.175803+01
+72,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Flughafen Ohrid8 km,8 km,attraction,2026-04-06 20:41:01.175803+01
+73,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Icons Gallery100 m,100 m,attraction,2026-04-06 20:42:12.830798+01
+74,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Upper Gate150 m,150 m,attraction,2026-04-06 20:42:12.830798+01
+75,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:42:12.830798+01
+76,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Museum Robev House250 m,250 m,attraction,2026-04-06 20:42:12.830798+01
+77,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:42:12.830798+01
+78,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:42:12.830798+01
+79,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Nature Museum14 km,14 km,attraction,2026-04-06 20:42:12.830798+01
+80,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Museo Baia delle Ossa16 km,16 km,attraction,2026-04-06 20:42:12.830798+01
+81,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,"Caffetteria/barKaterosta1,3 km","1,3 km",attraction,2026-04-06 20:42:12.830798+01
+82,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,"Caffetteria/barCuba Libre Beach2,1 km","2,1 km",attraction,2026-04-06 20:42:12.830798+01
+83,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Caffetteria/barMetropolis Beach Bar Ohrid5 km,5 km,attraction,2026-04-06 20:42:12.830798+01
+84,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,LagoLago di Ohrid (Ocrida)0 m,0 m,attraction,2026-04-06 20:42:12.830798+01
+85,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Spiaggia di Saraiste250 m,250 m,attraction,2026-04-06 20:42:12.830798+01
+86,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Spiaggia di Potpesh400 m,400 m,attraction,2026-04-06 20:42:12.830798+01
+87,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Spiaggia di Labino1 km,1 km,attraction,2026-04-06 20:42:12.830798+01
+88,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,"Spiaggia di Nemo4,6 km","4,6 km",attraction,2026-04-06 20:42:12.830798+01
+89,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Spiaggia di Green Paradise7 km,7 km,attraction,2026-04-06 20:42:12.830798+01
+90,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,"AutobusOhrid Bus Station2,2 km","2,2 km",attraction,2026-04-06 20:42:12.830798+01
+91,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Aeroporto San Paolo Apostolo di Ocrida8 km,8 km,attraction,2026-04-06 20:42:12.830798+01
+92,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,RestaurantIlaafathi Restaurant8 km*,8 km*,restaurant,2026-04-06 20:42:30.578399+01
+93,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,RestaurantKurumba Cafe21 km*,21 km*,restaurant,2026-04-06 20:42:30.578399+01
+94,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,RestaurantThila21 km*,21 km*,restaurant,2026-04-06 20:42:30.578399+01
+95,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,Aéroport international Velana de Malé23 km*,23 km*,airport,2026-04-06 20:42:30.578399+01
+96,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,Aéroport de Dharavandhoo95 km*,95 km*,airport,2026-04-06 20:42:30.578399+01
+97,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,RestauranteIlaafathi Restaurant8 km*,8 km*,restaurant,2026-04-06 20:43:22.243982+01
+98,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,RestauranteKurumba Cafe21 km*,21 km*,restaurant,2026-04-06 20:43:22.243982+01
+99,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,RestauranteThila21 km*,21 km*,restaurant,2026-04-06 20:43:22.243982+01
+100,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,Velana International Airport23 km*,23 km*,airport,2026-04-06 20:43:22.243982+01
+101,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,Dharavandhoo Airport95 km*,95 km*,airport,2026-04-06 20:43:22.243982+01
+102,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Icons Gallery100 m,100 m,attraction,2026-04-06 20:43:43.519356+01
+103,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Upper Gate150 m,150 m,attraction,2026-04-06 20:43:43.519356+01
+104,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:43:43.519356+01
+105,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Museum Robev House250 m,250 m,attraction,2026-04-06 20:43:43.519356+01
+106,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:43:43.519356+01
+107,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:43:43.519356+01
+108,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Nature Museum14 km,14 km,attraction,2026-04-06 20:43:43.519356+01
+109,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Musée Bay of Bones16 km,16 km,attraction,2026-04-06 20:43:43.519356+01
+110,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,"Café / barKaterosta1,3 km","1,3 km",restaurant,2026-04-06 20:43:43.519356+01
+111,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,"Café / barCuba Libre Beach2,1 km","2,1 km",restaurant,2026-04-06 20:43:43.519356+01
+112,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Café / barMetropolis Beach Bar Ohrid5 km,5 km,restaurant,2026-04-06 20:43:43.519356+01
+113,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,LacLac d'Ohrid0 m,0 m,nature,2026-04-06 20:43:43.519356+01
+114,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Plage Saraiste250 m,250 m,beach,2026-04-06 20:43:43.519356+01
+115,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Plage de Potpesh400 m,400 m,beach,2026-04-06 20:43:43.519356+01
+116,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Plage de Labino1 km,1 km,beach,2026-04-06 20:43:43.519356+01
+117,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,"Plage Nemo4,6 km","4,6 km",beach,2026-04-06 20:43:43.519356+01
+118,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Plage Green Paradise7 km,7 km,beach,2026-04-06 20:43:43.519356+01
+119,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,"BusOhrid Bus Station2,2 km","2,2 km",transport,2026-04-06 20:43:43.519356+01
+120,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Aéroport Saint-Paul l'Apôtre d'Ohrid8 km,8 km,airport,2026-04-06 20:43:43.519356+01
+121,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Icons Gallery100 m,100 m,attraction,2026-04-06 20:44:32.576012+01
+122,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Upper Gate150 m,150 m,attraction,2026-04-06 20:44:32.576012+01
+123,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Ancient Theatre of Ohrid200 m,200 m,attraction,2026-04-06 20:44:32.576012+01
+124,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Museum Robev House250 m,250 m,attraction,2026-04-06 20:44:32.576012+01
+125,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,National Workshop for Handmade Paper350 m,350 m,attraction,2026-04-06 20:44:32.576012+01
+126,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Samoil's Fortress600 m,600 m,attraction,2026-04-06 20:44:32.576012+01
+127,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Nature Museum14 km,14 km,attraction,2026-04-06 20:44:32.576012+01
+128,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Bay of Bones Museum16 km,16 km,attraction,2026-04-06 20:44:32.576012+01
+129,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,"Café/barKaterosta1,3 km","1,3 km",restaurant,2026-04-06 20:44:32.576012+01
+130,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,"Café/barCuba Libre Beach2,1 km","2,1 km",restaurant,2026-04-06 20:44:32.576012+01
+131,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Café/barMetropolis Beach Bar Ohrid5 km,5 km,restaurant,2026-04-06 20:44:32.576012+01
+132,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,LagoLake Ohrid0 m,0 m,nature,2026-04-06 20:44:32.576012+01
+133,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Saraiste Beach250 m,250 m,beach,2026-04-06 20:44:32.576012+01
+134,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Potpesh Beach400 m,400 m,beach,2026-04-06 20:44:32.576012+01
+135,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Labino Beach1 km,1 km,beach,2026-04-06 20:44:32.576012+01
+136,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,"Beach Nemo4,6 km","4,6 km",beach,2026-04-06 20:44:32.576012+01
+137,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Green Paradise Beach7 km,7 km,beach,2026-04-06 20:44:32.576012+01
+138,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,"AutocarroOhrid Bus Station2,2 km","2,2 km",transport,2026-04-06 20:44:32.576012+01
+139,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Ohrid Airport8 km,8 km,airport,2026-04-06 20:44:32.576012+01
+140,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,RestaurantRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,restaurant,2026-04-06 20:45:24.883879+01
+141,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,RestaurantBasils Beach Bar & Restaurant23 km*,23 km*,restaurant,2026-04-06 20:45:24.883879+01
+142,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,RestaurantSparrows Beach Club24 km,24 km,restaurant,2026-04-06 20:45:24.883879+01
+143,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Little Mahault Beach3.2 km,3.2 km,beach,2026-04-06 20:45:24.883879+01
+144,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Big Mahault Beach3.5 km,3.5 km,beach,2026-04-06 20:45:24.883879+01
+145,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Mustique Airport24 km*,24 km*,airport,2026-04-06 20:45:24.883879+01
+146,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Union Island Airport25 km,25 km,airport,2026-04-06 20:45:24.883879+01
+147,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Lauriston Airport30 km*,30 km*,airport,2026-04-06 20:45:24.883879+01
+148,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Thimarafushi Airport57 km*,57 km*,airport,2026-04-06 20:45:44.657271+01
+149,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Muli Airport76 km*,76 km*,airport,2026-04-06 20:45:44.657271+01
+150,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Villa International Airport87 km*,87 km*,airport,2026-04-06 20:45:44.657271+01
+151,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,RestauranteRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,restaurant,2026-04-06 20:46:47.106751+01
+152,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,RestauranteBasils Beach Bar & Restaurant23 km*,23 km*,restaurant,2026-04-06 20:46:47.106751+01
+153,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,RestauranteSparrows Beach Club24 km,24 km,restaurant,2026-04-06 20:46:47.106751+01
+154,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,"Little Mahault Beach3,2 km","3,2 km",beach,2026-04-06 20:46:47.106751+01
+155,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,"Big Mahault Beach3,5 km","3,5 km",beach,2026-04-06 20:46:47.106751+01
+156,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Aeropuerto de Mustique24 km*,24 km*,airport,2026-04-06 20:46:47.106751+01
+157,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Aeropuerto de Union Island25 km,25 km,airport,2026-04-06 20:46:47.106751+01
+158,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Aeropuerto de Lauriston30 km*,30 km*,airport,2026-04-06 20:46:47.106751+01
+159,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Aeropuerto de Thimarafushi57 km*,57 km*,airport,2026-04-06 20:47:02.159725+01
+160,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Muli Airport76 km*,76 km*,airport,2026-04-06 20:47:02.159725+01
+161,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Aeropuerto internacional Villa - Maamigili87 km*,87 km*,airport,2026-04-06 20:47:02.159725+01
+162,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,RestaurantRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,restaurant,2026-04-06 20:47:16.271915+01
+163,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,RestaurantBasils Beach Bar & Restaurant23 km*,23 km*,restaurant,2026-04-06 20:47:16.271915+01
+164,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,RestaurantSparrows Beach Club24 km,24 km,restaurant,2026-04-06 20:47:16.271915+01
+165,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,"Strand Little Mahault Beach3,2 km","3,2 km",attraction,2026-04-06 20:47:16.271915+01
+166,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,"Strand Big Mahault Beach3,5 km","3,5 km",attraction,2026-04-06 20:47:16.271915+01
+167,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Flughafen Mustique24 km*,24 km*,attraction,2026-04-06 20:47:16.271915+01
+168,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Flughafen Union Island25 km,25 km,attraction,2026-04-06 20:47:16.271915+01
+169,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Flughafen Lauriston30 km*,30 km*,attraction,2026-04-06 20:47:16.271915+01
+170,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Flughafen Thimarafushi57 km*,57 km*,attraction,2026-04-06 20:47:51.092304+01
+171,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Muli Airport76 km*,76 km*,attraction,2026-04-06 20:47:51.092304+01
+172,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Flughafen Maamigili87 km*,87 km*,attraction,2026-04-06 20:47:51.092304+01
+173,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,RistoranteRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,attraction,2026-04-06 20:48:28.144299+01
+174,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,RistoranteBasils Beach Bar & Restaurant23 km*,23 km*,attraction,2026-04-06 20:48:28.144299+01
+175,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,RistoranteSparrows Beach Club24 km,24 km,attraction,2026-04-06 20:48:28.144299+01
+176,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,"Little Mahault Beach3,2 km","3,2 km",attraction,2026-04-06 20:48:28.144299+01
+177,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,"Big Mahault Beach3,5 km","3,5 km",attraction,2026-04-06 20:48:28.144299+01
+178,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Aeroporto di Mustique24 km*,24 km*,attraction,2026-04-06 20:48:28.144299+01
+179,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Aeroporto di Union Island25 km,25 km,attraction,2026-04-06 20:48:28.144299+01
+180,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Aeroporto Lauriston30 km*,30 km*,attraction,2026-04-06 20:48:28.144299+01
+181,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Aeroporto di Dhaalu500 m,500 m,attraction,2026-04-06 20:48:51.868172+01
+182,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Aeroporto di Thimarafushi57 km*,57 km*,attraction,2026-04-06 20:48:51.868172+01
+183,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Muli Airport76 km*,76 km*,attraction,2026-04-06 20:48:51.868172+01
+184,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,RestaurantRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,restaurant,2026-04-06 20:49:22.359961+01
+185,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,RestaurantBasils Beach Bar & Restaurant23 km*,23 km*,restaurant,2026-04-06 20:49:22.359961+01
+186,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,RestaurantSparrows Beach Club24 km,24 km,restaurant,2026-04-06 20:49:22.359961+01
+187,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,"Plage Little Mahault3,2 km","3,2 km",beach,2026-04-06 20:49:22.359961+01
+188,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,"Plage Big Mahault3,5 km","3,5 km",beach,2026-04-06 20:49:22.359961+01
+189,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Aéroport de Moustique24 km*,24 km*,airport,2026-04-06 20:49:22.359961+01
+190,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Aérodrome d'Union Island25 km,25 km,airport,2026-04-06 20:49:22.359961+01
+191,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Aéroport de Lauriston30 km*,30 km*,airport,2026-04-06 20:49:22.359961+01
+192,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Aéroport de Thimarafushi57 km*,57 km*,airport,2026-04-06 20:49:32.536586+01
+193,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Muli Airport76 km*,76 km*,airport,2026-04-06 20:49:32.536586+01
+194,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Aéroport de Maamigili87 km*,87 km*,airport,2026-04-06 20:49:32.536586+01
+195,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,RestauranteRobert Righteous & de Youths Seafood Restaurant & Bar16 km,16 km,restaurant,2026-04-06 20:49:51.650304+01
+196,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,RestauranteBasils Beach Bar & Restaurant23 km*,23 km*,restaurant,2026-04-06 20:49:51.650304+01
+197,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,RestauranteSparrows Beach Club24 km,24 km,restaurant,2026-04-06 20:49:51.650304+01
+198,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,"Little Mahault Beach3,2 km","3,2 km",beach,2026-04-06 20:49:51.650304+01
+199,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,"Big Mahault Beach3,5 km","3,5 km",beach,2026-04-06 20:49:51.650304+01
+200,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Mustique Airport24 km*,24 km*,airport,2026-04-06 20:49:51.650304+01
+201,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Union Island Airport25 km,25 km,airport,2026-04-06 20:49:51.650304+01
+202,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Lauriston Airport30 km*,30 km*,airport,2026-04-06 20:49:51.650304+01
+203,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Thimarafushi Airport57 km*,57 km*,airport,2026-04-06 20:50:21.564798+01
+204,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Muli Airport76 km*,76 km*,airport,2026-04-06 20:50:21.564798+01
+205,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Villa International Airport87 km*,87 km*,airport,2026-04-06 20:50:21.564798+01
+206,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,RestaurantINFINITI Restaurant & Raw Bar500 ft,,restaurant,2026-04-06 20:51:09.790915+01
+207,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,RestaurantThe Grill500 ft,,restaurant,2026-04-06 20:51:09.790915+01
+208,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,RestaurantCoyaba Restaurant850 ft,,restaurant,2026-04-06 20:51:09.790915+01
+209,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Grace Bay Beach20 ft,,beach,2026-04-06 20:51:09.790915+01
+210,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Pelican Beach1.8 mi,1.8 mi,beach,2026-04-06 20:51:09.790915+01
+211,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Long Bay Beach2.5 mi,2.5 mi,beach,2026-04-06 20:51:09.790915+01
+212,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Babalua Beach4.7 mi,4.7 mi,beach,2026-04-06 20:51:09.790915+01
+213,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Half Moon Bay Beach6 mi,6 mi,beach,2026-04-06 20:51:09.790915+01
+214,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Providenciales International Airport6 mi,6 mi,airport,2026-04-06 20:51:09.790915+01
+215,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,North Caicos Airport16 mi*,16 mi*,airport,2026-04-06 20:51:09.790915+01
+216,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,South Caicos Airport45 mi*,45 mi*,airport,2026-04-06 20:51:09.790915+01
+217,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,RestaurantTurks Kebab3.2 mi,3.2 mi,restaurant,2026-04-06 20:51:37.058505+01
+218,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Cafe/barCaicos Bakery3.3 mi,3.3 mi,restaurant,2026-04-06 20:51:37.058505+01
+219,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,RestaurantSkull Rock Cantina3.4 mi,3.4 mi,restaurant,2026-04-06 20:51:37.058505+01
+220,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Long Bay Beach150 ft,,beach,2026-04-06 20:51:37.058505+01
+221,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Grace Bay Beach3.5 mi,3.5 mi,beach,2026-04-06 20:51:37.058505+01
+222,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Pelican Beach4.6 mi,4.6 mi,beach,2026-04-06 20:51:37.058505+01
+223,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Providenciales International Airport8 mi,8 mi,airport,2026-04-06 20:51:37.058505+01
+224,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,North Caicos Airport17 mi*,17 mi*,airport,2026-04-06 20:51:37.058505+01
+225,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,South Caicos Airport43 mi*,43 mi*,airport,2026-04-06 20:51:37.058505+01
+226,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,RestauranteINFINITI Restaurant & Raw Bar150 m,150 m,restaurant,2026-04-06 20:52:23.98422+01
+227,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,RestauranteThe Grill150 m,150 m,restaurant,2026-04-06 20:52:23.98422+01
+228,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,RestauranteCoyaba Restaurant250 m,250 m,restaurant,2026-04-06 20:52:23.98422+01
+229,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Playa de Grace Bay7 m,7 m,beach,2026-04-06 20:52:23.98422+01
+230,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,"Pelican Beach2,8 km","2,8 km",beach,2026-04-06 20:52:23.98422+01
+231,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,"Long Bay Beach4,1 km","4,1 km",beach,2026-04-06 20:52:23.98422+01
+232,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Babalua Beach7 km,7 km,beach,2026-04-06 20:52:23.98422+01
+233,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Half Moon Bay Beach9 km,9 km,beach,2026-04-06 20:52:23.98422+01
+234,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Aeropuerto internacional de Providenciales10 km,10 km,airport,2026-04-06 20:52:23.98422+01
+235,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,North Caicos Airport26 km*,26 km*,airport,2026-04-06 20:52:23.98422+01
+236,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Aeropuerto de South Caicos72 km*,72 km*,airport,2026-04-06 20:52:23.98422+01
+237,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,RestauranteTurks Kebab5 km,5 km,restaurant,2026-04-06 20:52:41.202243+01
+238,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Cafetería/barCaicos Bakery5 km,5 km,restaurant,2026-04-06 20:52:41.202243+01
+239,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,RestauranteSkull Rock Cantina5 km,5 km,restaurant,2026-04-06 20:52:41.202243+01
+240,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Long Bay Beach50 m,50 m,beach,2026-04-06 20:52:41.202243+01
+241,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Playa de Grace Bay5 km,5 km,beach,2026-04-06 20:52:41.202243+01
+242,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Pelican Beach7 km,7 km,beach,2026-04-06 20:52:41.202243+01
+243,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Aeropuerto internacional de Providenciales14 km,14 km,airport,2026-04-06 20:52:41.202243+01
+244,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,North Caicos Airport27 km*,27 km*,airport,2026-04-06 20:52:41.202243+01
+245,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Aeropuerto de South Caicos70 km*,70 km*,airport,2026-04-06 20:52:41.202243+01
+246,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,RestaurantINFINITI Restaurant & Raw Bar150 m,150 m,restaurant,2026-04-06 20:52:56.674583+01
+247,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,RestaurantThe Grill150 m,150 m,restaurant,2026-04-06 20:52:56.674583+01
+248,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,RestaurantCoyaba Restaurant250 m,250 m,restaurant,2026-04-06 20:52:56.674583+01
+249,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Strand Grace Bay Beach7 m,7 m,attraction,2026-04-06 20:52:56.674583+01
+250,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,"Strand Pelican Beach2,8 km","2,8 km",attraction,2026-04-06 20:52:56.674583+01
+251,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,"Strand Long Bay Beach4,1 km","4,1 km",attraction,2026-04-06 20:52:56.674583+01
+252,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Strand Babalua Beach7 km,7 km,attraction,2026-04-06 20:52:56.674583+01
+253,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Strand in der Half Moon Bay9 km,9 km,attraction,2026-04-06 20:52:56.674583+01
+254,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Internationaler Flughafen Providenciales10 km,10 km,attraction,2026-04-06 20:52:56.674583+01
+255,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,North Caicos Airport26 km*,26 km*,attraction,2026-04-06 20:52:56.674583+01
+256,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Flughafen South Caicos72 km*,72 km*,attraction,2026-04-06 20:52:56.674583+01
+257,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,RestaurantTurks Kebab5 km,5 km,restaurant,2026-04-06 20:53:41.936245+01
+258,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Café/BarCaicos Bakery5 km,5 km,restaurant,2026-04-06 20:53:41.936245+01
+259,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,RestaurantSkull Rock Cantina5 km,5 km,restaurant,2026-04-06 20:53:41.936245+01
+260,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Strand Long Bay Beach50 m,50 m,attraction,2026-04-06 20:53:41.936245+01
+261,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Strand Grace Bay Beach5 km,5 km,attraction,2026-04-06 20:53:41.936245+01
+262,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Strand Pelican Beach7 km,7 km,attraction,2026-04-06 20:53:41.936245+01
+263,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Internationaler Flughafen Providenciales14 km,14 km,attraction,2026-04-06 20:53:41.936245+01
+264,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,North Caicos Airport27 km*,27 km*,attraction,2026-04-06 20:53:41.936245+01
+265,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Flughafen South Caicos70 km*,70 km*,attraction,2026-04-06 20:53:41.936245+01
+266,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,RistoranteINFINITI Restaurant & Raw Bar150 m,150 m,attraction,2026-04-06 20:55:54.012767+01
+267,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,RistoranteThe Grill150 m,150 m,attraction,2026-04-06 20:55:54.012767+01
+268,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,RistoranteCoyaba Restaurant250 m,250 m,attraction,2026-04-06 20:55:54.012767+01
+269,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Spiaggia di Grace Bay7 m,7 m,attraction,2026-04-06 20:55:54.012767+01
+270,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,"Pelican Beach2,8 km","2,8 km",attraction,2026-04-06 20:55:54.012767+01
+271,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,"Long Bay Beach4,1 km","4,1 km",attraction,2026-04-06 20:55:54.012767+01
+272,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Babalua Beach7 km,7 km,attraction,2026-04-06 20:55:54.012767+01
+273,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Half Moon Bay Beach9 km,9 km,attraction,2026-04-06 20:55:54.012767+01
+274,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Aeroporto Internazionale di Providenciales10 km,10 km,attraction,2026-04-06 20:55:54.012767+01
+275,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,North Caicos Airport26 km*,26 km*,attraction,2026-04-06 20:55:54.012767+01
+276,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Aeroporto di South Caicos72 km*,72 km*,attraction,2026-04-06 20:55:54.012767+01
+277,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,RistoranteTurks Kebab5 km,5 km,attraction,2026-04-06 20:56:18.073563+01
+278,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Caffetteria/barCaicos Bakery5 km,5 km,attraction,2026-04-06 20:56:18.073563+01
+279,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,RistoranteSkull Rock Cantina5 km,5 km,attraction,2026-04-06 20:56:18.073563+01
+280,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Long Bay Beach50 m,50 m,attraction,2026-04-06 20:56:18.073563+01
+281,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Spiaggia di Grace Bay5 km,5 km,attraction,2026-04-06 20:56:18.073563+01
+282,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Pelican Beach7 km,7 km,attraction,2026-04-06 20:56:18.073563+01
+283,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Aeroporto Internazionale di Providenciales14 km,14 km,attraction,2026-04-06 20:56:18.073563+01
+284,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,North Caicos Airport27 km*,27 km*,attraction,2026-04-06 20:56:18.073563+01
+285,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Aeroporto di South Caicos70 km*,70 km*,attraction,2026-04-06 20:56:18.073563+01
+286,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,RestaurantINFINITI Restaurant & Raw Bar150 m,150 m,restaurant,2026-04-06 20:57:02.156516+01
+287,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,RestaurantThe Grill150 m,150 m,restaurant,2026-04-06 20:57:02.156516+01
+288,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,RestaurantCoyaba Restaurant250 m,250 m,restaurant,2026-04-06 20:57:02.156516+01
+289,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Grace Bay Beach7 m,7 m,beach,2026-04-06 20:57:02.156516+01
+290,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,"Pelican Beach2,8 km","2,8 km",beach,2026-04-06 20:57:02.156516+01
+291,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,"Long Bay Beach4,1 km","4,1 km",beach,2026-04-06 20:57:02.156516+01
+292,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Babalua Beach7 km,7 km,beach,2026-04-06 20:57:02.156516+01
+293,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Half Moon Bay Beach9 km,9 km,beach,2026-04-06 20:57:02.156516+01
+294,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Aéroport international de Providenciales10 km,10 km,airport,2026-04-06 20:57:02.156516+01
+295,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,North Caicos Airport26 km*,26 km*,airport,2026-04-06 20:57:02.156516+01
+296,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Aéroport de South Caicos72 km*,72 km*,airport,2026-04-06 20:57:02.156516+01
+297,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,RestaurantTurks Kebab5 km,5 km,restaurant,2026-04-06 20:57:07.912061+01
+298,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Café / barCaicos Bakery5 km,5 km,restaurant,2026-04-06 20:57:07.912061+01
+299,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,RestaurantSkull Rock Cantina5 km,5 km,restaurant,2026-04-06 20:57:07.912061+01
+300,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Long Bay Beach50 m,50 m,beach,2026-04-06 20:57:07.912061+01
+301,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Grace Bay Beach5 km,5 km,beach,2026-04-06 20:57:07.912061+01
+302,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Pelican Beach7 km,7 km,beach,2026-04-06 20:57:07.912061+01
+303,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Aéroport international de Providenciales14 km,14 km,airport,2026-04-06 20:57:07.912061+01
+304,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,North Caicos Airport27 km*,27 km*,airport,2026-04-06 20:57:07.912061+01
+305,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Aéroport de South Caicos70 km*,70 km*,airport,2026-04-06 20:57:07.912061+01
+306,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,RestauranteINFINITI Restaurant & Raw Bar150 m,150 m,restaurant,2026-04-06 20:57:32.426442+01
+307,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,RestauranteThe Grill150 m,150 m,restaurant,2026-04-06 20:57:32.426442+01
+308,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,RestauranteCoyaba Restaurant250 m,250 m,restaurant,2026-04-06 20:57:32.426442+01
+309,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Grace Bay Beach7 m,7 m,beach,2026-04-06 20:57:32.426442+01
+310,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,"Pelican Beach2,8 km","2,8 km",beach,2026-04-06 20:57:32.426442+01
+311,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,"Long Bay Beach4,1 km","4,1 km",beach,2026-04-06 20:57:32.426442+01
+312,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Babalua Beach7 km,7 km,beach,2026-04-06 20:57:32.426442+01
+313,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Half Moon Bay Beach9 km,9 km,beach,2026-04-06 20:57:32.426442+01
+314,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Providenciales International Airport10 km,10 km,airport,2026-04-06 20:57:32.426442+01
+315,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,North Caicos Airport26 km*,26 km*,airport,2026-04-06 20:57:32.426442+01
+316,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,South Caicos Airport72 km*,72 km*,airport,2026-04-06 20:57:32.426442+01
+317,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,RestauranteTurks Kebab5 km,5 km,restaurant,2026-04-06 20:58:09.381281+01
+318,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Café/barCaicos Bakery5 km,5 km,restaurant,2026-04-06 20:58:09.381281+01
+319,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,RestauranteSkull Rock Cantina5 km,5 km,restaurant,2026-04-06 20:58:09.381281+01
+320,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Long Bay Beach50 m,50 m,beach,2026-04-06 20:58:09.381281+01
+321,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Grace Bay Beach5 km,5 km,beach,2026-04-06 20:58:09.381281+01
+322,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Pelican Beach7 km,7 km,beach,2026-04-06 20:58:09.381281+01
+323,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Providenciales International Airport14 km,14 km,airport,2026-04-06 20:58:09.381281+01
+324,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,North Caicos Airport27 km*,27 km*,airport,2026-04-06 20:58:09.381281+01
+325,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,South Caicos Airport70 km*,70 km*,airport,2026-04-06 20:58:09.381281+01
+326,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,RestaurantSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,restaurant,2026-04-06 20:58:57.744564+01
+327,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,RestaurantOriental Chinese Restaurant100 m,100 m,restaurant,2026-04-06 20:58:57.744564+01
+328,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,RestaurantHappy Days Cafe100 m,100 m,restaurant,2026-04-06 20:58:57.744564+01
+329,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Dover Beach0 m,0 m,beach,2026-04-06 20:58:57.744564+01
+330,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Worthing800 m,800 m,beach,2026-04-06 20:58:57.744564+01
+331,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Maxwell Beach850 m,850 m,beach,2026-04-06 20:58:57.744564+01
+332,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Rockley Beach2 km,2 km,beach,2026-04-06 20:58:57.744564+01
+333,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Welches Beach2.6 km,2.6 km,beach,2026-04-06 20:58:57.744564+01
+334,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Grantley Adams International Airport8 km,8 km,airport,2026-04-06 20:58:57.744564+01
+357,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,RestauranteSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,restaurant,2026-04-06 20:59:54.976309+01
+358,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,RestauranteOriental Chinese Restaurant100 m,100 m,restaurant,2026-04-06 20:59:54.976309+01
+359,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,RestauranteHappy Days Cafe100 m,100 m,restaurant,2026-04-06 20:59:54.976309+01
+360,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Dover Beach0 m,0 m,beach,2026-04-06 20:59:54.976309+01
+361,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Worthing Beach800 m,800 m,beach,2026-04-06 20:59:54.976309+01
+362,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Maxwell Beach850 m,850 m,beach,2026-04-06 20:59:54.976309+01
+363,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Rockley Beach2 km,2 km,beach,2026-04-06 20:59:54.976309+01
+364,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,"Welches Beach2,6 km","2,6 km",beach,2026-04-06 20:59:54.976309+01
+365,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Aeropuerto Internacional Grantley Adams8 km,8 km,airport,2026-04-06 20:59:54.976309+01
+335,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Mother Lousie Sweeting Park1.9 km,1.9 km,attraction,2026-04-06 20:59:31.788027+01
+336,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Goodmans Bay3.9 km,3.9 km,attraction,2026-04-06 20:59:31.788027+01
+337,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Cable Beach3.9 km,3.9 km,attraction,2026-04-06 20:59:31.788027+01
+338,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Young Women’s Christian Association (YWCA) HQ6 km,6 km,attraction,2026-04-06 20:59:31.788027+01
+339,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Stapeldon Park (McKinney Avenue)6 km,6 km,attraction,2026-04-06 20:59:31.788027+01
+340,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Jubilee Gardens7 km,7 km,attraction,2026-04-06 20:59:31.788027+01
+341,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Nassau Botanical Gardens7 km,7 km,attraction,2026-04-06 20:59:31.788027+01
+342,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Long Walk Beach8 km,8 km,attraction,2026-04-06 20:59:31.788027+01
+343,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Junkanoo Beach8 km,8 km,attraction,2026-04-06 20:59:31.788027+01
+344,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Quarry Mission Park8 km,8 km,attraction,2026-04-06 20:59:31.788027+01
+345,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,RestaurantSimmer Down350 m,350 m,restaurant,2026-04-06 20:59:31.788027+01
+346,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,RestaurantMarcos Pizza350 m,350 m,restaurant,2026-04-06 20:59:31.788027+01
+347,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,RestaurantWendys450 m,450 m,restaurant,2026-04-06 20:59:31.788027+01
+348,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,LakeLake Cunningham5 km,5 km,nature,2026-04-06 20:59:31.788027+01
+349,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Cable Beach300 m,300 m,beach,2026-04-06 20:59:31.788027+01
+350,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Sandyport Beach1.2 km,1.2 km,beach,2026-04-06 20:59:31.788027+01
+351,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Sea Wall - West Bay Street1.8 km,1.8 km,beach,2026-04-06 20:59:31.788027+01
+352,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Goodman's Bay Beach2.3 km,2.3 km,beach,2026-04-06 20:59:31.788027+01
+353,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Orange Hill Beach4.2 km,4.2 km,beach,2026-04-06 20:59:31.788027+01
+354,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Lynden Pindling International Airport6 km,6 km,airport,2026-04-06 20:59:31.788027+01
+355,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Chub Cay Airport59 km*,59 km*,airport,2026-04-06 20:59:31.788027+01
+356,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Andros Town International Airport84 km,84 km,airport,2026-04-06 20:59:31.788027+01
+366,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,RestauranteSimmer Down350 m,350 m,restaurant,2026-04-06 21:00:28.44962+01
+367,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,RestauranteMarcos Pizza350 m,350 m,restaurant,2026-04-06 21:00:28.44962+01
+368,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,RestauranteWendys450 m,450 m,restaurant,2026-04-06 21:00:28.44962+01
+369,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,LagoLake Cunningham5 km,5 km,nature,2026-04-06 21:00:28.44962+01
+370,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,Cable Beach300 m,300 m,beach,2026-04-06 21:00:28.44962+01
+371,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,"Sandyport Beach1,2 km","1,2 km",beach,2026-04-06 21:00:28.44962+01
+372,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,"Sea Wall - West Bay Street1,8 km","1,8 km",beach,2026-04-06 21:00:28.44962+01
+373,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,"Playa de la bahía de Goodman2,3 km","2,3 km",beach,2026-04-06 21:00:28.44962+01
+374,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,"Orange Hill Beach4,2 km","4,2 km",beach,2026-04-06 21:00:28.44962+01
+375,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,Aeropuerto Internacional Lynden Pindling6 km,6 km,airport,2026-04-06 21:00:28.44962+01
+376,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,Aeropuerto de Chub Cay59 km*,59 km*,airport,2026-04-06 21:00:28.44962+01
+377,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,Aeropuerto internacional de Andros Town84 km,84 km,airport,2026-04-06 21:00:28.44962+01
+378,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Sliver Sands Beach6 km,6 km,attraction,2026-04-06 21:00:38.986981+01
+379,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,National Heroes Square7 km,7 km,attraction,2026-04-06 21:00:38.986981+01
+380,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Brandons Beach11 km,11 km,attraction,2026-04-06 21:00:38.986981+01
+381,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Eden Lodge Primary School Playground11 km,11 km,attraction,2026-04-06 21:00:38.986981+01
+382,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Eden Lodge Playing Field11 km,11 km,attraction,2026-04-06 21:00:38.986981+01
+383,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Paridise Beach13 km,13 km,attraction,2026-04-06 21:00:38.986981+01
+384,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Mahogany Bay15 km,15 km,attraction,2026-04-06 21:00:38.986981+01
+385,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,RestaurantSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,restaurant,2026-04-06 21:00:38.986981+01
+386,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,RestaurantOriental Chinese Restaurant100 m,100 m,restaurant,2026-04-06 21:00:38.986981+01
+387,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,RestaurantHappy Days Cafe100 m,100 m,restaurant,2026-04-06 21:00:38.986981+01
+388,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Strand Dover Beach0 m,0 m,attraction,2026-04-06 21:00:38.986981+01
+389,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Strand Worthing Beach800 m,800 m,attraction,2026-04-06 21:00:38.986981+01
+390,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Strand Maxwell Beach850 m,850 m,attraction,2026-04-06 21:00:38.986981+01
+391,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Strand Rockley Beach2 km,2 km,attraction,2026-04-06 21:00:38.986981+01
+392,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,"Strand Welches Beach2,6 km","2,6 km",attraction,2026-04-06 21:00:38.986981+01
+393,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Grantley Adams International Airport8 km,8 km,attraction,2026-04-06 21:00:38.986981+01
+394,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,RestaurantSimmer Down350 m,350 m,restaurant,2026-04-06 21:00:59.181907+01
+395,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,RestaurantMarcos Pizza350 m,350 m,restaurant,2026-04-06 21:00:59.181907+01
+396,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,RestaurantWendys450 m,450 m,restaurant,2026-04-06 21:00:59.181907+01
+397,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,SeeLake Cunningham5 km,5 km,attraction,2026-04-06 21:00:59.181907+01
+398,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,Strand Cable Beach300 m,300 m,attraction,2026-04-06 21:00:59.181907+01
+399,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,"Strand Sandyport Beach1,2 km","1,2 km",attraction,2026-04-06 21:00:59.181907+01
+400,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,"Strand Seawall – West Bay Street1,8 km","1,8 km",attraction,2026-04-06 21:00:59.181907+01
+401,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,"Strand Goodman's Bay Beach2,3 km","2,3 km",attraction,2026-04-06 21:00:59.181907+01
+402,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,"Strand Orange Hill Beach4,2 km","4,2 km",attraction,2026-04-06 21:00:59.181907+01
+403,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,Flughafen Nassau Lynden Pindling6 km,6 km,attraction,2026-04-06 21:00:59.181907+01
+404,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,Flughafen Chub Cay59 km*,59 km*,attraction,2026-04-06 21:00:59.181907+01
+405,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,Internationaler Flughafen Andros Town84 km,84 km,attraction,2026-04-06 21:00:59.181907+01
+406,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Sliver Sands Beach6 km,6 km,attraction,2026-04-06 21:01:31.567205+01
+407,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,National Heroes Square7 km,7 km,attraction,2026-04-06 21:01:31.567205+01
+408,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Brandons Beach11 km,11 km,attraction,2026-04-06 21:01:31.567205+01
+409,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Eden Lodge Primary School Playground11 km,11 km,attraction,2026-04-06 21:01:31.567205+01
+410,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Eden Lodge Playing Field11 km,11 km,attraction,2026-04-06 21:01:31.567205+01
+411,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Paridise Beach13 km,13 km,attraction,2026-04-06 21:01:31.567205+01
+412,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Mahogany Bay15 km,15 km,attraction,2026-04-06 21:01:31.567205+01
+413,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,RistoranteSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,attraction,2026-04-06 21:01:31.567205+01
+414,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,RistoranteOriental Chinese Restaurant100 m,100 m,attraction,2026-04-06 21:01:31.567205+01
+415,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,RistoranteHappy Days Cafe100 m,100 m,attraction,2026-04-06 21:01:31.567205+01
+416,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Dover Beach0 m,0 m,attraction,2026-04-06 21:01:31.567205+01
+417,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Spiaggia di Worthing800 m,800 m,attraction,2026-04-06 21:01:31.567205+01
+418,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Maxwell Beach850 m,850 m,attraction,2026-04-06 21:01:31.567205+01
+419,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Rockley Beach2 km,2 km,attraction,2026-04-06 21:01:31.567205+01
+420,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,"Welches Beach2,6 km","2,6 km",attraction,2026-04-06 21:01:31.567205+01
+421,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Aeroporto Internazionale di Bridgetown - Grantley Adams8 km,8 km,attraction,2026-04-06 21:01:31.567205+01
+422,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,RistoranteSimmer Down350 m,350 m,attraction,2026-04-06 21:01:54.385009+01
+423,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,RistoranteMarcos Pizza350 m,350 m,attraction,2026-04-06 21:01:54.385009+01
+424,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,RistoranteWendys450 m,450 m,attraction,2026-04-06 21:01:54.385009+01
+425,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,LagoLake Cunningham5 km,5 km,attraction,2026-04-06 21:01:54.385009+01
+426,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,Cable Beach300 m,300 m,attraction,2026-04-06 21:01:54.385009+01
+427,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,"Sandyport Beach1,2 km","1,2 km",attraction,2026-04-06 21:01:54.385009+01
+428,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,"Sea Wall - West Bay Street1,8 km","1,8 km",attraction,2026-04-06 21:01:54.385009+01
+429,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,"Goodman's Bay Beach2,3 km","2,3 km",attraction,2026-04-06 21:01:54.385009+01
+430,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,"Orange Hill Beach4,2 km","4,2 km",attraction,2026-04-06 21:01:54.385009+01
+431,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,Aeroporto Internazionale Lynden Pindling6 km,6 km,attraction,2026-04-06 21:01:54.385009+01
+432,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,Aeroporto di Chub Cay59 km*,59 km*,attraction,2026-04-06 21:01:54.385009+01
+433,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,Aeroporto Internazionale di Andros Town84 km,84 km,attraction,2026-04-06 21:01:54.385009+01
+434,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Sliver Sands Beach6 km,6 km,attraction,2026-04-06 21:02:11.081943+01
+435,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,National Heroes Square7 km,7 km,attraction,2026-04-06 21:02:11.081943+01
+436,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Brandons Beach11 km,11 km,attraction,2026-04-06 21:02:11.081943+01
+437,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Eden Lodge Primary School Playground11 km,11 km,attraction,2026-04-06 21:02:11.081943+01
+438,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Eden Lodge Playing Field11 km,11 km,attraction,2026-04-06 21:02:11.081943+01
+439,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Paridise Beach13 km,13 km,attraction,2026-04-06 21:02:11.081943+01
+440,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Mahogany Bay15 km,15 km,attraction,2026-04-06 21:02:11.081943+01
+441,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,RestaurantSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,restaurant,2026-04-06 21:02:11.081943+01
+442,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,RestaurantOriental Chinese Restaurant100 m,100 m,restaurant,2026-04-06 21:02:11.081943+01
+443,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,RestaurantHappy Days Cafe100 m,100 m,restaurant,2026-04-06 21:02:11.081943+01
+444,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Dover Beach0 m,0 m,beach,2026-04-06 21:02:11.081943+01
+445,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Plage de Worthing800 m,800 m,beach,2026-04-06 21:02:11.081943+01
+446,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Plage de Maxwell Coast850 m,850 m,beach,2026-04-06 21:02:11.081943+01
+447,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Rockley Beach2 km,2 km,beach,2026-04-06 21:02:11.081943+01
+448,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,"Welches Beach2,6 km","2,6 km",beach,2026-04-06 21:02:11.081943+01
+449,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Aéroport international Grantley-Adams8 km,8 km,airport,2026-04-06 21:02:11.081943+01
+450,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Mother Lousie Sweeting Park1,9 km","1,9 km",attraction,2026-04-06 21:02:25.056824+01
+451,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Goodmans Bay3,9 km","3,9 km",attraction,2026-04-06 21:02:25.056824+01
+452,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Cable Beach3,9 km","3,9 km",attraction,2026-04-06 21:02:25.056824+01
+453,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Young Women’s Christian Association (YWCA) HQ6 km,6 km,attraction,2026-04-06 21:02:25.056824+01
+454,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Stapeldon Park (McKinney Avenue)6 km,6 km,attraction,2026-04-06 21:02:25.056824+01
+455,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Jubilee Gardens7 km,7 km,attraction,2026-04-06 21:02:25.056824+01
+456,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Nassau Botanical Gardens7 km,7 km,attraction,2026-04-06 21:02:25.056824+01
+457,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Long Walk Beach8 km,8 km,attraction,2026-04-06 21:02:25.056824+01
+458,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Junkanoo Beach8 km,8 km,attraction,2026-04-06 21:02:25.056824+01
+459,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Quarry Mission Park8 km,8 km,attraction,2026-04-06 21:02:25.056824+01
+460,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,RestaurantSimmer Down350 m,350 m,restaurant,2026-04-06 21:02:25.056824+01
+461,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,RestaurantMarcos Pizza350 m,350 m,restaurant,2026-04-06 21:02:25.056824+01
+462,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,RestaurantWendys450 m,450 m,restaurant,2026-04-06 21:02:25.056824+01
+463,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,LacLake Cunningham5 km,5 km,nature,2026-04-06 21:02:25.056824+01
+464,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Cable Beach300 m,300 m,beach,2026-04-06 21:02:25.056824+01
+465,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Sandyport Beach1,2 km","1,2 km",beach,2026-04-06 21:02:25.056824+01
+466,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Plage Sea Wall (West Bay Street)1,8 km","1,8 km",beach,2026-04-06 21:02:25.056824+01
+467,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Plage de Goodman's Bay2,3 km","2,3 km",beach,2026-04-06 21:02:25.056824+01
+468,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,"Orange Hill Beach4,2 km","4,2 km",beach,2026-04-06 21:02:25.056824+01
+469,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Aéroport international Lynden Pindling6 km,6 km,airport,2026-04-06 21:02:25.056824+01
+470,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Aéroport de Chub Cay59 km*,59 km*,airport,2026-04-06 21:02:25.056824+01
+471,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Aéroport international d'Andros Town84 km,84 km,airport,2026-04-06 21:02:25.056824+01
+472,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Sliver Sands Beach6 km,6 km,attraction,2026-04-06 21:02:59.779+01
+473,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,National Heroes Square7 km,7 km,attraction,2026-04-06 21:02:59.779+01
+474,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Brandons Beach11 km,11 km,attraction,2026-04-06 21:02:59.779+01
+475,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Eden Lodge Primary School Playground11 km,11 km,attraction,2026-04-06 21:02:59.779+01
+476,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Eden Lodge Playing Field11 km,11 km,attraction,2026-04-06 21:02:59.779+01
+477,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Paridise Beach13 km,13 km,attraction,2026-04-06 21:02:59.779+01
+478,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Mahogany Bay15 km,15 km,attraction,2026-04-06 21:02:59.779+01
+479,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,RestauranteSteak House Grill & St. Lawrence Pizza Hut50 m,50 m,restaurant,2026-04-06 21:02:59.779+01
+480,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,RestauranteOriental Chinese Restaurant100 m,100 m,restaurant,2026-04-06 21:02:59.779+01
+481,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,RestauranteHappy Days Cafe100 m,100 m,restaurant,2026-04-06 21:02:59.779+01
+482,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Dover Beach0 m,0 m,beach,2026-04-06 21:02:59.779+01
+483,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Worthing800 m,800 m,beach,2026-04-06 21:02:59.779+01
+484,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Maxwell Beach850 m,850 m,beach,2026-04-06 21:02:59.779+01
+485,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Rockley Beach2 km,2 km,beach,2026-04-06 21:02:59.779+01
+486,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,"Welches Beach2,6 km","2,6 km",beach,2026-04-06 21:02:59.779+01
+487,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Grantley Adams International Airport8 km,8 km,airport,2026-04-06 21:02:59.779+01
+488,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Mother Lousie Sweeting Park1,9 km","1,9 km",attraction,2026-04-06 21:03:14.022339+01
+489,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Goodmans Bay3,9 km","3,9 km",attraction,2026-04-06 21:03:14.022339+01
+490,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Cable Beach3,9 km","3,9 km",attraction,2026-04-06 21:03:14.022339+01
+491,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Young Women’s Christian Association (YWCA) HQ6 km,6 km,attraction,2026-04-06 21:03:14.022339+01
+492,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Stapeldon Park (McKinney Avenue)6 km,6 km,attraction,2026-04-06 21:03:14.022339+01
+493,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Jubilee Gardens7 km,7 km,attraction,2026-04-06 21:03:14.022339+01
+494,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Nassau Botanical Gardens7 km,7 km,attraction,2026-04-06 21:03:14.022339+01
+495,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Long Walk Beach8 km,8 km,attraction,2026-04-06 21:03:14.022339+01
+496,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Junkanoo Beach8 km,8 km,attraction,2026-04-06 21:03:14.022339+01
+497,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Quarry Mission Park8 km,8 km,attraction,2026-04-06 21:03:14.022339+01
+498,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,RestauranteSimmer Down350 m,350 m,restaurant,2026-04-06 21:03:14.022339+01
+499,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,RestauranteMarcos Pizza350 m,350 m,restaurant,2026-04-06 21:03:14.022339+01
+500,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,RestauranteWendys450 m,450 m,restaurant,2026-04-06 21:03:14.022339+01
+501,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,LagoLake Cunningham5 km,5 km,nature,2026-04-06 21:03:14.022339+01
+502,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Cable Beach300 m,300 m,beach,2026-04-06 21:03:14.022339+01
+503,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Sandyport Beach1,2 km","1,2 km",beach,2026-04-06 21:03:14.022339+01
+504,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Sea Wall - West Bay Street1,8 km","1,8 km",beach,2026-04-06 21:03:14.022339+01
+505,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Goodman's Bay Beach2,3 km","2,3 km",beach,2026-04-06 21:03:14.022339+01
+506,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,"Orange Hill Beach4,2 km","4,2 km",beach,2026-04-06 21:03:14.022339+01
+507,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Lynden Pindling International Airport6 km,6 km,airport,2026-04-06 21:03:14.022339+01
+508,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Chub Cay Airport59 km*,59 km*,airport,2026-04-06 21:03:14.022339+01
+509,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Andros Town International Airport84 km,84 km,airport,2026-04-06 21:03:14.022339+01
+510,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Victoria Clock Tower3.6 km,3.6 km,attraction,2026-04-06 21:03:59.320732+01
+511,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Seychelles National Museum3.7 km,3.7 km,attraction,2026-04-06 21:03:59.320732+01
+512,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:03:59.320732+01
+513,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:03:59.320732+01
+514,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,RestaurantErdinger400 m,400 m,restaurant,2026-04-06 21:03:59.320732+01
+515,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,RestaurantLa Plage400 m,400 m,restaurant,2026-04-06 21:03:59.320732+01
+516,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,RestaurantPescado Restaurant600 m,600 m,restaurant,2026-04-06 21:03:59.320732+01
+517,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,PeakMorne Seychellois10 km,10 km,nature,2026-04-06 21:03:59.320732+01
+518,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,WaterfallSauzier Waterfall11 km,11 km,nature,2026-04-06 21:03:59.320732+01
+519,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Beau Vallon Beach450 m,450 m,beach,2026-04-06 21:03:59.320732+01
+520,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Northolme Beach2.2 km,2.2 km,beach,2026-04-06 21:03:59.320732+01
+521,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Anse Marie Laure Beach2.7 km,2.7 km,beach,2026-04-06 21:03:59.320732+01
+522,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Sunset Beach3.2 km,3.2 km,beach,2026-04-06 21:03:59.320732+01
+523,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Bel Ombre Beach3.7 km,3.7 km,beach,2026-04-06 21:03:59.320732+01
+524,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Seychelles International Airport13 km,13 km,airport,2026-04-06 21:03:59.320732+01
+525,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Praslin Island Airport42 km*,42 km*,airport,2026-04-06 21:03:59.320732+01
+526,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:04:17.467394+01
+527,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:04:17.467394+01
+528,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:04:17.467394+01
+529,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,RestaurantAU JARDIN D EPICES100 m,100 m,restaurant,2026-04-06 21:04:17.467394+01
+530,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,RestaurantSAFFRON100 m,100 m,restaurant,2026-04-06 21:04:17.467394+01
+531,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,RestaurantChez Lamar100 m,100 m,restaurant,2026-04-06 21:04:17.467394+01
+532,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Anse Intendance Beach0 m,0 m,beach,2026-04-06 21:04:17.467394+01
+533,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Anse Takamaka Beach1.3 km,1.3 km,beach,2026-04-06 21:04:17.467394+01
+534,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Anse Gaulettes Beach3.4 km,3.4 km,beach,2026-04-06 21:04:17.467394+01
+535,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Anse Forbans Beach3.4 km,3.4 km,beach,2026-04-06 21:04:17.467394+01
+536,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Anse Bazarca Beach5 km,5 km,beach,2026-04-06 21:04:17.467394+01
+537,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Seychelles International Airport16 km,16 km,airport,2026-04-06 21:04:17.467394+01
+538,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Praslin Island Airport55 km*,55 km*,airport,2026-04-06 21:04:17.467394+01
+539,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Victoria Clock Tower3,6 km","3,6 km",attraction,2026-04-06 21:04:34.647366+01
+540,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Seychelles National Museum3,7 km","3,7 km",attraction,2026-04-06 21:04:34.647366+01
+541,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:04:34.647366+01
+542,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:04:34.647366+01
+543,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,RestauranteErdinger400 m,400 m,restaurant,2026-04-06 21:04:34.647366+01
+544,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,RestauranteLa Plage400 m,400 m,restaurant,2026-04-06 21:04:34.647366+01
+545,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,RestaurantePescado Restaurant600 m,600 m,restaurant,2026-04-06 21:04:34.647366+01
+546,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,PicoMorne Seychellois10 km,10 km,nature,2026-04-06 21:04:34.647366+01
+547,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,CascadaSauzier Waterfall11 km,11 km,nature,2026-04-06 21:04:34.647366+01
+548,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Playa de Beau Vallon450 m,450 m,beach,2026-04-06 21:04:34.647366+01
+549,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Northolme Beach2,2 km","2,2 km",beach,2026-04-06 21:04:34.647366+01
+550,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Playa de Anse Marie Laure2,7 km","2,7 km",beach,2026-04-06 21:04:34.647366+01
+551,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Sunset Beach3,2 km","3,2 km",beach,2026-04-06 21:04:34.647366+01
+552,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,"Playa de Bel Ombre3,7 km","3,7 km",beach,2026-04-06 21:04:34.647366+01
+553,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Aeropuerto internacional de Seychelles13 km,13 km,airport,2026-04-06 21:04:34.647366+01
+554,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Aeropuerto de Praslin42 km*,42 km*,airport,2026-04-06 21:04:34.647366+01
+555,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:05:14.29426+01
+556,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:05:14.29426+01
+557,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:05:14.29426+01
+558,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,RestauranteAU JARDIN D EPICES100 m,100 m,restaurant,2026-04-06 21:05:14.29426+01
+559,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,RestauranteSAFFRON100 m,100 m,restaurant,2026-04-06 21:05:14.29426+01
+560,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,RestauranteChez Lamar100 m,100 m,restaurant,2026-04-06 21:05:14.29426+01
+561,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Playa de Anse Intendance0 m,0 m,beach,2026-04-06 21:05:14.29426+01
+562,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,"Playa de Anse Takamaka1,3 km","1,3 km",beach,2026-04-06 21:05:14.29426+01
+563,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,"Anse Gaulettes3,4 km","3,4 km",beach,2026-04-06 21:05:14.29426+01
+564,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,"Playa de Anse Forbans3,4 km","3,4 km",beach,2026-04-06 21:05:14.29426+01
+565,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Playa de Anse Bazarca5 km,5 km,beach,2026-04-06 21:05:14.29426+01
+566,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Aeropuerto internacional de Seychelles16 km,16 km,airport,2026-04-06 21:05:14.29426+01
+567,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Aeropuerto de Praslin55 km*,55 km*,airport,2026-04-06 21:05:14.29426+01
+568,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Victoria Clock Tower3,6 km","3,6 km",attraction,2026-04-06 21:05:28.798893+01
+569,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Seychelles National Museum3,7 km","3,7 km",attraction,2026-04-06 21:05:28.798893+01
+570,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:05:28.798893+01
+571,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:05:28.798893+01
+572,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,RestaurantErdinger400 m,400 m,restaurant,2026-04-06 21:05:28.798893+01
+573,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,RestaurantLa Plage400 m,400 m,restaurant,2026-04-06 21:05:28.798893+01
+574,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,RestaurantPescado Restaurant600 m,600 m,restaurant,2026-04-06 21:05:28.798893+01
+575,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,GipfelMorne Seychellois10 km,10 km,attraction,2026-04-06 21:05:28.798893+01
+576,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,WasserfallSauzier Waterfall11 km,11 km,attraction,2026-04-06 21:05:28.798893+01
+577,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Strand Beau Vallon450 m,450 m,attraction,2026-04-06 21:05:28.798893+01
+578,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Strand Northolme2,2 km","2,2 km",attraction,2026-04-06 21:05:28.798893+01
+579,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Strand Anse Marie Laure2,7 km","2,7 km",attraction,2026-04-06 21:05:28.798893+01
+580,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Sunset Beach3,2 km","3,2 km",attraction,2026-04-06 21:05:28.798893+01
+581,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,"Strand Bel Ombre3,7 km","3,7 km",attraction,2026-04-06 21:05:28.798893+01
+582,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Flughafen Seychellen13 km,13 km,attraction,2026-04-06 21:05:28.798893+01
+583,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Flughafen Praslin Island42 km*,42 km*,attraction,2026-04-06 21:05:28.798893+01
+584,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:05:42.827857+01
+585,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:05:42.827857+01
+586,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:05:42.827857+01
+587,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,RestaurantAU JARDIN D EPICES100 m,100 m,restaurant,2026-04-06 21:05:42.827857+01
+588,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,RestaurantSAFFRON100 m,100 m,restaurant,2026-04-06 21:05:42.827857+01
+589,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,RestaurantChez Lamar100 m,100 m,restaurant,2026-04-06 21:05:42.827857+01
+590,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Strand Anse Intendance0 m,0 m,attraction,2026-04-06 21:05:42.827857+01
+591,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,"Strand Anse Takamaka1,3 km","1,3 km",attraction,2026-04-06 21:05:42.827857+01
+592,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,"Strand Anse Gaulettes3,4 km","3,4 km",attraction,2026-04-06 21:05:42.827857+01
+593,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,"Strand Anse Forbans3,4 km","3,4 km",attraction,2026-04-06 21:05:42.827857+01
+594,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Strand Anse Bazarca5 km,5 km,attraction,2026-04-06 21:05:42.827857+01
+595,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Flughafen Seychellen16 km,16 km,attraction,2026-04-06 21:05:42.827857+01
+596,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Flughafen Praslin Island55 km*,55 km*,attraction,2026-04-06 21:05:42.827857+01
+597,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Victoria Clock Tower3,6 km","3,6 km",attraction,2026-04-06 21:06:22.019052+01
+598,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Seychelles National Museum3,7 km","3,7 km",attraction,2026-04-06 21:06:22.019052+01
+599,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:06:22.019052+01
+600,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:06:22.019052+01
+601,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,RistoranteErdinger400 m,400 m,attraction,2026-04-06 21:06:22.019052+01
+602,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,RistoranteLa Plage400 m,400 m,attraction,2026-04-06 21:06:22.019052+01
+603,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,RistorantePescado Restaurant600 m,600 m,attraction,2026-04-06 21:06:22.019052+01
+604,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,CimaMorne Seychellois10 km,10 km,attraction,2026-04-06 21:06:22.019052+01
+605,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,CascataSauzier Waterfall11 km,11 km,attraction,2026-04-06 21:06:22.019052+01
+606,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Beau Vallon Beach450 m,450 m,attraction,2026-04-06 21:06:22.019052+01
+607,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Spiaggia di Northolme2,2 km","2,2 km",attraction,2026-04-06 21:06:22.019052+01
+608,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Spiaggia di Anse Marie Laure2,7 km","2,7 km",attraction,2026-04-06 21:06:22.019052+01
+609,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Sunset Beach3,2 km","3,2 km",attraction,2026-04-06 21:06:22.019052+01
+610,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,"Spiaggia di Bel Ombre3,7 km","3,7 km",attraction,2026-04-06 21:06:22.019052+01
+611,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Aeroporto Internazionale delle Seychelles13 km,13 km,attraction,2026-04-06 21:06:22.019052+01
+612,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Aeroporto di Praslin42 km*,42 km*,attraction,2026-04-06 21:06:22.019052+01
+613,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:06:46.054078+01
+614,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:06:46.054078+01
+615,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:06:46.054078+01
+616,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,RistoranteAU JARDIN D EPICES100 m,100 m,attraction,2026-04-06 21:06:46.054078+01
+617,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,RistoranteSAFFRON100 m,100 m,attraction,2026-04-06 21:06:46.054078+01
+618,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,RistoranteChez Lamar100 m,100 m,attraction,2026-04-06 21:06:46.054078+01
+619,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Spiaggia di Anse Intendance0 m,0 m,attraction,2026-04-06 21:06:46.054078+01
+620,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,"Spiaggia di Anse Takamaka1,3 km","1,3 km",attraction,2026-04-06 21:06:46.054078+01
+621,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,"Spiaggia di Anse Gaulettes3,4 km","3,4 km",attraction,2026-04-06 21:06:46.054078+01
+622,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,"Spiaggia di Anse Forbans3,4 km","3,4 km",attraction,2026-04-06 21:06:46.054078+01
+623,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Spiaggia di Anse Bazarca5 km,5 km,attraction,2026-04-06 21:06:46.054078+01
+624,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Aeroporto Internazionale delle Seychelles16 km,16 km,attraction,2026-04-06 21:06:46.054078+01
+625,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Aeroporto di Praslin55 km*,55 km*,attraction,2026-04-06 21:06:46.054078+01
+626,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Victoria Clock Tower3,6 km","3,6 km",attraction,2026-04-06 21:07:00.3955+01
+627,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Seychelles National Museum3,7 km","3,7 km",attraction,2026-04-06 21:07:00.3955+01
+628,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:07:00.3955+01
+629,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:07:00.3955+01
+630,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,RestaurantErdinger400 m,400 m,restaurant,2026-04-06 21:07:00.3955+01
+631,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,RestaurantLa Plage400 m,400 m,restaurant,2026-04-06 21:07:00.3955+01
+632,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,RestaurantPescado Restaurant600 m,600 m,restaurant,2026-04-06 21:07:00.3955+01
+633,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,PicMorne Seychellois10 km,10 km,nature,2026-04-06 21:07:00.3955+01
+634,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,CascadeSauzier Waterfall11 km,11 km,nature,2026-04-06 21:07:00.3955+01
+635,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Plage de Beau Vallon450 m,450 m,beach,2026-04-06 21:07:00.3955+01
+636,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Northolme Beach2,2 km","2,2 km",beach,2026-04-06 21:07:00.3955+01
+637,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Anse Marie Laure2,7 km","2,7 km",beach,2026-04-06 21:07:00.3955+01
+638,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Sunset Beach3,2 km","3,2 km",beach,2026-04-06 21:07:00.3955+01
+639,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,"Plage de Bel Ombre3,7 km","3,7 km",beach,2026-04-06 21:07:00.3955+01
+640,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Aéroport international des Seychelles13 km,13 km,airport,2026-04-06 21:07:00.3955+01
+641,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Aéroport de l'île Praslin42 km*,42 km*,airport,2026-04-06 21:07:00.3955+01
+642,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:07:30.918701+01
+643,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:07:30.918701+01
+644,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:07:30.918701+01
+645,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,RestaurantAU JARDIN D EPICES100 m,100 m,restaurant,2026-04-06 21:07:30.918701+01
+646,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,RestaurantSAFFRON100 m,100 m,restaurant,2026-04-06 21:07:30.918701+01
+647,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,RestaurantChez Lamar100 m,100 m,restaurant,2026-04-06 21:07:30.918701+01
+648,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Anse Intendance0 m,0 m,beach,2026-04-06 21:07:30.918701+01
+649,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,"Anse Takamaka1,3 km","1,3 km",beach,2026-04-06 21:07:30.918701+01
+650,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,"Anse Gaulettes3,4 km","3,4 km",beach,2026-04-06 21:07:30.918701+01
+651,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,"Anse Forbans3,4 km","3,4 km",beach,2026-04-06 21:07:30.918701+01
+652,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Anse Bazarca5 km,5 km,beach,2026-04-06 21:07:30.918701+01
+653,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Aéroport international des Seychelles16 km,16 km,airport,2026-04-06 21:07:30.918701+01
+654,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Aéroport de l'île Praslin55 km*,55 km*,airport,2026-04-06 21:07:30.918701+01
+655,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Victoria Clock Tower3,6 km","3,6 km",attraction,2026-04-06 21:07:47.650721+01
+656,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Seychelles National Museum3,7 km","3,7 km",attraction,2026-04-06 21:07:47.650721+01
+657,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Seychelles National Botanical Gardens5 km,5 km,attraction,2026-04-06 21:07:47.650721+01
+658,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Domaine de Val des Pres - Craft Village19 km,19 km,attraction,2026-04-06 21:07:47.650721+01
+659,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,RestauranteErdinger400 m,400 m,restaurant,2026-04-06 21:07:47.650721+01
+660,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,RestauranteLa Plage400 m,400 m,restaurant,2026-04-06 21:07:47.650721+01
+661,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,RestaurantePescado Restaurant600 m,600 m,restaurant,2026-04-06 21:07:47.650721+01
+662,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,PicoMorne Seychellois10 km,10 km,nature,2026-04-06 21:07:47.650721+01
+663,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,CascataSauzier Waterfall11 km,11 km,nature,2026-04-06 21:07:47.650721+01
+664,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Beau Vallon Beach450 m,450 m,beach,2026-04-06 21:07:47.650721+01
+665,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Northolme Beach2,2 km","2,2 km",beach,2026-04-06 21:07:47.650721+01
+666,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Anse Marie Laure Beach2,7 km","2,7 km",beach,2026-04-06 21:07:47.650721+01
+667,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Sunset Beach3,2 km","3,2 km",beach,2026-04-06 21:07:47.650721+01
+668,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,"Bel Ombre Beach3,7 km","3,7 km",beach,2026-04-06 21:07:47.650721+01
+669,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Seychelles International Airport13 km,13 km,airport,2026-04-06 21:07:47.650721+01
+670,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Praslin Island Airport42 km*,42 km*,airport,2026-04-06 21:07:47.650721+01
+671,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Jardin Du Roi Spice Garden8 km,8 km,attraction,2026-04-06 21:08:02.325719+01
+672,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Kot Man-Ya Exotic Flower Garden8 km,8 km,attraction,2026-04-06 21:08:02.325719+01
+673,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Domaine de Val des Pres - Craft Village12 km,12 km,attraction,2026-04-06 21:08:02.325719+01
+674,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,RestauranteAU JARDIN D EPICES100 m,100 m,restaurant,2026-04-06 21:08:02.325719+01
+675,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,RestauranteSAFFRON100 m,100 m,restaurant,2026-04-06 21:08:02.325719+01
+676,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,RestauranteChez Lamar100 m,100 m,restaurant,2026-04-06 21:08:02.325719+01
+677,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Anse Intendance Beach0 m,0 m,beach,2026-04-06 21:08:02.325719+01
+678,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,"Anse Takamaka Beach1,3 km","1,3 km",beach,2026-04-06 21:08:02.325719+01
+679,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,"Anse Gaulettes Beach3,4 km","3,4 km",beach,2026-04-06 21:08:02.325719+01
+680,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,"Anse Forbans Beach3,4 km","3,4 km",beach,2026-04-06 21:08:02.325719+01
+681,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Anse Bazarca Beach5 km,5 km,beach,2026-04-06 21:08:02.325719+01
+682,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Seychelles International Airport16 km,16 km,airport,2026-04-06 21:08:02.325719+01
+683,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Praslin Island Airport55 km*,55 km*,airport,2026-04-06 21:08:02.325719+01
+684,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,The Fingers beach200 m,200 m,attraction,2026-04-06 21:08:51.677846+01
+685,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:08:51.677846+01
+686,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plaza Líbano700 m,700 m,attraction,2026-04-06 21:08:51.677846+01
+687,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plaza del Ingenio800 m,800 m,attraction,2026-04-06 21:08:51.677846+01
+688,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plazoleta Julio María Sosa1 km,1 km,attraction,2026-04-06 21:08:51.677846+01
+689,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plazoleta Hipólito Aramís Ramos1.3 km,1.3 km,attraction,2026-04-06 21:08:51.677846+01
+690,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Punta del Este Lighthouse1.6 km,1.6 km,attraction,2026-04-06 21:08:51.677846+01
+691,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plaza de los Ingleses1.8 km,1.8 km,attraction,2026-04-06 21:08:51.677846+01
+692,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Ralli museum4.1 km,4.1 km,attraction,2026-04-06 21:08:51.677846+01
+693,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Plaza Croacia4.2 km,4.2 km,attraction,2026-04-06 21:08:51.677846+01
+694,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,RestaurantEl tucán30 m,30 m,restaurant,2026-04-06 21:08:51.677846+01
+695,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,RestaurantBurger 2950 m,50 m,restaurant,2026-04-06 21:08:51.677846+01
+696,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,RestaurantRustic Resto- Bar50 m,50 m,restaurant,2026-04-06 21:08:51.677846+01
+697,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Casapueblo15 km,15 km,attraction,2026-04-06 21:08:51.677846+01
+698,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,El Emir150 m,150 m,beach,2026-04-06 21:08:51.677846+01
+699,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Punta del Este Brava Beach250 m,250 m,beach,2026-04-06 21:08:51.677846+01
+700,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Mansa650 m,650 m,beach,2026-04-06 21:08:51.677846+01
+701,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,De los Ingleses950 m,950 m,beach,2026-04-06 21:08:51.677846+01
+702,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Playa Honda1.6 km,1.6 km,beach,2026-04-06 21:08:51.677846+01
+703,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,TrainPunta del Este Bus Terminal Station700 m,700 m,transport,2026-04-06 21:08:51.677846+01
+704,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Capitán de Corbeta Carlos A. Curbelo International Airport19 km,19 km,airport,2026-04-06 21:08:51.677846+01
+705,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Praça Senador Felinto Muller600 m,600 m,attraction,2026-04-06 21:09:14.973746+01
+706,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Praça Prof Arnaldo de Moraes850 m,850 m,attraction,2026-04-06 21:09:14.973746+01
+707,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Parque Peter Pan900 m,900 m,attraction,2026-04-06 21:09:14.973746+01
+708,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Praça Heróis Húngaros1.3 km,1.3 km,attraction,2026-04-06 21:09:14.973746+01
+709,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Catacumba Park1.4 km,1.4 km,attraction,2026-04-06 21:09:14.973746+01
+710,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Praça Cel Eugênio Franco1.5 km,1.5 km,attraction,2026-04-06 21:09:14.973746+01
+711,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Praça General Osório1.6 km,1.6 km,attraction,2026-04-06 21:09:14.973746+01
+712,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,General Osório Square1.6 km,1.6 km,attraction,2026-04-06 21:09:14.973746+01
+713,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Girl of Ipanema Park1.9 km,1.9 km,attraction,2026-04-06 21:09:14.973746+01
+714,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Copacabana Fort1.9 km,1.9 km,attraction,2026-04-06 21:09:14.973746+01
+715,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,RestaurantO Caranguejo100 m,100 m,restaurant,2026-04-06 21:09:14.973746+01
+716,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,RestaurantTipicamente200 m,200 m,restaurant,2026-04-06 21:09:14.973746+01
+717,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,RestaurantBar Copinha250 m,250 m,restaurant,2026-04-06 21:09:14.973746+01
+718,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Lage Park4.3 km,4.3 km,attraction,2026-04-06 21:09:14.973746+01
+719,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Pasmado Belvedere4.5 km,4.5 km,attraction,2026-04-06 21:09:14.973746+01
+720,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Rio de Janeiro Botanical Gardens5 km,5 km,attraction,2026-04-06 21:09:14.973746+01
+721,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Escadaria Selarón8 km,8 km,attraction,2026-04-06 21:09:14.973746+01
+722,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Modern Art Museum9 km,9 km,attraction,2026-04-06 21:09:14.973746+01
+723,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Tijuca Forest National Park10 km,10 km,attraction,2026-04-06 21:09:14.973746+01
+724,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Cristo Redentor Statue10 km,10 km,attraction,2026-04-06 21:09:14.973746+01
+725,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Christ the Redeemer10 km,10 km,attraction,2026-04-06 21:09:14.973746+01
+726,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Museum of Tomorrow11 km,11 km,attraction,2026-04-06 21:09:14.973746+01
+727,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,AquaRio Rio Marine Aquarium12 km,12 km,attraction,2026-04-06 21:09:14.973746+01
+728,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,LakeRodrigo de Freitas Lake2 km,2 km,nature,2026-04-06 21:09:14.973746+01
+729,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,MountainCorcovado10 km,10 km,nature,2026-04-06 21:09:14.973746+01
+730,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Copacabana Beach650 m,650 m,beach,2026-04-06 21:09:14.973746+01
+731,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Arpoador Beach1.9 km,1.9 km,beach,2026-04-06 21:09:14.973746+01
+732,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Ipanema Beach1.9 km,1.9 km,beach,2026-04-06 21:09:14.973746+01
+733,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Diabo Beach1.9 km,1.9 km,beach,2026-04-06 21:09:14.973746+01
+734,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Leme Beach2.7 km,2.7 km,beach,2026-04-06 21:09:14.973746+01
+735,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,MetroCantagalo50 m,50 m,transport,2026-04-06 21:09:14.973746+01
+736,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,MetroIpanema/General Osório Station1.6 km,1.6 km,transport,2026-04-06 21:09:14.973746+01
+737,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,TrainMorro do Inglês5 km,5 km,transport,2026-04-06 21:09:14.973746+01
+738,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,TrainChrist the Redeemer10 km,10 km,transport,2026-04-06 21:09:14.973746+01
+739,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Santos Dumont Airport9 km,9 km,airport,2026-04-06 21:09:14.973746+01
+740,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Rio de Janeiro/Galeao International Airport20 km,20 km,airport,2026-04-06 21:09:14.973746+01
+741,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Jacarepaguá Airport23 km,23 km,airport,2026-04-06 21:09:14.973746+01
+742,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,The Fingers beach200 m,200 m,attraction,2026-04-06 21:09:37.642523+01
+743,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:09:37.642523+01
+744,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,"El Faro de Punta del Este1,6 km","1,6 km",attraction,2026-04-06 21:09:37.642523+01
+745,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,"Museo Ralli4,1 km","4,1 km",attraction,2026-04-06 21:09:37.642523+01
+746,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Casapueblo15 km,15 km,attraction,2026-04-06 21:09:37.642523+01
+747,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,RestauranteEl tucán30 m,30 m,restaurant,2026-04-06 21:09:37.642523+01
+748,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,RestauranteBurger 2950 m,50 m,restaurant,2026-04-06 21:09:37.642523+01
+749,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,RestauranteRustic Resto- Bar50 m,50 m,restaurant,2026-04-06 21:09:37.642523+01
+750,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Playa El Emir150 m,150 m,beach,2026-04-06 21:09:37.642523+01
+751,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,"Playa Brava, Punta del Este250 m",250 m,beach,2026-04-06 21:09:37.642523+01
+752,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Playa Mansa650 m,650 m,beach,2026-04-06 21:09:37.642523+01
+753,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Playa de los Ingleses950 m,950 m,beach,2026-04-06 21:09:37.642523+01
+754,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,"Playa Honda1,6 km","1,6 km",beach,2026-04-06 21:09:37.642523+01
+755,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,TrenEstación de autobús de Punta del Este700 m,700 m,transport,2026-04-06 21:09:37.642523+01
+756,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Aeropuerto Capitan de Corbeta Carlos A. Curbelo19 km,19 km,airport,2026-04-06 21:09:37.642523+01
+757,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,The Fingers beach200 m,200 m,attraction,2026-04-06 21:10:11.361762+01
+758,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:10:11.361762+01
+759,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Plaza Líbano700 m,700 m,attraction,2026-04-06 21:10:11.361762+01
+760,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Plaza del Ingenio800 m,800 m,attraction,2026-04-06 21:10:11.361762+01
+761,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Plazoleta Julio María Sosa1 km,1 km,attraction,2026-04-06 21:10:11.361762+01
+762,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Plazoleta Hipólito Aramís Ramos1,3 km","1,3 km",attraction,2026-04-06 21:10:11.361762+01
+763,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Leuchtturm von Punta del Este1,6 km","1,6 km",attraction,2026-04-06 21:10:11.361762+01
+764,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Plaza de los Ingleses1,8 km","1,8 km",attraction,2026-04-06 21:10:11.361762+01
+765,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Museo Ralli4,1 km","4,1 km",attraction,2026-04-06 21:10:11.361762+01
+766,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Plaza Croacia4,2 km","4,2 km",attraction,2026-04-06 21:10:11.361762+01
+767,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,RestaurantEl tucán30 m,30 m,restaurant,2026-04-06 21:10:11.361762+01
+768,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,RestaurantBurger 2950 m,50 m,restaurant,2026-04-06 21:10:11.361762+01
+769,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,RestaurantRustic Resto- Bar50 m,50 m,restaurant,2026-04-06 21:10:11.361762+01
+770,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Haus Casapueblo15 km,15 km,attraction,2026-04-06 21:10:11.361762+01
+771,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Strand Playa El Emir150 m,150 m,attraction,2026-04-06 21:10:11.361762+01
+772,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Strand Punta del Este Brava250 m,250 m,attraction,2026-04-06 21:10:11.361762+01
+773,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Strand Playa Mansa650 m,650 m,attraction,2026-04-06 21:10:11.361762+01
+774,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Strand Playa de Los Ingleses950 m,950 m,attraction,2026-04-06 21:10:11.361762+01
+775,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,"Strand Playa Honda1,6 km","1,6 km",attraction,2026-04-06 21:10:11.361762+01
+776,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,BahnBusbahnhof Punta del Este700 m,700 m,attraction,2026-04-06 21:10:11.361762+01
+777,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Flughafen Capitán de Corbeta Carlos A. Curbelo19 km,19 km,attraction,2026-04-06 21:10:11.361762+01
+778,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Fuerte de Copacabana1,9 km","1,9 km",attraction,2026-04-06 21:10:28.125693+01
+779,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Parque Lage4,3 km","4,3 km",attraction,2026-04-06 21:10:28.125693+01
+780,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Jardín Botánico de Río de Janeiro5 km,5 km,attraction,2026-04-06 21:10:28.125693+01
+781,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Escalera de Selarón8 km,8 km,attraction,2026-04-06 21:10:28.125693+01
+782,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Museo de Arte Moderno9 km,9 km,attraction,2026-04-06 21:10:28.125693+01
+783,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Parque Nacional de la Tijuca10 km,10 km,attraction,2026-04-06 21:10:28.125693+01
+784,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Estatua del Cristo Redentor10 km,10 km,attraction,2026-04-06 21:10:28.125693+01
+785,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Cristo Redentor10 km,10 km,attraction,2026-04-06 21:10:28.125693+01
+786,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Museo del Mañana11 km,11 km,attraction,2026-04-06 21:10:28.125693+01
+787,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Acuario Marino AquaRio12 km,12 km,attraction,2026-04-06 21:10:28.125693+01
+788,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,RestauranteO Caranguejo100 m,100 m,restaurant,2026-04-06 21:10:28.125693+01
+789,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,RestauranteTipicamente200 m,200 m,restaurant,2026-04-06 21:10:28.125693+01
+790,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,RestauranteBar Copinha250 m,250 m,restaurant,2026-04-06 21:10:28.125693+01
+791,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,LagoLago Rodrigo de Freitas2 km,2 km,nature,2026-04-06 21:10:28.125693+01
+792,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,MontañaCorcovado10 km,10 km,nature,2026-04-06 21:10:28.125693+01
+793,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Playa Copacabana650 m,650 m,beach,2026-04-06 21:10:28.125693+01
+794,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Praia do Arpoador1,9 km","1,9 km",beach,2026-04-06 21:10:28.125693+01
+795,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Praia de Ipanema1,9 km","1,9 km",beach,2026-04-06 21:10:28.125693+01
+796,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Praia do Diabo1,9 km","1,9 km",beach,2026-04-06 21:10:28.125693+01
+797,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"Praia do Leme2,7 km","2,7 km",beach,2026-04-06 21:10:28.125693+01
+798,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,MetroCantagalo50 m,50 m,transport,2026-04-06 21:10:28.125693+01
+799,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,"MetroIpanema/General Osório Station1,6 km","1,6 km",transport,2026-04-06 21:10:28.125693+01
+800,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,TrenMorro do Inglês5 km,5 km,transport,2026-04-06 21:10:28.125693+01
+801,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,TrenChrist the Redeemer10 km,10 km,transport,2026-04-06 21:10:28.125693+01
+802,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Aeropuerto Santos Dumont9 km,9 km,airport,2026-04-06 21:10:28.125693+01
+803,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Aeropuerto internacional de Rio de Janeiro/Galeao20 km,20 km,airport,2026-04-06 21:10:28.125693+01
+804,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Aeropuerto de Jacarepaguá23 km,23 km,airport,2026-04-06 21:10:28.125693+01
+805,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,The Fingers beach200 m,200 m,attraction,2026-04-06 21:10:56.669278+01
+806,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:10:56.669278+01
+807,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Plaza Líbano700 m,700 m,attraction,2026-04-06 21:10:56.669278+01
+808,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Plaza del Ingenio800 m,800 m,attraction,2026-04-06 21:10:56.669278+01
+809,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Plazoleta Julio María Sosa1 km,1 km,attraction,2026-04-06 21:10:56.669278+01
+810,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Plazoleta Hipólito Aramís Ramos1,3 km","1,3 km",attraction,2026-04-06 21:10:56.669278+01
+811,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Punta del Este Lighthouse1,6 km","1,6 km",attraction,2026-04-06 21:10:56.669278+01
+812,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Plaza de los Ingleses1,8 km","1,8 km",attraction,2026-04-06 21:10:56.669278+01
+813,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Ralli museum4,1 km","4,1 km",attraction,2026-04-06 21:10:56.669278+01
+814,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Plaza Croacia4,2 km","4,2 km",attraction,2026-04-06 21:10:56.669278+01
+815,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,RistoranteEl tucán30 m,30 m,attraction,2026-04-06 21:10:56.669278+01
+816,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,RistoranteBurger 2950 m,50 m,attraction,2026-04-06 21:10:56.669278+01
+817,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,RistoranteRustic Resto- Bar50 m,50 m,attraction,2026-04-06 21:10:56.669278+01
+818,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Casapueblo15 km,15 km,attraction,2026-04-06 21:10:56.669278+01
+819,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Playa el Emir150 m,150 m,attraction,2026-04-06 21:10:56.669278+01
+820,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Playa Brava di Punta del Este250 m,250 m,attraction,2026-04-06 21:10:56.669278+01
+821,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Play Mansa650 m,650 m,attraction,2026-04-06 21:10:56.669278+01
+822,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Playa de los Ingleses950 m,950 m,attraction,2026-04-06 21:10:56.669278+01
+823,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,"Playa Honda1,6 km","1,6 km",attraction,2026-04-06 21:10:56.669278+01
+824,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,TrenoTerminal degli autobus di Punta del Este700 m,700 m,attraction,2026-04-06 21:10:56.669278+01
+825,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Aeroporto Capitán de Corbeta Carlos A. Curbelo19 km,19 km,attraction,2026-04-06 21:10:56.669278+01
+826,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Copacabana Fort1,9 km","1,9 km",attraction,2026-04-06 21:11:27.277075+01
+827,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Lage Park4,3 km","4,3 km",attraction,2026-04-06 21:11:27.277075+01
+828,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Botanischer Garten von Rio de Janeiro5 km,5 km,attraction,2026-04-06 21:11:27.277075+01
+829,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Escadaria Selarón8 km,8 km,attraction,2026-04-06 21:11:27.277075+01
+830,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Museum für Moderne Kunst9 km,9 km,attraction,2026-04-06 21:11:27.277075+01
+831,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Nationalpark Tijuca10 km,10 km,attraction,2026-04-06 21:11:27.277075+01
+832,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Cristo Redentor10 km,10 km,attraction,2026-04-06 21:11:27.277075+01
+833,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Christusstatue Cristo Redentor10 km,10 km,attraction,2026-04-06 21:11:27.277075+01
+834,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Museum of Tomorrow11 km,11 km,attraction,2026-04-06 21:11:27.277075+01
+835,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Meeresaquarium AquaRio12 km,12 km,attraction,2026-04-06 21:11:27.277075+01
+836,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,RestaurantO Caranguejo100 m,100 m,restaurant,2026-04-06 21:11:27.277075+01
+837,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,RestaurantTipicamente200 m,200 m,restaurant,2026-04-06 21:11:27.277075+01
+838,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,RestaurantBar Copinha250 m,250 m,restaurant,2026-04-06 21:11:27.277075+01
+839,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,SeeLagoa Rodrigo de Freitas2 km,2 km,attraction,2026-04-06 21:11:27.277075+01
+840,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,BergCorcovado10 km,10 km,attraction,2026-04-06 21:11:27.277075+01
+841,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Strand Praia de Copacabana650 m,650 m,attraction,2026-04-06 21:11:27.277075+01
+842,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Strand Praia do Arpoador1,9 km","1,9 km",attraction,2026-04-06 21:11:27.277075+01
+843,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Strand Praia de Ipanema1,9 km","1,9 km",attraction,2026-04-06 21:11:27.277075+01
+844,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Strand Praia do Diabo1,9 km","1,9 km",attraction,2026-04-06 21:11:27.277075+01
+845,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"Strand Praia do Leme2,7 km","2,7 km",attraction,2026-04-06 21:11:27.277075+01
+846,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,U-BahnCantagalo50 m,50 m,attraction,2026-04-06 21:11:27.277075+01
+847,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,"U-BahnIpanema/General Osório Station1,6 km","1,6 km",attraction,2026-04-06 21:11:27.277075+01
+848,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,BahnMorro do Inglês5 km,5 km,attraction,2026-04-06 21:11:27.277075+01
+849,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,BahnChrist the Redeemer10 km,10 km,attraction,2026-04-06 21:11:27.277075+01
+850,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Flughafen Rio de Janeiro-Santos Dumont9 km,9 km,attraction,2026-04-06 21:11:27.277075+01
+851,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Flughafen Rio de Janeiro-Antônio Carlos Jobim20 km,20 km,attraction,2026-04-06 21:11:27.277075+01
+852,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Flughafen Jacarepaguá23 km,23 km,attraction,2026-04-06 21:11:27.277075+01
+853,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,The Fingers beach200 m,200 m,attraction,2026-04-06 21:11:51.613087+01
+854,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:11:51.613087+01
+855,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Plaza Líbano700 m,700 m,attraction,2026-04-06 21:11:51.613087+01
+856,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Plaza del Ingenio800 m,800 m,attraction,2026-04-06 21:11:51.613087+01
+857,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Plazoleta Julio María Sosa1 km,1 km,attraction,2026-04-06 21:11:51.613087+01
+858,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Plazoleta Hipólito Aramís Ramos1,3 km","1,3 km",attraction,2026-04-06 21:11:51.613087+01
+859,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Punta del Este Lighthouse1,6 km","1,6 km",attraction,2026-04-06 21:11:51.613087+01
+860,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Plaza de los Ingleses1,8 km","1,8 km",attraction,2026-04-06 21:11:51.613087+01
+861,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Ralli museum4,1 km","4,1 km",attraction,2026-04-06 21:11:51.613087+01
+862,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Plaza Croacia4,2 km","4,2 km",attraction,2026-04-06 21:11:51.613087+01
+863,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,RestaurantEl tucán30 m,30 m,restaurant,2026-04-06 21:11:51.613087+01
+864,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,RestaurantBurger 2950 m,50 m,restaurant,2026-04-06 21:11:51.613087+01
+865,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,RestaurantRustic Resto- Bar50 m,50 m,restaurant,2026-04-06 21:11:51.613087+01
+866,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Musée Casapueblo15 km,15 km,attraction,2026-04-06 21:11:51.613087+01
+867,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Playa El Emir150 m,150 m,beach,2026-04-06 21:11:51.613087+01
+868,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Playa Brava (Punta del Este)250 m,250 m,beach,2026-04-06 21:11:51.613087+01
+869,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Playa Mansa650 m,650 m,beach,2026-04-06 21:11:51.613087+01
+870,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Playa de los Ingleses950 m,950 m,beach,2026-04-06 21:11:51.613087+01
+871,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,"Playa Honda1,6 km","1,6 km",beach,2026-04-06 21:11:51.613087+01
+872,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,TrainGare routière de Punta del Este700 m,700 m,transport,2026-04-06 21:11:51.613087+01
+873,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Aéroport international Capitán de Corbeta Carlos A. Curbelo19 km,19 km,airport,2026-04-06 21:11:51.613087+01
+874,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Forte de Copacabana1,9 km","1,9 km",attraction,2026-04-06 21:12:01.439709+01
+875,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Lage Park4,3 km","4,3 km",attraction,2026-04-06 21:12:01.439709+01
+876,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Giardino Botanico di Rio de Janeiro5 km,5 km,attraction,2026-04-06 21:12:01.439709+01
+877,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Escadaria Selarón8 km,8 km,attraction,2026-04-06 21:12:01.439709+01
+878,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Museo di Arte Moderna9 km,9 km,attraction,2026-04-06 21:12:01.439709+01
+879,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Parco Nazionale della Tijuca10 km,10 km,attraction,2026-04-06 21:12:01.439709+01
+880,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Statua del Cristo Redentore10 km,10 km,attraction,2026-04-06 21:12:01.439709+01
+881,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Cristo Redentore10 km,10 km,attraction,2026-04-06 21:12:01.439709+01
+882,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Museo del Domani11 km,11 km,attraction,2026-04-06 21:12:01.439709+01
+883,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Aquário Marinho do Rio de Janeiro12 km,12 km,attraction,2026-04-06 21:12:01.439709+01
+884,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,RistoranteO Caranguejo100 m,100 m,attraction,2026-04-06 21:12:01.439709+01
+885,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,RistoranteTipicamente200 m,200 m,attraction,2026-04-06 21:12:01.439709+01
+886,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,RistoranteBar Copinha250 m,250 m,attraction,2026-04-06 21:12:01.439709+01
+887,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,LagoLaguna Rodrigo de Freitas2 km,2 km,attraction,2026-04-06 21:12:01.439709+01
+888,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,MonteCorcovado10 km,10 km,attraction,2026-04-06 21:12:01.439709+01
+889,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Spiaggia di Copacabana650 m,650 m,attraction,2026-04-06 21:12:01.439709+01
+890,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Spiaggia di Arpoador1,9 km","1,9 km",attraction,2026-04-06 21:12:01.439709+01
+891,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Praia de Ipanema1,9 km","1,9 km",attraction,2026-04-06 21:12:01.439709+01
+892,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Praia do Diabo1,9 km","1,9 km",attraction,2026-04-06 21:12:01.439709+01
+893,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"Praia do Leme2,7 km","2,7 km",attraction,2026-04-06 21:12:01.439709+01
+894,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,MetroCantagalo50 m,50 m,attraction,2026-04-06 21:12:01.439709+01
+895,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,"MetroIpanema/General Osório Station1,6 km","1,6 km",attraction,2026-04-06 21:12:01.439709+01
+896,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,TrenoMorro do Inglês5 km,5 km,attraction,2026-04-06 21:12:01.439709+01
+897,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,TrenoChrist the Redeemer10 km,10 km,attraction,2026-04-06 21:12:01.439709+01
+898,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Aeroporto di Rio de Janeiro Santos Dumont9 km,9 km,attraction,2026-04-06 21:12:01.439709+01
+899,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Aeroporto Internazionale di Rio de Janeiro-Galeão20 km,20 km,attraction,2026-04-06 21:12:01.439709+01
+900,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Aeroporto di Jacarepaguá23 km,23 km,attraction,2026-04-06 21:12:01.439709+01
+901,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,The Fingers beach200 m,200 m,attraction,2026-04-06 21:12:19.472091+01
+902,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Virgen de la Candelaria450 m,450 m,attraction,2026-04-06 21:12:19.472091+01
+903,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Plaza Líbano700 m,700 m,attraction,2026-04-06 21:12:19.472091+01
+904,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Plaza del Ingenio800 m,800 m,attraction,2026-04-06 21:12:19.472091+01
+905,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Plazoleta Julio María Sosa1 km,1 km,attraction,2026-04-06 21:12:19.472091+01
+906,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Plazoleta Hipólito Aramís Ramos1,3 km","1,3 km",attraction,2026-04-06 21:12:19.472091+01
+907,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Punta del Este Lighthouse1,6 km","1,6 km",attraction,2026-04-06 21:12:19.472091+01
+908,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Plaza de los Ingleses1,8 km","1,8 km",attraction,2026-04-06 21:12:19.472091+01
+909,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Ralli museum4,1 km","4,1 km",attraction,2026-04-06 21:12:19.472091+01
+910,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Plaza Croacia4,2 km","4,2 km",attraction,2026-04-06 21:12:19.472091+01
+911,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,RestauranteEl tucán30 m,30 m,restaurant,2026-04-06 21:12:19.472091+01
+912,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,RestauranteBurger 2950 m,50 m,restaurant,2026-04-06 21:12:19.472091+01
+913,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,RestauranteRustic Resto- Bar50 m,50 m,restaurant,2026-04-06 21:12:19.472091+01
+914,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Casapueblo15 km,15 km,attraction,2026-04-06 21:12:19.472091+01
+915,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,El Emir150 m,150 m,beach,2026-04-06 21:12:19.472091+01
+916,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Punta del Este Brava Beach250 m,250 m,beach,2026-04-06 21:12:19.472091+01
+917,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Mansa650 m,650 m,beach,2026-04-06 21:12:19.472091+01
+918,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,De los Ingleses950 m,950 m,beach,2026-04-06 21:12:19.472091+01
+919,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,"Playa Honda1,6 km","1,6 km",beach,2026-04-06 21:12:19.472091+01
+920,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,ComboioPunta del Este Bus Terminal Station700 m,700 m,transport,2026-04-06 21:12:19.472091+01
+921,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Capitán de Corbeta Carlos A. Curbelo International Airport19 km,19 km,airport,2026-04-06 21:12:19.472091+01
+922,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Fort de Copacabana1,9 km","1,9 km",attraction,2026-04-06 21:12:56.780599+01
+923,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Parc Lage4,3 km","4,3 km",attraction,2026-04-06 21:12:56.780599+01
+924,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Jardin botanique de Rio de Janeiro5 km,5 km,attraction,2026-04-06 21:12:56.780599+01
+925,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Escalier Selarón8 km,8 km,attraction,2026-04-06 21:12:56.780599+01
+926,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Musée d'art moderne de Rio de Janeiro9 km,9 km,attraction,2026-04-06 21:12:56.780599+01
+927,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Parc national de la forêt de Tijuca10 km,10 km,attraction,2026-04-06 21:12:56.780599+01
+928,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Statue du Christ Rédempteur10 km,10 km,attraction,2026-04-06 21:12:56.780599+01
+929,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Musée de Demain11 km,11 km,attraction,2026-04-06 21:12:56.780599+01
+930,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Aquarium de Rio de Janeiro12 km,12 km,attraction,2026-04-06 21:12:56.780599+01
+931,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,RestaurantO Caranguejo100 m,100 m,restaurant,2026-04-06 21:12:56.780599+01
+932,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,RestaurantTipicamente200 m,200 m,restaurant,2026-04-06 21:12:56.780599+01
+933,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,RestaurantBar Copinha250 m,250 m,restaurant,2026-04-06 21:12:56.780599+01
+934,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,LacLagune Rodrigo de Freitas2 km,2 km,nature,2026-04-06 21:12:56.780599+01
+935,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,MontagnePic du Corcovado10 km,10 km,nature,2026-04-06 21:12:56.780599+01
+936,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Plage de Copacabana650 m,650 m,beach,2026-04-06 21:12:56.780599+01
+937,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Praia do Arpoador1,9 km","1,9 km",beach,2026-04-06 21:12:56.780599+01
+938,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Plage d'Ipanema1,9 km","1,9 km",beach,2026-04-06 21:12:56.780599+01
+939,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Praia do Diabo1,9 km","1,9 km",beach,2026-04-06 21:12:56.780599+01
+940,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"Praia do Leme2,7 km","2,7 km",beach,2026-04-06 21:12:56.780599+01
+941,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,MétroCantagalo50 m,50 m,transport,2026-04-06 21:12:56.780599+01
+942,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,"MétroIpanema/General Osório Station1,6 km","1,6 km",transport,2026-04-06 21:12:56.780599+01
+943,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,TrainMorro do Inglês5 km,5 km,transport,2026-04-06 21:12:56.780599+01
+944,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,TrainChrist the Redeemer10 km,10 km,transport,2026-04-06 21:12:56.780599+01
+945,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Aéroport Santos Dumont9 km,9 km,airport,2026-04-06 21:12:56.780599+01
+946,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Aéroport international de Rio de Janeiro-Galeão20 km,20 km,airport,2026-04-06 21:12:56.780599+01
+947,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Aéroport de Jacarepaguá-Roberto Marinho23 km,23 km,airport,2026-04-06 21:12:56.780599+01
+948,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Praça Senador Felinto Muller600 m,600 m,attraction,2026-04-06 21:13:45.801457+01
+949,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Praça Prof Arnaldo de Moraes850 m,850 m,attraction,2026-04-06 21:13:45.801457+01
+950,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Parque Peter Pan900 m,900 m,attraction,2026-04-06 21:13:45.801457+01
+951,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Praça Heróis Húngaros1,3 km","1,3 km",attraction,2026-04-06 21:13:45.801457+01
+952,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Catacumba Park1,4 km","1,4 km",attraction,2026-04-06 21:13:45.801457+01
+953,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Praça Cel Eugênio Franco1,5 km","1,5 km",attraction,2026-04-06 21:13:45.801457+01
+954,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Praça General Osório1,6 km","1,6 km",attraction,2026-04-06 21:13:45.801457+01
+955,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"General Osório Square1,6 km","1,6 km",attraction,2026-04-06 21:13:45.801457+01
+956,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Girl of Ipanema Park1,9 km","1,9 km",attraction,2026-04-06 21:13:45.801457+01
+957,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Copacabana Fort1,9 km","1,9 km",attraction,2026-04-06 21:13:45.801457+01
+958,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,RestauranteO Caranguejo100 m,100 m,restaurant,2026-04-06 21:13:45.801457+01
+959,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,RestauranteTipicamente200 m,200 m,restaurant,2026-04-06 21:13:45.801457+01
+960,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,RestauranteBar Copinha250 m,250 m,restaurant,2026-04-06 21:13:45.801457+01
+961,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Lage Park4,3 km","4,3 km",attraction,2026-04-06 21:13:45.801457+01
+962,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Pasmado Belvedere4,5 km","4,5 km",attraction,2026-04-06 21:13:45.801457+01
+963,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Rio de Janeiro Botanical Gardens5 km,5 km,attraction,2026-04-06 21:13:45.801457+01
+964,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Escadaria Selarón8 km,8 km,attraction,2026-04-06 21:13:45.801457+01
+965,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Modern Art Museum9 km,9 km,attraction,2026-04-06 21:13:45.801457+01
+966,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Tijuca Forest National Park10 km,10 km,attraction,2026-04-06 21:13:45.801457+01
+967,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Cristo Redentor Statue10 km,10 km,attraction,2026-04-06 21:13:45.801457+01
+968,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Christ the Redeemer10 km,10 km,attraction,2026-04-06 21:13:45.801457+01
+969,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Museum of Tomorrow11 km,11 km,attraction,2026-04-06 21:13:45.801457+01
+970,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,AquaRio Rio Marine Aquarium12 km,12 km,attraction,2026-04-06 21:13:45.801457+01
+971,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,LagoRodrigo de Freitas Lake2 km,2 km,nature,2026-04-06 21:13:45.801457+01
+972,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,MontanhaCorcovado10 km,10 km,nature,2026-04-06 21:13:45.801457+01
+973,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Copacabana Beach650 m,650 m,beach,2026-04-06 21:13:45.801457+01
+974,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Arpoador Beach1,9 km","1,9 km",beach,2026-04-06 21:13:45.801457+01
+975,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Ipanema Beach1,9 km","1,9 km",beach,2026-04-06 21:13:45.801457+01
+976,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Diabo Beach1,9 km","1,9 km",beach,2026-04-06 21:13:45.801457+01
+977,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"Leme Beach2,7 km","2,7 km",beach,2026-04-06 21:13:45.801457+01
+978,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,MetroCantagalo50 m,50 m,transport,2026-04-06 21:13:45.801457+01
+979,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,"MetroIpanema/General Osório Station1,6 km","1,6 km",transport,2026-04-06 21:13:45.801457+01
+980,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,ComboioMorro do Inglês5 km,5 km,transport,2026-04-06 21:13:45.801457+01
+981,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,ComboioChrist the Redeemer10 km,10 km,transport,2026-04-06 21:13:45.801457+01
+982,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Santos Dumont Airport9 km,9 km,airport,2026-04-06 21:13:45.801457+01
+983,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Rio de Janeiro/Galeao International Airport20 km,20 km,airport,2026-04-06 21:13:45.801457+01
+984,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Jacarepaguá Airport23 km,23 km,airport,2026-04-06 21:13:45.801457+01
+985,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Municipal Park Mindu2.7 km,2.7 km,attraction,2026-04-06 21:15:16.678366+01
+986,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Zoo of CIGS5 km,5 km,attraction,2026-04-06 21:15:16.678366+01
+987,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Manaus Courthouse5 km,5 km,attraction,2026-04-06 21:15:16.678366+01
+988,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Museum of Northern Man5 km,5 km,attraction,2026-04-06 21:15:16.678366+01
+989,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Provincial Palace6 km,6 km,attraction,2026-04-06 21:15:16.678366+01
+990,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Palacio Rio Negro Centro Cultural6 km,6 km,attraction,2026-04-06 21:15:16.678366+01
+991,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Customs6 km,6 km,attraction,2026-04-06 21:15:16.678366+01
+992,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Natural Science Museum6 km,6 km,attraction,2026-04-06 21:15:16.678366+01
+993,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Cultural Center of the Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:15:16.678366+01
+994,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,RestaurantSUBWAY200 m,200 m,restaurant,2026-04-06 21:15:16.678366+01
+995,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,RestaurantRestaurante do Brother100 m,100 m,restaurant,2026-04-06 21:15:16.678366+01
+996,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,RestaurantSoho Lounge300 m,300 m,restaurant,2026-04-06 21:15:16.678366+01
+997,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,BusManaus Bus Station1.9 km,1.9 km,transport,2026-04-06 21:15:16.678366+01
+998,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Eduardo Gomes International Airport5 km,5 km,airport,2026-04-06 21:15:16.678366+01
+999,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,"Brigitte Bardot Statue2,1 km","2,1 km",attraction,2026-04-06 21:16:01.130029+01
+1000,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,RestauranteRestaurante e Bar Pinguim100 m,100 m,restaurant,2026-04-06 21:16:01.130029+01
+1001,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,RestauranteÂncoras Beach Restaurant200 m,200 m,restaurant,2026-04-06 21:16:01.130029+01
+1002,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,RestauranteLa Plage250 m,250 m,restaurant,2026-04-06 21:16:01.130029+01
+1003,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,Playa de João Fernandinho50 m,50 m,beach,2026-04-06 21:16:01.130029+01
+1004,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,Playa João Fernandes150 m,150 m,beach,2026-04-06 21:16:01.130029+01
+1005,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,"Praia dos Ossos1,6 km","1,6 km",beach,2026-04-06 21:16:01.130029+01
+1006,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,"Playa Azeda1,7 km","1,7 km",beach,2026-04-06 21:16:01.130029+01
+1007,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,"Playa Azedinha1,8 km","1,8 km",beach,2026-04-06 21:16:01.130029+01
+1008,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,"AutobúsEstación central de autobús3,2 km","3,2 km",transport,2026-04-06 21:16:01.130029+01
+1009,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,Aeropuerto internacional de Cabo Frío33 km,33 km,airport,2026-04-06 21:16:01.130029+01
+1010,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,"Parque Municipal do Mindu2,7 km","2,7 km",attraction,2026-04-06 21:16:06.74275+01
+1011,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Zoológico do CIGS5 km,5 km,attraction,2026-04-06 21:16:06.74275+01
+1012,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Palacio de Justicia5 km,5 km,attraction,2026-04-06 21:16:06.74275+01
+1013,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Museo del Hombre del Norte5 km,5 km,attraction,2026-04-06 21:16:06.74275+01
+1014,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Museo del Palacete Provincial6 km,6 km,attraction,2026-04-06 21:16:06.74275+01
+1015,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Palacio y Centro cultural Río Negro6 km,6 km,attraction,2026-04-06 21:16:06.74275+01
+1016,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Aduana6 km,6 km,attraction,2026-04-06 21:16:06.74275+01
+1017,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Museo de Ciencias Naturales6 km,6 km,attraction,2026-04-06 21:16:06.74275+01
+1018,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Centro cultural de Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:16:06.74275+01
+1019,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,RestauranteRestaurante do Brother100 m,100 m,restaurant,2026-04-06 21:16:06.74275+01
+1020,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,RestauranteSUBWAY200 m,200 m,restaurant,2026-04-06 21:16:06.74275+01
+1021,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,RestauranteSoho Lounge300 m,300 m,restaurant,2026-04-06 21:16:06.74275+01
+1022,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,"AutobúsEstación de autobús de Manaus1,9 km","1,9 km",transport,2026-04-06 21:16:06.74275+01
+1023,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Aeropuerto internacional Eduardo Gomes5 km,5 km,airport,2026-04-06 21:16:06.74275+01
+1024,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,"Brigitte Bardot Statue2,1 km","2,1 km",attraction,2026-04-06 21:16:30.597547+01
+1025,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,RestaurantRestaurante e Bar Pinguim100 m,100 m,restaurant,2026-04-06 21:16:30.597547+01
+1026,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,RestaurantÂncoras Beach Restaurant200 m,200 m,restaurant,2026-04-06 21:16:30.597547+01
+1027,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,RestaurantLa Plage250 m,250 m,restaurant,2026-04-06 21:16:30.597547+01
+1028,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,Strand Praia João Fernandinho50 m,50 m,attraction,2026-04-06 21:16:30.597547+01
+1029,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,Strand Praia João Fernandes150 m,150 m,attraction,2026-04-06 21:16:30.597547+01
+1030,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,"Strand Praia dos Ossos1,6 km","1,6 km",attraction,2026-04-06 21:16:30.597547+01
+1031,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,"Strand Praia Azeda1,7 km","1,7 km",attraction,2026-04-06 21:16:30.597547+01
+1032,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,"Strand Praia Azedinha1,8 km","1,8 km",attraction,2026-04-06 21:16:30.597547+01
+1033,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,"BusBus Central Station3,2 km","3,2 km",attraction,2026-04-06 21:16:30.597547+01
+1034,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,Flughafen Cabo Frio33 km,33 km,attraction,2026-04-06 21:16:30.597547+01
+1035,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,"Municipal Park Mindu2,7 km","2,7 km",attraction,2026-04-06 21:17:24.888539+01
+1036,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Zoo of CIGS5 km,5 km,attraction,2026-04-06 21:17:24.888539+01
+1037,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Gerichtsgebäude Manaus5 km,5 km,attraction,2026-04-06 21:17:24.888539+01
+1038,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Museum of Northern Man5 km,5 km,attraction,2026-04-06 21:17:24.888539+01
+1039,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Provinzpalast6 km,6 km,attraction,2026-04-06 21:17:24.888539+01
+1040,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Palacio Rio Negro Centro Cultural6 km,6 km,attraction,2026-04-06 21:17:24.888539+01
+1041,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Customs6 km,6 km,attraction,2026-04-06 21:17:24.888539+01
+1042,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Natural Science Museum6 km,6 km,attraction,2026-04-06 21:17:24.888539+01
+1043,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Cultural Center of the Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:17:24.888539+01
+1044,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,RestaurantRestaurante do Brother100 m,100 m,restaurant,2026-04-06 21:17:24.888539+01
+1045,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,RestaurantSUBWAY200 m,200 m,restaurant,2026-04-06 21:17:24.888539+01
+1046,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,RestaurantSoho Lounge300 m,300 m,restaurant,2026-04-06 21:17:24.888539+01
+1047,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,"BusManaus Bus Station1,9 km","1,9 km",attraction,2026-04-06 21:17:24.888539+01
+1048,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Flughafen Manaus5 km,5 km,attraction,2026-04-06 21:17:24.888539+01
+1049,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,"Brigitte Bardot Statue2,1 km","2,1 km",attraction,2026-04-06 21:17:55.466467+01
+1050,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,RistoranteRestaurante e Bar Pinguim100 m,100 m,attraction,2026-04-06 21:17:55.466467+01
+1051,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,RistoranteÂncoras Beach Restaurant200 m,200 m,attraction,2026-04-06 21:17:55.466467+01
+1052,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,RistoranteLa Plage250 m,250 m,attraction,2026-04-06 21:17:55.466467+01
+1053,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,Praia João Fernandinho50 m,50 m,attraction,2026-04-06 21:17:55.466467+01
+1054,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,Praia João Fernandes150 m,150 m,attraction,2026-04-06 21:17:55.466467+01
+1055,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,"Praia dos Ossos1,6 km","1,6 km",attraction,2026-04-06 21:17:55.466467+01
+1056,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,"Praia Azeda1,7 km","1,7 km",attraction,2026-04-06 21:17:55.466467+01
+1057,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,"Praia Azedinha1,8 km","1,8 km",attraction,2026-04-06 21:17:55.466467+01
+1058,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,"AutobusBus Central Station3,2 km","3,2 km",attraction,2026-04-06 21:17:55.466467+01
+1059,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,Aeroporto Internazionale di Cabo Frio33 km,33 km,attraction,2026-04-06 21:17:55.466467+01
+1060,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Florestinha Park1,2 km","1,2 km",attraction,2026-04-06 21:18:18.883922+01
+1061,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Bosque Clube1,6 km","1,6 km",attraction,2026-04-06 21:18:18.883922+01
+1062,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Csu-Centro Social Urbano2 km,2 km,attraction,2026-04-06 21:18:18.883922+01
+1063,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Amazon Acqua Park2,3 km","2,3 km",attraction,2026-04-06 21:18:18.883922+01
+1064,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Municipal Park Mindu2,7 km","2,7 km",attraction,2026-04-06 21:18:18.883922+01
+1065,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Parque Ponte dos Bilhares3,2 km","3,2 km",attraction,2026-04-06 21:18:18.883922+01
+1066,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"Parque dos Rios II3,3 km","3,3 km",attraction,2026-04-06 21:18:18.883922+01
+1067,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Zoo of CIGS5 km,5 km,attraction,2026-04-06 21:18:18.883922+01
+1068,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Palácio da Justiça do Amazonas5 km,5 km,attraction,2026-04-06 21:18:18.883922+01
+1069,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Museum of Northern Man5 km,5 km,attraction,2026-04-06 21:18:18.883922+01
+1070,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,RistoranteRestaurante do Brother100 m,100 m,attraction,2026-04-06 21:18:18.883922+01
+1071,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,RistoranteSUBWAY200 m,200 m,attraction,2026-04-06 21:18:18.883922+01
+1072,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,RistoranteSoho Lounge300 m,300 m,attraction,2026-04-06 21:18:18.883922+01
+1073,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Museo Palacete Provincial6 km,6 km,attraction,2026-04-06 21:18:18.883922+01
+1074,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Palacio Rio Negro Centro Cultural6 km,6 km,attraction,2026-04-06 21:18:18.883922+01
+1075,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Customs6 km,6 km,attraction,2026-04-06 21:18:18.883922+01
+1076,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Natural Science Museum6 km,6 km,attraction,2026-04-06 21:18:18.883922+01
+1077,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Cultural Center of the Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:18:18.883922+01
+1078,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,"AutobusManaus Bus Station1,9 km","1,9 km",attraction,2026-04-06 21:18:18.883922+01
+1079,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Aeroporto Internazionale Eduardo Gomes5 km,5 km,attraction,2026-04-06 21:18:18.883922+01
+1080,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,"Brigitte Bardot Statue2,1 km","2,1 km",attraction,2026-04-06 21:18:54.415333+01
+1081,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,RestaurantRestaurante e Bar Pinguim100 m,100 m,restaurant,2026-04-06 21:18:54.415333+01
+1082,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,RestaurantÂncoras Beach Restaurant200 m,200 m,restaurant,2026-04-06 21:18:54.415333+01
+1083,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,RestaurantLa Plage250 m,250 m,restaurant,2026-04-06 21:18:54.415333+01
+1084,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,Praia João Fernandinho50 m,50 m,beach,2026-04-06 21:18:54.415333+01
+1085,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,Praia João Fernandes150 m,150 m,beach,2026-04-06 21:18:54.415333+01
+1086,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,"Praia dos Ossos1,6 km","1,6 km",beach,2026-04-06 21:18:54.415333+01
+1087,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,"Praia Azeda1,7 km","1,7 km",beach,2026-04-06 21:18:54.415333+01
+1088,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,"Praia Azedinha1,8 km","1,8 km",beach,2026-04-06 21:18:54.415333+01
+1089,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,"BusGare routière principale3,2 km","3,2 km",transport,2026-04-06 21:18:54.415333+01
+1090,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,Aéroport international de Cabo Frio33 km,33 km,airport,2026-04-06 21:18:54.415333+01
+1091,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Florestinha Park1,2 km","1,2 km",attraction,2026-04-06 21:19:17.342333+01
+1092,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Bosque Clube1,6 km","1,6 km",attraction,2026-04-06 21:19:17.342333+01
+1093,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Csu-Centro Social Urbano2 km,2 km,attraction,2026-04-06 21:19:17.342333+01
+1094,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Amazon Acqua Park2,3 km","2,3 km",attraction,2026-04-06 21:19:17.342333+01
+1095,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Municipal Park Mindu2,7 km","2,7 km",attraction,2026-04-06 21:19:17.342333+01
+1096,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Parque Ponte dos Bilhares3,2 km","3,2 km",attraction,2026-04-06 21:19:17.342333+01
+1097,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"Parque dos Rios II3,3 km","3,3 km",attraction,2026-04-06 21:19:17.342333+01
+1098,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Zoo of CIGS5 km,5 km,attraction,2026-04-06 21:19:17.342333+01
+1099,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Palais de justice de Manaus5 km,5 km,attraction,2026-04-06 21:19:17.342333+01
+1100,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Museum of Northern Man5 km,5 km,attraction,2026-04-06 21:19:17.342333+01
+1101,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,RestaurantSUBWAY200 m,200 m,restaurant,2026-04-06 21:19:17.342333+01
+1102,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,RestaurantRestaurante do Brother100 m,100 m,restaurant,2026-04-06 21:19:17.342333+01
+1103,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,RestaurantSoho Lounge300 m,300 m,restaurant,2026-04-06 21:19:17.342333+01
+1104,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Palais Provincial6 km,6 km,attraction,2026-04-06 21:19:17.342333+01
+1105,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Palacio Rio Negro Centro Cultural6 km,6 km,attraction,2026-04-06 21:19:17.342333+01
+1106,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Customs6 km,6 km,attraction,2026-04-06 21:19:17.342333+01
+1107,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Natural Science Museum6 km,6 km,attraction,2026-04-06 21:19:17.342333+01
+1108,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Cultural Center of the Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:19:17.342333+01
+1109,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,"BusManaus Bus Station1,9 km","1,9 km",transport,2026-04-06 21:19:17.342333+01
+1110,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Aéroport international Brigadeiro Eduardo Gomes-Manaus5 km,5 km,airport,2026-04-06 21:19:17.342333+01
+1111,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,"Brigitte Bardot Statue2,1 km","2,1 km",attraction,2026-04-06 21:19:31.497854+01
+1112,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,RestauranteRestaurante e Bar Pinguim100 m,100 m,restaurant,2026-04-06 21:19:31.497854+01
+1113,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,RestauranteÂncoras Beach Restaurant200 m,200 m,restaurant,2026-04-06 21:19:31.497854+01
+1114,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,RestauranteLa Plage250 m,250 m,restaurant,2026-04-06 21:19:31.497854+01
+1115,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,João Fernandinho Beach50 m,50 m,beach,2026-04-06 21:19:31.497854+01
+1116,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,João Fernandes Beach150 m,150 m,beach,2026-04-06 21:19:31.497854+01
+1117,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,"Ossos Beach1,6 km","1,6 km",beach,2026-04-06 21:19:31.497854+01
+1118,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,"Azeda Beach1,7 km","1,7 km",beach,2026-04-06 21:19:31.497854+01
+1119,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,"Azedinha Beach1,8 km","1,8 km",beach,2026-04-06 21:19:31.497854+01
+1120,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,"AutocarroBus Central Station3,2 km","3,2 km",transport,2026-04-06 21:19:31.497854+01
+1121,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,Cabo Frio International Airport33 km,33 km,airport,2026-04-06 21:19:31.497854+01
+1122,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Florestinha Park1,2 km","1,2 km",attraction,2026-04-06 21:20:07.555508+01
+1123,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Bosque Clube1,6 km","1,6 km",attraction,2026-04-06 21:20:07.555508+01
+1124,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Csu-Centro Social Urbano2 km,2 km,attraction,2026-04-06 21:20:07.555508+01
+1125,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Amazon Acqua Park2,3 km","2,3 km",attraction,2026-04-06 21:20:07.555508+01
+1126,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Municipal Park Mindu2,7 km","2,7 km",attraction,2026-04-06 21:20:07.555508+01
+1127,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Parque Ponte dos Bilhares3,2 km","3,2 km",attraction,2026-04-06 21:20:07.555508+01
+1128,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"Parque dos Rios II3,3 km","3,3 km",attraction,2026-04-06 21:20:07.555508+01
+1129,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Zoo of CIGS5 km,5 km,attraction,2026-04-06 21:20:07.555508+01
+1130,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Manaus Courthouse5 km,5 km,attraction,2026-04-06 21:20:07.555508+01
+1131,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Museum of Northern Man5 km,5 km,attraction,2026-04-06 21:20:07.555508+01
+1132,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,RestauranteRestaurante do Brother100 m,100 m,restaurant,2026-04-06 21:20:07.555508+01
+1133,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,RestauranteSUBWAY200 m,200 m,restaurant,2026-04-06 21:20:07.555508+01
+1134,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,RestauranteSoho Lounge300 m,300 m,restaurant,2026-04-06 21:20:07.555508+01
+1135,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Provincial Palace6 km,6 km,attraction,2026-04-06 21:20:07.555508+01
+1136,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Palacio Rio Negro Centro Cultural6 km,6 km,attraction,2026-04-06 21:20:07.555508+01
+1137,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Customs6 km,6 km,attraction,2026-04-06 21:20:07.555508+01
+1138,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Natural Science Museum6 km,6 km,attraction,2026-04-06 21:20:07.555508+01
+1139,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Cultural Center of the Povos da Amazonia9 km,9 km,attraction,2026-04-06 21:20:07.555508+01
+1140,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,"AutocarroManaus Bus Station1,9 km","1,9 km",transport,2026-04-06 21:20:07.555508+01
+1141,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Eduardo Gomes International Airport5 km,5 km,airport,2026-04-06 21:20:07.555508+01

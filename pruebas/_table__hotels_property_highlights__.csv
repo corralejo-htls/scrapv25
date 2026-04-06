@@ -1,0 +1,253 @@
+id,hotel_id,url_id,language,highlight_category,highlight_detail,created_at
+1,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,Top Location,Top location: Highly rated by recent guests (9.5),2026-04-06 20:39:16.453974+01
+2,cfa0db4a-0783-4bda-9a57-bac4c9750738,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,en,Breakfast info,Buffet,2026-04-06 20:39:16.453974+01
+3,97a20c40-b7a8-40ae-84c4-fc17b1c57fd5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,en,Heart,"Situated in the best rated area in Ohrid, this property has an excellent location score of 9.3",2026-04-06 20:39:31.023627+01
+4,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,5)",2026-04-06 20:39:54.756857+01
+5,312e2680-4523-430d-9955-9007299470f9,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,es,Información sobre el desayuno,Buffet,2026-04-06 20:39:54.756857+01
+6,58499140-984c-4e9c-b4d9-2fb46742f5d8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,es,Heart,"Situado en la zona mejor valorada de Ohrid, este alojamiento tiene una excelente puntuación en ubicación (9.3).",2026-04-06 20:40:31.994291+01
+7,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,5)",2026-04-06 20:40:46.645244+01
+8,9152abd6-e316-4935-9f03-94721e9246d2,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,de,Frühstücks-Info,Buffet,2026-04-06 20:40:46.645244+01
+9,407245ca-aee3-49c8-977a-1db2c595dea8,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,de,Heart,"Diese Unterkunft befindet sich in der am besten bewerteten Gegend in Ohrid und hat für ihre Lage ein hervorragendes Bewertungsergebnis von 9,3",2026-04-06 20:41:01.173773+01
+10,5f7024cc-540f-42fc-a593-1bb1989b3bb5,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,5",2026-04-06 20:41:38.641374+01
+11,5f7024cc-540f-42fc-a593-1bb1989b3bb5,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,it,Informazioni sulla colazione,a buffet,2026-04-06 20:41:38.641374+01
+12,349779ee-d292-498e-865b-1e30431527e5,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,it,Heart,"Situata nella zona più gettonata di Ohrid, questa struttura ha un ottimo punteggio per la posizione: 9,3!",2026-04-06 20:42:12.825651+01
+13,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,5)",2026-04-06 20:42:30.5746+01
+14,d1ef2dc2-2534-4e41-b962-b6290129aa60,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,fr,Infos concernant le petit-déjeuner,Buffet,2026-04-06 20:42:30.5746+01
+15,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,5)",2026-04-06 20:43:22.237586+01
+16,aa2d723d-77b6-4484-9acf-e5580d6cd65d,bbc6bff8-8316-4d8d-a9cb-cc187c6cfa86,pt,Informação sobre o pequeno-almoço,Buffet,2026-04-06 20:43:22.237586+01
+17,47784358-b1fd-470f-850f-b1f829f0a4e3,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,fr,Heart,"Situé dans le quartier le plus apprécié de Ohrid, cet établissement affiche l'excellente note de 9,3 pour sa situation géographique.",2026-04-06 20:43:43.513959+01
+18,17d22eba-03ba-45de-9008-4451bf3dd69a,b42c9f55-2442-434a-a9ab-a08d2f75fb7c,pt,Heart,"Situado na área com melhor avaliação em Ohrid, este alojamento tem uma excelente pontuação de localização: 9,3",2026-04-06 20:44:32.574378+01
+19,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Get what you need,"If you have any questions after booking, this property responds fast.",2026-04-06 20:45:24.869738+01
+20,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Top Location,Top location: Highly rated by recent guests (10.0),2026-04-06 20:45:24.869738+01
+21,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Breakfast info,"Continental, American, Breakfast to go",2026-04-06 20:45:24.869738+01
+22,ceae367e-a514-487e-b1fd-5cfda2fa5da8,d4aaac8f-f621-4810-b854-b4be17aba0e8,en,Parking,Free private parking available at the hotel,2026-04-06 20:45:24.869738+01
+23,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Top Location,Top location: Highly rated by recent guests (9.6),2026-04-06 20:45:44.653163+01
+24,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Breakfast info,Buffet,2026-04-06 20:45:44.653163+01
+25,ace83187-fd9d-4809-af36-a8407bd739bb,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,en,Activities:,Tennis court,2026-04-06 20:45:44.653163+01
+26,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Consigue lo que necesites,Este alojamiento responde rápido a cualquier pregunta que tengas después de reservar.,2026-04-06 20:46:47.095354+01
+27,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (10,0)",2026-04-06 20:46:47.095354+01
+28,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Información sobre el desayuno,"Continental, Americano, Desayuno para llevar",2026-04-06 20:46:47.095354+01
+29,5202bb32-2ed7-41a0-b486-dbebf6cc0188,d4aaac8f-f621-4810-b854-b4be17aba0e8,es,Parking,Hay parking privado gratis en el hotel,2026-04-06 20:46:47.095354+01
+30,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,6)",2026-04-06 20:47:02.156335+01
+31,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Información sobre el desayuno,Buffet,2026-04-06 20:47:02.156335+01
+32,dea1396d-1a06-4afc-95d0-a6b272f7a869,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,es,Actividades:,Pista de tenis,2026-04-06 20:47:02.156335+01
+33,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,"Erhalten Sie alles, was Sie brauchen",Diese Unterkunft antwortet schnell – falls Sie nach der Buchung Fragen haben.,2026-04-06 20:47:16.260663+01
+34,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (10,0)",2026-04-06 20:47:16.260663+01
+35,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Frühstücks-Info,"Kontinental, Amerikanisch, Frühstück zum Mitnehmen",2026-04-06 20:47:16.260663+01
+36,35b26d58-1cf7-49ac-a27f-0aacb6cbbf56,d4aaac8f-f621-4810-b854-b4be17aba0e8,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 20:47:16.260663+01
+37,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,6)",2026-04-06 20:47:51.087661+01
+38,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Frühstücks-Info,Buffet,2026-04-06 20:47:51.087661+01
+39,c6308f13-2a02-40d8-9cae-bb512ddc1109,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,de,Aktivitäten:,Tennisplatz,2026-04-06 20:47:51.087661+01
+40,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Chiedi ciò che ti serve,"Se dopo aver prenotato hai una domanda, questa struttura risponde rapidamente.",2026-04-06 20:48:28.139311+01
+41,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 10,0",2026-04-06 20:48:28.139311+01
+42,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Informazioni sulla colazione,"continentale, americana, Colazione da asporto",2026-04-06 20:48:28.139311+01
+43,1393446a-09ef-4189-985d-0f6519a6d779,d4aaac8f-f621-4810-b854-b4be17aba0e8,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-04-06 20:48:28.139311+01
+44,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,6",2026-04-06 20:48:51.864572+01
+45,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Informazioni sulla colazione,a buffet,2026-04-06 20:48:51.864572+01
+46,3f188160-6643-4ba2-8627-0b5ce7257cf3,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,it,Attività:,Campo da tennis,2026-04-06 20:48:51.864572+01
+47,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Obtenez ce dont vous avez besoin,Cet établissement répond rapidement aux questions que vous auriez après votre réservation.,2026-04-06 20:49:22.348224+01
+48,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (10,0)",2026-04-06 20:49:22.348224+01
+49,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Infos concernant le petit-déjeuner,"Continental, Américain, Petit-déjeuner à emporter",2026-04-06 20:49:22.348224+01
+50,75552463-ec0a-417a-a2dc-13409a7043a8,d4aaac8f-f621-4810-b854-b4be17aba0e8,fr,Parking,Parking privé gratuit à l'hôtel,2026-04-06 20:49:22.348224+01
+51,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,6)",2026-04-06 20:49:32.533031+01
+52,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Infos concernant le petit-déjeuner,Buffet,2026-04-06 20:49:32.533031+01
+53,253eff86-e240-4966-8f29-8a1a12a17930,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,fr,Activités :,Court de tennis,2026-04-06 20:49:32.533031+01
+54,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Obtenha o que precisa,"Caso tenha alguma questão após a reserva, este alojamento responde rapidamente.",2026-04-06 20:49:51.639447+01
+55,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (10,0)",2026-04-06 20:49:51.639447+01
+56,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Informação sobre o pequeno-almoço,"Continental, Americano, Pequeno-almoço para levar",2026-04-06 20:49:51.639447+01
+57,1d20c2fd-dc2b-436a-896e-18e596658c33,d4aaac8f-f621-4810-b854-b4be17aba0e8,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-04-06 20:49:51.639447+01
+58,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,6)",2026-04-06 20:50:21.554332+01
+59,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Informação sobre o pequeno-almoço,Buffet,2026-04-06 20:50:21.554332+01
+60,a9a0d0a8-8b8e-4242-9288-eb442c38320d,6721aee0-e1d0-4b74-b74b-c6d6faa29a37,pt,Atividades:,Campo de Ténis,2026-04-06 20:50:21.554332+01
+61,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Top Location,Top location: Highly rated by recent guests (9.9),2026-04-06 20:51:09.773964+01
+62,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Breakfast info,"Continental, Vegetarian, Gluten-free, American, Buffet",2026-04-06 20:51:09.773964+01
+63,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Parking,Free private parking available on-site,2026-04-06 20:51:09.773964+01
+64,4b1dbd1c-24ce-4b0a-a741-6c3497d9dbaf,f346756c-45aa-44b3-8844-468b17fa357b,en,Activities:,Tennis court,2026-04-06 20:51:09.773964+01
+65,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Top Location,Top location: Highly rated by recent guests (10.0),2026-04-06 20:51:37.044846+01
+66,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, American",2026-04-06 20:51:37.044846+01
+67,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Parking,Free private parking available on-site,2026-04-06 20:51:37.044846+01
+68,fd4ed6db-3e54-4708-88d6-15df3eedaa47,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,en,Activities:,Tennis court,2026-04-06 20:51:37.044846+01
+69,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,9)",2026-04-06 20:52:23.976496+01
+70,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Información sobre el desayuno,"Continental, Vegetariano, Sin gluten, Americano, Buffet",2026-04-06 20:52:23.976496+01
+71,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Parking,Hay parking privado gratis en el alojamiento,2026-04-06 20:52:23.976496+01
+72,47922007-5d98-4e80-bc4c-7d97a30f6638,f346756c-45aa-44b3-8844-468b17fa357b,es,Actividades:,Pista de tenis,2026-04-06 20:52:23.976496+01
+73,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (10,0)",2026-04-06 20:52:41.193485+01
+74,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Americano",2026-04-06 20:52:41.193485+01
+75,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Parking,Hay parking privado gratis en el alojamiento,2026-04-06 20:52:41.193485+01
+76,813cba78-7b00-401a-ac2a-f8cfd0939630,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,es,Actividades:,Pista de tenis,2026-04-06 20:52:41.193485+01
+77,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,9)",2026-04-06 20:52:56.668472+01
+78,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Frühstücks-Info,"Kontinental, Vegetarisch, Glutenfrei, Amerikanisch, Buffet",2026-04-06 20:52:56.668472+01
+79,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Parking,An der Unterkunft stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 20:52:56.668472+01
+80,068f266f-d7f5-459f-b3d5-af4aa81feddd,f346756c-45aa-44b3-8844-468b17fa357b,de,Aktivitäten:,Tennisplatz,2026-04-06 20:52:56.668472+01
+81,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (10,0)",2026-04-06 20:53:41.92851+01
+82,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Amerikanisch",2026-04-06 20:53:41.92851+01
+83,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Parking,An der Unterkunft stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 20:53:41.92851+01
+84,683be63f-6a9b-4e89-86e4-22bf169b7031,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,de,Aktivitäten:,Tennisplatz,2026-04-06 20:53:41.92851+01
+85,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,9",2026-04-06 20:55:54.006506+01
+86,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Informazioni sulla colazione,"continentale, vegetariana, senza glutine, americana, a buffet",2026-04-06 20:55:54.006506+01
+87,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Parking,Parcheggio privato gratuito disponibile sul posto,2026-04-06 20:55:54.006506+01
+88,dc329244-6b24-4148-8a9a-1dff040dd002,f346756c-45aa-44b3-8844-468b17fa357b,it,Attività:,Campo da tennis,2026-04-06 20:55:54.006506+01
+89,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 10,0",2026-04-06 20:56:18.067005+01
+90,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, americana",2026-04-06 20:56:18.067005+01
+91,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Parking,Parcheggio privato gratuito disponibile sul posto,2026-04-06 20:56:18.067005+01
+92,e4d238d2-5641-47fe-af92-d3dd09d7ca14,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,it,Attività:,Campo da tennis,2026-04-06 20:56:18.067005+01
+93,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,9)",2026-04-06 20:57:02.151377+01
+94,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Sans gluten, Américain, Buffet",2026-04-06 20:57:02.151377+01
+95,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Parking,Parking privé gratuit sur place,2026-04-06 20:57:02.151377+01
+96,76e17f19-7b4b-45fb-8027-be363afcb3b6,f346756c-45aa-44b3-8844-468b17fa357b,fr,Activités :,Court de tennis,2026-04-06 20:57:02.151377+01
+97,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (10,0)",2026-04-06 20:57:07.907245+01
+98,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Américain",2026-04-06 20:57:07.907245+01
+99,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Parking,Parking privé gratuit sur place,2026-04-06 20:57:07.907245+01
+100,ecaabe0a-2e48-4c0f-963f-5b6a6b51dd21,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,fr,Activités :,Court de tennis,2026-04-06 20:57:07.907245+01
+101,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,9)",2026-04-06 20:57:32.421565+01
+102,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Sem glúten, Americano, Buffet",2026-04-06 20:57:32.421565+01
+103,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Parking,Estacionamento privado gratuito disponível no local,2026-04-06 20:57:32.421565+01
+104,77a5cdef-bb84-450b-a43b-9b61aeda929d,f346756c-45aa-44b3-8844-468b17fa357b,pt,Atividades:,Campo de Ténis,2026-04-06 20:57:32.421565+01
+105,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (10,0)",2026-04-06 20:58:09.376916+01
+106,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Americano",2026-04-06 20:58:09.376916+01
+107,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Parking,Estacionamento privado gratuito disponível no local,2026-04-06 20:58:09.376916+01
+108,0288443d-f872-4de6-b6ef-4e25956c9f04,8a89a0d9-e88d-420a-9e43-1235ede4e3ce,pt,Atividades:,Campo de Ténis,2026-04-06 20:58:09.376916+01
+109,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Top Location,Top location: Highly rated by recent guests (9.5),2026-04-06 20:58:57.738481+01
+110,fea669db-9019-4481-8873-8f30f8e8f8e0,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,en,Parking,Free private parking available at the hotel,2026-04-06 20:58:57.738481+01
+111,c5890a3d-a2c7-4689-ac4c-6082524c6977,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,en,Parking,Free private parking available at the hotel,2026-04-06 20:59:31.785459+01
+112,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,5)",2026-04-06 20:59:54.9731+01
+113,f9ce33d6-8da1-47b2-ad78-321ba4222da1,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,es,Parking,Hay parking privado gratis en el hotel,2026-04-06 20:59:54.9731+01
+114,25be4d16-766d-4736-bdf5-d5e5fd47e15a,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,es,Parking,Hay parking privado gratis en el hotel,2026-04-06 21:00:28.448297+01
+115,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,5)",2026-04-06 21:00:38.984507+01
+116,56ef0e1e-6500-4fdd-80d3-9321ec226b54,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 21:00:38.984507+01
+117,8fde2b05-3111-4838-926b-b09e0f647f12,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 21:00:59.180718+01
+118,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,5",2026-04-06 21:01:31.558358+01
+119,75f87fec-37d9-4024-a348-78d464723c9e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-04-06 21:01:31.558358+01
+120,9f4ec138-aea8-4904-802f-8b3ac1c4a5e0,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-04-06 21:01:54.383286+01
+121,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,5)",2026-04-06 21:02:11.076298+01
+122,1010cd7a-835a-4b45-8621-37d5c6e04b60,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,fr,Parking,Parking privé gratuit à l'hôtel,2026-04-06 21:02:11.076298+01
+123,8a77f138-c005-4cf4-bb17-7f3349a85152,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,fr,Parking,Parking privé gratuit à l'hôtel,2026-04-06 21:02:25.054676+01
+124,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,5)",2026-04-06 21:02:59.775829+01
+125,690b75c4-5d3d-4dfb-ac26-0d4f54f6089e,7c9c8e1b-beeb-4f69-a249-b4643aa943e3,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-04-06 21:02:59.775829+01
+126,040779cd-cca5-491f-badb-42f80fd9a15e,daf2a1a7-cd80-4f4e-9e0a-84a38ddd0969,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-04-06 21:03:14.017171+01
+127,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Top Location,Top location: Highly rated by recent guests (9.1),2026-04-06 21:03:59.313821+01
+128,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Breakfast info,"Continental, Vegetarian, Vegan, Buffet, Breakfast to go",2026-04-06 21:03:59.313821+01
+129,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Parking,Free private parking available on-site,2026-04-06 21:03:59.313821+01
+130,4a583c84-7b3e-4bc2-9869-ffadacbf4772,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,en,Activities:,Fitness centre,2026-04-06 21:03:59.313821+01
+131,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Top Location,Top location: Highly rated by recent guests (9.7),2026-04-06 21:04:17.462937+01
+132,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Breakfast info,Buffet,2026-04-06 21:04:17.462937+01
+133,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Parking,Free private parking available on-site,2026-04-06 21:04:17.462937+01
+134,1963724d-0612-4fa1-9a92-3d0a94e0078d,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,en,Activities:,Tennis court,2026-04-06 21:04:17.462937+01
+135,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,1)",2026-04-06 21:04:34.629191+01
+136,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Buffet, Desayuno para llevar",2026-04-06 21:04:34.629191+01
+137,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Parking,Hay parking privado gratis en el alojamiento,2026-04-06 21:04:34.629191+01
+138,27090688-bd81-42ec-8ccd-af8e9a46297f,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,es,Actividades:,Gimnasio,2026-04-06 21:04:34.629191+01
+139,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,7)",2026-04-06 21:05:14.286091+01
+140,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Información sobre el desayuno,Buffet,2026-04-06 21:05:14.286091+01
+141,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Parking,Hay parking privado gratis en el alojamiento,2026-04-06 21:05:14.286091+01
+142,eeeb8033-4c3b-45c8-b635-59c5d8f73fa6,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,es,Actividades:,Pista de tenis,2026-04-06 21:05:14.286091+01
+143,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,1)",2026-04-06 21:05:28.794539+01
+144,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Buffet, Frühstück zum Mitnehmen",2026-04-06 21:05:28.794539+01
+145,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Parking,An der Unterkunft stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 21:05:28.794539+01
+146,74fa29f2-6bab-4f55-90e1-cab2f43eb2cd,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,de,Aktivitäten:,Fitnesscenter,2026-04-06 21:05:28.794539+01
+147,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,7)",2026-04-06 21:05:42.821809+01
+148,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Frühstücks-Info,Buffet,2026-04-06 21:05:42.821809+01
+149,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Parking,An der Unterkunft stehen kostenfreie Privatparkplätze zur Verfügung,2026-04-06 21:05:42.821809+01
+150,6cc4628b-8428-47e6-a3bf-2ebbd4fa32bc,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,de,Aktivitäten:,Tennisplatz,2026-04-06 21:05:42.821809+01
+151,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,1",2026-04-06 21:06:22.013795+01
+152,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, a buffet, Colazione da asporto",2026-04-06 21:06:22.013795+01
+153,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Parking,Parcheggio privato gratuito disponibile sul posto,2026-04-06 21:06:22.013795+01
+154,bdc9cef0-77b1-4778-b55e-e4dbb12a4158,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,it,Attività:,Palestra,2026-04-06 21:06:22.013795+01
+155,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,7",2026-04-06 21:06:46.039749+01
+156,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Informazioni sulla colazione,a buffet,2026-04-06 21:06:46.039749+01
+157,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Parking,Parcheggio privato gratuito disponibile sul posto,2026-04-06 21:06:46.039749+01
+158,66b054c2-bd7e-443a-9ed6-9354ee760b2a,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,it,Attività:,Campo da tennis,2026-04-06 21:06:46.039749+01
+159,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,1)",2026-04-06 21:07:00.379978+01
+160,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Buffet, Petit-déjeuner à emporter",2026-04-06 21:07:00.379978+01
+161,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Parking,Parking privé gratuit sur place,2026-04-06 21:07:00.379978+01
+162,afa2a0f0-c416-4e2a-a0e0-55e9ca5326da,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,fr,Activités :,Centre de remise en forme,2026-04-06 21:07:00.379978+01
+163,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,7)",2026-04-06 21:07:30.913873+01
+164,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Infos concernant le petit-déjeuner,Buffet,2026-04-06 21:07:30.913873+01
+165,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Parking,Parking privé gratuit sur place,2026-04-06 21:07:30.913873+01
+166,70c3961b-0109-4076-a1a3-2293134540d3,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,fr,Activités :,Court de tennis,2026-04-06 21:07:30.913873+01
+167,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,1)",2026-04-06 21:07:47.644469+01
+168,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Buffet, Pequeno-almoço para levar",2026-04-06 21:07:47.644469+01
+169,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Parking,Estacionamento privado gratuito disponível no local,2026-04-06 21:07:47.644469+01
+170,b53c0efa-e0e1-481c-a0e9-28daa8073956,041f63dc-c6a9-47bf-ad1d-74d5484ddc02,pt,Atividades:,Centro de fitness,2026-04-06 21:07:47.644469+01
+171,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,7)",2026-04-06 21:08:02.31932+01
+172,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Informação sobre o pequeno-almoço,Buffet,2026-04-06 21:08:02.31932+01
+173,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Parking,Estacionamento privado gratuito disponível no local,2026-04-06 21:08:02.31932+01
+174,a144a385-7738-472d-ae8e-84cf05e19d5e,b9ed4ee4-68e2-44b8-abc0-42ff0cc19484,pt,Atividades:,Campo de Ténis,2026-04-06 21:08:02.31932+01
+179,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Heart,"Situated in the best rated area in Rio de Janeiro, this hotel has an excellent location score of 8.7",2026-04-06 21:09:14.96496+01
+180,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Breakfast info,"Continental, Buffet",2026-04-06 21:09:14.96496+01
+181,682f8c75-cb8a-458e-9c9d-9ba109d6e783,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,en,Loyal customers,There are more repeat guests here than most other properties.,2026-04-06 21:09:14.96496+01
+175,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Heart,"Situated in the real heart of Punta del Este, this hotel has an excellent location score of 9.6",2026-04-06 21:08:51.663255+01
+176,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Breakfast info,"Continental, Buffet",2026-04-06 21:08:51.663255+01
+177,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Parking,Private parking at the hotel,2026-04-06 21:08:51.663255+01
+178,f0962047-9fce-4ad5-b2e6-cffbe21e2d55,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,en,Loyal customers,There are more repeat guests here than most other properties.,2026-04-06 21:08:51.663255+01
+182,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Heart,"Este hotel está en el corazón de Punta del Este y tiene una puntuación excelente en ubicación: 9,6",2026-04-06 21:09:37.627968+01
+183,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Información sobre el desayuno,"Continental, Buffet",2026-04-06 21:09:37.627968+01
+184,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Parking,Hay parking privado en el hotel,2026-04-06 21:09:37.627968+01
+185,934383ad-688d-4fe6-abda-eb2e56c94dc3,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-04-06 21:09:37.627968+01
+186,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Punta del Este und hat eine exzellente Lage (bewertet mit 9,6)",2026-04-06 21:10:11.352349+01
+187,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Frühstücks-Info,"Kontinental, Buffet",2026-04-06 21:10:11.352349+01
+188,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-04-06 21:10:11.352349+01
+189,a4bebd29-ec7c-446d-80e1-c2cb26a40157,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-04-06 21:10:11.352349+01
+190,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Heart,"Situado en la zona mejor valorada de Río de Janeiro, este hotel tiene una excelente puntuación en ubicación (8,7).",2026-04-06 21:10:28.121974+01
+191,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Información sobre el desayuno,"Continental, Buffet",2026-04-06 21:10:28.121974+01
+192,471cdf6d-05ea-4c30-b4cf-6b1edc94dccb,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-04-06 21:10:28.121974+01
+193,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Heart,"Situato nel vero cuore di Punta del Este, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-04-06 21:10:56.664805+01
+194,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Informazioni sulla colazione,"continentale, a buffet",2026-04-06 21:10:56.664805+01
+195,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-04-06 21:10:56.664805+01
+196,3b6eb5d7-4f24-4f24-909c-a51e8c855185,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-04-06 21:10:56.664805+01
+197,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Rio de Janeiro und hat für seine Lage ein hervorragendes Bewertungsergebnis von 8,7",2026-04-06 21:11:27.273294+01
+198,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Frühstücks-Info,"Kontinental, Buffet",2026-04-06 21:11:27.273294+01
+199,418228cf-5c8a-4924-82b0-c1a84f495c80,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-04-06 21:11:27.273294+01
+200,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Heart,"Situé en plein cœur de Punta del Este, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-04-06 21:11:51.603266+01
+201,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Infos concernant le petit-déjeuner,"Continental, Buffet",2026-04-06 21:11:51.603266+01
+202,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Parking,Parking privé à l'hôtel,2026-04-06 21:11:51.603266+01
+203,a2ee5fe9-421e-407b-9786-76833f59cea7,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-04-06 21:11:51.603266+01
+204,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Heart,"Situato nella zona più gettonata di Rio de Janeiro, questo hotel ha un ottimo punteggio per la posizione: 8,7!",2026-04-06 21:12:01.434507+01
+205,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Informazioni sulla colazione,"continentale, a buffet",2026-04-06 21:12:01.434507+01
+206,d8196c17-3a73-4c83-a339-9503081288c9,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-04-06 21:12:01.434507+01
+207,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Heart,"Situado na área mais popular de Punta del Este, este hotel tem uma pontuação de localização excelente: 9,6",2026-04-06 21:12:19.46788+01
+208,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Informação sobre o pequeno-almoço,"Continental, Buffet",2026-04-06 21:12:19.46788+01
+209,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Parking,Estacionamento privado disponível no hotel,2026-04-06 21:12:19.46788+01
+210,59687ed7-061f-42b6-b822-6fe40bb9b37d,98b3e75e-ee00-46b4-a20d-674d7d6e53bd,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-04-06 21:12:19.46788+01
+211,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Heart,"Situé dans le quartier le plus apprécié à Rio de Janeiro, cet hôtel affiche l'excellente note de 8,7 pour sa situation géographique.",2026-04-06 21:12:56.772736+01
+212,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Infos concernant le petit-déjeuner,"Continental, Buffet",2026-04-06 21:12:56.772736+01
+213,b51480dd-6430-4732-b099-62e09a0d5401,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-04-06 21:12:56.772736+01
+214,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Heart,"Situado na área com melhor avaliação no Rio de Janeiro, este hotel tem uma excelente pontuação de localização: 8,7",2026-04-06 21:13:45.795874+01
+215,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Informação sobre o pequeno-almoço,"Continental, Buffet",2026-04-06 21:13:45.795874+01
+216,9fcc30f6-4a4c-4a4d-9449-bd88308714c3,0c0cc48f-b7af-4bd7-a7aa-29da9b7a043e,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-04-06 21:13:45.795874+01
+217,53b2b60d-70b6-43f4-8a62-8439df2bf5c9,52052865-1bcb-49fc-ab45-600452423ff5,en,Heart,"Situated in the best rated area in Búzios, this hotel has an excellent location score of 9.5",2026-04-06 21:14:46.350079+01
+218,53b2b60d-70b6-43f4-8a62-8439df2bf5c9,52052865-1bcb-49fc-ab45-600452423ff5,en,Breakfast info,Buffet,2026-04-06 21:14:46.350079+01
+219,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Top Location,Top location: Highly rated by recent guests (8.8),2026-04-06 21:15:16.672216+01
+220,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Breakfast info,Buffet,2026-04-06 21:15:16.672216+01
+221,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Parking,Private parking at the hotel,2026-04-06 21:15:16.672216+01
+222,4e0fbddf-149f-42b7-854e-83e86ba9d392,34fbd733-7c19-4432-a8ae-2ae45e23f721,en,Loyal customers,There are more repeat guests here than most other properties.,2026-04-06 21:15:16.672216+01
+223,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,Heart,"Situado en la zona mejor valorada de Búzios, este hotel tiene una excelente puntuación en ubicación (9,5).",2026-04-06 21:16:01.126417+01
+224,850a98fc-1a4f-4c81-b0bc-9d2fef12be94,52052865-1bcb-49fc-ab45-600452423ff5,es,Información sobre el desayuno,Buffet,2026-04-06 21:16:01.126417+01
+225,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,8)",2026-04-06 21:16:06.73844+01
+226,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Información sobre el desayuno,Buffet,2026-04-06 21:16:06.73844+01
+227,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Parking,Hay parking privado en el hotel,2026-04-06 21:16:06.73844+01
+228,a85b5a14-b24d-4f08-8157-bc9ba1fa2a63,34fbd733-7c19-4432-a8ae-2ae45e23f721,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-04-06 21:16:06.73844+01
+229,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Búzios und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,5",2026-04-06 21:16:30.59381+01
+230,53a29701-a733-4e5c-b15f-1564914f6a14,52052865-1bcb-49fc-ab45-600452423ff5,de,Frühstücks-Info,Buffet,2026-04-06 21:16:30.59381+01
+231,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,8)",2026-04-06 21:17:24.881141+01
+232,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Frühstücks-Info,Buffet,2026-04-06 21:17:24.881141+01
+233,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-04-06 21:17:24.881141+01
+234,21e6c343-7964-4128-8898-33bd49685451,34fbd733-7c19-4432-a8ae-2ae45e23f721,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-04-06 21:17:24.881141+01
+235,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,Heart,"Situato nella zona più gettonata di Búzios, questo hotel ha un ottimo punteggio per la posizione: 9,5!",2026-04-06 21:17:55.459054+01
+236,757edee3-feaf-4fa9-8efb-3ccf5eeeede7,52052865-1bcb-49fc-ab45-600452423ff5,it,Informazioni sulla colazione,a buffet,2026-04-06 21:17:55.459054+01
+237,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,8",2026-04-06 21:18:18.879442+01
+238,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Informazioni sulla colazione,a buffet,2026-04-06 21:18:18.879442+01
+239,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-04-06 21:18:18.879442+01
+240,9dc2a6c4-852b-4934-afad-79f80de576d0,34fbd733-7c19-4432-a8ae-2ae45e23f721,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-04-06 21:18:18.879442+01
+241,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,Heart,"Situé dans le quartier le plus apprécié à Búzios, cet hôtel affiche l'excellente note de 9,5 pour sa situation géographique.",2026-04-06 21:18:54.412875+01
+242,25ee94b9-e85d-4ac0-ba4e-5ac9948b6983,52052865-1bcb-49fc-ab45-600452423ff5,fr,Infos concernant le petit-déjeuner,Buffet,2026-04-06 21:18:54.412875+01
+243,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,8)",2026-04-06 21:19:17.337158+01
+244,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Infos concernant le petit-déjeuner,Buffet,2026-04-06 21:19:17.337158+01
+245,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Parking,Parking privé à l'hôtel,2026-04-06 21:19:17.337158+01
+246,472ccc04-17da-4d07-b2e9-354393894e18,34fbd733-7c19-4432-a8ae-2ae45e23f721,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-04-06 21:19:17.337158+01
+247,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,Heart,"Situado na área com melhor avaliação em Búzios, este hotel tem uma excelente pontuação de localização: 9,5",2026-04-06 21:19:31.495185+01
+248,30862946-1bc7-477e-9edc-6aba9faab8e3,52052865-1bcb-49fc-ab45-600452423ff5,pt,Informação sobre o pequeno-almoço,Buffet,2026-04-06 21:19:31.495185+01
+249,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,8)",2026-04-06 21:20:07.550466+01
+250,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Informação sobre o pequeno-almoço,Buffet,2026-04-06 21:20:07.550466+01
+251,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Parking,Estacionamento privado disponível no hotel,2026-04-06 21:20:07.550466+01
+252,85d28159-15c3-4fe8-966c-95cd9846c1b9,34fbd733-7c19-4432-a8ae-2ae45e23f721,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-04-06 21:20:07.550466+01
