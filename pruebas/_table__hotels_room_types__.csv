@@ -1,0 +1,745 @@
+id,hotel_id,url_id,language,room_name,description,facilities,adults,children,images,info,created_at
+1,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Overwater Villa with Jacuzzi King,1 extra-large double bed,[],,,[],,2026-04-08 12:32:21.590924+01
+2,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Overwater Villa with Jacuzzi Twin,2 single beds,[],,,[],,2026-04-08 12:32:21.590924+01
+3,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Overwater Pool Villa King,1 extra-large double bed,[],,,[],,2026-04-08 12:32:21.590924+01
+4,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Overwater Pool Villa Twin,2 single beds,[],,,[],,2026-04-08 12:32:21.590924+01
+5,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunset Overwater Pool Villa King,1 extra-large double bed,[],,,[],,2026-04-08 12:32:21.590924+01
+6,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunset Overwater Pool Villa Twin,2 single beds,[],,,[],,2026-04-08 12:32:21.590924+01
+7,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunset Beach Pool Villa King,1 extra-large double bed,[],,,[],,2026-04-08 12:32:21.590924+01
+8,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunset Beach Pool Villa Twin,2 single beds,[],,,[],,2026-04-08 12:32:21.590924+01
+9,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunrise Beach Pool Villa King,1 extra-large double bed,[],,,[],,2026-04-08 12:32:21.590924+01
+10,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,One-Bedroom Sunrise Beach Pool Villa Twin,2 single beds,[],,,[],,2026-04-08 12:32:21.590924+01
+11,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Grand Two-Bedroom Overwater Pool Villa,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+12,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Grand Two-Bedroom Beach Pool Villa,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+13,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Three-Bedroom Sunset Overwater Pool Residence,"1 extra-large double bed, 1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+14,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Three-Bedroom Sunset Beach Pool Residence,"1 extra-large double bed, 1 extra-large double bed, 2 extra-large double beds",[],,,[],,2026-04-08 12:32:21.590924+01
+15,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Two-bedroom Family Overwater Villa with Jacuzzi,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+16,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Two-bedroom Family Overwater Pool Villa,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+17,a2e378f4-907d-4697-8d99-83e6c59f0f91,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,en,Two-bedroom Family Sunset Beach Pool Villa,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:32:21.590924+01
+18,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Double Room with Garden View,1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+19,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Economy Double Room,1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+20,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Double Room with Patio,1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+21,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Triple Room with Garden View,1 single bed and 1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+22,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,King Room with Lake View,1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+23,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Double Room with Lake View,1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+24,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Twin Room with Private External Bathroom,2 single beds,[],,,[],,2026-04-08 12:32:38.67729+01
+25,ceba90bd-a09c-4954-8f94-ceb19355e359,e100bc75-f87c-4efb-b03c-5baad8443bf1,en,Family Room with Garden View,2 single beds and 1 large double bed,[],,,[],,2026-04-08 12:32:38.67729+01
+26,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa de 1 dormitorio extragrande sobre el agua con jacuzzi,1 cama doble extragrande,[],,,[],,2026-04-08 12:32:59.159952+01
+27,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa de 1 dormitorio con 2 camas sobre el agua con jacuzzi,2 camas individuales,[],,,[],,2026-04-08 12:32:59.159952+01
+28,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa con 1 dormitorio extragrande sobre el agua con piscina,1 cama doble extragrande,[],,,[],,2026-04-08 12:32:59.159952+01
+29,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa de 1 dormitorio con 2 camas sobre el agua con piscina,2 camas individuales,[],,,[],,2026-04-08 12:32:59.159952+01
+30,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa de 1 dormitorio extragrande sobre el agua con piscina y vistas al atardecer,1 cama doble extragrande,[],,,[],,2026-04-08 12:32:59.159952+01
+31,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Villa de 1 dormitorio con 2 camas sobre el agua con piscina y vistas al atardecer,2 camas individuales,[],,,[],,2026-04-08 12:32:59.159952+01
+32,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,"Villa de 1 dormitorio extragrande con playa, piscina y vistas al atardecer",1 cama doble extragrande,[],,,[],,2026-04-08 12:32:59.159952+01
+33,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,"Villa de 1 dormitorio con 2 camas con playa, piscina y vistas al atardecer",2 camas individuales,[],,,[],,2026-04-08 12:32:59.159952+01
+34,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,"Villa de 1 dormitorio extragrande con playa, piscina y vistas al amanecer",1 cama doble extragrande,[],,,[],,2026-04-08 12:32:59.159952+01
+35,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,"Villa de 1 dormitorio con 2 camas con playa, piscina y vistas al amanecer",2 camas individuales,[],,,[],,2026-04-08 12:32:59.159952+01
+36,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Grand villa de 2 dormitorios sobre el agua con piscina,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+37,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Grand villa de 2 dormitorios con playa y piscina,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+38,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Residencia de 3 dormitorios sobre el agua con piscina y vistas al atardecer,"1 cama doble extragrande, 1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+39,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,"Residencia de 3 dormitorios con playa, piscina y vistas al atardecer","1 cama doble extragrande, 1 cama doble extragrande, 2 camas dobles extragrandes",[],,,[],,2026-04-08 12:32:59.159952+01
+40,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Two-bedroom Family Overwater Villa with Jacuzzi,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+41,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Two-bedroom Family Overwater Pool Villa,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+42,694b5bec-062e-4e65-aab3-a57da781c488,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,es,Two-bedroom Family Sunset Beach Pool Villa,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:32:59.159952+01
+43,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Doble con vistas al jardín,1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+44,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Doble Económica,1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+45,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Doble con patio,1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+670,aae34659-b9aa-48e4-975f-3ba250698c84,218cba62-7a05-44a1-94d1-82adf4437c2f,en,Standard Double Room,1 double bed,[],,,[],,2026-04-08 13:03:50.839224+01
+46,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Triple con vistas al jardín,1 cama individual y 1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+47,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación con cama extragrande y vistas al lago,1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+48,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Doble con vistas al lago,1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+49,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Doble con baño privado externo - 2 camas,2 camas individuales,[],,,[],,2026-04-08 12:33:49.265972+01
+50,fa441adb-263e-45f8-9875-0d77f843ef14,e100bc75-f87c-4efb-b03c-5baad8443bf1,es,Habitación Familiar con vistas al jardín,2 camas individuales y 1 cama doble grande,[],,,[],,2026-04-08 12:33:49.265972+01
+68,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Doppelzimmer mit Gartenblick,1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+69,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Economy Doppelzimmer,1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+70,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Doppelzimmer mit Patio,1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+71,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Dreibettzimmer mit Gartenblick,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+72,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Zimmer mit Kingsize-Bett und Seeblick,1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+73,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Doppelzimmer mit Seeblick,1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+74,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Zweibettzimmer mit eigenem Bad außerhalb des Zimmers,2 Einzelbetten,[],,,[],,2026-04-08 12:34:18.670119+01
+75,55da4c10-d351-4f80-960f-12c802f9d92c,e100bc75-f87c-4efb-b03c-5baad8443bf1,de,Familienzimmer mit Gartenblick,2 Einzelbetten und 1 Doppelbett,[],,,[],,2026-04-08 12:34:18.670119+01
+51,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Overwater Villa with Jacuzzi King,1 großes Doppelbett,[],,,[],,2026-04-08 12:34:04.457796+01
+52,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Overwater Villa with Jacuzzi Twin,2 Einzelbetten,[],,,[],,2026-04-08 12:34:04.457796+01
+53,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Overwater Pool Villa King,1 großes Doppelbett,[],,,[],,2026-04-08 12:34:04.457796+01
+54,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Overwater Pool Villa Twin,2 Einzelbetten,[],,,[],,2026-04-08 12:34:04.457796+01
+55,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunset Overwater Pool Villa King,1 großes Doppelbett,[],,,[],,2026-04-08 12:34:04.457796+01
+56,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunset Overwater Pool Villa Twin,2 Einzelbetten,[],,,[],,2026-04-08 12:34:04.457796+01
+57,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunset Beach Pool Villa King,1 großes Doppelbett,[],,,[],,2026-04-08 12:34:04.457796+01
+58,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunset Beach Pool Villa Twin,2 Einzelbetten,[],,,[],,2026-04-08 12:34:04.457796+01
+59,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunrise Beach Pool Villa King,1 großes Doppelbett,[],,,[],,2026-04-08 12:34:04.457796+01
+60,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,One-Bedroom Sunrise Beach Pool Villa Twin,2 Einzelbetten,[],,,[],,2026-04-08 12:34:04.457796+01
+61,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Grand Two-Bedroom Overwater Pool Villa,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+62,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Grand Two-Bedroom Beach Pool Villa,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+63,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Three-Bedroom Sunset Overwater Pool Residence,"1 großes Doppelbett, 1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+64,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Three-Bedroom Sunset Beach Pool Residence,"1 großes Doppelbett, 1 großes Doppelbett, 2 große Doppelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+65,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Two-bedroom Family Overwater Villa with Jacuzzi,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+66,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Two-bedroom Family Overwater Pool Villa,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+67,ae467e2f-2afd-402b-9064-eb23fa927340,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,de,Two-bedroom Family Sunset Beach Pool Villa,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:34:04.457796+01
+76,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Matrimoniale con Vista Giardino,1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+77,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Matrimoniale Economy,1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+78,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Matrimoniale con Patio,1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+79,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Tripla con Vista Giardino,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+80,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera King con Vista Lago,1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+81,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Matrimoniale con Vista Lago,1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+82,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Doppia con Letti Singoli con Bagno Privato Esterno,2 letti singoli,[],,,[],,2026-04-08 12:35:05.469371+01
+83,71372652-439f-4481-9ca7-5d5c05f60c33,e100bc75-f87c-4efb-b03c-5baad8443bf1,it,Camera Familiare con Vista Giardino,2 letti singoli e 1 letto matrimoniale,[],,,[],,2026-04-08 12:35:05.469371+01
+84,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Overwater Villa with Jacuzzi King,1 letto matrimoniale large,[],,,[],,2026-04-08 12:35:24.601127+01
+85,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Overwater Villa with Jacuzzi Twin,2 letti singoli,[],,,[],,2026-04-08 12:35:24.601127+01
+86,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Overwater Pool Villa King,1 letto matrimoniale large,[],,,[],,2026-04-08 12:35:24.601127+01
+87,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Overwater Pool Villa Twin,2 letti singoli,[],,,[],,2026-04-08 12:35:24.601127+01
+88,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunset Overwater Pool Villa King,1 letto matrimoniale large,[],,,[],,2026-04-08 12:35:24.601127+01
+89,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunset Overwater Pool Villa Twin,2 letti singoli,[],,,[],,2026-04-08 12:35:24.601127+01
+90,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunset Beach Pool Villa King,1 letto matrimoniale large,[],,,[],,2026-04-08 12:35:24.601127+01
+91,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunset Beach Pool Villa Twin,2 letti singoli,[],,,[],,2026-04-08 12:35:24.601127+01
+92,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunrise Beach Pool Villa King,1 letto matrimoniale large,[],,,[],,2026-04-08 12:35:24.601127+01
+93,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,One-Bedroom Sunrise Beach Pool Villa Twin,2 letti singoli,[],,,[],,2026-04-08 12:35:24.601127+01
+94,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Grand Two-Bedroom Overwater Pool Villa,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+95,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Grand Two-Bedroom Beach Pool Villa,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+96,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Three-Bedroom Sunset Overwater Pool Residence,"1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+97,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Three-Bedroom Sunset Beach Pool Residence,"1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti matrimoniali grandi",[],,,[],,2026-04-08 12:35:24.601127+01
+98,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Two-bedroom Family Overwater Villa with Jacuzzi,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+99,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Two-bedroom Family Overwater Pool Villa,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+100,548d1af4-8426-4a7e-afaf-c406eba36f1b,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,it,Two-bedroom Family Sunset Beach Pool Villa,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:35:24.601127+01
+101,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Double - Vue sur Jardin,1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+102,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Double Économique,1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+103,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Double avec Patio,1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+104,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Triple - Vue sur Jardin,1 lit simple et 1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+105,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Lit King-Size - Vue sur Lac,1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+106,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Double – Vue sur Lac,1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+107,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Lits Jumeaux avec Salle de Bains Privative Séparée,2 lits simples,[],,,[],,2026-04-08 12:35:41.804289+01
+108,c2043c44-4637-4363-aa77-3b51ada80453,e100bc75-f87c-4efb-b03c-5baad8443bf1,fr,Chambre Familiale - Vue sur Jardin,2 lits simples et 1 grand lit double,[],,,[],,2026-04-08 12:35:41.804289+01
+134,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Overwater Villa with Jacuzzi King,1 cama de casal extragrande,[],,,[],,2026-04-08 12:37:00.345395+01
+135,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Overwater Villa with Jacuzzi Twin,2 camas individuais,[],,,[],,2026-04-08 12:37:00.345395+01
+136,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Overwater Pool Villa King,1 cama de casal extragrande,[],,,[],,2026-04-08 12:37:00.345395+01
+137,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Overwater Pool Villa Twin,2 camas individuais,[],,,[],,2026-04-08 12:37:00.345395+01
+138,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunset Overwater Pool Villa King,1 cama de casal extragrande,[],,,[],,2026-04-08 12:37:00.345395+01
+139,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunset Overwater Pool Villa Twin,2 camas individuais,[],,,[],,2026-04-08 12:37:00.345395+01
+140,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunset Beach Pool Villa King,1 cama de casal extragrande,[],,,[],,2026-04-08 12:37:00.345395+01
+141,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunset Beach Pool Villa Twin,2 camas individuais,[],,,[],,2026-04-08 12:37:00.345395+01
+142,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunrise Beach Pool Villa King,1 cama de casal extragrande,[],,,[],,2026-04-08 12:37:00.345395+01
+143,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,One-Bedroom Sunrise Beach Pool Villa Twin,2 camas individuais,[],,,[],,2026-04-08 12:37:00.345395+01
+144,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Grand Two-Bedroom Overwater Pool Villa,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+145,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Grand Two-Bedroom Beach Pool Villa,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+146,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Three-Bedroom Sunset Overwater Pool Residence,"1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+147,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Three-Bedroom Sunset Beach Pool Residence,"1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas de casal extragrandes",[],,,[],,2026-04-08 12:37:00.345395+01
+148,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Two-bedroom Family Overwater Villa with Jacuzzi,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+149,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Two-bedroom Family Overwater Pool Villa,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+150,7e33246f-a875-4585-be13-8ea44dfa66c8,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,pt,Two-bedroom Family Sunset Beach Pool Villa,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:37:00.345395+01
+109,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Duplo com Vista Jardim,1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+110,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Duplo Económico,1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+111,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Duplo com Pátio,1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+112,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Triplo com Vista do Jardim,1 cama individual e 1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+113,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto King com Vista Lago,1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+114,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Duplo com Vista Lago,1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+115,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Twin com Casa de Banho Privada Externa,2 camas individuais,[],,,[],,2026-04-08 12:36:13.463727+01
+116,82837f20-280d-4bc3-bf4a-d189fd4a1f0c,e100bc75-f87c-4efb-b03c-5baad8443bf1,pt,Quarto Familiar com Vista Jardim,2 camas individuais e 1 cama de casal grande,[],,,[],,2026-04-08 12:36:13.463727+01
+117,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lit King-Size avec Bain à Remous - Sur Pilotis,1 très grand lit double,[],,,[],,2026-04-08 12:36:28.011444+01
+118,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lits Jumeaux avec Bain à Remous - Sur Pilotis,2 lits simples,[],,,[],,2026-04-08 12:36:28.011444+01
+119,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lit King-Size avec Piscine - Sur Pilotis,1 très grand lit double,[],,,[],,2026-04-08 12:36:28.011444+01
+120,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lits Jumeaux avec Piscine - Sur Pilotis,2 lits simples,[],,,[],,2026-04-08 12:36:28.011444+01
+121,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lit King-Size Sunset avec Piscine - Sur Pilotis,1 très grand lit double,[],,,[],,2026-04-08 12:36:28.011444+01
+122,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lits Jumeaux Sunset avec Piscine - Sur Pilotis,2 lits simples,[],,,[],,2026-04-08 12:36:28.011444+01
+123,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lit King-Size Sunset avec Piscine - Côté Plage,1 très grand lit double,[],,,[],,2026-04-08 12:36:28.011444+01
+124,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lits Jumeaux Sunset avec Piscine - Côté Plage,2 lits simples,[],,,[],,2026-04-08 12:36:28.011444+01
+125,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lit King-Size Sunrise avec Piscine - Côté Plage,1 très grand lit double,[],,,[],,2026-04-08 12:36:28.011444+01
+126,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 1 Chambre Lits Jumeaux Sunrise avec Piscine - Côté Plage,2 lits simples,[],,,[],,2026-04-08 12:36:28.011444+01
+127,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 2 Chambres Grand avec Piscine - Sur Pilotis,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+128,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Villa 2 Chambres Grand avec Piscine - Côté Plage,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+129,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Résidence 3 Chambres Sunset avec Piscine - Sur Pilotis,"1 très grand lit double, 1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+130,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Résidence 3 Chambres Sunset avec Piscine - Côté Plage,"1 très grand lit double, 1 très grand lit double, 2 très grands lits doubles",[],,,[],,2026-04-08 12:36:28.011444+01
+131,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Two-bedroom Family Overwater Villa with Jacuzzi,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+132,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Two-bedroom Family Overwater Pool Villa,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+133,473a3dff-b6dd-47a3-9775-8581a7fb710a,9e6c7aa5-1c0b-4124-8843-d89a8dde1e90,fr,Two-bedroom Family Sunset Beach Pool Villa,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:36:28.011444+01
+151,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,One Bedroom Oceanview  Suite,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:37:41.120449+01
+152,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,Two Bedroom Patio Villa with Studio,"1 extra-large double bed, 2 single beds, 1 sofa bed",[],,,[],,2026-04-08 12:37:41.120449+01
+153,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,One-Bedroom Beachfront Suite,1 extra-large double bed,[],,,[],,2026-04-08 12:37:41.120449+01
+154,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,One-Bedroom Penthouse with Ocean View,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:41.120449+01
+155,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,Two-Bedroom Suite with Sea View,2 single beds and 1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:41.120449+01
+156,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,Four-Bedroom Lagoon Villa,4 extra-large double beds,[],,,[],,2026-04-08 12:37:41.120449+01
+157,98cdddba-bfa3-4398-9387-16cb3a0c13cf,6522133b-4070-48ee-8c8a-75bda90a1f34,en,Three Bedroom Patio Villa with Studio,4 single beds and 2 extra-large double beds and 1 sofa bed,[],,,[],,2026-04-08 12:37:41.120449+01
+158,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Beach Villa,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:58.468886+01
+159,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Beach Pool Villa,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:58.468886+01
+160,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Over Water Pool Villa,1 extra-large double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+161,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Deluxe Over Water Pool Villa,1 extra-large double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+162,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,One Bedroom Beach Pool Pavilion,1 double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+163,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Two Bedroom Beach Pool Pavilion,1 double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+164,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,One Bedroom Ocean Pool Pavilion,1 double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+165,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Two Bedroom Ocean Pool Pavilion,1 extra-large double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+166,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Family Beach Pool Villa,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:37:58.468886+01
+167,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Three Bedroom Beach Pool Pavilion,1 single bed and 1 extra-large double bed,[],,,[],,2026-04-08 12:37:58.468886+01
+168,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Deluxe Beach Pool Villa,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:58.468886+01
+169,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Deluxe Beach Villa,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:37:58.468886+01
+170,d950260f-f293-4ab0-a92e-7bbece85214d,3b0439d9-d0e6-4589-9b4e-7e8318497386,en,Deluxe Family Beach Pool Villa,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:37:58.468886+01
+171,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Suite de 1 dormitorio con vistas al océano,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:38:16.311167+01
+671,aae34659-b9aa-48e4-975f-3ba250698c84,218cba62-7a05-44a1-94d1-82adf4437c2f,en,Standard Single Room,1 single bed,[],,,[],,2026-04-08 13:03:50.839224+01
+172,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,"Villa con patio, estudio y 2 dormitorios","1 cama doble extragrande, 2 camas individuales, 1 sofá cama",[],,,[],,2026-04-08 12:38:16.311167+01
+173,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Suite de 1 dormitorio frente al mar,1 cama doble extragrande,[],,,[],,2026-04-08 12:38:16.311167+01
+174,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Ático de 1 dormitorio con vistas al océano,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:16.311167+01
+175,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Suite de 2 dormitorios con vistas al mar,2 camas individuales y 1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:16.311167+01
+176,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Villa Laguna de 4 dormitorios,4 camas dobles extragrandes,[],,,[],,2026-04-08 12:38:16.311167+01
+177,ca1b9117-48a5-43cb-8ac7-608c935da3bf,6522133b-4070-48ee-8c8a-75bda90a1f34,es,Villa Patio de 3 dormitorios con estudio,4 camas individuales y 2 camas dobles extragrandes y 1 sofá cama,[],,,[],,2026-04-08 12:38:16.311167+01
+178,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Playa,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:59.723081+01
+179,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa con piscina junto a la playa,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:59.723081+01
+180,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Pool sobre el agua,1 cama doble extragrande,[],,,[],,2026-04-08 12:38:59.723081+01
+181,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Deluxe sobre el agua con piscina,1 cama doble extragrande,[],,,[],,2026-04-08 12:38:59.723081+01
+182,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Pabellón de 1 dormitorio con piscina y playa,1 cama doble,[],,,[],,2026-04-08 12:38:59.723081+01
+183,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Two Bedroom Beach Pool Pavilion,1 cama doble,[],,,[],,2026-04-08 12:38:59.723081+01
+184,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Alojamiento Pavilion de 1 dormitorio con piscina y vistas al océano,1 cama doble,[],,,[],,2026-04-08 12:38:59.723081+01
+185,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Pabellón de 2 dormitorios con piscina de océano,1 cama doble extragrande,[],,,[],,2026-04-08 12:38:59.723081+01
+186,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Familiar Playa con piscina,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:38:59.723081+01
+187,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Three Bedroom Beach Pool Pavilion,1 cama individual y 1 cama doble extragrande,[],,,[],,2026-04-08 12:38:59.723081+01
+188,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Deluxe con piscina - Playa,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:59.723081+01
+189,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Deluxe en la playa,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:38:59.723081+01
+190,e228c232-ba5b-463e-a1b9-77beba6fa4da,3b0439d9-d0e6-4589-9b4e-7e8318497386,es,Villa Familiar Deluxe con piscina - Sobre la playa,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:38:59.723081+01
+191,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,Suite mit 1 Schlafzimmer und Meerblick,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:39:15.197508+01
+192,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,"Villa mit 2 Schlafzimmern, Terrasse und Studio","1 großes Doppelbett, 2 Einzelbetten, 1 Schlafsofa",[],,,[],,2026-04-08 12:39:15.197508+01
+193,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,Suite mit 1 Schlafzimmer - Strandlage,1 großes Doppelbett,[],,,[],,2026-04-08 12:39:15.197508+01
+194,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,Penthouse mit 1 Schlafzimmer und Meerblick,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:15.197508+01
+195,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,Suite mit 2 Schlafzimmern und Meerblick,2 Einzelbetten und 1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:15.197508+01
+196,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,Lagunenvilla mit 4 Schlafzimmern,4 große Doppelbetten,[],,,[],,2026-04-08 12:39:15.197508+01
+197,c7ed4f3a-8480-4f8b-91ba-4898988a0423,6522133b-4070-48ee-8c8a-75bda90a1f34,de,"Villa mit 3 Schlafzimmern, Terrasse und Studio",4 Einzelbetten und 2 große Doppelbetten und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:15.197508+01
+198,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Strandvilla,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:39.146698+01
+199,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolvilla am Strand,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:39.146698+01
+200,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolvilla über dem Wasser,1 großes Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+201,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Deluxe Poolvilla über dem Wasser,1 großes Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+202,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolpavillon am Strand mit 1 Schlafzimmer,1 französisches Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+203,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Strand-Poolpavillon mit zwei Schlafzimmern,1 französisches Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+204,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolpavillon am Ozean mit einem Schlafzimmer,1 französisches Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+205,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolpavillon am Ozean mit 2 Schlafzimmern,1 großes Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+206,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Familienvilla am Strand mit Pool,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:39:39.146698+01
+207,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Poolpavillon am Strand mit 3 Schlafzimmern,1 Einzelbett und 1 großes Doppelbett,[],,,[],,2026-04-08 12:39:39.146698+01
+208,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Deluxe Poolvilla am Strand,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:39.146698+01
+209,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Deluxe Strandvilla,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:39:39.146698+01
+210,b3b69c4e-56a0-4fd3-ada3-ef1f273d2e97,3b0439d9-d0e6-4589-9b4e-7e8318497386,de,Deluxe Familien-Poolvilla - am Strand,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:39:39.146698+01
+211,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,Suite con 1 Camera da Letto e Vista Oceano,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:40:17.779174+01
+212,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,"Villa con 2 Camere da Letto, Patio e Monolocale","1 letto matrimoniale large, 2 letti singoli, 1 divano letto",[],,,[],,2026-04-08 12:40:17.779174+01
+213,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,Suite con 1 Camera da Letto sulla Spiaggia,1 letto matrimoniale large,[],,,[],,2026-04-08 12:40:17.779174+01
+214,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,Attico con 1 Camera da Letto e Vista Oceano,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:17.779174+01
+215,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,Suite con 2 Camere da Letto e Vista Mare,2 letti singoli e 1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:17.779174+01
+216,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,Villa Laguna con 4 Camere da Letto,4 letti matrimoniali grandi,[],,,[],,2026-04-08 12:40:17.779174+01
+217,34650f95-ccab-4e0d-8fdc-6d4f3f9ca1a1,6522133b-4070-48ee-8c8a-75bda90a1f34,it,"Villa con 3 Camere da Letto, Patio e Studio",4 letti singoli e 2 letti matrimoniali grandi e 1 divano letto,[],,,[],,2026-04-08 12:40:17.779174+01
+672,aae34659-b9aa-48e4-975f-3ba250698c84,218cba62-7a05-44a1-94d1-82adf4437c2f,en,Premium Single Room,1 single bed,[],,,[],,2026-04-08 13:03:50.839224+01
+218,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Spiaggia,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:27.582223+01
+219,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa con Piscina sulla Spiaggia,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:27.582223+01
+220,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa sull'Acqua con Piscina,1 letto matrimoniale large,[],,,[],,2026-04-08 12:40:27.582223+01
+221,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Deluxe sull’Acqua con Piscina,1 letto matrimoniale large,[],,,[],,2026-04-08 12:40:27.582223+01
+222,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Padiglione sulla Spiaggia con 1 Camera da Letto e Piscina,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 12:40:27.582223+01
+223,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Two Bedroom Beach Pool Pavilion,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 12:40:27.582223+01
+224,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Padiglione Ocean Pool con 1 Camera da Letto,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 12:40:27.582223+01
+225,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Padiglione fronte Oceano con 2 Camere da Letto e Piscina,1 letto matrimoniale large,[],,,[],,2026-04-08 12:40:27.582223+01
+226,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Familiare con Piscina - Fronte Spiaggia,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:40:27.582223+01
+227,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Three Bedroom Beach Pool Pavilion,1 letto singolo e 1 letto matrimoniale large,[],,,[],,2026-04-08 12:40:27.582223+01
+228,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Deluxe sulla Spiaggia con Piscina,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:27.582223+01
+229,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Deluxe sulla Spiaggia,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:40:27.582223+01
+230,2abacfaa-fb62-4949-9a11-8c14b288545c,3b0439d9-d0e6-4589-9b4e-7e8318497386,it,Villa Familiare Deluxe con Piscina e Accesso Spiaggia,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:40:27.582223+01
+231,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Suite 1 Chambre - Vue sur Océan,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:40:48.102599+01
+232,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Villa 2 Chambres avec Patio et Studio,"1 très grand lit double, 2 lits simples, 1 canapé-lit",[],,,[],,2026-04-08 12:40:48.102599+01
+233,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Suite avec 1 Chambre Face à la Plage,1 très grand lit double,[],,,[],,2026-04-08 12:40:48.102599+01
+234,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Appartement de Grand Standing 1 Chambre - Vue sur Océan,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:40:48.102599+01
+235,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Suite 2 Chambres - Vue sur Mer,2 lits simples et 1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:40:48.102599+01
+236,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Villa 4 Chambres Lagon,4 très grands lits doubles,[],,,[],,2026-04-08 12:40:48.102599+01
+237,d08f5776-f083-43ab-8d1c-e2043bb7c0e2,6522133b-4070-48ee-8c8a-75bda90a1f34,fr,Villa 3 Chambres avec Studio et Terrasse,4 lits simples et 2 très grands lits doubles et 1 canapé-lit,[],,,[],,2026-04-08 12:40:48.102599+01
+238,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa de Plage,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:41:16.937853+01
+239,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa en Bord de Mer avec Piscine,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:41:16.937853+01
+240,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa sur Pilotis avec Piscine,1 très grand lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+241,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa Deluxe sur Pilotis avec Piscine,1 très grand lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+242,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Pavillon 1 Chambre Côté Plage avec Piscine,1 lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+243,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Two Bedroom Beach Pool Pavilion,1 lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+244,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Pavillon 1 Chambre Océan avec Piscine,1 lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+245,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Pavillon 2 Chambres Océan avec Piscine,1 très grand lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+246,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa de Plage Familiale avec Piscine,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:41:16.937853+01
+247,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Pavillon 3 Chambres avec Piscine - Côté Plage,1 lit simple et 1 très grand lit double,[],,,[],,2026-04-08 12:41:16.937853+01
+248,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa de Luxe avec Piscine - Plage,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:41:16.937853+01
+249,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa Beach de Luxe,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:41:16.937853+01
+250,79e23461-2860-45d8-9e4a-eb94204ea66f,3b0439d9-d0e6-4589-9b4e-7e8318497386,fr,Villa Familiale Deluxe avec Piscine - Côté Plage,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:41:16.937853+01
+251,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Suite com 1 Quarto e Vista Mar,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:41:30.298786+01
+252,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Villa de 2 Quartos com Pátio e Estúdio,"1 cama de casal extragrande, 2 camas individuais, 1 sofá-cama",[],,,[],,2026-04-08 12:41:30.298786+01
+253,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Suite à Beira-Mar com 1 Quarto,1 cama de casal extragrande,[],,,[],,2026-04-08 12:41:30.298786+01
+254,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Penthouse com 1 Quarto e Vista Oceano,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:30.298786+01
+255,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Suite com 2 Quartos e Vista Mar,2 camas individuais e 1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:30.298786+01
+256,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Villa com 4 Quartos e Lagoa,4 camas de casal extragrandes,[],,,[],,2026-04-08 12:41:30.298786+01
+257,624ca738-c817-4b2e-93fd-3488947489f4,6522133b-4070-48ee-8c8a-75bda90a1f34,pt,Villa com 3 Quartos e Pátio com Estúdio,4 camas individuais e 2 camas de casal extragrandes e 1 sofá-cama,[],,,[],,2026-04-08 12:41:30.298786+01
+258,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Praia,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:44.816926+01
+259,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Praia Piscina,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:44.816926+01
+260,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Sobre a Piscina com Água,1 cama de casal extragrande,[],,,[],,2026-04-08 12:41:44.816926+01
+261,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Deluxe com Piscina - Sobre a Água,1 cama de casal extragrande,[],,,[],,2026-04-08 12:41:44.816926+01
+262,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Pavilhão Beach Pool de 1 Quarto,1 cama de casal,[],,,[],,2026-04-08 12:41:44.816926+01
+263,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Two Bedroom Beach Pool Pavilion,1 cama de casal,[],,,[],,2026-04-08 12:41:44.816926+01
+264,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Pavilhão com 1 Quarto Ocean Pool,1 cama de casal,[],,,[],,2026-04-08 12:41:44.816926+01
+265,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Pavilhão Ocean Pool de 2 Quartos,1 cama de casal extragrande,[],,,[],,2026-04-08 12:41:44.816926+01
+266,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Familiar Praia com Piscina,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:41:44.816926+01
+267,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Three Bedroom Beach Pool Pavilion,1 cama individual e 1 cama de casal extragrande,[],,,[],,2026-04-08 12:41:44.816926+01
+268,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Deluxe com Piscina Praia,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:44.816926+01
+269,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Praia Deluxe,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:41:44.816926+01
+270,549d0663-3b81-4eff-86c0-2c7a1fec061a,3b0439d9-d0e6-4589-9b4e-7e8318497386,pt,Villa Familiar Deluxe Praia com Piscina,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:41:44.816926+01
+271,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Deluxe Junior Suite,1 extra-large double bed,[],,,[],,2026-04-08 12:42:37.408486+01
+272,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Villas Grace Bay One-Bedroom Suite,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:42:37.408486+01
+273,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Villas Luxury Two-Bedroom Suite,"1 extra-large double bed, 2 double beds, 1 sofa bed",[],,,[],,2026-04-08 12:42:37.408486+01
+274,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Hotel Luxury One-Bedroom Suite - Adult Only,1 extra-large double bed,[],,,[],,2026-04-08 12:42:37.408486+01
+275,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Suite,"1 extra-large double bed, 1 extra-large double bed, 2 double beds, 1 sofa bed",[],,,[],,2026-04-08 12:42:37.408486+01
+276,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Double Room,1 extra-large double bed,[],,,[],,2026-04-08 12:42:37.408486+01
+277,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Apartment,2 single beds and 4 extra-large double beds,[],,,[],,2026-04-08 12:42:37.408486+01
+278,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Estate Beach Level Five-Bedroom Residence,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 2 double beds, 1 extra-large double bed",[],,,[],,2026-04-08 12:42:37.408486+01
+279,49020df0-5505-4430-8c67-5d2d466bfdda,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,en,Seaclusion Oasis,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 6 bunk beds",[],,,[],,2026-04-08 12:42:37.408486+01
+280,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Boat House 1 Bedroom,1 extra-large double bed,[],,,[],,2026-04-08 12:42:54.192318+01
+281,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Boat House 2 Bedroom,"1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+282,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Boat House 3 Bedroom,"1 extra-large double bed, 1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+283,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Lagoon Villa 4 Bedroom,"1 extra-large double bed, 1 extra-large double bed, 2 single beds, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+284,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Lagoon Villa 6 Bedroom Including Guesthouse,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed",[],,,[],,2026-04-08 12:42:54.192318+01
+285,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Lagoon Villa 3 Bedroom,"1 large double bed, 1 large double bed, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+286,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Lagoon Villa 5 Bedroom Including Guesthouse,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+287,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Superior Suite with Sea View,"1 large double bed, 1 large double bed, 1 large double bed, 1 large double bed, 1 large double bed",[],,,[],,2026-04-08 12:42:54.192318+01
+288,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Ocean Estate Reef 4 Bedroom,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed",[],,,[],,2026-04-08 12:42:54.192318+01
+289,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 2 double beds",[],,,[],,2026-04-08 12:42:54.192318+01
+290,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Ocean Estate Banks 7 Including 2 Guesthouses,"1 large double bed, 1 large double bed, 1 large double bed, 1 large double bed, 1 large double bed, 2 single beds, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+291,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Ocean Estate Banks 5 Bedroom,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 2 single beds, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+292,d7e31aac-6fd7-4e69-bd1d-36205177daa6,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,en,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 large double bed, 1 large double bed, 1 large double bed, 1 large double bed, 2 single beds, 2 single beds",[],,,[],,2026-04-08 12:42:54.192318+01
+293,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Suite Junior Deluxe,1 cama doble extragrande,[],,,[],,2026-04-08 12:44:02.956776+01
+294,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Suite Villas Grace Bay de 1 dormitorio,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:44:02.956776+01
+295,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Suite Villas de Lujo de 2 dormitorios,"1 cama doble extragrande, 2 camas dobles, 1 sofá cama",[],,,[],,2026-04-08 12:44:02.956776+01
+296,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Suite Hotel de Lujo de 1 dormitorio - Solo adultos,1 cama doble extragrande,[],,,[],,2026-04-08 12:44:02.956776+01
+297,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Suite,"1 cama doble extragrande, 1 cama doble extragrande, 2 camas dobles, 1 sofá cama",[],,,[],,2026-04-08 12:44:02.956776+01
+298,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Habitación Doble,1 cama doble extragrande,[],,,[],,2026-04-08 12:44:02.956776+01
+299,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Apartamento,2 camas individuales y 4 camas dobles extragrandes,[],,,[],,2026-04-08 12:44:02.956776+01
+300,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Residencia de cinco habitaciones a pie de playa,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 2 camas dobles, 1 cama doble extragrande",[],,,[],,2026-04-08 12:44:02.956776+01
+301,9f782c3b-ee18-4b4d-8d10-86dfd7e71e14,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,es,Un oasis cerca del mar,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 6 literas",[],,,[],,2026-04-08 12:44:02.956776+01
+302,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Boat House 1 Bedroom,1 cama doble extragrande,[],,,[],,2026-04-08 12:44:17.537733+01
+303,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Boat House 2 Bedroom,"1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+304,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Boat House 3 Bedroom,"1 cama doble extragrande, 1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+305,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Lagoon Villa 4 Bedroom,"1 cama doble extragrande, 1 cama doble extragrande, 2 camas individuales, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+306,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Lagoon Villa 6 Bedroom Including Guesthouse,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande",[],,,[],,2026-04-08 12:44:17.537733+01
+307,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Lagoon Villa 3 Bedroom,"1 cama doble grande, 1 cama doble grande, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+308,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Lagoon Villa 5 Bedroom Including Guesthouse,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+309,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Suite Superior con vistas al mar,"1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 cama doble grande",[],,,[],,2026-04-08 12:44:17.537733+01
+310,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Ocean Estate Reef 4 Bedroom,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande",[],,,[],,2026-04-08 12:44:17.537733+01
+311,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 2 camas dobles",[],,,[],,2026-04-08 12:44:17.537733+01
+312,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Ocean Estate Banks 7 Including 2 Guesthouses,"1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 2 camas individuales, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+313,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Ocean Estate Banks 5 Bedroom,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 2 camas individuales, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+314,d21402c1-a77f-4d39-9be0-4a8e9a0dddf1,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,es,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 2 camas individuales, 2 camas individuales",[],,,[],,2026-04-08 12:44:17.537733+01
+315,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Deluxe Junior Suite,1 großes Doppelbett,[],,,[],,2026-04-08 12:44:35.367479+01
+316,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Suite mit 1 Schlafzimmer - Villas Grace Bay,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:44:35.367479+01
+317,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Suite mit 2 Schlafzimmern - Villas Luxury,"1 großes Doppelbett, 2 französische Doppelbetten, 1 Schlafsofa",[],,,[],,2026-04-08 12:44:35.367479+01
+318,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,"Suite mit 1 Schlafzimmer - Hotel Luxury, nur für Erwachsene",1 großes Doppelbett,[],,,[],,2026-04-08 12:44:35.367479+01
+319,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Suite,"1 großes Doppelbett, 1 großes Doppelbett, 2 französische Doppelbetten, 1 Schlafsofa",[],,,[],,2026-04-08 12:44:35.367479+01
+320,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Doppelzimmer,1 großes Doppelbett,[],,,[],,2026-04-08 12:44:35.367479+01
+321,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Apartment,2 Einzelbetten und 4 große Doppelbetten,[],,,[],,2026-04-08 12:44:35.367479+01
+322,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Estate Beach Level Five-Bedroom Residence,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 2 französische Doppelbetten, 1 großes Doppelbett",[],,,[],,2026-04-08 12:44:35.367479+01
+323,2a07c67b-7860-4c52-92d5-2aecb7c4409e,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,de,Seaclusion Oasis,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 6 Etagenbetten",[],,,[],,2026-04-08 12:44:35.367479+01
+324,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Boat House 1 Bedroom,1 großes Doppelbett,[],,,[],,2026-04-08 12:45:13.072218+01
+325,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Boat House 2 Bedroom,"1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+326,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Boat House 3 Bedroom,"1 großes Doppelbett, 1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+327,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Lagoon Villa 4 Bedroom,"1 großes Doppelbett, 1 großes Doppelbett, 2 Einzelbetten, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+328,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Lagoon Villa 6 Bedroom Including Guesthouse,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett",[],,,[],,2026-04-08 12:45:13.072218+01
+329,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Lagoon Villa 3 Bedroom,"1 Doppelbett, 1 Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+330,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Lagoon Villa 5 Bedroom Including Guesthouse,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+331,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Superior Suite mit Meerblick,"1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Doppelbett",[],,,[],,2026-04-08 12:45:13.072218+01
+332,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Ocean Estate Reef 4 Bedroom,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett",[],,,[],,2026-04-08 12:45:13.072218+01
+333,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 2 französische Doppelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+334,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Ocean Estate Banks 7 Including 2 Guesthouses,"1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 2 Einzelbetten, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+335,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Ocean Estate Banks 5 Bedroom,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 2 Einzelbetten, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+336,929fd56a-b51a-44db-8327-5d328c6710d3,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,de,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 2 Einzelbetten, 2 Einzelbetten",[],,,[],,2026-04-08 12:45:13.072218+01
+359,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Suite Junior Deluxe,1 très grand lit double,[],,,[],,2026-04-08 12:46:17.155656+01
+360,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Suite 1 Chambre dans Villas Grace Bay,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:46:17.155656+01
+361,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Suite 2 Chambres dans Villas de Luxe,"1 très grand lit double, 2 lits doubles, 1 canapé-lit",[],,,[],,2026-04-08 12:46:17.155656+01
+362,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Suite 1 Chambre Deluxe - Hôtel - Réservée aux Adultes,1 très grand lit double,[],,,[],,2026-04-08 12:46:17.155656+01
+363,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Suite,"1 très grand lit double, 1 très grand lit double, 2 lits doubles, 1 canapé-lit",[],,,[],,2026-04-08 12:46:17.155656+01
+364,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Chambre Double,1 très grand lit double,[],,,[],,2026-04-08 12:46:17.155656+01
+365,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Appartement,2 lits simples et 4 très grands lits doubles,[],,,[],,2026-04-08 12:46:17.155656+01
+366,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Estate Beach Level Five-Bedroom Residence,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 2 lits doubles, 1 très grand lit double",[],,,[],,2026-04-08 12:46:17.155656+01
+367,6d95a89e-9de5-4027-9292-da6cefefc5a9,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,fr,Seaclusion Oasis,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 6 lits superposés",[],,,[],,2026-04-08 12:46:17.155656+01
+368,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Boat House 1 Bedroom,1 très grand lit double,[],,,[],,2026-04-08 12:46:43.568598+01
+369,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Boat House 2 Bedroom,"1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+370,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Boat House 3 Bedroom,"1 très grand lit double, 1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+371,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Lagoon Villa 4 Bedroom,"1 très grand lit double, 1 très grand lit double, 2 lits simples, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+372,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Lagoon Villa 6 Bedroom Including Guesthouse,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double",[],,,[],,2026-04-08 12:46:43.568598+01
+373,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Lagoon Villa 3 Bedroom,"1 grand lit double, 1 grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+374,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Lagoon Villa 5 Bedroom Including Guesthouse,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+375,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Suite Supérieure - Vue sur Mer,"1 grand lit double, 1 grand lit double, 1 grand lit double, 1 grand lit double, 1 grand lit double",[],,,[],,2026-04-08 12:46:43.568598+01
+337,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Junior Suite Deluxe,1 letto matrimoniale large,[],,,[],,2026-04-08 12:45:24.465227+01
+338,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Suite Villas Grace Bay con 1 Camera da Letto,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:45:24.465227+01
+339,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Suite Villas Luxury con 2 Camere da Letto,"1 letto matrimoniale large, 2 letti matrimoniali alla francese, 1 divano letto",[],,,[],,2026-04-08 12:45:24.465227+01
+340,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Suite Hotel Luxury con 1 Camera da Letto - per Soli Adulti,1 letto matrimoniale large,[],,,[],,2026-04-08 12:45:24.465227+01
+341,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Suite,"1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti matrimoniali alla francese, 1 divano letto",[],,,[],,2026-04-08 12:45:24.465227+01
+342,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Camera Matrimoniale,1 letto matrimoniale large,[],,,[],,2026-04-08 12:45:24.465227+01
+343,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Appartamento,2 letti singoli e 4 letti matrimoniali grandi,[],,,[],,2026-04-08 12:45:24.465227+01
+344,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Estate Beach Level Five-Bedroom Residence,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti matrimoniali alla francese, 1 letto matrimoniale large",[],,,[],,2026-04-08 12:45:24.465227+01
+345,66f66a07-276c-4a19-910a-93c9317ea3cb,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,it,Seaclusion Oasis,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 6 letti a castello",[],,,[],,2026-04-08 12:45:24.465227+01
+381,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Suite Júnior Deluxe,1 cama de casal extragrande,[],,,[],,2026-04-08 12:46:53.786092+01
+382,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Suite Villas Grace Bay com 1 Quarto,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:46:53.786092+01
+383,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Suite Villas Luxo com 2 Quartos,"1 cama de casal extragrande, 2 camas de casal, 1 sofá-cama",[],,,[],,2026-04-08 12:46:53.786092+01
+384,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Suite Luxo Hotel com 1 Quarto - Apenas Adultos,1 cama de casal extragrande,[],,,[],,2026-04-08 12:46:53.786092+01
+385,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Suite,"1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas de casal, 1 sofá-cama",[],,,[],,2026-04-08 12:46:53.786092+01
+386,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Quarto Duplo,1 cama de casal extragrande,[],,,[],,2026-04-08 12:46:53.786092+01
+387,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Apartamento,2 camas individuais e 4 camas de casal extragrandes,[],,,[],,2026-04-08 12:46:53.786092+01
+388,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Estate Beach Level Five-Bedroom Residence,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas de casal, 1 cama de casal extragrande",[],,,[],,2026-04-08 12:46:53.786092+01
+389,8cb9497c-5f1b-4421-bf80-8b97dd1abbb4,d39ed0ba-a6d3-4150-9622-96fb2f99f6f9,pt,Seaclusion Oasis,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 6 beliches",[],,,[],,2026-04-08 12:46:53.786092+01
+390,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Boat House 1 Bedroom,1 cama de casal extragrande,[],,,[],,2026-04-08 12:47:10.300144+01
+391,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Boat House 2 Bedroom,"1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+392,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Boat House 3 Bedroom,"1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+393,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Lagoon Villa 4 Bedroom,"1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas individuais, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+394,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Lagoon Villa 6 Bedroom Including Guesthouse,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande",[],,,[],,2026-04-08 12:47:10.300144+01
+395,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Lagoon Villa 3 Bedroom,"1 cama de casal grande, 1 cama de casal grande, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+396,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Lagoon Villa 5 Bedroom Including Guesthouse,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+397,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Suite Superior com Vista Mar,"1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande",[],,,[],,2026-04-08 12:47:10.300144+01
+398,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Ocean Estate Reef 4 Bedroom,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande",[],,,[],,2026-04-08 12:47:10.300144+01
+399,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas de casal",[],,,[],,2026-04-08 12:47:10.300144+01
+400,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Ocean Estate Banks 7 Including 2 Guesthouses,"1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 2 camas individuais, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+401,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Ocean Estate Banks 5 Bedroom,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 2 camas individuais, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+402,205603cb-1457-4f25-9a1c-c4679cc41c9a,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,pt,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 2 camas individuais, 2 camas individuais",[],,,[],,2026-04-08 12:47:10.300144+01
+346,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Boat House 1 Bedroom,1 letto matrimoniale large,[],,,[],,2026-04-08 12:45:45.162124+01
+347,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Boat House 2 Bedroom,"1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+348,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Boat House 3 Bedroom,"1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+349,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Lagoon Villa 4 Bedroom,"1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti singoli, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+350,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Lagoon Villa 6 Bedroom Including Guesthouse,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large",[],,,[],,2026-04-08 12:45:45.162124+01
+351,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Lagoon Villa 3 Bedroom,"1 letto matrimoniale, 1 letto matrimoniale, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+352,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Lagoon Villa 5 Bedroom Including Guesthouse,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+353,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Suite Superior con Vista Mare,"1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale",[],,,[],,2026-04-08 12:45:45.162124+01
+354,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Ocean Estate Reef 4 Bedroom,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large",[],,,[],,2026-04-08 12:45:45.162124+01
+355,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti matrimoniali alla francese",[],,,[],,2026-04-08 12:45:45.162124+01
+356,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Ocean Estate Banks 7 Including 2 Guesthouses,"1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 2 letti singoli, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+357,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Ocean Estate Banks 5 Bedroom,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 2 letti singoli, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+358,5e5c392e-7d7d-4cd1-b48f-4713c98e8eea,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,it,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 2 letti singoli, 2 letti singoli",[],,,[],,2026-04-08 12:45:45.162124+01
+376,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Ocean Estate Reef 4 Bedroom,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double",[],,,[],,2026-04-08 12:46:43.568598+01
+377,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Ocean Estate Reef 5 Bedroom Including Guesthouse,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 2 lits doubles",[],,,[],,2026-04-08 12:46:43.568598+01
+378,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Ocean Estate Banks 7 Including 2 Guesthouses,"1 grand lit double, 1 grand lit double, 1 grand lit double, 1 grand lit double, 1 grand lit double, 2 lits simples, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+379,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Ocean Estate Banks 5 Bedroom,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 2 lits simples, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+380,8dca7838-60b0-4158-adca-c39008b2f62c,7e7bd9e0-8ebd-434a-bbed-59b1f2be2a07,fr,Ocean Estate Reef 6 Bedroom Including 2 Guesthouses,"1 grand lit double, 1 grand lit double, 1 grand lit double, 1 grand lit double, 2 lits simples, 2 lits simples",[],,,[],,2026-04-08 12:46:43.568598+01
+403,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Garden View Room,"1 large double bed, 2 single beds",[],,,[],,2026-04-08 12:47:51.320386+01
+404,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Superior Garden View Room,"1 large double bed, 2 single beds",[],,,[],,2026-04-08 12:47:51.320386+01
+405,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Ocean View Suite,1 large double bed,[],,,[],,2026-04-08 12:47:51.320386+01
+406,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Ocean View Room,"1 large double bed, 2 single beds",[],,,[],,2026-04-08 12:47:51.320386+01
+407,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Beach Front Room,1 large double bed,[],,,[],,2026-04-08 12:47:51.320386+01
+408,ee5f780f-d29e-42fd-b2a6-5dabd621cd97,efddab41-c40a-4413-9000-8dddf304ea8a,en,Penthouse,"1 large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:47:51.320386+01
+409,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Small Twin Room,2 single beds,[],,,[],,2026-04-08 12:48:05.748349+01
+410,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,King Room with Balcony,1 extra-large double bed,[],,,[],,2026-04-08 12:48:05.748349+01
+411,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Standard Twin Room,2 single beds,[],,,[],,2026-04-08 12:48:05.748349+01
+412,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Queen Room,1 large double bed,[],,,[],,2026-04-08 12:48:05.748349+01
+413,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Queen Room with Balcony,1 large double bed,[],,,[],,2026-04-08 12:48:05.748349+01
+414,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Queen Room with Garden View,1 large double bed,[],,,[],,2026-04-08 12:48:05.748349+01
+415,98db3dfe-6634-4574-a5c9-616f3050895f,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,en,Standard Queen Room,1 large double bed,[],,,[],,2026-04-08 12:48:05.748349+01
+416,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Habitación con vistas al jardín,"1 cama doble grande, 2 camas individuales",[],,,[],,2026-04-08 12:48:29.568195+01
+417,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Habitación Superior con vistas al jardín,"1 cama doble grande, 2 camas individuales",[],,,[],,2026-04-08 12:48:29.568195+01
+418,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Suite con vistas al mar,1 cama doble grande,[],,,[],,2026-04-08 12:48:29.568195+01
+419,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Habitación con vistas al mar,"1 cama doble grande, 2 camas individuales",[],,,[],,2026-04-08 12:48:29.568195+01
+420,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Habitación en primera línea de mar,1 cama doble grande,[],,,[],,2026-04-08 12:48:29.568195+01
+421,5d4b6a58-1041-4eb6-a021-ac851222391e,efddab41-c40a-4413-9000-8dddf304ea8a,es,Ático,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-04-08 12:48:29.568195+01
+422,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación Doble Pequeña - 2 camas,,[],,,[],,2026-04-08 12:49:15.121484+01
+423,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación con cama extragrande y balcón,,[],,,[],,2026-04-08 12:49:15.121484+01
+424,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación Doble Estándar - 2 camas,,[],,,[],,2026-04-08 12:49:15.121484+01
+425,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación con cama grande,,[],,,[],,2026-04-08 12:49:15.121484+01
+426,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación con cama grande y balcón,,[],,,[],,2026-04-08 12:49:15.121484+01
+427,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación con cama grande y vistas al jardín,,[],,,[],,2026-04-08 12:49:15.121484+01
+428,a13879ce-f705-404f-942c-b97a675728f0,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,es,Habitación Estándar - 1 cama grande,,[],,,[],,2026-04-08 12:49:15.121484+01
+429,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Zimmer mit Gartenblick,"1 Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:49:37.261334+01
+430,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Superior Zimmer mit Gartenblick,"1 Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:49:37.261334+01
+431,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Suite mit Meerblick,1 Doppelbett,[],,,[],,2026-04-08 12:49:37.261334+01
+432,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Zimmer mit Meerblick,"1 Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 12:49:37.261334+01
+433,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Zimmer zur Strandseite,1 Doppelbett,[],,,[],,2026-04-08 12:49:37.261334+01
+434,e014a22e-9344-45c6-b6b3-fca3aebb215c,efddab41-c40a-4413-9000-8dddf304ea8a,de,Penthouse,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:49:37.261334+01
+435,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Kleines Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-04-08 12:49:46.485068+01
+436,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Zimmer mit Kingsize-Bett und Balkon,1 großes Doppelbett,[],,,[],,2026-04-08 12:49:46.485068+01
+437,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Standard Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-04-08 12:49:46.485068+01
+438,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Zimmer mit Queensize-Bett,1 Doppelbett,[],,,[],,2026-04-08 12:49:46.485068+01
+439,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Zimmer mit Queensize-Bett und Balkon,1 Doppelbett,[],,,[],,2026-04-08 12:49:46.485068+01
+440,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Zimmer mit Queensize-Bett und Gartenblick,1 Doppelbett,[],,,[],,2026-04-08 12:49:46.485068+01
+441,6023d523-08a8-4429-a3cd-8b87b0842c16,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,de,Standard Zimmer mit Queensize-Bett,1 Doppelbett,[],,,[],,2026-04-08 12:49:46.485068+01
+442,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Camera con Vista Giardino,"1 letto matrimoniale, 2 letti singoli",[],,,[],,2026-04-08 12:50:12.531421+01
+443,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Camera Superior con Vista Giardino,"1 letto matrimoniale, 2 letti singoli",[],,,[],,2026-04-08 12:50:12.531421+01
+444,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Suite con Vista Oceano,1 letto matrimoniale,[],,,[],,2026-04-08 12:50:12.531421+01
+445,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Camera con vista sull'oceano,"1 letto matrimoniale, 2 letti singoli",[],,,[],,2026-04-08 12:50:12.531421+01
+446,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Camera Fronte Spiaggia,1 letto matrimoniale,[],,,[],,2026-04-08 12:50:12.531421+01
+447,eccc3499-8d9a-4578-b10c-ad319a76a7ea,efddab41-c40a-4413-9000-8dddf304ea8a,it,Attico,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-04-08 12:50:12.531421+01
+448,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Chambre avec Vue sur Jardin,"1 grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:50:40.223335+01
+449,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Chambre Supérieure - Vue sur Jardin,"1 grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:50:40.223335+01
+450,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Suite - Vue sur Océan,1 grand lit double,[],,,[],,2026-04-08 12:50:40.223335+01
+451,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Chambre - Vue sur Océan,"1 grand lit double, 2 lits simples",[],,,[],,2026-04-08 12:50:40.223335+01
+452,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Chambre Front de Mer,1 grand lit double,[],,,[],,2026-04-08 12:50:40.223335+01
+453,3b345265-9533-4ad3-b661-a4db162504fd,efddab41-c40a-4413-9000-8dddf304ea8a,fr,Penthouse,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:50:40.223335+01
+481,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Deluxe Room with Garden View,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:53:17.455258+01
+482,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Deluxe Room with Ocean View,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:53:17.455258+01
+483,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Exclusive Pool Villa with Ocean View,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:53:17.455258+01
+484,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Deluxe Room with Partial Ocean View,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:53:17.455258+01
+485,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Grand Family Pool Villa with Ocean View,"1 extra-large double bed, 1 sofa bed",[],,,[],,2026-04-08 12:53:17.455258+01
+486,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Double Grand Family Pool Villa with Ocean View,"1 extra-large double bed, 1 extra-large double bed, 1 sofa bed, 1 sofa bed",[],,,[],,2026-04-08 12:53:17.455258+01
+487,9ca4e92f-177f-4223-92a6-bebfb69c6fd9,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,en,Private Pool Villa with Ocean View,1 extra-large double bed and 1 sofa bed,[],,,[],,2026-04-08 12:53:17.455258+01
+454,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Piccola Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-04-08 12:51:08.197721+01
+455,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera King con Balcone,1 letto matrimoniale large,[],,,[],,2026-04-08 12:51:08.197721+01
+456,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Standard Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-04-08 12:51:08.197721+01
+457,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Queen,1 letto matrimoniale,[],,,[],,2026-04-08 12:51:08.197721+01
+458,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Queen con Balcone,1 letto matrimoniale,[],,,[],,2026-04-08 12:51:08.197721+01
+459,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Queen con Vista Giardino,1 letto matrimoniale,[],,,[],,2026-04-08 12:51:08.197721+01
+460,9e0a97c1-05c6-426b-b115-5591cb101d69,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,it,Camera Queen Standard,1 letto matrimoniale,[],,,[],,2026-04-08 12:51:08.197721+01
+488,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Jungle Hill Villa,1 extra-large double bed,[],,,[],,2026-04-08 12:53:31.741428+01
+489,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Beach Villa,1 large double bed,[],,,[],,2026-04-08 12:53:31.741428+01
+490,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Ocean Hill Villa,1 extra-large double bed,[],,,[],,2026-04-08 12:53:31.741428+01
+491,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Panorama Hill Villa,1 large double bed,[],,,[],,2026-04-08 12:53:31.741428+01
+492,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Beach Villa - 2 Bedroom,"1 extra-large double bed, 2 large double beds",[],,,[],,2026-04-08 12:53:31.741428+01
+493,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Beach Retreat 3 Bedroom,"1 extra-large double bed, 2 large double beds, 2 large double beds",[],,,[],,2026-04-08 12:53:31.741428+01
+494,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Beach Retreat 2 Bedroom,"1 extra-large double bed, 2 large double beds",[],,,[],,2026-04-08 12:53:31.741428+01
+495,b5717f5a-e77a-49be-bdc6-5989b793fd40,1d8818d4-e655-4bf2-8347-02b82a359728,en,Villa Horizon 2 Bedroom,"1 extra-large double bed, 2 large double beds",[],,,[],,2026-04-08 12:53:31.741428+01
+461,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Quarto com Vista Jardim,"1 cama de casal grande, 2 camas individuais",[],,,[],,2026-04-08 12:51:23.018275+01
+462,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Quarto Superior com Vista Jardim,"1 cama de casal grande, 2 camas individuais",[],,,[],,2026-04-08 12:51:23.018275+01
+463,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Suite com Vista do Oceano,1 cama de casal grande,[],,,[],,2026-04-08 12:51:23.018275+01
+464,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Quarto com Vista Oceano,"1 cama de casal grande, 2 camas individuais",[],,,[],,2026-04-08 12:51:23.018275+01
+465,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Quarto Vista Praia,1 cama de casal grande,[],,,[],,2026-04-08 12:51:23.018275+01
+466,34bf4f87-1ff5-4772-8067-0839f90f23b1,efddab41-c40a-4413-9000-8dddf304ea8a,pt,Penthouse,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-04-08 12:51:23.018275+01
+467,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Petite Chambre Lits Jumeaux,2 lits simples,[],,,[],,2026-04-08 12:52:03.348082+01
+468,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Lit King-Size avec Balcon,1 très grand lit double,[],,,[],,2026-04-08 12:52:03.348082+01
+469,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Lits Jumeaux Standard,2 lits simples,[],,,[],,2026-04-08 12:52:03.348082+01
+470,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Lit Queen-Size,1 grand lit double,[],,,[],,2026-04-08 12:52:03.348082+01
+471,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Lit Queen-Size avec Balcon,1 grand lit double,[],,,[],,2026-04-08 12:52:03.348082+01
+472,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Lit Queen-Size - Vue sur Jardin,1 grand lit double,[],,,[],,2026-04-08 12:52:03.348082+01
+473,26bb2560-ca4c-427f-a93f-0fa1943fc008,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,fr,Chambre Standard Lit Queen-Size,1 grand lit double,[],,,[],,2026-04-08 12:52:03.348082+01
+474,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Twin Pequeno,2 camas individuais,[],,,[],,2026-04-08 12:52:29.440551+01
+475,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto King com Varanda,1 cama de casal extragrande,[],,,[],,2026-04-08 12:52:29.440551+01
+476,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Twin Standard,2 camas individuais,[],,,[],,2026-04-08 12:52:29.440551+01
+477,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Queen,1 cama de casal grande,[],,,[],,2026-04-08 12:52:29.440551+01
+478,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Queen com Varanda,1 cama de casal grande,[],,,[],,2026-04-08 12:52:29.440551+01
+479,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Queen com Vista Jardim,1 cama de casal grande,[],,,[],,2026-04-08 12:52:29.440551+01
+480,ba091943-16a2-423b-86d6-fa1e6baef60a,c93a8be6-d9df-4d2d-902e-1f1adcdf10e2,pt,Quarto Queen Standard,1 cama de casal grande,[],,,[],,2026-04-08 12:52:29.440551+01
+496,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Habitación Deluxe con vistas al jardín,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:54:33.275142+01
+497,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Habitación Deluxe con vista al océano,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:54:33.275142+01
+498,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Exclusive Pool Villa with Ocean View,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:54:33.275142+01
+499,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Habitación Deluxe con vistas parciales al océano,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:54:33.275142+01
+500,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Grand Family Pool Villa with Ocean View,"1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-04-08 12:54:33.275142+01
+501,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Double Grand Family Pool Villa with Ocean View,"1 cama doble extragrande, 1 cama doble extragrande, 1 sofá cama, 1 sofá cama",[],,,[],,2026-04-08 12:54:33.275142+01
+502,9e1fa762-3a84-4843-8c9d-999d1ea643e3,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,es,Villa con piscina privada y vistas al océano,1 cama doble extragrande y 1 sofá cama,[],,,[],,2026-04-08 12:54:33.275142+01
+503,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Jungle Hill Villa,1 cama doble extragrande,[],,,[],,2026-04-08 12:54:51.027996+01
+504,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Villa Playa,1 cama doble grande,[],,,[],,2026-04-08 12:54:51.027996+01
+505,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Ocean Hill Villa,1 cama doble extragrande,[],,,[],,2026-04-08 12:54:51.027996+01
+506,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Panorama Hill Villa,1 cama doble grande,[],,,[],,2026-04-08 12:54:51.027996+01
+507,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Beach Villa - 2 Bedroom,"1 cama doble extragrande, 2 camas dobles grandes",[],,,[],,2026-04-08 12:54:51.027996+01
+508,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Beach Retreat 3 Bedroom,"1 cama doble extragrande, 2 camas dobles grandes, 2 camas dobles grandes",[],,,[],,2026-04-08 12:54:51.027996+01
+509,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Beach Retreat 2 Bedroom,"1 cama doble extragrande, 2 camas dobles grandes",[],,,[],,2026-04-08 12:54:51.027996+01
+510,8ba85713-346e-46fa-905d-4257ba89e4b4,1d8818d4-e655-4bf2-8347-02b82a359728,es,Villa Horizon 2 Bedroom,"1 cama doble extragrande, 2 camas dobles grandes",[],,,[],,2026-04-08 12:54:51.027996+01
+511,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Deluxe Zimmer mit Blick auf den Garten,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:55:07.687389+01
+512,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Deluxe Zimmer mit Ozeanblick,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:55:07.687389+01
+513,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Exklusive Poolvilla mit Meerblick,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:55:07.687389+01
+514,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Deluxe Zimmer mit seitlichem Ozeanblick,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:55:07.687389+01
+515,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Grand Family Poolvilla mit Meerblick,"1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 12:55:07.687389+01
+516,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Grand Family – Poolvilla mit Meerblick,"1 großes Doppelbett, 1 großes Doppelbett, 1 Schlafsofa, 1 Schlafsofa",[],,,[],,2026-04-08 12:55:07.687389+01
+517,4f7b188c-d3b8-497d-887c-4c23988ef17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,de,Private Poolvilla mit Meerblick,1 großes Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 12:55:07.687389+01
+518,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Jungle Hill Villa,1 großes Doppelbett,[],,,[],,2026-04-08 12:55:41.135905+01
+519,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Strandvilla,1 Doppelbett,[],,,[],,2026-04-08 12:55:41.135905+01
+520,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Ocean Hill Villa,1 großes Doppelbett,[],,,[],,2026-04-08 12:55:41.135905+01
+521,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Panorama Hill Villa,1 Doppelbett,[],,,[],,2026-04-08 12:55:41.135905+01
+522,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Beach Villa - 2 Bedroom,"1 großes Doppelbett, 2 Doppelbetten",[],,,[],,2026-04-08 12:55:41.135905+01
+523,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Beach Retreat 3 Bedroom,"1 großes Doppelbett, 2 Doppelbetten, 2 Doppelbetten",[],,,[],,2026-04-08 12:55:41.135905+01
+524,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Beach Retreat 2 Bedroom,"1 großes Doppelbett, 2 Doppelbetten",[],,,[],,2026-04-08 12:55:41.135905+01
+525,864ad8af-70b6-44e0-9b90-1576fe3f066a,1d8818d4-e655-4bf2-8347-02b82a359728,de,Villa Horizon 2 Bedroom,"1 großes Doppelbett, 2 Doppelbetten",[],,,[],,2026-04-08 12:55:41.135905+01
+526,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Camera Deluxe con Vista Giardino,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:55:55.580991+01
+527,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Camera Deluxe con Vista Oceano,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:55:55.580991+01
+528,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Villa Exclusive con Piscina e Vista sull’Oceano,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:55:55.580991+01
+529,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Camera Deluxe con Vista Oceano Parziale,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:55:55.580991+01
+530,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Villa Familiare Grand con Piscina e Vista sull’Oceano,"1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-04-08 12:55:55.580991+01
+531,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,"Villa Familiare Grand con Camera Matrimoniale, Piscina e Vista sull’Oceano","1 letto matrimoniale large, 1 letto matrimoniale large, 1 divano letto, 1 divano letto",[],,,[],,2026-04-08 12:55:55.580991+01
+532,1ca9d4c5-7a34-4f9f-8a44-ac4358ce277e,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,it,Villa con Piscina Privata e Vista Oceano,1 letto matrimoniale large e 1 divano letto,[],,,[],,2026-04-08 12:55:55.580991+01
+533,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Jungle Hill Villa,1 letto matrimoniale large,[],,,[],,2026-04-08 12:56:13.258688+01
+534,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Villa Spiaggia,1 letto matrimoniale,[],,,[],,2026-04-08 12:56:13.258688+01
+535,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Ocean Hill Villa,1 letto matrimoniale large,[],,,[],,2026-04-08 12:56:13.258688+01
+536,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Panorama Hill Villa,1 letto matrimoniale,[],,,[],,2026-04-08 12:56:13.258688+01
+537,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Beach Villa - 2 Bedroom,"1 letto matrimoniale large, 2 letti matrimoniali",[],,,[],,2026-04-08 12:56:13.258688+01
+538,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Beach Retreat 3 Bedroom,"1 letto matrimoniale large, 2 letti matrimoniali, 2 letti matrimoniali",[],,,[],,2026-04-08 12:56:13.258688+01
+539,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Beach Retreat 2 Bedroom,"1 letto matrimoniale large, 2 letti matrimoniali",[],,,[],,2026-04-08 12:56:13.258688+01
+540,6378d39f-3e69-452f-a9c7-9bdd67cb6563,1d8818d4-e655-4bf2-8347-02b82a359728,it,Villa Horizon 2 Bedroom,"1 letto matrimoniale large, 2 letti matrimoniali",[],,,[],,2026-04-08 12:56:13.258688+01
+571,5f3108cf-e45a-4df5-9ee6-be8cf68d020f,92894cb3-83d8-4a10-af21-1d9c71bf189c,en,Standard Double Room,"2 single beds, 1 double bed",[],,,[],,2026-04-08 12:58:25.557351+01
+572,5f3108cf-e45a-4df5-9ee6-be8cf68d020f,92894cb3-83d8-4a10-af21-1d9c71bf189c,en,Suite Master,1 double bed and 2 sofa beds,[],,,[],,2026-04-08 12:58:25.557351+01
+573,5f3108cf-e45a-4df5-9ee6-be8cf68d020f,92894cb3-83d8-4a10-af21-1d9c71bf189c,en,Premium Suite,1 double bed,[],,,[],,2026-04-08 12:58:25.557351+01
+574,5f3108cf-e45a-4df5-9ee6-be8cf68d020f,92894cb3-83d8-4a10-af21-1d9c71bf189c,en,One-Bedroom Suite,1 double bed and 1 sofa bed,[],,,[],,2026-04-08 12:58:25.557351+01
+575,5f3108cf-e45a-4df5-9ee6-be8cf68d020f,92894cb3-83d8-4a10-af21-1d9c71bf189c,en,Suite Premium with Terrace,"1 double bed, 1 sofa bed",[],,,[],,2026-04-08 12:58:25.557351+01
+576,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Standard Twin Room,2 single beds,[],,,[],,2026-04-08 12:58:39.687483+01
+577,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Standard Double Room,1 double bed,[],,,[],,2026-04-08 12:58:39.687483+01
+578,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Standard Triple Room,3 single beds,[],,,[],,2026-04-08 12:58:39.687483+01
+579,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Deluxe Twin Room,2 single beds,[],,,[],,2026-04-08 12:58:39.687483+01
+580,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Deluxe Double Room,1 double bed,[],,,[],,2026-04-08 12:58:39.687483+01
+581,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Deluxe Triple Room,3 single beds,[],,,[],,2026-04-08 12:58:39.687483+01
+582,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Economy Single Room,1 single bed,[],,,[],,2026-04-08 12:58:39.687483+01
+583,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Classic Triple Room,1 single bed and 1 double bed,[],,,[],,2026-04-08 12:58:39.687483+01
+584,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Luxury Triple Room,1 single bed and 1 double bed,[],,,[],,2026-04-08 12:58:39.687483+01
+585,7f9b3db3-3ecc-4be3-a2a9-1d24abfb05ef,628c7cc8-079f-419d-9c07-89ffd1af3da3,en,Quadruple Room,4 single beds,[],,,[],,2026-04-08 12:58:39.687483+01
+591,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Doble Estándar - 2 camas,2 camas individuales,[],,,[],,2026-04-08 12:59:39.670194+01
+592,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Doble Estándar,1 cama doble,[],,,[],,2026-04-08 12:59:39.670194+01
+593,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Triple Estándar,3 camas individuales,[],,,[],,2026-04-08 12:59:39.670194+01
+594,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Doble Deluxe - 2 camas,2 camas individuales,[],,,[],,2026-04-08 12:59:39.670194+01
+595,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Doble Deluxe,1 cama doble,[],,,[],,2026-04-08 12:59:39.670194+01
+596,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Triple Deluxe,3 camas individuales,[],,,[],,2026-04-08 12:59:39.670194+01
+597,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Individual Económica,1 cama individual,[],,,[],,2026-04-08 12:59:39.670194+01
+598,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Triple Clásica,1 cama individual y 1 cama doble,[],,,[],,2026-04-08 12:59:39.670194+01
+599,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación Triple de lujo,1 cama individual y 1 cama doble,[],,,[],,2026-04-08 12:59:39.670194+01
+600,27bbbee5-a59a-4a57-93e8-ba27bc8ad112,628c7cc8-079f-419d-9c07-89ffd1af3da3,es,Habitación cuádruple,4 camas individuales,[],,,[],,2026-04-08 12:59:39.670194+01
+541,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Chambre Deluxe - Vue sur Jardin,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:56:48.802357+01
+542,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Chambre Deluxe - Vue sur Océan,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:56:48.802357+01
+543,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Villa exclusive avec piscine et vue sur l’océan,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:56:48.802357+01
+544,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Chambre de Luxe avec Vue Partielle sur l'Océan,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:56:48.802357+01
+545,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Grande Villa Familiale avec Piscine - Vue sur Océan,"1 très grand lit double, 1 canapé-lit",[],,,[],,2026-04-08 12:56:48.802357+01
+546,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Grande Villa Familiale Double avec Piscine - Vue sur Océan,"1 très grand lit double, 1 très grand lit double, 1 canapé-lit, 1 canapé-lit",[],,,[],,2026-04-08 12:56:48.802357+01
+547,07996ce4-f876-47a0-81ea-07192b548644,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,fr,Villa avec Piscine Privée et Vue sur l'Océan,1 très grand lit double et 1 canapé-lit,[],,,[],,2026-04-08 12:56:48.802357+01
+601,a70f2aa3-1519-4904-b2c8-a2d5877a9e16,92894cb3-83d8-4a10-af21-1d9c71bf189c,de,Standard Doppelzimmer,"2 Einzelbetten, 1 französisches Doppelbett",[],,,[],,2026-04-08 13:00:05.598756+01
+602,a70f2aa3-1519-4904-b2c8-a2d5877a9e16,92894cb3-83d8-4a10-af21-1d9c71bf189c,de,Master Suite,1 französisches Doppelbett und 2 Schlafsofas,[],,,[],,2026-04-08 13:00:05.598756+01
+603,a70f2aa3-1519-4904-b2c8-a2d5877a9e16,92894cb3-83d8-4a10-af21-1d9c71bf189c,de,Premium Suite,1 französisches Doppelbett,[],,,[],,2026-04-08 13:00:05.598756+01
+604,a70f2aa3-1519-4904-b2c8-a2d5877a9e16,92894cb3-83d8-4a10-af21-1d9c71bf189c,de,Suite mit 1 Schlafzimmer,1 französisches Doppelbett und 1 Schlafsofa,[],,,[],,2026-04-08 13:00:05.598756+01
+605,a70f2aa3-1519-4904-b2c8-a2d5877a9e16,92894cb3-83d8-4a10-af21-1d9c71bf189c,de,Premium Suite mit Terrasse,"1 französisches Doppelbett, 1 Schlafsofa",[],,,[],,2026-04-08 13:00:05.598756+01
+548,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Jungle Hill Villa,1 très grand lit double,[],,,[],,2026-04-08 12:57:20.149876+01
+549,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Villa de Plage,1 grand lit double,[],,,[],,2026-04-08 12:57:20.149876+01
+550,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Ocean Hill Villa,1 très grand lit double,[],,,[],,2026-04-08 12:57:20.149876+01
+551,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Panorama Hill Villa,1 grand lit double,[],,,[],,2026-04-08 12:57:20.149876+01
+552,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Beach Villa - 2 Bedroom,"1 très grand lit double, 2 grands lits doubles",[],,,[],,2026-04-08 12:57:20.149876+01
+553,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Beach Retreat 3 Bedroom,"1 très grand lit double, 2 grands lits doubles, 2 grands lits doubles",[],,,[],,2026-04-08 12:57:20.149876+01
+554,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Beach Retreat 2 Bedroom,"1 très grand lit double, 2 grands lits doubles",[],,,[],,2026-04-08 12:57:20.149876+01
+555,724c822e-7749-4133-b58b-bbec99586cd8,1d8818d4-e655-4bf2-8347-02b82a359728,fr,Villa Horizon 2 Bedroom,"1 très grand lit double, 2 grands lits doubles",[],,,[],,2026-04-08 12:57:20.149876+01
+586,9f5f1d93-5889-4919-be92-314a6bc453eb,92894cb3-83d8-4a10-af21-1d9c71bf189c,es,Habitación Doble Estándar,"2 camas individuales, 1 cama doble",[],,,[],,2026-04-08 12:58:57.528871+01
+587,9f5f1d93-5889-4919-be92-314a6bc453eb,92894cb3-83d8-4a10-af21-1d9c71bf189c,es,Suite Principal,1 cama doble y 2 sofás cama,[],,,[],,2026-04-08 12:58:57.528871+01
+588,9f5f1d93-5889-4919-be92-314a6bc453eb,92894cb3-83d8-4a10-af21-1d9c71bf189c,es,Suite Premium,1 cama doble,[],,,[],,2026-04-08 12:58:57.528871+01
+589,9f5f1d93-5889-4919-be92-314a6bc453eb,92894cb3-83d8-4a10-af21-1d9c71bf189c,es,Suite de 1 dormitorio,1 cama doble y 1 sofá cama,[],,,[],,2026-04-08 12:58:57.528871+01
+590,9f5f1d93-5889-4919-be92-314a6bc453eb,92894cb3-83d8-4a10-af21-1d9c71bf189c,es,Suite Premium con terraza,"1 cama doble, 1 sofá cama",[],,,[],,2026-04-08 12:58:57.528871+01
+556,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Quarto Deluxe com Vista Jardim,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:57:24.767738+01
+557,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Quarto Deluxe com Vista Oceano,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:57:24.767738+01
+558,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Exclusive Pool Villa with Ocean View,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:57:24.767738+01
+559,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Quarto Deluxe - Vista Parcial do Mar,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:57:24.767738+01
+560,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Grand Family Pool Villa with Ocean View,"1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-04-08 12:57:24.767738+01
+561,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Double Grand Family Pool Villa with Ocean View,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 sofá-cama, 1 sofá-cama",[],,,[],,2026-04-08 12:57:24.767738+01
+562,d7a8d982-8012-4ca8-92fc-a20047d9b17d,073e0389-c84b-48dc-9bbe-59d67bdc2eaf,pt,Villa com Piscina Privada e Vista Oceano,1 cama de casal extragrande e 1 sofá-cama,[],,,[],,2026-04-08 12:57:24.767738+01
+563,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Jungle Hill Villa,1 cama de casal extragrande,[],,,[],,2026-04-08 12:57:44.89724+01
+564,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Villa Praia,1 cama de casal grande,[],,,[],,2026-04-08 12:57:44.89724+01
+565,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Ocean Hill Villa,1 cama de casal extragrande,[],,,[],,2026-04-08 12:57:44.89724+01
+566,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Panorama Hill Villa,1 cama de casal grande,[],,,[],,2026-04-08 12:57:44.89724+01
+567,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Beach Villa - 2 Bedroom,"1 cama de casal extragrande, 2 camas de casal grandes",[],,,[],,2026-04-08 12:57:44.89724+01
+568,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Beach Retreat 3 Bedroom,"1 cama de casal extragrande, 2 camas de casal grandes, 2 camas de casal grandes",[],,,[],,2026-04-08 12:57:44.89724+01
+569,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Beach Retreat 2 Bedroom,"1 cama de casal extragrande, 2 camas de casal grandes",[],,,[],,2026-04-08 12:57:44.89724+01
+570,afc8b0f0-aed6-4a1b-9d79-cac03946fee2,1d8818d4-e655-4bf2-8347-02b82a359728,pt,Villa Horizon 2 Bedroom,"1 cama de casal extragrande, 2 camas de casal grandes",[],,,[],,2026-04-08 12:57:44.89724+01
+606,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Standard Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-04-08 13:00:20.635144+01
+607,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Standard Doppelzimmer,1 französisches Doppelbett,[],,,[],,2026-04-08 13:00:20.635144+01
+608,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Standard Dreibettzimmer,3 Einzelbetten,[],,,[],,2026-04-08 13:00:20.635144+01
+609,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Deluxe Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-04-08 13:00:20.635144+01
+610,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Deluxe Doppelzimmer,1 französisches Doppelbett,[],,,[],,2026-04-08 13:00:20.635144+01
+611,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Deluxe Dreibettzimmer,3 Einzelbetten,[],,,[],,2026-04-08 13:00:20.635144+01
+612,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Economy Einzelzimmer,1 Einzelbett,[],,,[],,2026-04-08 13:00:20.635144+01
+613,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Classic Dreibettzimmer,1 Einzelbett und 1 französisches Doppelbett,[],,,[],,2026-04-08 13:00:20.635144+01
+614,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Luxus Dreibettzimmer,1 Einzelbett und 1 französisches Doppelbett,[],,,[],,2026-04-08 13:00:20.635144+01
+615,beb049c6-2e9f-42ad-b8fa-bca91b9675dd,628c7cc8-079f-419d-9c07-89ffd1af3da3,de,Vierbettzimmer,4 Einzelbetten,[],,,[],,2026-04-08 13:00:20.635144+01
+616,df7b8851-ff1e-4c7a-9966-b7c42949be69,92894cb3-83d8-4a10-af21-1d9c71bf189c,it,Camera Matrimoniale Standard,"2 letti singoli, 1 letto matrimoniale alla francese",[],,,[],,2026-04-08 13:00:39.006509+01
+617,df7b8851-ff1e-4c7a-9966-b7c42949be69,92894cb3-83d8-4a10-af21-1d9c71bf189c,it,Suite Master,1 letto matrimoniale alla francese e 2 divani letto,[],,,[],,2026-04-08 13:00:39.006509+01
+618,df7b8851-ff1e-4c7a-9966-b7c42949be69,92894cb3-83d8-4a10-af21-1d9c71bf189c,it,Suite Premium,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:00:39.006509+01
+619,df7b8851-ff1e-4c7a-9966-b7c42949be69,92894cb3-83d8-4a10-af21-1d9c71bf189c,it,Suite con 1 Camera da Letto,1 letto matrimoniale alla francese e 1 divano letto,[],,,[],,2026-04-08 13:00:39.006509+01
+620,df7b8851-ff1e-4c7a-9966-b7c42949be69,92894cb3-83d8-4a10-af21-1d9c71bf189c,it,Suite Premium con Terrazza,"1 letto matrimoniale alla francese, 1 divano letto",[],,,[],,2026-04-08 13:00:39.006509+01
+621,c4201bad-ebb9-4285-b69d-b615ce84b3cd,92894cb3-83d8-4a10-af21-1d9c71bf189c,fr,Chambre Double Standard,"2 lits simples, 1 lit double",[],,,[],,2026-04-08 13:01:10.389164+01
+622,c4201bad-ebb9-4285-b69d-b615ce84b3cd,92894cb3-83d8-4a10-af21-1d9c71bf189c,fr,Suite Master,1 lit double et 2 canapés-lits,[],,,[],,2026-04-08 13:01:10.389164+01
+623,c4201bad-ebb9-4285-b69d-b615ce84b3cd,92894cb3-83d8-4a10-af21-1d9c71bf189c,fr,Suite Premium,1 lit double,[],,,[],,2026-04-08 13:01:10.389164+01
+624,c4201bad-ebb9-4285-b69d-b615ce84b3cd,92894cb3-83d8-4a10-af21-1d9c71bf189c,fr,Suite 1 Chambre,1 lit double et 1 canapé-lit,[],,,[],,2026-04-08 13:01:10.389164+01
+625,c4201bad-ebb9-4285-b69d-b615ce84b3cd,92894cb3-83d8-4a10-af21-1d9c71bf189c,fr,Suite Premium avec Terrasse,"1 lit double, 1 canapé-lit",[],,,[],,2026-04-08 13:01:10.389164+01
+626,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Standard Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-04-08 13:01:27.679682+01
+627,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Matrimoniale Standard,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:01:27.679682+01
+628,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Tripla Standard,3 letti singoli,[],,,[],,2026-04-08 13:01:27.679682+01
+629,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Deluxe Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-04-08 13:01:27.679682+01
+630,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Matrimoniale Deluxe,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:01:27.679682+01
+631,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Tripla Deluxe,3 letti singoli,[],,,[],,2026-04-08 13:01:27.679682+01
+632,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Singola Economy,1 letto singolo,[],,,[],,2026-04-08 13:01:27.679682+01
+633,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Tripla Classic,1 letto singolo e 1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:01:27.679682+01
+634,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Tripla Luxury,1 letto singolo e 1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:01:27.679682+01
+635,910ef7af-fcbd-4c1b-b508-767e346cbad8,628c7cc8-079f-419d-9c07-89ffd1af3da3,it,Camera Quadrupla,4 letti singoli,[],,,[],,2026-04-08 13:01:27.679682+01
+636,1db8b689-78b5-45e7-b66e-598b9e453019,92894cb3-83d8-4a10-af21-1d9c71bf189c,pt,Quarto Duplo Standard,"2 camas individuais, 1 cama de casal",[],,,[],,2026-04-08 13:01:41.605665+01
+637,1db8b689-78b5-45e7-b66e-598b9e453019,92894cb3-83d8-4a10-af21-1d9c71bf189c,pt,Suite Principal,1 cama de casal e 2 sofás-cama,[],,,[],,2026-04-08 13:01:41.605665+01
+638,1db8b689-78b5-45e7-b66e-598b9e453019,92894cb3-83d8-4a10-af21-1d9c71bf189c,pt,Suite Premium,1 cama de casal,[],,,[],,2026-04-08 13:01:41.605665+01
+639,1db8b689-78b5-45e7-b66e-598b9e453019,92894cb3-83d8-4a10-af21-1d9c71bf189c,pt,Suite com 1 Quarto,1 cama de casal e 1 sofá-cama,[],,,[],,2026-04-08 13:01:41.605665+01
+640,1db8b689-78b5-45e7-b66e-598b9e453019,92894cb3-83d8-4a10-af21-1d9c71bf189c,pt,Quarto Premium com Terraço,"1 cama de casal, 1 sofá-cama",[],,,[],,2026-04-08 13:01:41.605665+01
+641,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Lits Jumeaux Standard,2 lits simples,[],,,[],,2026-04-08 13:02:16.698586+01
+642,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Double Standard,1 lit double,[],,,[],,2026-04-08 13:02:16.698586+01
+643,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Triple Standard,3 lits simples,[],,,[],,2026-04-08 13:02:16.698586+01
+644,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Lits Jumeaux Deluxe,2 lits simples,[],,,[],,2026-04-08 13:02:16.698586+01
+645,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Double Deluxe,1 lit double,[],,,[],,2026-04-08 13:02:16.698586+01
+646,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Triple Deluxe,3 lits simples,[],,,[],,2026-04-08 13:02:16.698586+01
+647,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Simple Économique,1 lit simple,[],,,[],,2026-04-08 13:02:16.698586+01
+648,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Triple Classique,1 lit simple et 1 lit double,[],,,[],,2026-04-08 13:02:16.698586+01
+649,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Triple de Luxe,1 lit simple et 1 lit double,[],,,[],,2026-04-08 13:02:16.698586+01
+650,a57b2e02-c66e-4ab0-9b22-1117a425e6f8,628c7cc8-079f-419d-9c07-89ffd1af3da3,fr,Chambre Quadruple,4 lits simples,[],,,[],,2026-04-08 13:02:16.698586+01
+684,5aaefbf7-bae8-403f-89dd-154e3cb95858,218cba62-7a05-44a1-94d1-82adf4437c2f,es,Habitación Doble Estándar,1 cama doble,[],,,[],,2026-04-08 13:04:48.096665+01
+685,5aaefbf7-bae8-403f-89dd-154e3cb95858,218cba62-7a05-44a1-94d1-82adf4437c2f,es,Habitación Individual Estándar,1 cama individual,[],,,[],,2026-04-08 13:04:48.096665+01
+686,5aaefbf7-bae8-403f-89dd-154e3cb95858,218cba62-7a05-44a1-94d1-82adf4437c2f,es,Habitación Individual Premium,1 cama individual,[],,,[],,2026-04-08 13:04:48.096665+01
+687,5aaefbf7-bae8-403f-89dd-154e3cb95858,218cba62-7a05-44a1-94d1-82adf4437c2f,es,Habitación Doble Premium,1 cama doble extragrande,[],,,[],,2026-04-08 13:04:48.096665+01
+688,5aaefbf7-bae8-403f-89dd-154e3cb95858,218cba62-7a05-44a1-94d1-82adf4437c2f,es,Habitación Doble Estándar - 2 camas,2 camas individuales,[],,,[],,2026-04-08 13:04:48.096665+01
+712,5558d4ca-de8a-480d-8754-99431fc3f138,218cba62-7a05-44a1-94d1-82adf4437c2f,it,Camera Matrimoniale Standard,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:06:49.245558+01
+713,5558d4ca-de8a-480d-8754-99431fc3f138,218cba62-7a05-44a1-94d1-82adf4437c2f,it,Camera Singola Standard,1 letto singolo,[],,,[],,2026-04-08 13:06:49.245558+01
+714,5558d4ca-de8a-480d-8754-99431fc3f138,218cba62-7a05-44a1-94d1-82adf4437c2f,it,Camera Singola Premium,1 letto singolo,[],,,[],,2026-04-08 13:06:49.245558+01
+715,5558d4ca-de8a-480d-8754-99431fc3f138,218cba62-7a05-44a1-94d1-82adf4437c2f,it,Camera Matrimoniale Premium,1 letto matrimoniale large,[],,,[],,2026-04-08 13:06:49.245558+01
+716,5558d4ca-de8a-480d-8754-99431fc3f138,218cba62-7a05-44a1-94d1-82adf4437c2f,it,Camera Standard Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-04-08 13:06:49.245558+01
+651,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Twin Standard,2 camas individuais,[],,,[],,2026-04-08 13:02:47.542485+01
+652,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Duplo Standard,1 cama de casal,[],,,[],,2026-04-08 13:02:47.542485+01
+653,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Triplo Standard,3 camas individuais,[],,,[],,2026-04-08 13:02:47.542485+01
+654,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Twin Deluxe,2 camas individuais,[],,,[],,2026-04-08 13:02:47.542485+01
+655,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Duplo Deluxe,1 cama de casal,[],,,[],,2026-04-08 13:02:47.542485+01
+656,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Triplo Deluxe,3 camas individuais,[],,,[],,2026-04-08 13:02:47.542485+01
+657,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Individual Económico,1 cama individual,[],,,[],,2026-04-08 13:02:47.542485+01
+658,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Triplo Clássico,1 cama individual e 1 cama de casal,[],,,[],,2026-04-08 13:02:47.542485+01
+659,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Triplo Luxo,1 cama individual e 1 cama de casal,[],,,[],,2026-04-08 13:02:47.542485+01
+660,5ba5a73f-ac7c-486c-b72e-562bebfe3227,628c7cc8-079f-419d-9c07-89ffd1af3da3,pt,Quarto Quádruplo,4 camas individuais,[],,,[],,2026-04-08 13:02:47.542485+01
+661,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Deluxe Double Room with Sea View,1 double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+662,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Standard Double Room,"1 double bed, 2 single beds",[],,,[],,2026-04-08 13:03:28.230202+01
+663,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Deluxe Triple Room with Sea View,1 single bed and 1 double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+664,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Family Suite with Sea View (3 Adults),1 single bed and 1 extra-large double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+665,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Master Suite with Spa Bath - Sea View,1 single bed and 1 double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+666,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Family Suite with Sea View (4 Adults),2 single beds and 1 extra-large double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+667,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Standard Triple Room,1 single bed and 1 double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+668,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,Presidential Suite with Sea View,1 single bed and 1 large double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+669,d8589c03-5bfd-4b0e-a03c-6582eb25b42c,1c414a2d-eaf9-4853-8263-94bf560e828f,en,King Room with Spa Bath & Sea View,1 single bed and 1 large double bed,[],,,[],,2026-04-08 13:03:28.230202+01
+698,684f9ed4-23a8-4866-899f-0795a3ba755c,218cba62-7a05-44a1-94d1-82adf4437c2f,de,Standard Doppelzimmer,1 französisches Doppelbett,[],,,[],,2026-04-08 13:05:18.608301+01
+699,684f9ed4-23a8-4866-899f-0795a3ba755c,218cba62-7a05-44a1-94d1-82adf4437c2f,de,Standard Einzelzimmer,1 Einzelbett,[],,,[],,2026-04-08 13:05:18.608301+01
+700,684f9ed4-23a8-4866-899f-0795a3ba755c,218cba62-7a05-44a1-94d1-82adf4437c2f,de,Premium Einzelzimmer,1 Einzelbett,[],,,[],,2026-04-08 13:05:18.608301+01
+701,684f9ed4-23a8-4866-899f-0795a3ba755c,218cba62-7a05-44a1-94d1-82adf4437c2f,de,Premium Doppelzimmer,1 großes Doppelbett,[],,,[],,2026-04-08 13:05:18.608301+01
+702,684f9ed4-23a8-4866-899f-0795a3ba755c,218cba62-7a05-44a1-94d1-82adf4437c2f,de,Standard Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-04-08 13:05:18.608301+01
+673,aae34659-b9aa-48e4-975f-3ba250698c84,218cba62-7a05-44a1-94d1-82adf4437c2f,en,Premium Double Room,1 extra-large double bed,[],,,[],,2026-04-08 13:03:50.839224+01
+674,aae34659-b9aa-48e4-975f-3ba250698c84,218cba62-7a05-44a1-94d1-82adf4437c2f,en,Standard Twin Room,2 single beds,[],,,[],,2026-04-08 13:03:50.839224+01
+689,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Deluxe Doppelzimmer mit Meerblick,1 französisches Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+690,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Standard Doppelzimmer,"1 französisches Doppelbett, 2 Einzelbetten",[],,,[],,2026-04-08 13:05:02.972383+01
+691,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Deluxe Dreibettzimmer mit Meerblick,1 Einzelbett und 1 französisches Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+692,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Familiensuite mit Meerblick (3 Erwachsene),1 Einzelbett und 1 großes Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+693,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Master Suite with Spa Bath - Sea View,1 Einzelbett und 1 französisches Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+694,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Familiensuite mit Meerblick (4 Erwachsene),2 Einzelbetten und 1 großes Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+695,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Standard Dreibettzimmer,1 Einzelbett und 1 französisches Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+696,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,Präsidentensuite mit Meerblick,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+697,744225b7-6708-4984-ba5a-1a7d2f08ea6a,1c414a2d-eaf9-4853-8263-94bf560e828f,de,King Room with Spa Bath & Sea View,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-04-08 13:05:02.972383+01
+717,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Chambre Double Deluxe - Vue sur Mer,1 lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+718,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Chambre Double Standard,"1 lit double, 2 lits simples",[],,,[],,2026-04-08 13:07:04.241583+01
+719,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Chambre Triple Deluxe - Vue sur Mer,1 lit simple et 1 lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+720,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Suite Familiale - Vue sur Mer (3 Adultes),1 lit simple et 1 très grand lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+721,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Master Suite with Spa Bath - Sea View,1 lit simple et 1 lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+722,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Suite Familiale - Vue sur Mer (4 Adultes),2 lits simples et 1 très grand lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+723,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Chambre Triple Standard,1 lit simple et 1 lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+724,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,Suite Présidentielle - Vue sur Mer,1 lit simple et 1 grand lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+725,6f4a3253-83b7-4dc4-b46b-a0dc6d7e486c,1c414a2d-eaf9-4853-8263-94bf560e828f,fr,King Room with Spa Bath & Sea View,1 lit simple et 1 grand lit double,[],,,[],,2026-04-08 13:07:04.241583+01
+675,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Habitación Doble Deluxe con vistas al mar,1 cama doble,[],,,[],,2026-04-08 13:04:02.422602+01
+676,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Habitación Doble Estándar,"1 cama doble, 2 camas individuales",[],,,[],,2026-04-08 13:04:02.422602+01
+677,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Habitación Triple Deluxe con vistas al mar,1 cama individual y 1 cama doble,[],,,[],,2026-04-08 13:04:02.422602+01
+678,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Suite Familiar con vistas al mar (3 adultos),1 cama individual y 1 cama doble extragrande,[],,,[],,2026-04-08 13:04:02.422602+01
+679,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Suite Principal con bañera de hidromasaje y vistas al mar,1 cama individual y 1 cama doble,[],,,[],,2026-04-08 13:04:02.422602+01
+680,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Suite Familiar con vistas al mar (4 adultos),2 camas individuales y 1 cama doble extragrande,[],,,[],,2026-04-08 13:04:02.422602+01
+681,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Habitación Triple Estándar,1 cama individual y 1 cama doble,[],,,[],,2026-04-08 13:04:02.422602+01
+682,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Suite Presidencial con vistas al mar,1 cama individual y 1 cama doble grande,[],,,[],,2026-04-08 13:04:02.422602+01
+683,8733e89f-b08c-4de4-a8da-78eae50c382b,1c414a2d-eaf9-4853-8263-94bf560e828f,es,Habitación con bañera de hidromasaje y vistas al mar - 1 cama extragrande,1 cama individual y 1 cama doble grande,[],,,[],,2026-04-08 13:04:02.422602+01
+703,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Camera Deluxe Matrimoniale con Vista Mare,1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:06:18.916088+01
+704,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Camera Matrimoniale Standard,"1 letto matrimoniale alla francese, 2 letti singoli",[],,,[],,2026-04-08 13:06:18.916088+01
+705,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Camera Tripla Deluxe con Vista Mare,1 letto singolo e 1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:06:18.916088+01
+706,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Suite Familiare con Vista Mare (3 Adulti),1 letto singolo e 1 letto matrimoniale large,[],,,[],,2026-04-08 13:06:18.916088+01
+707,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Master Suite with Spa Bath - Sea View,1 letto singolo e 1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:06:18.916088+01
+708,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Suite Familiare con Vista Mare (4 Adulti),2 letti singoli e 1 letto matrimoniale large,[],,,[],,2026-04-08 13:06:18.916088+01
+709,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Camera Tripla Standard,1 letto singolo e 1 letto matrimoniale alla francese,[],,,[],,2026-04-08 13:06:18.916088+01
+710,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,Suite Presidenziale con Vista Mare,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-04-08 13:06:18.916088+01
+711,14b7599e-923b-418d-af50-8fd01a404ae0,1c414a2d-eaf9-4853-8263-94bf560e828f,it,King Room with Spa Bath & Sea View,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-04-08 13:06:18.916088+01
+726,0c4e4884-cdcf-4737-be94-af28bbf34b85,218cba62-7a05-44a1-94d1-82adf4437c2f,fr,Chambre Double Standard,1 lit double,[],,,[],,2026-04-08 13:07:46.502726+01
+727,0c4e4884-cdcf-4737-be94-af28bbf34b85,218cba62-7a05-44a1-94d1-82adf4437c2f,fr,Chambre Simple Standard,1 lit simple,[],,,[],,2026-04-08 13:07:46.502726+01
+728,0c4e4884-cdcf-4737-be94-af28bbf34b85,218cba62-7a05-44a1-94d1-82adf4437c2f,fr,Chambre Simple Premium,1 lit simple,[],,,[],,2026-04-08 13:07:46.502726+01
+729,0c4e4884-cdcf-4737-be94-af28bbf34b85,218cba62-7a05-44a1-94d1-82adf4437c2f,fr,Chambre Double Premium,1 très grand lit double,[],,,[],,2026-04-08 13:07:46.502726+01
+730,0c4e4884-cdcf-4737-be94-af28bbf34b85,218cba62-7a05-44a1-94d1-82adf4437c2f,fr,Chambre Lits Jumeaux Standard,2 lits simples,[],,,[],,2026-04-08 13:07:46.502726+01
+731,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Quarto Duplo Deluxe com Vista Mar,1 cama de casal,[],,,[],,2026-04-08 13:08:04.907305+01
+732,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Quarto Duplo Standard,"1 cama de casal, 2 camas individuais",[],,,[],,2026-04-08 13:08:04.907305+01
+733,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Quarto Triplo Deluxe com Vista Mar,1 cama individual e 1 cama de casal,[],,,[],,2026-04-08 13:08:04.907305+01
+734,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Suite Familiar com Vista Mar (3 Adultos),1 cama individual e 1 cama de casal extragrande,[],,,[],,2026-04-08 13:08:04.907305+01
+735,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Master Suite with Spa Bath - Sea View,1 cama individual e 1 cama de casal,[],,,[],,2026-04-08 13:08:04.907305+01
+736,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Suite Familiar com Vista Mar (4 Adultos),2 camas individuais e 1 cama de casal extragrande,[],,,[],,2026-04-08 13:08:04.907305+01
+737,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Quarto Triplo Standard,1 cama individual e 1 cama de casal,[],,,[],,2026-04-08 13:08:04.907305+01
+738,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Suite Presidencial com Vista Mar,1 cama individual e 1 cama de casal grande,[],,,[],,2026-04-08 13:08:04.907305+01
+739,d1a9d638-fa42-49f8-9b26-5755ebdf2222,1c414a2d-eaf9-4853-8263-94bf560e828f,pt,Quarto King com Banheira de Hidromassagem e Vista Mar,1 cama individual e 1 cama de casal grande,[],,,[],,2026-04-08 13:08:04.907305+01
+740,636f3559-2eb4-4b96-8789-03c80af73639,218cba62-7a05-44a1-94d1-82adf4437c2f,pt,Quarto Duplo Standard,1 cama de casal,[],,,[],,2026-04-08 13:08:17.630126+01
+741,636f3559-2eb4-4b96-8789-03c80af73639,218cba62-7a05-44a1-94d1-82adf4437c2f,pt,Quarto Individual Standard,1 cama individual,[],,,[],,2026-04-08 13:08:17.630126+01
+742,636f3559-2eb4-4b96-8789-03c80af73639,218cba62-7a05-44a1-94d1-82adf4437c2f,pt,Quarto Individual Premium,1 cama individual,[],,,[],,2026-04-08 13:08:17.630126+01
+743,636f3559-2eb4-4b96-8789-03c80af73639,218cba62-7a05-44a1-94d1-82adf4437c2f,pt,Quarto Duplo Premium,1 cama de casal extragrande,[],,,[],,2026-04-08 13:08:17.630126+01
+744,636f3559-2eb4-4b96-8789-03c80af73639,218cba62-7a05-44a1-94d1-82adf4437c2f,pt,Quarto Twin Standard,2 camas individuais,[],,,[],,2026-04-08 13:08:17.630126+01
