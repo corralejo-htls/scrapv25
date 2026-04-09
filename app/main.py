@@ -435,9 +435,11 @@ def health_check() -> Dict[str, Any]:
 @app.post("/urls/load", tags=["URLs"], dependencies=[Depends(_check_api_key)])
 def load_urls(payload: URLCreateRequest) -> Dict[str, Any]:
     """Load hotel URLs into the scraping queue after validation."""
-    valid, invalid = [], []
-    for url in payload.urls:
-        (_valid if _validate_booking_url(url) else invalid).append(url)  # type: ignore
+    # BUG-LOAD-URLS-001-FIX (Build 86): Dead loop with undefined '_valid' removed.
+    # The loop populated 'valid'/'invalid' from raw (pre-normalization) URLs and
+    # referenced the undefined name '_valid', raising NameError on any valid URL.
+    # Both lists were immediately overwritten by the normalization pass below,
+    # making the loop entirely redundant. Removed without semantic loss.
 
     # BUG-URL-LANG: normalize URLs (strip .es.html → .html, ?lang=es)
     normalized_count = 0
@@ -831,7 +833,11 @@ def force_scrape_now(payload: ScrapeRequest) -> Dict[str, Any]:
         cfg = get_settings()
         workers = payload.max_workers or cfg.SCRAPER_MAX_WORKERS
         service = ScraperService()
-        result = service.dispatch_batch(url_ids=payload.url_ids, max_workers=workers)
+        # BUG-DISPATCH-001-FIX (Build 86): dispatch_batch() accepts no kwargs.
+        # Passing url_ids/max_workers caused TypeError on every /scraping/force-now call.
+        # max_workers is already read from config inside dispatch_batch() via
+        # getattr(cfg, "SCRAPER_MAX_WORKERS", 2) — no override needed here.
+        result = service.dispatch_batch()
         return {"status": "dispatched", "result": result}
     except Exception as exc:
         logger.exception("force-now scraping failed: %s", exc)

@@ -198,7 +198,10 @@ def _get_vpn_manager(cfg):
         return NullVPNManager()
     try:
         from app.vpn_manager_windows import NordVPNManager
-        return NordVPNManager(cfg)
+        # BUG-VPN-INIT-001-FIX (Build 86): NordVPNManager(cfg) passed the Settings
+        # object as the 'interactive: bool' parameter → truthy value → interactive mode
+        # enabled in all production Celery workers. Fixed to NordVPNManager().
+        return NordVPNManager()
     except Exception as exc:
         logger.warning(
             "Could not initialise NordVPNManager: %s — using NullVPNManager", exc
@@ -285,7 +288,7 @@ class ScraperService:
             for url_obj in pending:
                 url_obj.status = "processing"
                 url_obj.updated_at = _now()
-            session.commit()
+            # BUG-DOUBLE-COMMIT-002-FIX (Build 86): commit removed — get_db() handles it.
 
         with ThreadPoolExecutor(max_workers=max_workers) as pool:
             futures = {
@@ -1358,7 +1361,9 @@ class ScraperService:
                         updated_at=now,
                     )
                 )
-            session.commit()
+            # BUG-DOUBLE-COMMIT-002-FIX (Build 86): session.commit() removed here.
+            # get_db() context manager already commits on clean exit.
+            # Explicit commit was redundant and caused two round-trips per call.
 
     def _log_scraping_event(
         self,
@@ -1390,7 +1395,7 @@ class ScraperService:
                         scraped_at=_now(),
                     )
                 )
-                session.commit()
+                # BUG-DOUBLE-COMMIT-002-FIX (Build 86): commit removed — get_db() handles it.
         except Exception as exc:
             logger.warning("Failed to log scraping event: %s", exc)
 
@@ -1415,7 +1420,7 @@ class ScraperService:
                         f"Incomplete: {len(completed)}/{len(completed)+len(failed)} "
                         f"languages. OK={completed} FAILED={failed}"
                     )[:2000]
-                session.commit()
+                # BUG-DOUBLE-COMMIT-002-FIX (Build 86): commit removed — get_db() handles it.
 
     def _mark_url_error(self, url_obj: URLQueue, error: str) -> None:
         """Mark a URL as errored due to a fatal exception."""
@@ -1425,7 +1430,7 @@ class ScraperService:
                 db_obj.status     = "error"
                 db_obj.last_error = error[:2000]
                 db_obj.updated_at = _now()
-                session.commit()
+                # BUG-DOUBLE-COMMIT-002-FIX (Build 86): commit removed — get_db() handles it.
 
     def _count_successful_languages(self, session: Session, url_id) -> int:
         """Count distinct languages in the hotels table for this URL."""

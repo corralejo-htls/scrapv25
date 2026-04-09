@@ -101,7 +101,10 @@ class CompletenessService:
     def is_fully_complete(self, url_id: uuid.UUID, required_languages: Optional[List[str]] = None) -> bool:
         """Return True if all required languages are in 'done' status."""
         from app.config import get_settings
-        languages = required_languages or get_settings().ENABLED_LANGUAGES
+        # BUG-ENABLED-LANGS-001-FIX (Build 86): ENABLED_LANGUAGES is a comma-separated
+        # str (e.g. "en,es,de,it,fr,pt"). Iterating over it directly yielded individual
+        # characters. Fixed with .split(",") to produce the correct language list.
+        languages = required_languages or get_settings().ENABLED_LANGUAGES.split(",")
         statuses = self.get_url_completeness(url_id)
         return all(statuses.get(lang) == "done" for lang in languages)
 
