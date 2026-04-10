@@ -1,4 +1,0 @@
-id,recorded_at,cpu_usage,memory_usage,active_workers,db_pool_checked_out,redis_connected,urls_pending,urls_done,extra_data
-1,2026-04-10 15:08:34.44155+01,49.4,34.7,,0,,0,0,{}
-2,2026-04-10 15:13:34.429426+01,45.5,37.2,,0,,0,0,{}
-3,2026-04-10 15:18:34.428334+01,8.6,37.4,,0,,0,0,{}
