@@ -1,0 +1,1364 @@
+id,hotel_id,url_id,language,service,service_category,created_at
+1,b589ce05-9cd8-4a93-84ff-aad5f2d70242,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,en,Breakfast,Food & Drink,2026-04-12 16:15:15.591254+01
+2,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Parking,Parking,2026-04-12 16:15:50.372089+01
+3,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Internet services,Internet,2026-04-12 16:15:50.372089+01
+4,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Non-smoking rooms,General,2026-04-12 16:15:50.372089+01
+5,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Coffee house on site,Food & Drink,2026-04-12 16:15:50.372089+01
+6,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Shared kitchen,Kitchen,2026-04-12 16:15:50.372089+01
+7,1554912b-5193-4159-9e8b-c65491a3903d,fa007e3a-8746-49c3-9c2f-a870ac77a418,en,Outdoor dining area,Outdoors & View,2026-04-12 16:15:50.372089+01
+8,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Desayuno,Alimentos y bebidas,2026-04-12 16:16:57.804849+01
+9,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Baño privado,Comodidades,2026-04-12 16:16:57.804849+01
+10,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Aire acondicionado,Comodidades,2026-04-12 16:16:57.804849+01
+11,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,TV de pantalla plana,Comodidades,2026-04-12 16:16:57.804849+01
+12,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Vistas,Exteriores y vistas,2026-04-12 16:16:57.804849+01
+13,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Ducha,Comodidades,2026-04-12 16:16:57.804849+01
+14,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Minibar,Comodidades,2026-04-12 16:16:57.804849+01
+15,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Cafetera,Comodidades,2026-04-12 16:16:57.804849+01
+16,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Papel higiénico,Comodidades,2026-04-12 16:16:57.804849+01
+17,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Toallas,Comodidades,2026-04-12 16:16:57.804849+01
+18,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Bidet,Comodidades,2026-04-12 16:16:57.804849+01
+19,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Bañera o ducha,Comodidades,2026-04-12 16:16:57.804849+01
+20,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Artículos de aseo gratis,Comodidades,2026-04-12 16:16:57.804849+01
+21,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Albornoz,Comodidades,2026-04-12 16:16:57.804849+01
+22,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Secador de pelo,Comodidades,2026-04-12 16:16:57.804849+01
+23,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Ropa de cama,Comodidades,2026-04-12 16:16:57.804849+01
+24,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Armario,Comodidades,2026-04-12 16:16:57.804849+01
+25,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Camas extralargas (más de 2 metros),Comodidades,2026-04-12 16:16:57.804849+01
+26,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Vistas al mar,Exteriores y vistas,2026-04-12 16:16:57.804849+01
+27,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Muebles de exterior,Exteriores y vistas,2026-04-12 16:16:57.804849+01
+28,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Hervidor eléctrico,Comodidades,2026-04-12 16:16:57.804849+01
+29,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Enchufe cerca de la cama,Comodidades,2026-04-12 16:16:57.804849+01
+30,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Tendedero,Comodidades,2026-04-12 16:16:57.804849+01
+31,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Sofá,Comodidades,2026-04-12 16:16:57.804849+01
+32,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Zona de estar,Comodidades,2026-04-12 16:16:57.804849+01
+33,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Escritorio,Comodidades,2026-04-12 16:16:57.804849+01
+34,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Canales vía satélite,Comodidades,2026-04-12 16:16:57.804849+01
+35,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Teléfono,Comodidades,2026-04-12 16:16:57.804849+01
+36,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Servicio de despertador,Servicios,2026-04-12 16:16:57.804849+01
+37,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Caja fuerte,Comodidades,2026-04-12 16:16:57.804849+01
+38,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Hipoalergénico,General,2026-04-12 16:16:57.804849+01
+39,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Prohibido fumar en todo el alojamiento,General,2026-04-12 16:16:57.804849+01
+40,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Suelo de baldosa / mármol,General,2026-04-12 16:16:57.804849+01
+41,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Entrada privada,General,2026-04-12 16:16:57.804849+01
+42,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Suelo de moqueta,General,2026-04-12 16:16:57.804849+01
+43,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Ventilador,Comodidades,2026-04-12 16:16:57.804849+01
+44,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Utensilios de planchado,Comodidades,2026-04-12 16:16:57.804849+01
+45,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Toda la unidad en la planta baja,General,2026-04-12 16:16:57.804849+01
+46,77657586-f483-4276-8ad3-ef67f1a058c8,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,es,Inglés,Servicios,2026-04-12 16:16:57.804849+01
+47,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Parking,Aparcamiento,2026-04-12 16:17:12.256157+01
+48,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Internet,Internet,2026-04-12 16:17:12.256157+01
+49,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Habitaciones sin humo,General,2026-04-12 16:17:12.256157+01
+50,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Cafetería en el alojamiento,Alimentos y bebidas,2026-04-12 16:17:12.256157+01
+51,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Cocina compartida,Cocina,2026-04-12 16:17:12.256157+01
+52,001c71d3-d8e1-4b14-8db2-75e8860e0f50,fa007e3a-8746-49c3-9c2f-a870ac77a418,es,Zona de comedor exterior,Exteriores y vistas,2026-04-12 16:17:12.256157+01
+53,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Frühstück,Speisen & Getränke,2026-04-12 16:17:27.920796+01
+54,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Eigenes Badezimmer,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+55,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Klimaanlage,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+56,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Flachbild-TV,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+57,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Aussicht,Außenbereich,2026-04-12 16:17:27.920796+01
+58,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Dusche,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+59,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Minibar,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+60,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Kaffeemaschine,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+61,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Toilettenpapier,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+62,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Handtücher,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+63,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Bidet,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+64,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Badewanne oder Dusche,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+65,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Kostenlose Pflegeprodukte,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+66,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Bademantel,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+67,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Haartrockner,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+68,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Bettwäsche,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+69,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Schrank,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+70,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Extralange Betten (über 2 m),Zimmerausstattung,2026-04-12 16:17:27.920796+01
+71,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Meerblick,Außenbereich,2026-04-12 16:17:27.920796+01
+72,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Gartenmöbel,Außenbereich,2026-04-12 16:17:27.920796+01
+73,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Wasserkocher,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+74,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Steckdose in Bettnähe,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+75,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Wäscheständer,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+76,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Sofa,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+77,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Sitzbereich,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+78,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Schreibtisch,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+79,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Satellitenempfang,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+80,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Telefon,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+81,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Weckservice,Dienstleistungen,2026-04-12 16:17:27.920796+01
+82,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Safe,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+83,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Allergikerfreundlich,Allgemein,2026-04-12 16:17:27.920796+01
+84,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen),Allgemein,2026-04-12 16:17:27.920796+01
+85,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Fliesen-/Marmorboden,Allgemein,2026-04-12 16:17:27.920796+01
+86,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Privater Eingang,Allgemein,2026-04-12 16:17:27.920796+01
+87,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Teppichboden,Allgemein,2026-04-12 16:17:27.920796+01
+88,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Ventilator,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+89,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Bügeleinrichtungen,Zimmerausstattung,2026-04-12 16:17:27.920796+01
+90,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Gesamte Wohneinheit im Erdgeschoss,Allgemein,2026-04-12 16:17:27.920796+01
+91,f28c57bd-1e9f-4728-a0f1-3abd473c6928,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,de,Englisch,Dienstleistungen,2026-04-12 16:17:27.920796+01
+92,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Parkplatz,Parken,2026-04-12 16:18:13.138316+01
+93,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Internet,Internet,2026-04-12 16:18:13.138316+01
+94,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:18:13.138316+01
+95,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Café vor Ort,Speisen & Getränke,2026-04-12 16:18:13.138316+01
+96,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Gemeinschaftsküche,Küche,2026-04-12 16:18:13.138316+01
+97,8d591953-6c91-4fdc-86b8-1613463cca4b,fa007e3a-8746-49c3-9c2f-a870ac77a418,de,Essbereich im Freien,Außenbereich,2026-04-12 16:18:13.138316+01
+98,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Colazione,Cibo e bevande,2026-04-12 16:18:37.442372+01
+99,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Carta igienica,Dotazioni camera,2026-04-12 16:18:37.442372+01
+100,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Asciugamani,Dotazioni camera,2026-04-12 16:18:37.442372+01
+101,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Bidet,Dotazioni camera,2026-04-12 16:18:37.442372+01
+102,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Vasca o doccia,Dotazioni camera,2026-04-12 16:18:37.442372+01
+103,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Bagno privato,Dotazioni camera,2026-04-12 16:18:37.442372+01
+104,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Prodotti da bagno in omaggio,Dotazioni camera,2026-04-12 16:18:37.442372+01
+105,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Accappatoio,Dotazioni camera,2026-04-12 16:18:37.442372+01
+106,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Asciugacapelli,Dotazioni camera,2026-04-12 16:18:37.442372+01
+107,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Doccia,Dotazioni camera,2026-04-12 16:18:37.442372+01
+108,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Biancheria da letto,Dotazioni camera,2026-04-12 16:18:37.442372+01
+109,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Armadio o guardaroba,Dotazioni camera,2026-04-12 16:18:37.442372+01
+110,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Letti lunghi (oltre 2 metri),Dotazioni camera,2026-04-12 16:18:37.442372+01
+111,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Vista mare,Spazi esterni,2026-04-12 16:18:37.442372+01
+112,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Vista,Spazi esterni,2026-04-12 16:18:37.442372+01
+113,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Arredamento da esterno,Spazi esterni,2026-04-12 16:18:37.442372+01
+114,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Macchina da caffè,Dotazioni camera,2026-04-12 16:18:37.442372+01
+115,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Bollitore elettrico,Dotazioni camera,2026-04-12 16:18:37.442372+01
+116,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Presa elettrica vicino al letto,Dotazioni camera,2026-04-12 16:18:37.442372+01
+117,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Stendibiancheria,Dotazioni camera,2026-04-12 16:18:37.442372+01
+118,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Divano,Dotazioni camera,2026-04-12 16:18:37.442372+01
+119,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Zona soggiorno,Dotazioni camera,2026-04-12 16:18:37.442372+01
+120,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Scrivania,Dotazioni camera,2026-04-12 16:18:37.442372+01
+121,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,TV a schermo piatto,Dotazioni camera,2026-04-12 16:18:37.442372+01
+122,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Canali satellitari,Dotazioni camera,2026-04-12 16:18:37.442372+01
+123,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Telefono,Dotazioni camera,2026-04-12 16:18:37.442372+01
+124,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Minibar,Dotazioni camera,2026-04-12 16:18:37.442372+01
+125,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Sveglia telefonica,Servizi,2026-04-12 16:18:37.442372+01
+126,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Cassaforte,Dotazioni camera,2026-04-12 16:18:37.442372+01
+127,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Soluzioni anallergiche,Generale,2026-04-12 16:18:37.442372+01
+128,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Struttura interamente non fumatori,Generale,2026-04-12 16:18:37.442372+01
+129,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Pavimento in marmo o in piastrelle,Generale,2026-04-12 16:18:37.442372+01
+130,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Ingresso indipendente,Generale,2026-04-12 16:18:37.442372+01
+131,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Moquette,Generale,2026-04-12 16:18:37.442372+01
+132,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Ventilatore,Dotazioni camera,2026-04-12 16:18:37.442372+01
+133,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Ferro e asse da stiro,Dotazioni camera,2026-04-12 16:18:37.442372+01
+134,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Aria condizionata,Dotazioni camera,2026-04-12 16:18:37.442372+01
+135,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Intera unità situata al piano terra,Generale,2026-04-12 16:18:37.442372+01
+136,13842714-bde2-40fb-92d9-d59aee3dc309,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,it,Inglese,Servizi,2026-04-12 16:18:37.442372+01
+137,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Parcheggio,Parcheggio,2026-04-12 16:18:52.162131+01
+138,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Connessione internet,Internet,2026-04-12 16:18:52.162131+01
+139,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Camere non fumatori,Generale,2026-04-12 16:18:52.162131+01
+140,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Caffetteria sul posto,Cibo e bevande,2026-04-12 16:18:52.162131+01
+141,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Cucina in comune,Cucina,2026-04-12 16:18:52.162131+01
+142,e4ce23a8-e8f5-4810-a81e-1673763e9217,fa007e3a-8746-49c3-9c2f-a870ac77a418,it,Zona pranzo all'aperto,Spazi esterni,2026-04-12 16:18:52.162131+01
+143,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Petit-déjeuner,Alimentation,2026-04-12 16:19:29.539964+01
+144,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Salle de bains privative,Équipements,2026-04-12 16:19:29.539964+01
+145,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Climatisation,Équipements,2026-04-12 16:19:29.539964+01
+146,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Télévision à écran plat,Équipements,2026-04-12 16:19:29.539964+01
+147,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Vue,Extérieur,2026-04-12 16:19:29.539964+01
+148,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Douche,Équipements,2026-04-12 16:19:29.539964+01
+149,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Minibar,Équipements,2026-04-12 16:19:29.539964+01
+150,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Machine à café,Équipements,2026-04-12 16:19:29.539964+01
+151,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Papier toilette,Équipements,2026-04-12 16:19:29.539964+01
+152,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Serviettes,Équipements,2026-04-12 16:19:29.539964+01
+153,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Bidet,Équipements,2026-04-12 16:19:29.539964+01
+154,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Baignoire ou douche,Équipements,2026-04-12 16:19:29.539964+01
+155,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Toilettes,Équipements,2026-04-12 16:19:29.539964+01
+156,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Articles de toilette gratuits,Équipements,2026-04-12 16:19:29.539964+01
+157,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Peignoir,Équipements,2026-04-12 16:19:29.539964+01
+158,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Sèche-cheveux,Équipements,2026-04-12 16:19:29.539964+01
+159,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Linge de maison,Équipements,2026-04-12 16:19:29.539964+01
+160,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Armoire ou penderie,Équipements,2026-04-12 16:19:29.539964+01
+161,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Très grands lits (> 2 mètres de long),Équipements,2026-04-12 16:19:29.539964+01
+162,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Vue sur la mer,Extérieur,2026-04-12 16:19:29.539964+01
+163,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Mobilier d’extérieur,Extérieur,2026-04-12 16:19:29.539964+01
+164,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Bouilloire électrique,Équipements,2026-04-12 16:19:29.539964+01
+165,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Prise près du lit,Équipements,2026-04-12 16:19:29.539964+01
+166,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Étendoir,Équipements,2026-04-12 16:19:29.539964+01
+167,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Canapé,Équipements,2026-04-12 16:19:29.539964+01
+168,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Coin salon,Équipements,2026-04-12 16:19:29.539964+01
+169,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Bureau,Équipements,2026-04-12 16:19:29.539964+01
+170,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Chaînes satellite,Équipements,2026-04-12 16:19:29.539964+01
+171,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Téléphone,Équipements,2026-04-12 16:19:29.539964+01
+172,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Télévision,Équipements,2026-04-12 16:19:29.539964+01
+173,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Service de réveil,Services,2026-04-12 16:19:29.539964+01
+174,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Coffre-fort,Équipements,2026-04-12 16:19:29.539964+01
+175,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Chambre anti-allergie,Général,2026-04-12 16:19:29.539964+01
+176,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Établissement entièrement non-fumeurs,Général,2026-04-12 16:19:29.539964+01
+177,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Sol carrelé / en marbre,Général,2026-04-12 16:19:29.539964+01
+178,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Entrée privée,Général,2026-04-12 16:19:29.539964+01
+179,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Moquette,Général,2026-04-12 16:19:29.539964+01
+180,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Ventilateur,Équipements,2026-04-12 16:19:29.539964+01
+181,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Matériel de repassage,Équipements,2026-04-12 16:19:29.539964+01
+182,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Logement entièrement situé au rez-de-chaussée,Général,2026-04-12 16:19:29.539964+01
+183,ca02cd33-a681-4e24-a2bc-4ab6ebec2bef,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,fr,Anglais,Services,2026-04-12 16:19:29.539964+01
+184,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Parking,Parking,2026-04-12 16:19:48.206319+01
+185,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Internet,Internet,2026-04-12 16:19:48.206319+01
+186,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Chambres non-fumeurs,Général,2026-04-12 16:19:48.206319+01
+187,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Café sur place,Alimentation,2026-04-12 16:19:48.206319+01
+188,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Cuisine commune,Cuisine,2026-04-12 16:19:48.206319+01
+189,237b453a-d7f8-447a-ae71-7bcef515e0b4,fa007e3a-8746-49c3-9c2f-a870ac77a418,fr,Espace repas extérieur,Extérieur,2026-04-12 16:19:48.206319+01
+190,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Pequeno-almoço,Comida e bebidas,2026-04-12 16:20:02.275249+01
+191,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Casa de banho privativa,Comodidades,2026-04-12 16:20:02.275249+01
+192,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Ar condicionado,Comodidades,2026-04-12 16:20:02.275249+01
+193,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Vista,Exterior,2026-04-12 16:20:02.275249+01
+194,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Televisão de ecrã plano,Comodidades,2026-04-12 16:20:02.275249+01
+195,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Duche,Comodidades,2026-04-12 16:20:02.275249+01
+196,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Minibar,Comodidades,2026-04-12 16:20:02.275249+01
+197,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Máquina de café,Comodidades,2026-04-12 16:20:02.275249+01
+198,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Papel higiénico,Comodidades,2026-04-12 16:20:02.275249+01
+199,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Toalhas,Comodidades,2026-04-12 16:20:02.275249+01
+200,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Bidé,Comodidades,2026-04-12 16:20:02.275249+01
+201,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Banheira ou duche,Comodidades,2026-04-12 16:20:02.275249+01
+202,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Produtos de higiene pessoal gratuitos,Comodidades,2026-04-12 16:20:02.275249+01
+203,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Roupão de banho,Comodidades,2026-04-12 16:20:02.275249+01
+204,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Secador de cabelo,Comodidades,2026-04-12 16:20:02.275249+01
+205,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Roupa de cama,Comodidades,2026-04-12 16:20:02.275249+01
+206,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Roupeiro ou closet,Comodidades,2026-04-12 16:20:02.275249+01
+207,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Camas extralongas (>2 metros),Comodidades,2026-04-12 16:20:02.275249+01
+208,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Vista mar,Exterior,2026-04-12 16:20:02.275249+01
+209,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Mobiliário de exterior,Exterior,2026-04-12 16:20:02.275249+01
+210,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Chaleira elétrica,Comodidades,2026-04-12 16:20:02.275249+01
+211,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Tomada perto da cama,Comodidades,2026-04-12 16:20:02.275249+01
+212,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Estendal para roupa,Comodidades,2026-04-12 16:20:02.275249+01
+213,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Sofá,Comodidades,2026-04-12 16:20:02.275249+01
+214,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Área de estar,Comodidades,2026-04-12 16:20:02.275249+01
+215,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Secretária,Comodidades,2026-04-12 16:20:02.275249+01
+216,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Canais por satélite,Comodidades,2026-04-12 16:20:02.275249+01
+217,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Telefone,Comodidades,2026-04-12 16:20:02.275249+01
+218,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Televisão,Comodidades,2026-04-12 16:20:02.275249+01
+219,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Serviço de despertar,Serviços,2026-04-12 16:20:02.275249+01
+220,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Cofre,Comodidades,2026-04-12 16:20:02.275249+01
+221,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Antialérgico,Geral,2026-04-12 16:20:02.275249+01
+222,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Proibido fumar em todas as áreas,Geral,2026-04-12 16:20:02.275249+01
+223,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Piso em azulejo/mármore,Geral,2026-04-12 16:20:02.275249+01
+224,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Entrada privada,Geral,2026-04-12 16:20:02.275249+01
+225,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Piso em carpete,Geral,2026-04-12 16:20:02.275249+01
+226,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Ventoinha,Comodidades,2026-04-12 16:20:02.275249+01
+227,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Comodidades de engomadoria,Comodidades,2026-04-12 16:20:02.275249+01
+228,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Toda a unidade situada no piso térreo,Geral,2026-04-12 16:20:02.275249+01
+229,e9aadcf1-19ee-4993-9d78-ecdbfc59d718,aff6d870-80ac-42c6-92dc-4f3c5a32ac21,pt,Inglês,Serviços,2026-04-12 16:20:02.275249+01
+230,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Estacionamento,Estacionamento,2026-04-12 16:20:39.009835+01
+231,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Serviços de Internet,Internet,2026-04-12 16:20:39.009835+01
+232,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Quartos para não fumadores,Geral,2026-04-12 16:20:39.009835+01
+233,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Café/cafetaria no local,Comida e bebidas,2026-04-12 16:20:39.009835+01
+234,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Cozinha partilhada,Cozinha,2026-04-12 16:20:39.009835+01
+235,9960d172-d52a-4283-ad81-ab7d3484501a,fa007e3a-8746-49c3-9c2f-a870ac77a418,pt,Área de refeições exterior,Exterior,2026-04-12 16:20:39.009835+01
+236,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:21:19.762599+01
+237,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Airport shuttle,General,2026-04-12 16:21:19.762599+01
+238,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Fitness centre,Pool & Wellness,2026-04-12 16:21:19.762599+01
+239,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Spa and wellness centre,Pool & Wellness,2026-04-12 16:21:19.762599+01
+240,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Internet services,Internet,2026-04-12 16:21:19.762599+01
+241,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Facilities for disabled guests,General,2026-04-12 16:21:19.762599+01
+242,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Bar,Food & Drink,2026-04-12 16:21:19.762599+01
+243,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Beachfront,Outdoors & View,2026-04-12 16:21:19.762599+01
+244,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Private beach area,Outdoors & View,2026-04-12 16:21:19.762599+01
+245,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Restaurant,Food & Drink,2026-04-12 16:21:19.762599+01
+246,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Grocery deliveries,General,2026-04-12 16:21:19.762599+01
+247,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Packed lunches,General,2026-04-12 16:21:19.762599+01
+248,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Fruits,Food & Drink,2026-04-12 16:21:19.762599+01
+249,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Wine/champagne,Food & Drink,2026-04-12 16:21:19.762599+01
+250,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Kids' meals,Food & Drink,2026-04-12 16:21:19.762599+01
+251,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Special diet menus (on request),Food & Drink,2026-04-12 16:21:19.762599+01
+252,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Snack bar,Food & Drink,2026-04-12 16:21:19.762599+01
+253,ab608273-ea61-49ce-8d30-c6c8d9a8512b,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,en,Breakfast in the room,Food & Drink,2026-04-12 16:21:19.762599+01
+254,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Pool 1 - outdoor,Pool & Wellness,2026-04-12 16:21:34.895912+01
+255,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Internet services,Internet,2026-04-12 16:21:34.895912+01
+256,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Airport shuttle,General,2026-04-12 16:21:34.895912+01
+257,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Family rooms,General,2026-04-12 16:21:34.895912+01
+258,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Restaurant,Food & Drink,2026-04-12 16:21:34.895912+01
+259,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Tea/Coffee maker,Food & Drink,2026-04-12 16:21:34.895912+01
+260,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Bar,Food & Drink,2026-04-12 16:21:34.895912+01
+261,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Beachfront,Outdoors & View,2026-04-12 16:21:34.895912+01
+262,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Private beach area,Outdoors & View,2026-04-12 16:21:34.895912+01
+263,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Coffee house on site,Food & Drink,2026-04-12 16:21:34.895912+01
+264,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Fruits,Food & Drink,2026-04-12 16:21:34.895912+01
+265,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Wine/champagne,Food & Drink,2026-04-12 16:21:34.895912+01
+266,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Kid-friendly buffet,Food & Drink,2026-04-12 16:21:34.895912+01
+267,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Kids' meals,Food & Drink,2026-04-12 16:21:34.895912+01
+268,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Special diet menus (on request),Food & Drink,2026-04-12 16:21:34.895912+01
+269,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Snack bar,Food & Drink,2026-04-12 16:21:34.895912+01
+270,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Breakfast in the room,Food & Drink,2026-04-12 16:21:34.895912+01
+271,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Picnic area,Outdoors & View,2026-04-12 16:21:34.895912+01
+272,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,BBQ facilities,Outdoors & View,2026-04-12 16:21:34.895912+01
+273,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Outdoor furniture,Outdoors & View,2026-04-12 16:21:34.895912+01
+274,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Outdoor dining area,Outdoors & View,2026-04-12 16:21:34.895912+01
+275,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Refrigerator,Kitchen,2026-04-12 16:21:34.895912+01
+276,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Electric kettle,Kitchen,2026-04-12 16:21:34.895912+01
+277,b7c3a25c-2284-4cde-bd27-ecdf8103736d,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,en,Coffee machine,Kitchen,2026-04-12 16:21:34.895912+01
+278,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:22:32.126325+01
+279,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Traslado aeropuerto,General,2026-04-12 16:22:32.126325+01
+280,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Gimnasio,Piscina y bienestar,2026-04-12 16:22:32.126325+01
+281,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Internet,Internet,2026-04-12 16:22:32.126325+01
+282,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Spa y centro de bienestar,Piscina y bienestar,2026-04-12 16:22:32.126325+01
+283,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Adaptado personas de movilidad reducida,General,2026-04-12 16:22:32.126325+01
+284,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Bar,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+285,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Situado frente a la playa,Exteriores y vistas,2026-04-12 16:22:32.126325+01
+286,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Zona privada de playa,Exteriores y vistas,2026-04-12 16:22:32.126325+01
+287,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Restaurante,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+288,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Servicio de entrega de comestibles,General,2026-04-12 16:22:32.126325+01
+289,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Almuerzos para llevar,General,2026-04-12 16:22:32.126325+01
+290,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Fruta,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+291,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+292,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+293,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Snack-bar,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+294,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Desayuno en la habitación,Alimentos y bebidas,2026-04-12 16:22:32.126325+01
+295,92218d2d-4a2b-4a4a-84c7-f92a836736dc,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,es,Menú para niños,Familia e hijos,2026-04-12 16:22:32.126325+01
+296,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Piscina 1 - Al aire libre,Piscina y bienestar,2026-04-12 16:22:47.306861+01
+297,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Internet,Internet,2026-04-12 16:22:47.306861+01
+298,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Traslado aeropuerto,General,2026-04-12 16:22:47.306861+01
+299,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Habitaciones familiares,General,2026-04-12 16:22:47.306861+01
+300,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Restaurante,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+301,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Tetera / cafetera,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+302,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Bar,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+303,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Situado frente a la playa,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+304,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Zona privada de playa,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+305,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Cafetería en el alojamiento,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+306,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Fruta,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+307,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+308,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Buffet para niños,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+309,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Menú para niños,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+310,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+311,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Snack-bar,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+312,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Desayuno en la habitación,Alimentos y bebidas,2026-04-12 16:22:47.306861+01
+313,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Zona de pícnic,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+314,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Barbacoa,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+315,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Muebles de exterior,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+316,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Zona de comedor exterior,Exteriores y vistas,2026-04-12 16:22:47.306861+01
+317,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Nevera,Cocina,2026-04-12 16:22:47.306861+01
+318,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Hervidor eléctrico,Cocina,2026-04-12 16:22:47.306861+01
+319,f41533d5-02f5-4489-8318-ad4ed25c8c57,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,es,Cafetera,Cocina,2026-04-12 16:22:47.306861+01
+1260,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Außenpool,Pool & Wellness,2026-04-12 16:50:15.958937+01
+1261,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Internet,Internet,2026-04-12 16:50:15.958937+01
+1262,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Parkplatz,Parken,2026-04-12 16:50:15.958937+01
+1263,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Fitnesscenter,Pool & Wellness,2026-04-12 16:50:15.958937+01
+1264,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Restaurant,Speisen & Getränke,2026-04-12 16:50:15.958937+01
+1265,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:50:15.958937+01
+1266,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,24-Stunden-Rezeption,Dienstleistungen,2026-04-12 16:50:15.958937+01
+1267,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Zimmerservice,Dienstleistungen,2026-04-12 16:50:15.958937+01
+1268,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Bar,Speisen & Getränke,2026-04-12 16:50:15.958937+01
+1269,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Minimarkt vor Ort,Allgemein,2026-04-12 16:50:15.958937+01
+1270,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:50:15.958937+01
+1271,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Kindermahlzeiten,Familie & Kinder,2026-04-12 16:50:15.958937+01
+1272,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Mikrowelle,Küche,2026-04-12 16:50:15.958937+01
+1273,df4883d7-5273-4bba-b546-3d613c0af77b,dd01e2ae-56d6-47a4-af78-4485c497ef62,de,Küche,Küche,2026-04-12 16:50:15.958937+01
+1320,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:52:20.647182+01
+1321,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Serviços de Internet,Internet,2026-04-12 16:52:20.647182+01
+1322,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Frente à praia,Exterior,2026-04-12 16:52:20.647182+01
+1323,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Quartos familiares,Família e crianças,2026-04-12 16:52:20.647182+01
+1324,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Restaurante,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1325,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Serviço de quartos,Geral,2026-04-12 16:52:20.647182+01
+1326,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Quartos para não fumadores,Geral,2026-04-12 16:52:20.647182+01
+1327,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Receção disponível 24 horas,Recepção,2026-04-12 16:52:20.647182+01
+1328,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Bar,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1329,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Café/cafetaria no local,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1330,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Fruta,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1331,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1332,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:52:20.647182+01
+1333,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Snack-bar,Comida e bebidas,2026-04-12 16:52:20.647182+01
+1334,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Buffet adequado para crianças,Família e crianças,2026-04-12 16:52:20.647182+01
+1335,c016f596-6d28-4b7c-89ac-bcc5aca7b1b9,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,pt,Refeições para crianças,Família e crianças,2026-04-12 16:52:20.647182+01
+1336,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:52:31.050803+01
+1337,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Internet,Internet,2026-04-12 16:52:31.050803+01
+1338,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Parking,Parking,2026-04-12 16:52:31.050803+01
+1339,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Centre de remise en forme,Piscine & bien-être,2026-04-12 16:52:31.050803+01
+1340,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Restaurant,Alimentation,2026-04-12 16:52:31.050803+01
+1341,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Chambres non-fumeurs,Général,2026-04-12 16:52:31.050803+01
+1342,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Réception ouverte 24h/24,Services,2026-04-12 16:52:31.050803+01
+1343,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Service d'étage,Services,2026-04-12 16:52:31.050803+01
+1344,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Bar,Alimentation,2026-04-12 16:52:31.050803+01
+1345,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Supérette sur place,Général,2026-04-12 16:52:31.050803+01
+320,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Außenpool,Pool & Wellness,2026-04-12 16:23:01.755914+01
+321,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Flughafenshuttle,Allgemein,2026-04-12 16:23:01.755914+01
+322,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Fitnesscenter,Pool & Wellness,2026-04-12 16:23:01.755914+01
+323,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Internet,Internet,2026-04-12 16:23:01.755914+01
+324,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Spa & Wellnesscenter,Pool & Wellness,2026-04-12 16:23:01.755914+01
+325,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Einrichtungen für behinderte Gäste,Allgemein,2026-04-12 16:23:01.755914+01
+326,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Bar,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+327,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,am Strand,Außenbereich,2026-04-12 16:23:01.755914+01
+328,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Privater Strand,Außenbereich,2026-04-12 16:23:01.755914+01
+329,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Restaurant,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+330,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Lebensmittellieferung,Allgemein,2026-04-12 16:23:01.755914+01
+331,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Lunchpakete,Allgemein,2026-04-12 16:23:01.755914+01
+332,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Obst,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+333,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+334,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:23:01.755914+01
+335,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Snackbar,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+336,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Frühstück im Zimmer,Speisen & Getränke,2026-04-12 16:23:01.755914+01
+337,d7b018fd-d5a1-4684-beca-5dc0ba018534,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,de,Kindermahlzeiten,Familie & Kinder,2026-04-12 16:23:01.755914+01
+338,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Pool 1 - im Freien,Pool & Wellness,2026-04-12 16:23:40.693453+01
+339,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Internet,Internet,2026-04-12 16:23:40.693453+01
+340,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Flughafenshuttle,Allgemein,2026-04-12 16:23:40.693453+01
+341,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Familienzimmer,Familie & Kinder,2026-04-12 16:23:40.693453+01
+342,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Restaurant,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+343,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Kaffee- und Teezubehör,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+344,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Bar,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+345,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,am Strand,Außenbereich,2026-04-12 16:23:40.693453+01
+346,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Privater Strand,Außenbereich,2026-04-12 16:23:40.693453+01
+347,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Café vor Ort,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+348,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Obst,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+349,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+350,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:23:40.693453+01
+351,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Snackbar,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+352,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Frühstück im Zimmer,Speisen & Getränke,2026-04-12 16:23:40.693453+01
+353,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Picknickbereich,Außenbereich,2026-04-12 16:23:40.693453+01
+354,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Grillmöglichkeiten,Außenbereich,2026-04-12 16:23:40.693453+01
+355,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Kinderfreundliches Buffet,Familie & Kinder,2026-04-12 16:23:40.693453+01
+356,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Kindermahlzeiten,Familie & Kinder,2026-04-12 16:23:40.693453+01
+357,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Gartenmöbel,Außenbereich,2026-04-12 16:23:40.693453+01
+358,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Essbereich im Freien,Außenbereich,2026-04-12 16:23:40.693453+01
+359,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Kühlschrank,Küche,2026-04-12 16:23:40.693453+01
+360,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Wasserkocher,Küche,2026-04-12 16:23:40.693453+01
+361,e498efe5-c4b3-476e-a5e2-ba117adda701,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,de,Kaffeemaschine,Küche,2026-04-12 16:23:40.693453+01
+362,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:24:05.978367+01
+363,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Navetta aeroportuale,Generale,2026-04-12 16:24:05.978367+01
+364,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Camere non fumatori,Generale,2026-04-12 16:24:05.978367+01
+365,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Palestra,Piscina & benessere,2026-04-12 16:24:05.978367+01
+366,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Spa & centro benessere,Piscina & benessere,2026-04-12 16:24:05.978367+01
+367,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Parcheggio,Parcheggio,2026-04-12 16:24:05.978367+01
+368,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Bar,Cibo e bevande,2026-04-12 16:24:05.978367+01
+369,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Fronte spiaggia,Spazi esterni,2026-04-12 16:24:05.978367+01
+370,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Spiaggia privata,Spazi esterni,2026-04-12 16:24:05.978367+01
+371,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Ristorante,Cibo e bevande,2026-04-12 16:24:05.978367+01
+372,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Consegna spesa a domicilio,Generale,2026-04-12 16:24:05.978367+01
+373,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Possibilità di pranzo al sacco,Generale,2026-04-12 16:24:05.978367+01
+374,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Frutta,Cibo e bevande,2026-04-12 16:24:05.978367+01
+375,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Vino/champagne,Cibo e bevande,2026-04-12 16:24:05.978367+01
+376,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:24:05.978367+01
+377,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Snack bar,Cibo e bevande,2026-04-12 16:24:05.978367+01
+378,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Possibilità di colazione in camera,Cibo e bevande,2026-04-12 16:24:05.978367+01
+379,761a63b1-f9e5-48a5-a1ef-e6656508c7f6,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,it,Pasti per bambini,Famiglia e bambini,2026-04-12 16:24:05.978367+01
+380,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Piscina n. 1 (scoperta),Piscina & benessere,2026-04-12 16:24:32.446595+01
+381,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Connessione internet,Internet,2026-04-12 16:24:32.446595+01
+382,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Navetta aeroportuale,Generale,2026-04-12 16:24:32.446595+01
+383,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Disponibilità di camere familiari,Generale,2026-04-12 16:24:32.446595+01
+384,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Ristorante,Cibo e bevande,2026-04-12 16:24:32.446595+01
+385,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Bollitore tè/macchina caffè,Cibo e bevande,2026-04-12 16:24:32.446595+01
+386,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Bar,Cibo e bevande,2026-04-12 16:24:32.446595+01
+387,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Fronte spiaggia,Spazi esterni,2026-04-12 16:24:32.446595+01
+388,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Spiaggia privata,Spazi esterni,2026-04-12 16:24:32.446595+01
+389,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Caffetteria sul posto,Cibo e bevande,2026-04-12 16:24:32.446595+01
+390,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Frutta,Cibo e bevande,2026-04-12 16:24:32.446595+01
+391,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Vino/champagne,Cibo e bevande,2026-04-12 16:24:32.446595+01
+392,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Buffet per bambini,Cibo e bevande,2026-04-12 16:24:32.446595+01
+393,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Pasti per bambini,Cibo e bevande,2026-04-12 16:24:32.446595+01
+394,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:24:32.446595+01
+395,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Snack bar,Cibo e bevande,2026-04-12 16:24:32.446595+01
+396,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Possibilità di colazione in camera,Cibo e bevande,2026-04-12 16:24:32.446595+01
+397,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Area picnic,Spazi esterni,2026-04-12 16:24:32.446595+01
+398,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Barbecue,Spazi esterni,2026-04-12 16:24:32.446595+01
+399,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Arredamento da esterno,Spazi esterni,2026-04-12 16:24:32.446595+01
+400,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Zona pranzo all'aperto,Spazi esterni,2026-04-12 16:24:32.446595+01
+401,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Frigorifero,Cucina,2026-04-12 16:24:32.446595+01
+402,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Bollitore elettrico,Cucina,2026-04-12 16:24:32.446595+01
+403,4e947ec9-f59c-4f22-bd1c-d0c995ed739c,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,it,Macchina da caffè,Cucina,2026-04-12 16:24:32.446595+01
+404,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:24:42.199822+01
+405,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Navette aéroport,Général,2026-04-12 16:24:42.199822+01
+406,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Chambres non-fumeurs,Général,2026-04-12 16:24:42.199822+01
+407,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Centre de remise en forme,Piscine & bien-être,2026-04-12 16:24:42.199822+01
+408,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Spa et centre de bien-être,Piscine & bien-être,2026-04-12 16:24:42.199822+01
+409,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Parking,Parking,2026-04-12 16:24:42.199822+01
+410,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Bar,Alimentation,2026-04-12 16:24:42.199822+01
+411,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,En bord de plage,Extérieur,2026-04-12 16:24:42.199822+01
+412,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Plage privée,Extérieur,2026-04-12 16:24:42.199822+01
+413,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Restaurant,Alimentation,2026-04-12 16:24:42.199822+01
+414,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Livraison de courses,Général,2026-04-12 16:24:42.199822+01
+415,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Paniers-repas,Général,2026-04-12 16:24:42.199822+01
+416,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Fruits,Alimentation,2026-04-12 16:24:42.199822+01
+417,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Vin/champagne,Alimentation,2026-04-12 16:24:42.199822+01
+418,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Menus enfants,Alimentation,2026-04-12 16:24:42.199822+01
+419,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:24:42.199822+01
+420,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Snack-bar,Alimentation,2026-04-12 16:24:42.199822+01
+421,5fe83b81-5a5c-448e-9031-7fd6e033ae5f,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,fr,Petit-déjeuner en chambre,Alimentation,2026-04-12 16:24:42.199822+01
+422,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Piscine 1 - Extérieure,Piscine & bien-être,2026-04-12 16:25:25.292385+01
+423,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Internet,Internet,2026-04-12 16:25:25.292385+01
+424,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Navette aéroport,Général,2026-04-12 16:25:25.292385+01
+425,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Chambres familiales,Général,2026-04-12 16:25:25.292385+01
+426,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Restaurant,Alimentation,2026-04-12 16:25:25.292385+01
+427,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Plateau / bouilloire,Alimentation,2026-04-12 16:25:25.292385+01
+428,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Bar,Alimentation,2026-04-12 16:25:25.292385+01
+429,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,En bord de plage,Extérieur,2026-04-12 16:25:25.292385+01
+430,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Plage privée,Extérieur,2026-04-12 16:25:25.292385+01
+431,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Café sur place,Alimentation,2026-04-12 16:25:25.292385+01
+432,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Fruits,Alimentation,2026-04-12 16:25:25.292385+01
+433,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Vin/champagne,Alimentation,2026-04-12 16:25:25.292385+01
+434,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Buffet avec options enfants,Alimentation,2026-04-12 16:25:25.292385+01
+435,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Menus enfants,Alimentation,2026-04-12 16:25:25.292385+01
+436,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:25:25.292385+01
+437,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Snack-bar,Alimentation,2026-04-12 16:25:25.292385+01
+438,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Petit-déjeuner en chambre,Alimentation,2026-04-12 16:25:25.292385+01
+439,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Aire de pique-nique,Extérieur,2026-04-12 16:25:25.292385+01
+440,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Installations pour barbecue,Extérieur,2026-04-12 16:25:25.292385+01
+441,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Mobilier d’extérieur,Extérieur,2026-04-12 16:25:25.292385+01
+442,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Espace repas extérieur,Extérieur,2026-04-12 16:25:25.292385+01
+443,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Réfrigérateur,Cuisine,2026-04-12 16:25:25.292385+01
+444,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Bouilloire électrique,Cuisine,2026-04-12 16:25:25.292385+01
+445,136a0940-5a98-4d90-a481-0a0c22f8f683,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,fr,Machine à café,Cuisine,2026-04-12 16:25:25.292385+01
+446,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:25:39.450035+01
+447,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Transfer (aeroporto),Geral,2026-04-12 16:25:39.450035+01
+448,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Centro de fitness,Piscina e bem-estar,2026-04-12 16:25:39.450035+01
+449,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Spa e centro de bem-estar,Piscina e bem-estar,2026-04-12 16:25:39.450035+01
+450,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Quartos para não fumadores,Geral,2026-04-12 16:25:39.450035+01
+451,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Serviços de Internet,Internet,2026-04-12 16:25:39.450035+01
+452,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Bar,Comida e bebidas,2026-04-12 16:25:39.450035+01
+453,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Frente à praia,Exterior,2026-04-12 16:25:39.450035+01
+454,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Área de praia privada,Exterior,2026-04-12 16:25:39.450035+01
+455,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Restaurante,Comida e bebidas,2026-04-12 16:25:39.450035+01
+456,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Entrega de mercearias,Geral,2026-04-12 16:25:39.450035+01
+457,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Refeições pré-embaladas,Geral,2026-04-12 16:25:39.450035+01
+458,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Fruta,Comida e bebidas,2026-04-12 16:25:39.450035+01
+459,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:25:39.450035+01
+460,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:25:39.450035+01
+461,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Snack-bar,Comida e bebidas,2026-04-12 16:25:39.450035+01
+462,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Pequeno-almoço no quarto,Comida e bebidas,2026-04-12 16:25:39.450035+01
+463,0a7c890c-38c8-4b1f-8028-b1052567da50,bfd29a42-d56e-4dc8-923d-e5db7bbd10b8,pt,Refeições para crianças,Família e crianças,2026-04-12 16:25:39.450035+01
+464,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Piscina 1 – Exterior,Piscina e bem-estar,2026-04-12 16:26:07.546475+01
+465,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Serviços de Internet,Internet,2026-04-12 16:26:07.546475+01
+466,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Transfer (aeroporto),Geral,2026-04-12 16:26:07.546475+01
+467,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Quartos familiares,Geral,2026-04-12 16:26:07.546475+01
+468,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Restaurante,Comida e bebidas,2026-04-12 16:26:07.546475+01
+469,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Comodidades para fazer chá e café,Comida e bebidas,2026-04-12 16:26:07.546475+01
+470,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Bar,Comida e bebidas,2026-04-12 16:26:07.546475+01
+471,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Frente à praia,Exterior,2026-04-12 16:26:07.546475+01
+472,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Área de praia privada,Exterior,2026-04-12 16:26:07.546475+01
+473,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Café/cafetaria no local,Comida e bebidas,2026-04-12 16:26:07.546475+01
+474,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Fruta,Comida e bebidas,2026-04-12 16:26:07.546475+01
+475,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:26:07.546475+01
+476,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Buffet adequado para crianças,Comida e bebidas,2026-04-12 16:26:07.546475+01
+477,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Refeições para crianças,Comida e bebidas,2026-04-12 16:26:07.546475+01
+478,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:26:07.546475+01
+479,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Snack-bar,Comida e bebidas,2026-04-12 16:26:07.546475+01
+480,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Pequeno-almoço no quarto,Comida e bebidas,2026-04-12 16:26:07.546475+01
+481,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Área para piquenique,Exterior,2026-04-12 16:26:07.546475+01
+482,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Comodidades para churrascos,Exterior,2026-04-12 16:26:07.546475+01
+483,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Mobiliário de exterior,Exterior,2026-04-12 16:26:07.546475+01
+484,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Área de refeições exterior,Exterior,2026-04-12 16:26:07.546475+01
+485,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Frigorífico,Cozinha,2026-04-12 16:26:07.546475+01
+486,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Chaleira elétrica,Cozinha,2026-04-12 16:26:07.546475+01
+487,4dde3394-1218-49b6-81ad-7bb288b920cb,f895e616-f6c8-486f-8a4f-a6432ea6ea9e,pt,Máquina de café,Cozinha,2026-04-12 16:26:07.546475+01
+488,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Pool 1 - indoor,Pool & Wellness,2026-04-12 16:26:57.472369+01
+489,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Beachfront,Outdoors & View,2026-04-12 16:26:57.472369+01
+490,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Internet services,Internet,2026-04-12 16:26:57.472369+01
+491,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Family rooms,General,2026-04-12 16:26:57.472369+01
+492,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Non-smoking rooms,General,2026-04-12 16:26:57.472369+01
+493,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Spa and wellness centre,Pool & Wellness,2026-04-12 16:26:57.472369+01
+494,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Tea/Coffee maker,Food & Drink,2026-04-12 16:26:57.472369+01
+495,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Bar,Food & Drink,2026-04-12 16:26:57.472369+01
+496,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Private beach area,Outdoors & View,2026-04-12 16:26:57.472369+01
+497,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Restaurant,Food & Drink,2026-04-12 16:26:57.472369+01
+498,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Grocery deliveries,General,2026-04-12 16:26:57.472369+01
+499,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Minimarket on site,General,2026-04-12 16:26:57.472369+01
+500,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Packed lunches,General,2026-04-12 16:26:57.472369+01
+501,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Wine/champagne,Food & Drink,2026-04-12 16:26:57.472369+01
+502,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Kids' meals,Food & Drink,2026-04-12 16:26:57.472369+01
+503,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Special diet menus (on request),Food & Drink,2026-04-12 16:26:57.472369+01
+504,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Snack bar,Food & Drink,2026-04-12 16:26:57.472369+01
+505,a345910b-dba7-4b5d-8a13-787ae8e684e5,900f1386-4d03-457b-9e47-1a9e1b32cb17,en,Breakfast in the room,Food & Drink,2026-04-12 16:26:57.472369+01
+1274,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:50:59.072738+01
+1275,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Connessione internet,Internet,2026-04-12 16:50:59.072738+01
+1276,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Fronte spiaggia,Spazi esterni,2026-04-12 16:50:59.072738+01
+1277,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Disponibilità di camere familiari,Famiglia e bambini,2026-04-12 16:50:59.072738+01
+1278,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Ristorante,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1279,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Servizio in camera,Generale,2026-04-12 16:50:59.072738+01
+1280,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Camere non fumatori,Generale,2026-04-12 16:50:59.072738+01
+1281,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Reception 24 ore su 24,Ricevimento,2026-04-12 16:50:59.072738+01
+1282,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Bar,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1283,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Caffetteria sul posto,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1284,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Frutta,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1285,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Vino/champagne,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1286,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:50:59.072738+01
+1287,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Snack bar,Cibo e bevande,2026-04-12 16:50:59.072738+01
+1288,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Buffet per bambini,Famiglia e bambini,2026-04-12 16:50:59.072738+01
+1289,6b51dfb2-fe60-4308-812a-be984e1e6fff,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,it,Pasti per bambini,Famiglia e bambini,2026-04-12 16:50:59.072738+01
+1350,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:53:29.134271+01
+1351,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Serviços de Internet,Internet,2026-04-12 16:53:29.134271+01
+1352,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Estacionamento,Estacionamento,2026-04-12 16:53:29.134271+01
+1353,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Centro de fitness,Piscina e bem-estar,2026-04-12 16:53:29.134271+01
+1354,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Restaurante,Comida e bebidas,2026-04-12 16:53:29.134271+01
+1355,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Quartos para não fumadores,Geral,2026-04-12 16:53:29.134271+01
+1356,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Receção disponível 24 horas,Serviços,2026-04-12 16:53:29.134271+01
+1357,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Serviço de quartos,Serviços,2026-04-12 16:53:29.134271+01
+1358,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Bar,Comida e bebidas,2026-04-12 16:53:29.134271+01
+1359,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Minimercado no local,Geral,2026-04-12 16:53:29.134271+01
+506,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:27:11.14549+01
+507,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Spa and wellness centre,Pool & Wellness,2026-04-12 16:27:11.14549+01
+508,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Fitness centre,Pool & Wellness,2026-04-12 16:27:11.14549+01
+509,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Restaurant,Food & Drink,2026-04-12 16:27:11.14549+01
+510,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Room service,General,2026-04-12 16:27:11.14549+01
+511,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Parking,Parking,2026-04-12 16:27:11.14549+01
+512,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Internet services,Internet,2026-04-12 16:27:11.14549+01
+513,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Tea/Coffee maker,Food & Drink,2026-04-12 16:27:11.14549+01
+514,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Bar,Food & Drink,2026-04-12 16:27:11.14549+01
+515,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Grocery deliveries,General,2026-04-12 16:27:11.14549+01
+516,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Fruits,Food & Drink,2026-04-12 16:27:11.14549+01
+517,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Wine/champagne,Food & Drink,2026-04-12 16:27:11.14549+01
+518,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Kids' meals,Food & Drink,2026-04-12 16:27:11.14549+01
+519,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Special diet menus (on request),Food & Drink,2026-04-12 16:27:11.14549+01
+520,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Picnic area,Outdoors & View,2026-04-12 16:27:11.14549+01
+521,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Oven,Kitchen,2026-04-12 16:27:11.14549+01
+522,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Dishwasher,Kitchen,2026-04-12 16:27:11.14549+01
+523,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Stovetop,Kitchen,2026-04-12 16:27:11.14549+01
+524,79ff508a-9672-4fd1-85d1-1d90808939e0,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,en,Kitchen,Kitchen,2026-04-12 16:27:11.14549+01
+525,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Piscina 1 - Cubierta,Piscina y bienestar,2026-04-12 16:28:44.461531+01
+526,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Situado frente a la playa,Exteriores y vistas,2026-04-12 16:28:44.461531+01
+527,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Internet,Internet,2026-04-12 16:28:44.461531+01
+528,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:28:44.461531+01
+529,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Habitaciones sin humo,General,2026-04-12 16:28:44.461531+01
+530,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Spa y centro de bienestar,Piscina y bienestar,2026-04-12 16:28:44.461531+01
+531,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Tetera / cafetera,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+532,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Bar,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+533,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Zona privada de playa,Exteriores y vistas,2026-04-12 16:28:44.461531+01
+534,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Restaurante,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+535,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Servicio de entrega de comestibles,General,2026-04-12 16:28:44.461531+01
+536,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Supermercado pequeño en el alojamiento,General,2026-04-12 16:28:44.461531+01
+537,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Almuerzos para llevar,General,2026-04-12 16:28:44.461531+01
+538,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+539,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+540,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Snack-bar,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+541,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Desayuno en la habitación,Alimentos y bebidas,2026-04-12 16:28:44.461531+01
+542,d388f22f-ae81-4f75-9661-3f095bb57466,900f1386-4d03-457b-9e47-1a9e1b32cb17,es,Menú para niños,Familia e hijos,2026-04-12 16:28:44.461531+01
+543,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:28:59.562696+01
+544,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Spa y centro de bienestar,Piscina y bienestar,2026-04-12 16:28:59.562696+01
+545,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Habitaciones sin humo,General,2026-04-12 16:28:59.562696+01
+546,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Restaurante,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+547,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Gimnasio,Piscina y bienestar,2026-04-12 16:28:59.562696+01
+548,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Servicio de habitaciones,General,2026-04-12 16:28:59.562696+01
+549,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Parking,Aparcamiento,2026-04-12 16:28:59.562696+01
+550,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Tetera / cafetera,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+551,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Bar,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+552,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Servicio de entrega de comestibles,General,2026-04-12 16:28:59.562696+01
+553,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Fruta,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+554,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+555,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Menú para niños,Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+556,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:28:59.562696+01
+557,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Zona de pícnic,Exteriores y vistas,2026-04-12 16:28:59.562696+01
+558,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Horno,Cocina,2026-04-12 16:28:59.562696+01
+559,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Lavavajillas,Cocina,2026-04-12 16:28:59.562696+01
+560,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Fogones,Cocina,2026-04-12 16:28:59.562696+01
+561,731ac4e6-f029-4089-81a2-6568817da548,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,es,Cocina,Cocina,2026-04-12 16:28:59.562696+01
+562,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Pool 1 - innen,Pool & Wellness,2026-04-12 16:29:33.646612+01
+563,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,am Strand,Außenbereich,2026-04-12 16:29:33.646612+01
+564,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Internet,Internet,2026-04-12 16:29:33.646612+01
+565,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Familienzimmer,Familie & Kinder,2026-04-12 16:29:33.646612+01
+566,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:29:33.646612+01
+567,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Spa & Wellnesscenter,Pool & Wellness,2026-04-12 16:29:33.646612+01
+568,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Kaffee- und Teezubehör,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+569,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Bar,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+570,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Privater Strand,Außenbereich,2026-04-12 16:29:33.646612+01
+571,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Restaurant,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+572,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Lebensmittellieferung,Allgemein,2026-04-12 16:29:33.646612+01
+573,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Minimarkt vor Ort,Allgemein,2026-04-12 16:29:33.646612+01
+574,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Lunchpakete,Allgemein,2026-04-12 16:29:33.646612+01
+575,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+576,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:29:33.646612+01
+577,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Snackbar,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+578,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Frühstück im Zimmer,Speisen & Getränke,2026-04-12 16:29:33.646612+01
+579,5752cab2-ddfd-4217-b3a7-851d0e61dada,900f1386-4d03-457b-9e47-1a9e1b32cb17,de,Kindermahlzeiten,Familie & Kinder,2026-04-12 16:29:33.646612+01
+580,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Außenpool,Pool & Wellness,2026-04-12 16:29:52.740999+01
+581,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Spa & Wellnesscenter,Pool & Wellness,2026-04-12 16:29:52.740999+01
+582,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Restaurant,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+583,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Fitnesscenter,Pool & Wellness,2026-04-12 16:29:52.740999+01
+584,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Internet,Internet,2026-04-12 16:29:52.740999+01
+585,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Zimmerservice,Allgemein,2026-04-12 16:29:52.740999+01
+586,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Parkplatz,Parken,2026-04-12 16:29:52.740999+01
+587,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Kaffee- und Teezubehör,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+588,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Bar,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+589,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Lebensmittellieferung,Allgemein,2026-04-12 16:29:52.740999+01
+590,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Obst,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+591,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+592,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Kindermahlzeiten,Speisen & Getränke,2026-04-12 16:29:52.740999+01
+593,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:29:52.740999+01
+594,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Picknickbereich,Außenbereich,2026-04-12 16:29:52.740999+01
+595,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Backofen,Küche,2026-04-12 16:29:52.740999+01
+596,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Spülmaschine,Küche,2026-04-12 16:29:52.740999+01
+597,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Herdplatte,Küche,2026-04-12 16:29:52.740999+01
+598,edc564f5-82e0-4010-b3bd-2353990e9943,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,de,Küche,Küche,2026-04-12 16:29:52.740999+01
+635,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:31:01.789099+01
+636,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Spa & centro benessere,Piscina & benessere,2026-04-12 16:31:01.789099+01
+637,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Ristorante,Cibo e bevande,2026-04-12 16:31:01.789099+01
+638,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Palestra,Piscina & benessere,2026-04-12 16:31:01.789099+01
+639,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Camere non fumatori,Generale,2026-04-12 16:31:01.789099+01
+640,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Servizio in camera,Generale,2026-04-12 16:31:01.789099+01
+641,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Parcheggio,Parcheggio,2026-04-12 16:31:01.789099+01
+642,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Bollitore tè/macchina caffè,Cibo e bevande,2026-04-12 16:31:01.789099+01
+643,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Bar,Cibo e bevande,2026-04-12 16:31:01.789099+01
+644,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Consegna spesa a domicilio,Generale,2026-04-12 16:31:01.789099+01
+645,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Frutta,Cibo e bevande,2026-04-12 16:31:01.789099+01
+646,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Vino/champagne,Cibo e bevande,2026-04-12 16:31:01.789099+01
+647,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:31:01.789099+01
+648,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Area picnic,Spazi esterni,2026-04-12 16:31:01.789099+01
+649,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Pasti per bambini,Famiglia e bambini,2026-04-12 16:31:01.789099+01
+650,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Forno,Cucina,2026-04-12 16:31:01.789099+01
+651,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Lavastoviglie,Cucina,2026-04-12 16:31:01.789099+01
+652,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Piano cottura,Cucina,2026-04-12 16:31:01.789099+01
+653,a1458b8e-bb36-4c05-9fb1-c903ffd69463,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,it,Cucina,Cucina,2026-04-12 16:31:01.789099+01
+1290,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:51:22.883338+01
+1291,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Connessione internet,Internet,2026-04-12 16:51:22.883338+01
+1292,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Parcheggio,Parcheggio,2026-04-12 16:51:22.883338+01
+1293,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Palestra,Piscina & benessere,2026-04-12 16:51:22.883338+01
+1294,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Ristorante,Cibo e bevande,2026-04-12 16:51:22.883338+01
+1295,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Camere non fumatori,Generale,2026-04-12 16:51:22.883338+01
+1296,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Reception 24 ore su 24,Servizi,2026-04-12 16:51:22.883338+01
+1297,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Servizio in camera,Servizi,2026-04-12 16:51:22.883338+01
+1298,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Bar,Cibo e bevande,2026-04-12 16:51:22.883338+01
+1299,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Minimarket sul posto,Generale,2026-04-12 16:51:22.883338+01
+1300,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Vino/champagne,Cibo e bevande,2026-04-12 16:51:22.883338+01
+1301,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Pasti per bambini,Cibo e bevande,2026-04-12 16:51:22.883338+01
+1302,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Forno a microonde,Cucina,2026-04-12 16:51:22.883338+01
+1303,d58679f9-abd7-47d0-8afc-851b1999d182,dd01e2ae-56d6-47a4-af78-4485c497ef62,it,Cucina,Cucina,2026-04-12 16:51:22.883338+01
+599,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Piscina n. 1 (coperta),Piscina & benessere,2026-04-12 16:30:10.563552+01
+600,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Fronte spiaggia,Spazi esterni,2026-04-12 16:30:10.563552+01
+601,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Connessione internet,Internet,2026-04-12 16:30:10.563552+01
+602,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Disponibilità di camere familiari,Famiglia e bambini,2026-04-12 16:30:10.563552+01
+603,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Camere non fumatori,Generale,2026-04-12 16:30:10.563552+01
+604,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Spa & centro benessere,Piscina & benessere,2026-04-12 16:30:10.563552+01
+605,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Bollitore tè/macchina caffè,Cibo e bevande,2026-04-12 16:30:10.563552+01
+606,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Bar,Cibo e bevande,2026-04-12 16:30:10.563552+01
+607,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Spiaggia privata,Spazi esterni,2026-04-12 16:30:10.563552+01
+608,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Ristorante,Cibo e bevande,2026-04-12 16:30:10.563552+01
+609,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Consegna spesa a domicilio,Generale,2026-04-12 16:30:10.563552+01
+610,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Minimarket sul posto,Generale,2026-04-12 16:30:10.563552+01
+611,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Possibilità di pranzo al sacco,Generale,2026-04-12 16:30:10.563552+01
+612,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Vino/champagne,Cibo e bevande,2026-04-12 16:30:10.563552+01
+613,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:30:10.563552+01
+614,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Snack bar,Cibo e bevande,2026-04-12 16:30:10.563552+01
+615,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Possibilità di colazione in camera,Cibo e bevande,2026-04-12 16:30:10.563552+01
+616,b1b5a454-c8a1-468c-aab8-b920124d97cc,900f1386-4d03-457b-9e47-1a9e1b32cb17,it,Pasti per bambini,Famiglia e bambini,2026-04-12 16:30:10.563552+01
+1304,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:51:40.302076+01
+1305,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Internet,Internet,2026-04-12 16:51:40.302076+01
+1306,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,En bord de plage,Extérieur,2026-04-12 16:51:40.302076+01
+1307,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:51:40.302076+01
+1308,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Restaurant,Alimentation,2026-04-12 16:51:40.302076+01
+1309,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Service d'étage,Général,2026-04-12 16:51:40.302076+01
+1310,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Chambres non-fumeurs,Général,2026-04-12 16:51:40.302076+01
+1311,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Réception ouverte 24h/24,Réception,2026-04-12 16:51:40.302076+01
+1312,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Bar,Alimentation,2026-04-12 16:51:40.302076+01
+1313,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Café sur place,Alimentation,2026-04-12 16:51:40.302076+01
+1314,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Fruits,Alimentation,2026-04-12 16:51:40.302076+01
+1315,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Vin/champagne,Alimentation,2026-04-12 16:51:40.302076+01
+1316,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:51:40.302076+01
+1317,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Snack-bar,Alimentation,2026-04-12 16:51:40.302076+01
+1318,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Buffet avec options enfants,Famille & Enfants,2026-04-12 16:51:40.302076+01
+1319,821757a5-c420-4d76-ae36-15ab01d88c83,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,fr,Menus enfants,Famille & Enfants,2026-04-12 16:51:40.302076+01
+617,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Piscine 1 - Intérieure,Piscine & bien-être,2026-04-12 16:30:55.746286+01
+618,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,En bord de plage,Extérieur,2026-04-12 16:30:55.746286+01
+619,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Internet,Internet,2026-04-12 16:30:55.746286+01
+620,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:30:55.746286+01
+621,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Chambres non-fumeurs,Général,2026-04-12 16:30:55.746286+01
+622,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Spa et centre de bien-être,Piscine & bien-être,2026-04-12 16:30:55.746286+01
+623,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Plateau / bouilloire,Alimentation,2026-04-12 16:30:55.746286+01
+624,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Bar,Alimentation,2026-04-12 16:30:55.746286+01
+625,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Plage privée,Extérieur,2026-04-12 16:30:55.746286+01
+626,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Restaurant,Alimentation,2026-04-12 16:30:55.746286+01
+627,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Livraison de courses,Général,2026-04-12 16:30:55.746286+01
+628,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Supérette sur place,Général,2026-04-12 16:30:55.746286+01
+629,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Paniers-repas,Général,2026-04-12 16:30:55.746286+01
+630,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Vin/champagne,Alimentation,2026-04-12 16:30:55.746286+01
+631,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:30:55.746286+01
+632,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Snack-bar,Alimentation,2026-04-12 16:30:55.746286+01
+633,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Petit-déjeuner en chambre,Alimentation,2026-04-12 16:30:55.746286+01
+634,6365d6c3-b388-405b-8577-be4da157ba00,900f1386-4d03-457b-9e47-1a9e1b32cb17,fr,Menus enfants,Famille & Enfants,2026-04-12 16:30:55.746286+01
+654,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Piscina 1 – Interior,Piscina e bem-estar,2026-04-12 16:31:21.939529+01
+655,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Frente à praia,Exterior,2026-04-12 16:31:21.939529+01
+656,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Serviços de Internet,Internet,2026-04-12 16:31:21.939529+01
+657,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Quartos familiares,Família e crianças,2026-04-12 16:31:21.939529+01
+658,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Quartos para não fumadores,Geral,2026-04-12 16:31:21.939529+01
+659,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Spa e centro de bem-estar,Piscina e bem-estar,2026-04-12 16:31:21.939529+01
+660,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Comodidades para fazer chá e café,Comida e bebidas,2026-04-12 16:31:21.939529+01
+661,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Bar,Comida e bebidas,2026-04-12 16:31:21.939529+01
+662,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Área de praia privada,Exterior,2026-04-12 16:31:21.939529+01
+663,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Restaurante,Comida e bebidas,2026-04-12 16:31:21.939529+01
+664,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Entrega de mercearias,Geral,2026-04-12 16:31:21.939529+01
+665,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Minimercado no local,Geral,2026-04-12 16:31:21.939529+01
+666,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Refeições pré-embaladas,Geral,2026-04-12 16:31:21.939529+01
+667,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:31:21.939529+01
+668,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:31:21.939529+01
+669,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Snack-bar,Comida e bebidas,2026-04-12 16:31:21.939529+01
+670,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Pequeno-almoço no quarto,Comida e bebidas,2026-04-12 16:31:21.939529+01
+671,9fab80e4-e8d8-470e-8d5e-c8de4ea85125,900f1386-4d03-457b-9e47-1a9e1b32cb17,pt,Refeições para crianças,Família e crianças,2026-04-12 16:31:21.939529+01
+672,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:31:56.997323+01
+673,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Spa et centre de bien-être,Piscine & bien-être,2026-04-12 16:31:56.997323+01
+674,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Restaurant,Alimentation,2026-04-12 16:31:56.997323+01
+675,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Centre de remise en forme,Piscine & bien-être,2026-04-12 16:31:56.997323+01
+676,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Internet,Internet,2026-04-12 16:31:56.997323+01
+677,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Service d'étage,Général,2026-04-12 16:31:56.997323+01
+678,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Parking,Parking,2026-04-12 16:31:56.997323+01
+679,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Plateau / bouilloire,Alimentation,2026-04-12 16:31:56.997323+01
+680,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Bar,Alimentation,2026-04-12 16:31:56.997323+01
+681,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Livraison de courses,Général,2026-04-12 16:31:56.997323+01
+682,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Fruits,Alimentation,2026-04-12 16:31:56.997323+01
+683,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Vin/champagne,Alimentation,2026-04-12 16:31:56.997323+01
+684,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:31:56.997323+01
+685,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Aire de pique-nique,Extérieur,2026-04-12 16:31:56.997323+01
+686,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Menus enfants,Famille & Enfants,2026-04-12 16:31:56.997323+01
+687,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Four,Cuisine,2026-04-12 16:31:56.997323+01
+688,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Lave-vaisselle,Cuisine,2026-04-12 16:31:56.997323+01
+689,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Plaque de cuisson,Cuisine,2026-04-12 16:31:56.997323+01
+690,6697ba9c-20c9-4703-9e4b-6d41dc12d320,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,fr,Cuisine,Cuisine,2026-04-12 16:31:56.997323+01
+691,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:32:23.924085+01
+692,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Spa e centro de bem-estar,Piscina e bem-estar,2026-04-12 16:32:23.924085+01
+693,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Restaurante,Comida e bebidas,2026-04-12 16:32:23.924085+01
+694,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Centro de fitness,Piscina e bem-estar,2026-04-12 16:32:23.924085+01
+695,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Serviços de Internet,Internet,2026-04-12 16:32:23.924085+01
+696,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Serviço de quartos,Geral,2026-04-12 16:32:23.924085+01
+697,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Estacionamento,Estacionamento,2026-04-12 16:32:23.924085+01
+698,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Comodidades para fazer chá e café,Comida e bebidas,2026-04-12 16:32:23.924085+01
+699,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Bar,Comida e bebidas,2026-04-12 16:32:23.924085+01
+700,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Entrega de mercearias,Geral,2026-04-12 16:32:23.924085+01
+701,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Fruta,Comida e bebidas,2026-04-12 16:32:23.924085+01
+702,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:32:23.924085+01
+703,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Refeições para crianças,Comida e bebidas,2026-04-12 16:32:23.924085+01
+704,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:32:23.924085+01
+705,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Área para piquenique,Exterior,2026-04-12 16:32:23.924085+01
+706,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Forno,Cozinha,2026-04-12 16:32:23.924085+01
+707,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Máquina de lavar louça,Cozinha,2026-04-12 16:32:23.924085+01
+708,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Placa de fogão,Cozinha,2026-04-12 16:32:23.924085+01
+709,b7c53326-bed3-47a0-bf32-b837a6f8f673,cefb2059-f7ae-447a-b9ef-ea49ca6fabc3,pt,Cozinha,Cozinha,2026-04-12 16:32:23.924085+01
+710,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:33:04.835047+01
+711,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Internet services,Internet,2026-04-12 16:33:04.835047+01
+712,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Beachfront,Outdoors & View,2026-04-12 16:33:04.835047+01
+713,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Airport shuttle,Services,2026-04-12 16:33:04.835047+01
+714,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Non-smoking rooms,General,2026-04-12 16:33:04.835047+01
+715,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Parking,Parking,2026-04-12 16:33:04.835047+01
+716,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Family rooms,General,2026-04-12 16:33:04.835047+01
+717,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Tea/Coffee maker,Food & Drink,2026-04-12 16:33:04.835047+01
+718,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Bar,Food & Drink,2026-04-12 16:33:04.835047+01
+719,940fd634-9276-4628-be7b-1ecb2edaaa79,c5272241-8489-4482-8e99-3747ada7256a,en,Restaurant,Food & Drink,2026-04-12 16:33:04.835047+01
+720,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:33:19.211539+01
+721,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Internet services,Internet,2026-04-12 16:33:19.211539+01
+722,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Family rooms,General,2026-04-12 16:33:19.211539+01
+723,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Parking,Parking,2026-04-12 16:33:19.211539+01
+724,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Restaurant,Food & Drink,2026-04-12 16:33:19.211539+01
+725,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Non-smoking rooms,General,2026-04-12 16:33:19.211539+01
+726,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Bar,Food & Drink,2026-04-12 16:33:19.211539+01
+727,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Microwave,Kitchen,2026-04-12 16:33:19.211539+01
+728,1bb5630c-23cb-4205-bf28-f455f23cab27,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,en,Refrigerator,Kitchen,2026-04-12 16:33:19.211539+01
+729,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:33:45.700419+01
+730,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Internet,Internet,2026-04-12 16:33:45.700419+01
+731,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Situado frente a la playa,Exteriores y vistas,2026-04-12 16:33:45.700419+01
+732,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Traslado aeropuerto,Servicios,2026-04-12 16:33:45.700419+01
+733,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Habitaciones sin humo,General,2026-04-12 16:33:45.700419+01
+734,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Parking,Aparcamiento,2026-04-12 16:33:45.700419+01
+735,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Habitaciones familiares,General,2026-04-12 16:33:45.700419+01
+736,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Tetera / cafetera,Alimentos y bebidas,2026-04-12 16:33:45.700419+01
+737,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Bar,Alimentos y bebidas,2026-04-12 16:33:45.700419+01
+738,a42463fb-5805-4b28-9898-31ac4467d44b,c5272241-8489-4482-8e99-3747ada7256a,es,Restaurante,Alimentos y bebidas,2026-04-12 16:33:45.700419+01
+739,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:34:17.528766+01
+740,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Internet,Internet,2026-04-12 16:34:17.528766+01
+741,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:34:17.528766+01
+742,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Parking,Aparcamiento,2026-04-12 16:34:17.528766+01
+743,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Restaurante,Alimentos y bebidas,2026-04-12 16:34:17.528766+01
+744,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Habitaciones sin humo,General,2026-04-12 16:34:17.528766+01
+745,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Bar,Alimentos y bebidas,2026-04-12 16:34:17.528766+01
+746,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Microondas,Cocina,2026-04-12 16:34:17.528766+01
+747,5a1642f5-7896-4bd2-8c41-102d1d0e264d,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,es,Nevera,Cocina,2026-04-12 16:34:17.528766+01
+767,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:35:15.792422+01
+768,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Connessione internet,Internet,2026-04-12 16:35:15.792422+01
+769,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Fronte spiaggia,Spazi esterni,2026-04-12 16:35:15.792422+01
+770,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Navetta aeroportuale,Servizi,2026-04-12 16:35:15.792422+01
+771,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Camere non fumatori,Generale,2026-04-12 16:35:15.792422+01
+772,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Parcheggio,Parcheggio,2026-04-12 16:35:15.792422+01
+773,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Disponibilità di camere familiari,Famiglia e bambini,2026-04-12 16:35:15.792422+01
+774,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Bollitore tè/macchina caffè,Cibo e bevande,2026-04-12 16:35:15.792422+01
+775,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Bar,Cibo e bevande,2026-04-12 16:35:15.792422+01
+776,775d8d0d-fb11-4aaa-84b8-a880b05e3deb,c5272241-8489-4482-8e99-3747ada7256a,it,Ristorante,Cibo e bevande,2026-04-12 16:35:15.792422+01
+777,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:35:37.222375+01
+778,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Connessione internet,Internet,2026-04-12 16:35:37.222375+01
+779,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Disponibilità di camere familiari,Famiglia e bambini,2026-04-12 16:35:37.222375+01
+780,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Parcheggio,Parcheggio,2026-04-12 16:35:37.222375+01
+781,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Ristorante,Cibo e bevande,2026-04-12 16:35:37.222375+01
+782,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Camere non fumatori,Generale,2026-04-12 16:35:37.222375+01
+783,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Bar,Cibo e bevande,2026-04-12 16:35:37.222375+01
+784,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Forno a microonde,Cucina,2026-04-12 16:35:37.222375+01
+785,1d875e44-a56f-4f45-9e7c-c43ce1ce91fa,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,it,Frigorifero,Cucina,2026-04-12 16:35:37.222375+01
+1346,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Vin/champagne,Alimentation,2026-04-12 16:52:31.050803+01
+1347,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Menus enfants,Alimentation,2026-04-12 16:52:31.050803+01
+1348,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Micro-ondes,Cuisine,2026-04-12 16:52:31.050803+01
+1349,453ddbc0-d007-47e7-b777-cadf8af6a0c2,dd01e2ae-56d6-47a4-af78-4485c497ef62,fr,Cuisine,Cuisine,2026-04-12 16:52:31.050803+01
+748,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Außenpool,Pool & Wellness,2026-04-12 16:34:37.396746+01
+749,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Internet,Internet,2026-04-12 16:34:37.396746+01
+750,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,am Strand,Außenbereich,2026-04-12 16:34:37.396746+01
+751,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Flughafenshuttle,Dienstleistungen,2026-04-12 16:34:37.396746+01
+752,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:34:37.396746+01
+753,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Parkplatz,Parken,2026-04-12 16:34:37.396746+01
+754,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Familienzimmer,Familie & Kinder,2026-04-12 16:34:37.396746+01
+755,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Kaffee- und Teezubehör,Speisen & Getränke,2026-04-12 16:34:37.396746+01
+756,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Bar,Speisen & Getränke,2026-04-12 16:34:37.396746+01
+757,38b4a173-0cba-4369-851f-2c196e80be7a,c5272241-8489-4482-8e99-3747ada7256a,de,Restaurant,Speisen & Getränke,2026-04-12 16:34:37.396746+01
+758,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Außenpool,Pool & Wellness,2026-04-12 16:34:51.863622+01
+759,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Internet,Internet,2026-04-12 16:34:51.863622+01
+760,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Familienzimmer,Familie & Kinder,2026-04-12 16:34:51.863622+01
+761,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Parkplatz,Parken,2026-04-12 16:34:51.863622+01
+762,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Restaurant,Speisen & Getränke,2026-04-12 16:34:51.863622+01
+763,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:34:51.863622+01
+764,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Bar,Speisen & Getränke,2026-04-12 16:34:51.863622+01
+765,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Mikrowelle,Küche,2026-04-12 16:34:51.863622+01
+766,640c36b0-940b-4120-8b46-dc8f3d134668,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,de,Kühlschrank,Küche,2026-04-12 16:34:51.863622+01
+786,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:36:04.061805+01
+787,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Internet,Internet,2026-04-12 16:36:04.061805+01
+788,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,En bord de plage,Extérieur,2026-04-12 16:36:04.061805+01
+789,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Navette aéroport,Services,2026-04-12 16:36:04.061805+01
+790,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Chambres non-fumeurs,Général,2026-04-12 16:36:04.061805+01
+791,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Parking,Parking,2026-04-12 16:36:04.061805+01
+792,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:36:04.061805+01
+793,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Plateau / bouilloire,Alimentation,2026-04-12 16:36:04.061805+01
+794,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Bar,Alimentation,2026-04-12 16:36:04.061805+01
+795,aa9be979-a68b-4d01-9317-43aaf86d7cc1,c5272241-8489-4482-8e99-3747ada7256a,fr,Restaurant,Alimentation,2026-04-12 16:36:04.061805+01
+796,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:36:18.028375+01
+797,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Internet,Internet,2026-04-12 16:36:18.028375+01
+798,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:36:18.028375+01
+799,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Parking,Parking,2026-04-12 16:36:18.028375+01
+800,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Restaurant,Alimentation,2026-04-12 16:36:18.028375+01
+801,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Chambres non-fumeurs,Général,2026-04-12 16:36:18.028375+01
+802,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Bar,Alimentation,2026-04-12 16:36:18.028375+01
+803,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Micro-ondes,Cuisine,2026-04-12 16:36:18.028375+01
+804,18460611-b9f5-4948-9269-6a410c596bc4,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,fr,Réfrigérateur,Cuisine,2026-04-12 16:36:18.028375+01
+805,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:36:32.350558+01
+806,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Serviços de Internet,Internet,2026-04-12 16:36:32.350558+01
+807,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Frente à praia,Exterior,2026-04-12 16:36:32.350558+01
+808,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Transfer (aeroporto),Serviços,2026-04-12 16:36:32.350558+01
+809,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Quartos para não fumadores,Geral,2026-04-12 16:36:32.350558+01
+810,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Estacionamento,Estacionamento,2026-04-12 16:36:32.350558+01
+811,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Quartos familiares,Geral,2026-04-12 16:36:32.350558+01
+812,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Comodidades para fazer chá e café,Comida e bebidas,2026-04-12 16:36:32.350558+01
+813,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Bar,Comida e bebidas,2026-04-12 16:36:32.350558+01
+814,ffa385ad-673c-4673-b8db-6498f448f779,c5272241-8489-4482-8e99-3747ada7256a,pt,Restaurante,Comida e bebidas,2026-04-12 16:36:32.350558+01
+815,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:37:00.382262+01
+816,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Serviços de Internet,Internet,2026-04-12 16:37:00.382262+01
+817,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Quartos familiares,Família e crianças,2026-04-12 16:37:00.382262+01
+818,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Estacionamento,Estacionamento,2026-04-12 16:37:00.382262+01
+819,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Restaurante,Comida e bebidas,2026-04-12 16:37:00.382262+01
+820,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Quartos para não fumadores,Geral,2026-04-12 16:37:00.382262+01
+821,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Bar,Comida e bebidas,2026-04-12 16:37:00.382262+01
+822,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Micro-ondas,Cozinha,2026-04-12 16:37:00.382262+01
+823,a31f1213-28ee-48d1-99c0-66ee21c15bcf,5ca3b7a4-f0cd-4de1-a20a-34a027443cb6,pt,Frigorífico,Cozinha,2026-04-12 16:37:00.382262+01
+824,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:37:42.99379+01
+825,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Internet services,Internet,2026-04-12 16:37:42.99379+01
+826,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Airport shuttle,General,2026-04-12 16:37:42.99379+01
+827,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Spa and wellness centre,Pool & Wellness,2026-04-12 16:37:42.99379+01
+828,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Family rooms,Family & Kids,2026-04-12 16:37:42.99379+01
+829,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Parking,Parking,2026-04-12 16:37:42.99379+01
+830,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Restaurant,Food & Drink,2026-04-12 16:37:42.99379+01
+831,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Fitness centre,Pool & Wellness,2026-04-12 16:37:42.99379+01
+832,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Bar,Food & Drink,2026-04-12 16:37:42.99379+01
+833,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Special diet menus (on request),Food & Drink,2026-04-12 16:37:42.99379+01
+834,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Electric kettle,Kitchen,2026-04-12 16:37:42.99379+01
+835,a9154b5f-2fdd-41db-b136-2b89fd04a247,339786be-a450-4f2b-9fa3-e1774fb733bd,en,Coffee machine,Kitchen,2026-04-12 16:37:42.99379+01
+836,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:38:01.865963+01
+837,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Internet services,Internet,2026-04-12 16:38:01.865963+01
+838,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Airport shuttle,General,2026-04-12 16:38:01.865963+01
+839,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Family rooms,General,2026-04-12 16:38:01.865963+01
+840,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Restaurant,Food & Drink,2026-04-12 16:38:01.865963+01
+841,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Spa and wellness centre,Pool & Wellness,2026-04-12 16:38:01.865963+01
+842,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Parking,Parking,2026-04-12 16:38:01.865963+01
+843,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Tea/Coffee maker,Food & Drink,2026-04-12 16:38:01.865963+01
+844,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Bar,Food & Drink,2026-04-12 16:38:01.865963+01
+845,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Fruits,Food & Drink,2026-04-12 16:38:01.865963+01
+846,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Wine/champagne,Food & Drink,2026-04-12 16:38:01.865963+01
+847,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Special diet menus (on request),Food & Drink,2026-04-12 16:38:01.865963+01
+848,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Breakfast in the room,Food & Drink,2026-04-12 16:38:01.865963+01
+849,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,BBQ facilities,Outdoors & View,2026-04-12 16:38:01.865963+01
+850,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Outdoor furniture,Outdoors & View,2026-04-12 16:38:01.865963+01
+851,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Outdoor dining area,Outdoors & View,2026-04-12 16:38:01.865963+01
+852,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Kitchenette,Kitchen,2026-04-12 16:38:01.865963+01
+853,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Refrigerator,Kitchen,2026-04-12 16:38:01.865963+01
+854,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Microwave,Kitchen,2026-04-12 16:38:01.865963+01
+855,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Dining area,Room Amenities,2026-04-12 16:38:01.865963+01
+856,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Electric kettle,Kitchen,2026-04-12 16:38:01.865963+01
+857,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Coffee machine,Kitchen,2026-04-12 16:38:01.865963+01
+858,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Dining table,Kitchen,2026-04-12 16:38:01.865963+01
+859,65ac237f-a8b0-4496-8087-c7f1bca5c652,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,en,Children's high chair,Kitchen,2026-04-12 16:38:01.865963+01
+860,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:38:27.89067+01
+861,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Internet,Internet,2026-04-12 16:38:27.89067+01
+862,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Traslado aeropuerto,General,2026-04-12 16:38:27.89067+01
+863,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Spa y centro de bienestar,Piscina y bienestar,2026-04-12 16:38:27.89067+01
+864,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:38:27.89067+01
+865,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Parking,Aparcamiento,2026-04-12 16:38:27.89067+01
+866,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Restaurante,Alimentos y bebidas,2026-04-12 16:38:27.89067+01
+867,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Gimnasio,Piscina y bienestar,2026-04-12 16:38:27.89067+01
+868,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Bar,Alimentos y bebidas,2026-04-12 16:38:27.89067+01
+869,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:38:27.89067+01
+870,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Hervidor eléctrico,Cocina,2026-04-12 16:38:27.89067+01
+871,e6653648-9494-47c1-8d79-477a5f967c46,339786be-a450-4f2b-9fa3-e1774fb733bd,es,Cafetera,Cocina,2026-04-12 16:38:27.89067+01
+872,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:39:15.941065+01
+873,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Internet,Internet,2026-04-12 16:39:15.941065+01
+874,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Traslado aeropuerto,General,2026-04-12 16:39:15.941065+01
+875,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:39:15.941065+01
+876,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Restaurante,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+877,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Spa y centro de bienestar,Piscina y bienestar,2026-04-12 16:39:15.941065+01
+878,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Parking,Aparcamiento,2026-04-12 16:39:15.941065+01
+879,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Tetera / cafetera,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+880,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Bar,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+881,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Fruta,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+882,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+883,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+884,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Desayuno en la habitación,Alimentos y bebidas,2026-04-12 16:39:15.941065+01
+885,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Barbacoa,Exteriores y vistas,2026-04-12 16:39:15.941065+01
+886,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Muebles de exterior,Exteriores y vistas,2026-04-12 16:39:15.941065+01
+887,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Zona de comedor exterior,Exteriores y vistas,2026-04-12 16:39:15.941065+01
+888,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Zona de cocina,Cocina,2026-04-12 16:39:15.941065+01
+889,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Nevera,Cocina,2026-04-12 16:39:15.941065+01
+890,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Microondas,Cocina,2026-04-12 16:39:15.941065+01
+891,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Zona de comedor,Comodidades,2026-04-12 16:39:15.941065+01
+892,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Hervidor eléctrico,Cocina,2026-04-12 16:39:15.941065+01
+893,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Cafetera,Cocina,2026-04-12 16:39:15.941065+01
+894,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Mesa de comedor,Cocina,2026-04-12 16:39:15.941065+01
+895,d58799fd-6e0f-44cc-aaef-cc52329a9fea,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,es,Trona,Cocina,2026-04-12 16:39:15.941065+01
+896,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Außenpool,Pool & Wellness,2026-04-12 16:39:33.695193+01
+897,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Internet,Internet,2026-04-12 16:39:33.695193+01
+898,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Flughafenshuttle,Allgemein,2026-04-12 16:39:33.695193+01
+899,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Spa & Wellnesscenter,Pool & Wellness,2026-04-12 16:39:33.695193+01
+900,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Familienzimmer,Allgemein,2026-04-12 16:39:33.695193+01
+901,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Parkplatz,Parken,2026-04-12 16:39:33.695193+01
+902,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Restaurant,Speisen & Getränke,2026-04-12 16:39:33.695193+01
+903,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Fitnesscenter,Pool & Wellness,2026-04-12 16:39:33.695193+01
+904,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Bar,Speisen & Getränke,2026-04-12 16:39:33.695193+01
+905,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:39:33.695193+01
+906,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Wasserkocher,Küche,2026-04-12 16:39:33.695193+01
+907,e7b59cfe-67d4-4345-b481-6d1711253562,339786be-a450-4f2b-9fa3-e1774fb733bd,de,Kaffeemaschine,Küche,2026-04-12 16:39:33.695193+01
+1360,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:53:29.134271+01
+1361,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Refeições para crianças,Comida e bebidas,2026-04-12 16:53:29.134271+01
+1362,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Micro-ondas,Cozinha,2026-04-12 16:53:29.134271+01
+1363,06558d1e-f237-4b1e-8f55-2105573c1489,dd01e2ae-56d6-47a4-af78-4485c497ef62,pt,Cozinha,Cozinha,2026-04-12 16:53:29.134271+01
+908,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Außenpool,Pool & Wellness,2026-04-12 16:39:47.813881+01
+909,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Internet,Internet,2026-04-12 16:39:47.813881+01
+910,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Flughafenshuttle,Allgemein,2026-04-12 16:39:47.813881+01
+911,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Familienzimmer,Familie & Kinder,2026-04-12 16:39:47.813881+01
+912,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Restaurant,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+913,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Spa & Wellnesscenter,Pool & Wellness,2026-04-12 16:39:47.813881+01
+914,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Parkplatz,Parken,2026-04-12 16:39:47.813881+01
+915,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Kaffee- und Teezubehör,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+916,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Bar,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+917,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Obst,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+918,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+919,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:39:47.813881+01
+920,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Frühstück im Zimmer,Speisen & Getränke,2026-04-12 16:39:47.813881+01
+921,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Grillmöglichkeiten,Außenbereich,2026-04-12 16:39:47.813881+01
+922,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Gartenmöbel,Außenbereich,2026-04-12 16:39:47.813881+01
+923,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Essbereich im Freien,Außenbereich,2026-04-12 16:39:47.813881+01
+924,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Küchenzeile,Küche,2026-04-12 16:39:47.813881+01
+925,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Kühlschrank,Küche,2026-04-12 16:39:47.813881+01
+926,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Mikrowelle,Küche,2026-04-12 16:39:47.813881+01
+927,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Essbereich,Zimmerausstattung,2026-04-12 16:39:47.813881+01
+928,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Wasserkocher,Küche,2026-04-12 16:39:47.813881+01
+929,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Kaffeemaschine,Küche,2026-04-12 16:39:47.813881+01
+930,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Esstisch,Küche,2026-04-12 16:39:47.813881+01
+931,b062791d-1983-4bdc-8e86-3a1fd61ecaed,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,de,Hochstuhl,Küche,2026-04-12 16:39:47.813881+01
+932,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:40:29.725787+01
+933,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Connessione internet,Internet,2026-04-12 16:40:29.725787+01
+934,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Navetta aeroportuale,Generale,2026-04-12 16:40:29.725787+01
+935,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Disponibilità di camere familiari,Generale,2026-04-12 16:40:29.725787+01
+936,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Ristorante,Cibo e bevande,2026-04-12 16:40:29.725787+01
+937,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Spa & centro benessere,Piscina & benessere,2026-04-12 16:40:29.725787+01
+938,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Parcheggio,Parcheggio,2026-04-12 16:40:29.725787+01
+939,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Bollitore tè/macchina caffè,Cibo e bevande,2026-04-12 16:40:29.725787+01
+940,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Bar,Cibo e bevande,2026-04-12 16:40:29.725787+01
+941,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Frutta,Cibo e bevande,2026-04-12 16:40:29.725787+01
+942,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Vino/champagne,Cibo e bevande,2026-04-12 16:40:29.725787+01
+943,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:40:29.725787+01
+944,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Possibilità di colazione in camera,Cibo e bevande,2026-04-12 16:40:29.725787+01
+945,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Barbecue,Spazi esterni,2026-04-12 16:40:29.725787+01
+946,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Arredamento da esterno,Spazi esterni,2026-04-12 16:40:29.725787+01
+947,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Zona pranzo all'aperto,Spazi esterni,2026-04-12 16:40:29.725787+01
+948,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Angolo cottura,Cucina,2026-04-12 16:40:29.725787+01
+949,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Frigorifero,Cucina,2026-04-12 16:40:29.725787+01
+950,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Forno a microonde,Cucina,2026-04-12 16:40:29.725787+01
+951,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Zona pranzo,Dotazioni camera,2026-04-12 16:40:29.725787+01
+952,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Bollitore elettrico,Cucina,2026-04-12 16:40:29.725787+01
+953,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Macchina da caffè,Cucina,2026-04-12 16:40:29.725787+01
+954,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Tavolo da pranzo,Cucina,2026-04-12 16:40:29.725787+01
+955,60b08796-8cf5-40a7-8f3e-704b8395e57d,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,it,Seggiolone,Cucina,2026-04-12 16:40:29.725787+01
+956,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:40:44.806474+01
+957,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Connessione internet,Internet,2026-04-12 16:40:44.806474+01
+958,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Navetta aeroportuale,Generale,2026-04-12 16:40:44.806474+01
+959,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Spa & centro benessere,Piscina & benessere,2026-04-12 16:40:44.806474+01
+960,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Disponibilità di camere familiari,Generale,2026-04-12 16:40:44.806474+01
+961,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Parcheggio,Parcheggio,2026-04-12 16:40:44.806474+01
+962,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Ristorante,Cibo e bevande,2026-04-12 16:40:44.806474+01
+963,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Palestra,Piscina & benessere,2026-04-12 16:40:44.806474+01
+964,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Bar,Cibo e bevande,2026-04-12 16:40:44.806474+01
+965,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Menù per diete particolari (su richiesta),Cibo e bevande,2026-04-12 16:40:44.806474+01
+966,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Bollitore elettrico,Cucina,2026-04-12 16:40:44.806474+01
+967,71d70bfd-61f7-4a8e-879f-49b196be1555,339786be-a450-4f2b-9fa3-e1774fb733bd,it,Macchina da caffè,Cucina,2026-04-12 16:40:44.806474+01
+968,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:40:59.682689+01
+969,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Internet,Internet,2026-04-12 16:40:59.682689+01
+970,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Navette aéroport,Général,2026-04-12 16:40:59.682689+01
+971,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:40:59.682689+01
+972,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Restaurant,Alimentation,2026-04-12 16:40:59.682689+01
+973,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Spa et centre de bien-être,Piscine & bien-être,2026-04-12 16:40:59.682689+01
+974,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Parking,Parking,2026-04-12 16:40:59.682689+01
+975,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Plateau / bouilloire,Alimentation,2026-04-12 16:40:59.682689+01
+976,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Bar,Alimentation,2026-04-12 16:40:59.682689+01
+977,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Fruits,Alimentation,2026-04-12 16:40:59.682689+01
+978,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Vin/champagne,Alimentation,2026-04-12 16:40:59.682689+01
+979,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:40:59.682689+01
+980,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Petit-déjeuner en chambre,Alimentation,2026-04-12 16:40:59.682689+01
+981,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Installations pour barbecue,Extérieur,2026-04-12 16:40:59.682689+01
+982,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Mobilier d’extérieur,Extérieur,2026-04-12 16:40:59.682689+01
+983,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Espace repas extérieur,Extérieur,2026-04-12 16:40:59.682689+01
+984,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Kitchenette,Cuisine,2026-04-12 16:40:59.682689+01
+985,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Réfrigérateur,Cuisine,2026-04-12 16:40:59.682689+01
+986,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Micro-ondes,Cuisine,2026-04-12 16:40:59.682689+01
+987,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Coin repas,Équipements,2026-04-12 16:40:59.682689+01
+988,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Bouilloire électrique,Cuisine,2026-04-12 16:40:59.682689+01
+989,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Machine à café,Cuisine,2026-04-12 16:40:59.682689+01
+990,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Table à manger,Cuisine,2026-04-12 16:40:59.682689+01
+991,fe42488f-6d01-410c-8edf-a202c58538d8,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,fr,Chaise haute pour enfants,Cuisine,2026-04-12 16:40:59.682689+01
+992,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:41:43.369693+01
+993,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Internet,Internet,2026-04-12 16:41:43.369693+01
+994,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Navette aéroport,Général,2026-04-12 16:41:43.369693+01
+995,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Spa et centre de bien-être,Piscine & bien-être,2026-04-12 16:41:43.369693+01
+996,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Chambres familiales,Famille & Enfants,2026-04-12 16:41:43.369693+01
+997,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Parking,Parking,2026-04-12 16:41:43.369693+01
+998,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Restaurant,Alimentation,2026-04-12 16:41:43.369693+01
+999,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Centre de remise en forme,Piscine & bien-être,2026-04-12 16:41:43.369693+01
+1000,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Bar,Alimentation,2026-04-12 16:41:43.369693+01
+1001,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Menus pour régimes spéciaux (sur demande),Alimentation,2026-04-12 16:41:43.369693+01
+1002,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Bouilloire électrique,Cuisine,2026-04-12 16:41:43.369693+01
+1003,1959d17e-5c23-462e-90c3-996c50aa3d5c,339786be-a450-4f2b-9fa3-e1774fb733bd,fr,Machine à café,Cuisine,2026-04-12 16:41:43.369693+01
+1040,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Indoor swimming pool,Pool & Wellness,2026-04-12 16:42:53.898715+01
+1041,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Parking,Parking,2026-04-12 16:42:53.898715+01
+1042,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Internet services,Internet,2026-04-12 16:42:53.898715+01
+1043,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Family rooms,Family & Kids,2026-04-12 16:42:53.898715+01
+1044,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Airport shuttle,General,2026-04-12 16:42:53.898715+01
+1045,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Room service,General,2026-04-12 16:42:53.898715+01
+1046,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Non-smoking rooms,General,2026-04-12 16:42:53.898715+01
+1047,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,24-hour front desk,Reception,2026-04-12 16:42:53.898715+01
+1048,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Daily housekeeping,Cleaning Services,2026-04-12 16:42:53.898715+01
+1049,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Minibar,Food & Drink,2026-04-12 16:42:53.898715+01
+1050,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Dining area,Room Amenities,2026-04-12 16:42:53.898715+01
+1051,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Kitchenware,Kitchen,2026-04-12 16:42:53.898715+01
+1052,9e81f8a4-7fba-44c5-a7ff-39a84994c1a0,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,en,Microwave,Kitchen,2026-04-12 16:42:53.898715+01
+1064,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Piscina interior,Piscina y bienestar,2026-04-12 16:43:40.970574+01
+1065,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Parking,Aparcamiento,2026-04-12 16:43:40.970574+01
+1066,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Internet,Internet,2026-04-12 16:43:40.970574+01
+1067,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:43:40.970574+01
+1068,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Traslado aeropuerto,General,2026-04-12 16:43:40.970574+01
+1069,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Servicio de habitaciones,General,2026-04-12 16:43:40.970574+01
+1070,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Habitaciones sin humo,General,2026-04-12 16:43:40.970574+01
+1071,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Recepción 24 horas,Recepción,2026-04-12 16:43:40.970574+01
+1072,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Servicio de limpieza diario,Limpieza,2026-04-12 16:43:40.970574+01
+1073,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Minibar,Alimentos y bebidas,2026-04-12 16:43:40.970574+01
+1074,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Zona de comedor,Comodidades,2026-04-12 16:43:40.970574+01
+1075,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Utensilios de cocina,Cocina,2026-04-12 16:43:40.970574+01
+1076,cad06b3b-bd33-418a-bae7-d7cfa3308283,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,es,Microondas,Cocina,2026-04-12 16:43:40.970574+01
+1004,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:41:52.528717+01
+1005,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Serviços de Internet,Internet,2026-04-12 16:41:52.528717+01
+1006,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Transfer (aeroporto),Geral,2026-04-12 16:41:52.528717+01
+1007,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Quartos familiares,Família e crianças,2026-04-12 16:41:52.528717+01
+1008,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Restaurante,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1009,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Spa e centro de bem-estar,Piscina e bem-estar,2026-04-12 16:41:52.528717+01
+1010,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Estacionamento,Estacionamento,2026-04-12 16:41:52.528717+01
+1011,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Comodidades para fazer chá e café,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1012,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Bar,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1013,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Fruta,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1014,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1015,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:41:52.528717+01
+1016,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Pequeno-almoço no quarto,Comida e bebidas,2026-04-12 16:41:52.528717+01
+1017,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Comodidades para churrascos,Exterior,2026-04-12 16:41:52.528717+01
+1018,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Mobiliário de exterior,Exterior,2026-04-12 16:41:52.528717+01
+1019,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Área de refeições exterior,Exterior,2026-04-12 16:41:52.528717+01
+1020,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Kitchenette,Cozinha,2026-04-12 16:41:52.528717+01
+1021,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Frigorífico,Cozinha,2026-04-12 16:41:52.528717+01
+1022,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Micro-ondas,Cozinha,2026-04-12 16:41:52.528717+01
+1023,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Área de refeições,Comodidades,2026-04-12 16:41:52.528717+01
+1024,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Chaleira elétrica,Cozinha,2026-04-12 16:41:52.528717+01
+1025,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Máquina de café,Cozinha,2026-04-12 16:41:52.528717+01
+1026,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Mesa de jantar,Cozinha,2026-04-12 16:41:52.528717+01
+1027,ffc44a35-cb50-4ec5-84e2-d0c793479f97,89b8b4c6-997d-4a20-8dc6-2f41a6c0722f,pt,Cadeira alta para bebés,Cozinha,2026-04-12 16:41:52.528717+01
+1028,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:42:12.246457+01
+1029,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Serviços de Internet,Internet,2026-04-12 16:42:12.246457+01
+1030,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Transfer (aeroporto),Geral,2026-04-12 16:42:12.246457+01
+1031,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Spa e centro de bem-estar,Piscina e bem-estar,2026-04-12 16:42:12.246457+01
+1032,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Quartos familiares,Família e crianças,2026-04-12 16:42:12.246457+01
+1033,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Estacionamento,Estacionamento,2026-04-12 16:42:12.246457+01
+1034,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Restaurante,Comida e bebidas,2026-04-12 16:42:12.246457+01
+1035,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Centro de fitness,Piscina e bem-estar,2026-04-12 16:42:12.246457+01
+1036,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Bar,Comida e bebidas,2026-04-12 16:42:12.246457+01
+1037,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Menus especiais dietéticos (mediante pedido),Comida e bebidas,2026-04-12 16:42:12.246457+01
+1038,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Chaleira elétrica,Cozinha,2026-04-12 16:42:12.246457+01
+1039,7ae5b7cb-e983-4668-b211-e3fe28172dcb,339786be-a450-4f2b-9fa3-e1774fb733bd,pt,Máquina de café,Cozinha,2026-04-12 16:42:12.246457+01
+1053,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:43:23.509261+01
+1054,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Internet services,Internet,2026-04-12 16:43:23.509261+01
+1055,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Restaurant,Food & Drink,2026-04-12 16:43:23.509261+01
+1056,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Non-smoking rooms,General,2026-04-12 16:43:23.509261+01
+1057,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Room service,Services,2026-04-12 16:43:23.509261+01
+1058,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,24-hour front desk,Services,2026-04-12 16:43:23.509261+01
+1059,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Facilities for disabled guests,General,2026-04-12 16:43:23.509261+01
+1060,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Terrace,Outdoors & View,2026-04-12 16:43:23.509261+01
+1061,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Bar,Food & Drink,2026-04-12 16:43:23.509261+01
+1062,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Fruits,Food & Drink,2026-04-12 16:43:23.509261+01
+1063,454f98fd-2622-4015-b6fe-c9c2f3346b55,1ed666dc-25bb-4779-a5e3-a607ee471e15,en,Wine/champagne,Food & Drink,2026-04-12 16:43:23.509261+01
+1077,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:44:21.81206+01
+1078,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Internet,Internet,2026-04-12 16:44:21.81206+01
+1079,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Restaurante,Alimentos y bebidas,2026-04-12 16:44:21.81206+01
+1080,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Habitaciones sin humo,General,2026-04-12 16:44:21.81206+01
+1081,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Servicio de habitaciones,Servicios,2026-04-12 16:44:21.81206+01
+1082,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Recepción 24 horas,Servicios,2026-04-12 16:44:21.81206+01
+1083,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Adaptado personas de movilidad reducida,General,2026-04-12 16:44:21.81206+01
+1084,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Terraza,Exteriores y vistas,2026-04-12 16:44:21.81206+01
+1085,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Bar,Alimentos y bebidas,2026-04-12 16:44:21.81206+01
+1086,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Fruta,Alimentos y bebidas,2026-04-12 16:44:21.81206+01
+1087,d321c2e5-13d5-49c0-ba00-acaa073a775c,1ed666dc-25bb-4779-a5e3-a607ee471e15,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:44:21.81206+01
+1088,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Innenpool,Pool & Wellness,2026-04-12 16:44:40.558994+01
+1089,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Parkplatz,Parken,2026-04-12 16:44:40.558994+01
+1090,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Internet,Internet,2026-04-12 16:44:40.558994+01
+1091,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Familienzimmer,Familie & Kinder,2026-04-12 16:44:40.558994+01
+1092,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Flughafenshuttle,Allgemein,2026-04-12 16:44:40.558994+01
+1093,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Zimmerservice,Allgemein,2026-04-12 16:44:40.558994+01
+1094,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:44:40.558994+01
+1095,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,24-Stunden-Rezeption,Rezeption,2026-04-12 16:44:40.558994+01
+1096,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Tägliche Reinigung,Reinigung,2026-04-12 16:44:40.558994+01
+1097,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Minibar,Speisen & Getränke,2026-04-12 16:44:40.558994+01
+1098,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Essbereich,Zimmerausstattung,2026-04-12 16:44:40.558994+01
+1099,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Küchenutensilien,Küche,2026-04-12 16:44:40.558994+01
+1100,3f079c56-3cbd-4b34-b034-701ca263afcb,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,de,Mikrowelle,Küche,2026-04-12 16:44:40.558994+01
+1101,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Außenpool,Pool & Wellness,2026-04-12 16:44:54.231207+01
+1102,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Internet,Internet,2026-04-12 16:44:54.231207+01
+1103,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Restaurant,Speisen & Getränke,2026-04-12 16:44:54.231207+01
+1104,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:44:54.231207+01
+1105,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Zimmerservice,Dienstleistungen,2026-04-12 16:44:54.231207+01
+1106,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,24-Stunden-Rezeption,Dienstleistungen,2026-04-12 16:44:54.231207+01
+1107,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Einrichtungen für behinderte Gäste,Allgemein,2026-04-12 16:44:54.231207+01
+1108,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Terrasse,Außenbereich,2026-04-12 16:44:54.231207+01
+1109,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Bar,Speisen & Getränke,2026-04-12 16:44:54.231207+01
+1110,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Obst,Speisen & Getränke,2026-04-12 16:44:54.231207+01
+1111,a3d46185-31d3-47c3-8a8f-9d3d64bc3181,1ed666dc-25bb-4779-a5e3-a607ee471e15,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:44:54.231207+01
+1112,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Piscina coperta,Piscina & benessere,2026-04-12 16:46:00.407853+01
+1113,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Parcheggio,Parcheggio,2026-04-12 16:46:00.407853+01
+1114,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Connessione internet,Internet,2026-04-12 16:46:00.407853+01
+1115,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Disponibilità di camere familiari,Generale,2026-04-12 16:46:00.407853+01
+1116,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Navetta aeroportuale,Generale,2026-04-12 16:46:00.407853+01
+1117,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Servizio in camera,Generale,2026-04-12 16:46:00.407853+01
+1118,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Camere non fumatori,Generale,2026-04-12 16:46:00.407853+01
+1119,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Reception 24 ore su 24,Ricevimento,2026-04-12 16:46:00.407853+01
+1120,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Servizio pulizie giornaliero,Pulizia,2026-04-12 16:46:00.407853+01
+1121,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Minibar,Cibo e bevande,2026-04-12 16:46:00.407853+01
+1122,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Zona pranzo,Dotazioni camera,2026-04-12 16:46:00.407853+01
+1123,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Utensili da cucina,Cucina,2026-04-12 16:46:00.407853+01
+1124,f2423c1b-9c17-4e71-8cbd-03a0240b2a1c,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,it,Forno a microonde,Cucina,2026-04-12 16:46:00.407853+01
+1125,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Piscina scoperta,Piscina & benessere,2026-04-12 16:46:30.914358+01
+1126,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Connessione internet,Internet,2026-04-12 16:46:30.914358+01
+1127,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Ristorante,Cibo e bevande,2026-04-12 16:46:30.914358+01
+1128,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Camere non fumatori,Generale,2026-04-12 16:46:30.914358+01
+1129,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Servizio in camera,Servizi,2026-04-12 16:46:30.914358+01
+1130,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Reception 24 ore su 24,Servizi,2026-04-12 16:46:30.914358+01
+1131,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Camere/strutture per ospiti disabili,Generale,2026-04-12 16:46:30.914358+01
+1132,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Terrazza,Spazi esterni,2026-04-12 16:46:30.914358+01
+1133,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Bar,Cibo e bevande,2026-04-12 16:46:30.914358+01
+1134,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Frutta,Cibo e bevande,2026-04-12 16:46:30.914358+01
+1135,bddfbab1-a7a5-4b44-b4cb-bca5bbee886c,1ed666dc-25bb-4779-a5e3-a607ee471e15,it,Vino/champagne,Cibo e bevande,2026-04-12 16:46:30.914358+01
+1136,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Piscine intérieure,Piscine & bien-être,2026-04-12 16:46:53.644249+01
+1137,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Parking,Parking,2026-04-12 16:46:53.644249+01
+1138,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Internet,Internet,2026-04-12 16:46:53.644249+01
+1139,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Chambres familiales,Général,2026-04-12 16:46:53.644249+01
+1140,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Navette aéroport,Général,2026-04-12 16:46:53.644249+01
+1141,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Service d'étage,Général,2026-04-12 16:46:53.644249+01
+1142,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Chambres non-fumeurs,Général,2026-04-12 16:46:53.644249+01
+1143,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Réception ouverte 24h/24,Réception,2026-04-12 16:46:53.644249+01
+1144,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Service de ménage quotidien,Nettoyage,2026-04-12 16:46:53.644249+01
+1145,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Minibar,Alimentation,2026-04-12 16:46:53.644249+01
+1146,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Coin repas,Équipements,2026-04-12 16:46:53.644249+01
+1147,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Ustensiles de cuisine,Cuisine,2026-04-12 16:46:53.644249+01
+1148,583c8415-890f-4f72-9ef1-1c89c20b683d,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,fr,Micro-ondes,Cuisine,2026-04-12 16:46:53.644249+01
+1149,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Piscine extérieure,Piscine & bien-être,2026-04-12 16:47:08.138383+01
+1150,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Internet,Internet,2026-04-12 16:47:08.138383+01
+1151,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Restaurant,Alimentation,2026-04-12 16:47:08.138383+01
+1152,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Chambres non-fumeurs,Général,2026-04-12 16:47:08.138383+01
+1153,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Service d'étage,Services,2026-04-12 16:47:08.138383+01
+1154,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Réception ouverte 24h/24,Services,2026-04-12 16:47:08.138383+01
+1155,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Équipements pour les personnes handicapées,Général,2026-04-12 16:47:08.138383+01
+1156,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Terrasse,Extérieur,2026-04-12 16:47:08.138383+01
+1157,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Bar,Alimentation,2026-04-12 16:47:08.138383+01
+1158,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Fruits,Alimentation,2026-04-12 16:47:08.138383+01
+1159,520d46ca-458a-447d-b66c-0d22d3d25cda,1ed666dc-25bb-4779-a5e3-a607ee471e15,fr,Vin/champagne,Alimentation,2026-04-12 16:47:08.138383+01
+1200,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:48:47.010239+01
+1201,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Internet services,Internet,2026-04-12 16:48:47.010239+01
+1202,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Parking,Parking,2026-04-12 16:48:47.010239+01
+1203,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Fitness centre,Pool & Wellness,2026-04-12 16:48:47.010239+01
+1204,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Restaurant,Food & Drink,2026-04-12 16:48:47.010239+01
+1205,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Non-smoking rooms,General,2026-04-12 16:48:47.010239+01
+1206,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,24-hour front desk,Services,2026-04-12 16:48:47.010239+01
+1207,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Room service,Services,2026-04-12 16:48:47.010239+01
+1208,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Bar,Food & Drink,2026-04-12 16:48:47.010239+01
+1209,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Minimarket on site,General,2026-04-12 16:48:47.010239+01
+1210,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Wine/champagne,Food & Drink,2026-04-12 16:48:47.010239+01
+1211,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Kids' meals,Family & Kids,2026-04-12 16:48:47.010239+01
+1212,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Microwave,Kitchen,2026-04-12 16:48:47.010239+01
+1213,5ce48516-17d3-4f04-a7a8-94008041091d,dd01e2ae-56d6-47a4-af78-4485c497ef62,en,Kitchen,Kitchen,2026-04-12 16:48:47.010239+01
+1230,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:49:49.100171+01
+1231,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Internet,Internet,2026-04-12 16:49:49.100171+01
+1232,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Parking,Aparcamiento,2026-04-12 16:49:49.100171+01
+1233,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Gimnasio,Piscina y bienestar,2026-04-12 16:49:49.100171+01
+1234,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Restaurante,Alimentos y bebidas,2026-04-12 16:49:49.100171+01
+1235,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Habitaciones sin humo,General,2026-04-12 16:49:49.100171+01
+1236,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Recepción 24 horas,Servicios,2026-04-12 16:49:49.100171+01
+1237,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Servicio de habitaciones,Servicios,2026-04-12 16:49:49.100171+01
+1238,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Bar,Alimentos y bebidas,2026-04-12 16:49:49.100171+01
+1239,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Supermercado pequeño en el alojamiento,General,2026-04-12 16:49:49.100171+01
+1240,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:49:49.100171+01
+1241,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Menú para niños,Familia e hijos,2026-04-12 16:49:49.100171+01
+1242,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Microondas,Cocina,2026-04-12 16:49:49.100171+01
+1243,acc5d08d-9547-4f7e-a21e-6e24c6046330,dd01e2ae-56d6-47a4-af78-4485c497ef62,es,Cocina,Cocina,2026-04-12 16:49:49.100171+01
+1160,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Piscina interior,Piscina e bem-estar,2026-04-12 16:47:22.123016+01
+1161,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Estacionamento,Estacionamento,2026-04-12 16:47:22.123016+01
+1162,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Serviços de Internet,Internet,2026-04-12 16:47:22.123016+01
+1163,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Quartos familiares,Geral,2026-04-12 16:47:22.123016+01
+1164,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Transfer (aeroporto),Geral,2026-04-12 16:47:22.123016+01
+1165,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Serviço de quartos,Geral,2026-04-12 16:47:22.123016+01
+1166,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Quartos para não fumadores,Geral,2026-04-12 16:47:22.123016+01
+1167,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Receção disponível 24 horas,Recepção,2026-04-12 16:47:22.123016+01
+1168,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Serviço de limpeza diário,Limpeza,2026-04-12 16:47:22.123016+01
+1169,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Minibar,Comida e bebidas,2026-04-12 16:47:22.123016+01
+1170,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Área de refeições,Comodidades,2026-04-12 16:47:22.123016+01
+1171,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Utensílios de cozinha,Cozinha,2026-04-12 16:47:22.123016+01
+1172,d5fa4076-b349-49c7-9769-1dc2731f051a,b2d713b1-2155-4cc5-8cf3-f9d4b0666ca3,pt,Micro-ondas,Cozinha,2026-04-12 16:47:22.123016+01
+1173,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Piscina exterior,Piscina e bem-estar,2026-04-12 16:47:50.455777+01
+1174,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Serviços de Internet,Internet,2026-04-12 16:47:50.455777+01
+1175,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Restaurante,Comida e bebidas,2026-04-12 16:47:50.455777+01
+1176,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Quartos para não fumadores,Geral,2026-04-12 16:47:50.455777+01
+1177,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Serviço de quartos,Serviços,2026-04-12 16:47:50.455777+01
+1178,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Receção disponível 24 horas,Serviços,2026-04-12 16:47:50.455777+01
+1179,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Comodidades para pessoas com mobilidade condicionada,Geral,2026-04-12 16:47:50.455777+01
+1180,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Terraço,Exterior,2026-04-12 16:47:50.455777+01
+1181,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Bar,Comida e bebidas,2026-04-12 16:47:50.455777+01
+1182,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Fruta,Comida e bebidas,2026-04-12 16:47:50.455777+01
+1183,44bf517d-f4cc-44d5-80b5-fe59aa447ea6,1ed666dc-25bb-4779-a5e3-a607ee471e15,pt,Vinho/champanhe,Comida e bebidas,2026-04-12 16:47:50.455777+01
+1184,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Outdoor swimming pool,Pool & Wellness,2026-04-12 16:48:32.283088+01
+1185,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Internet services,Internet,2026-04-12 16:48:32.283088+01
+1186,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Beachfront,Outdoors & View,2026-04-12 16:48:32.283088+01
+1187,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Family rooms,Family & Kids,2026-04-12 16:48:32.283088+01
+1188,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Restaurant,Food & Drink,2026-04-12 16:48:32.283088+01
+1189,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Room service,General,2026-04-12 16:48:32.283088+01
+1190,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Non-smoking rooms,General,2026-04-12 16:48:32.283088+01
+1191,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,24-hour front desk,Reception,2026-04-12 16:48:32.283088+01
+1192,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Bar,Food & Drink,2026-04-12 16:48:32.283088+01
+1193,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Coffee house on site,Food & Drink,2026-04-12 16:48:32.283088+01
+1194,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Fruits,Food & Drink,2026-04-12 16:48:32.283088+01
+1195,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Wine/champagne,Food & Drink,2026-04-12 16:48:32.283088+01
+1196,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Special diet menus (on request),Food & Drink,2026-04-12 16:48:32.283088+01
+1197,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Snack bar,Food & Drink,2026-04-12 16:48:32.283088+01
+1198,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Kid-friendly buffet,Family & Kids,2026-04-12 16:48:32.283088+01
+1199,c895563d-6875-47df-885f-79609b56a171,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,en,Kids' meals,Family & Kids,2026-04-12 16:48:32.283088+01
+1244,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Außenpool,Pool & Wellness,2026-04-12 16:50:01.750575+01
+1245,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Internet,Internet,2026-04-12 16:50:01.750575+01
+1246,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,am Strand,Außenbereich,2026-04-12 16:50:01.750575+01
+1247,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Familienzimmer,Familie & Kinder,2026-04-12 16:50:01.750575+01
+1248,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Restaurant,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1249,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Zimmerservice,Allgemein,2026-04-12 16:50:01.750575+01
+1250,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Nichtraucherzimmer,Allgemein,2026-04-12 16:50:01.750575+01
+1251,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,24-Stunden-Rezeption,Rezeption,2026-04-12 16:50:01.750575+01
+1252,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Bar,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1253,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Café vor Ort,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1254,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Obst,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1255,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Wein/Sekt,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1256,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage),Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1257,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Snackbar,Speisen & Getränke,2026-04-12 16:50:01.750575+01
+1258,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Kinderfreundliches Buffet,Familie & Kinder,2026-04-12 16:50:01.750575+01
+1259,f550c774-1f99-428f-b55b-8f55906c0993,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,de,Kindermahlzeiten,Familie & Kinder,2026-04-12 16:50:01.750575+01
+1214,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Piscina al aire libre,Piscina y bienestar,2026-04-12 16:49:19.018571+01
+1215,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Internet,Internet,2026-04-12 16:49:19.018571+01
+1216,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Situado frente a la playa,Exteriores y vistas,2026-04-12 16:49:19.018571+01
+1217,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Habitaciones familiares,Familia e hijos,2026-04-12 16:49:19.018571+01
+1218,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Restaurante,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1219,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Servicio de habitaciones,General,2026-04-12 16:49:19.018571+01
+1220,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Habitaciones sin humo,General,2026-04-12 16:49:19.018571+01
+1221,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Recepción 24 horas,Recepción,2026-04-12 16:49:19.018571+01
+1222,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Bar,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1223,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Cafetería en el alojamiento,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1224,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Fruta,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1225,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Vino / champán,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1226,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Menús para dietas especiales (bajo petición),Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1227,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Snack-bar,Alimentos y bebidas,2026-04-12 16:49:19.018571+01
+1228,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Buffet para niños,Familia e hijos,2026-04-12 16:49:19.018571+01
+1229,0d0f476a-6517-4995-b3fb-f723c5b43536,8c051abf-d776-4b51-ad9b-1b37d5c79ee6,es,Menú para niños,Familia e hijos,2026-04-12 16:49:19.018571+01
