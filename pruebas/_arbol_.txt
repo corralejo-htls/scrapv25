@@ -1,5 +1,5 @@
  El volumen de la unidad C no tiene etiqueta.
- El n£mero de serie del volumen es: 6056-DD73
+ El numero de serie del volumen es: 6056-DD73
 
  Directorio de C:\BookingScraper
 
