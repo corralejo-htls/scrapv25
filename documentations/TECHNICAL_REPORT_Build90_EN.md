@@ -1,4 +1,4 @@
-# Technical Report — BookingScraper Pro Build 90
+ Technical Report — BookingScraper Pro Build 90
 **Date:** 2026-04-12  
 **Version:** 6.0.0 → Build 90  
 **Platform:** Windows 11 Pro · Python 3.14 · PostgreSQL 14+  
