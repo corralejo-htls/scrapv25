@@ -1,0 +1,1258 @@
+{
+  "data": {
+    "accommodationType": "hotel",
+    "address": {
+      "en": "Europaplatz 583, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "es": "Europaplatz 583, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "de": "Europaplatz 583, 8970 Schladming, Österreich, 8970 Schladming, Österreich",
+      "it": "Europaplatz 583, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "fr": "Europaplatz 583, 8970 Schladming, Autriche, 8970 Schladming, Autriche",
+      "pt": "Europaplatz 583, 8970 Schladming, Áustria, 8970 Schladming, Áustria"
+    },
+    "geoPosition": {
+      "latitude": 47.39658442732516,
+      "longitude": 13.694122731685638
+    },
+    "rating": 4,
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.4
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.3
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.4
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.3
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.4
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.3
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.4
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.3
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.4
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.3
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.3
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.3
+        }
+      }
+    },
+    "scoreReview": 8.6,
+    "scoreReviewBasedOn": 734,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Planaibahn 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1.8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2.8 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1.5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "87 km",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Remonte Planaibahn 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2,8 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Salzburgo - W. A. Mozart",
+          "distance": "87 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 6
+        },
+        {
+          "name": "Planaibahn 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2,8 km",
+          "category": 6
+        },
+        {
+          "name": "Bahnhof Schladming",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Salzburg",
+          "distance": "87 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 6
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 6
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Monte Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 6
+        },
+        {
+          "name": "Cabinovia Planaibahn 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Impianto di risalita Planai West",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2,8 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Salisburgo - W. A. Mozart",
+          "distance": "87 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 2
+        },
+        {
+          "name": "Haut Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Remontée mécanique du Planay 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Télécabine Planai West",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2,8 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport Wolfgang Amadeus Mozart de Salzbourg",
+          "distance": "87 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Rotisserie Royer Grill im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Steirerstüberl im Sporthotel Royer",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Al Bashir",
+          "distance": "300 m",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Planaibahn 1",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Planai 6er",
+          "distance": "2,8 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "87 km",
+          "category": 1
+        }
+      ]
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/261690196.jpg?k=394b7100cf2954fda192b9456a13fafa1026fd6beed32a24043ef80c44b16f94&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619255051.jpg?k=abe0768053a06718fa91181c8f543006f58ade34dd78d56d492253b1a2257c32&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702328.jpg?k=5851b3a2f28030d1473aaf7099d8bf297c480ef44be18fb414c597ae6b252fe7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/620743371.jpg?k=eb34a93407512b709c0537dffb5edcad102f7a2daaa11372ef7d145a45985368&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274696092.jpg?k=7031a95323bee337bc40567296002a674aa19e8c891cfc831d872e4b390878b9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619265021.jpg?k=6eadc7a32350e1f9f83c5b3fb65ce4c52ef722f70b8bb8414450dce041ab5acc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619266131.jpg?k=7f271f2493aa3c3c398097b19ffaf8efc390ec6b199b4fbc140f4eb5813e7c3b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619266734.jpg?k=a36b6e2954720a4de931d6eae337def6432daa5e59c8e1b42afc3f7c43c43cfc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/342418063.jpg?k=0c8521de1e7dc454ec325b640bae9b02497a845433d6cf4afd7504c95b9d55a4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619263559.jpg?k=ba86cf2da54d16feb0019b1ffc52f6e8e775e23a578f473e2bbf57c7363276d0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283625.jpg?k=de9f7a56120858cab57912189a15d856b70319f868b23b69d64de8fd5514474c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283386.jpg?k=ba911c52a44a577372edab44b42e6901bbb1198716d939478db1a96e8eb4341e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/262073023.jpg?k=609214af0b1e739edfb4087fc08ec4e6fb3160c36431b607435ea5c418b58b8e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619268240.jpg?k=ddc8e80a2d37f0e606d8e379eb569ff8c7c010ee718356529d5263cdaba92802&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/40034472.jpg?k=4fb76c880f1b060c744147380db09822e31dea3691cd9b3b2fe7b2c2765dadf5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619256055.jpg?k=9b501e81ff642225bcc65c4f07cf1e21f853413dd8da7e021333657ae2aca290&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/620746690.jpg?k=b5d4da7cdb78fa02f1da9b21b7f7a47e09a4aa7acef920497a070b85b8a27eee&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283945.jpg?k=6cf678d0f5cc3f7b88b506dcb8327aefd95f58cf460273a44a51417abfc63d7b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702344.jpg?k=ab8b0bbd9150e2e52ebd8f0e59c1a7366ae20d8b169b590d0d57a0d350aa0758&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283119.jpg?k=ea45b2f85384f8b886c2fda03d9d83c537d034765288f340c50d52c78fe00509&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/40034292.jpg?k=baa211dd83de4516ba5ed6f429825bccc53f69b69b19cec80eba2e376b516d4c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259706326.jpg?k=1312197d350f73cc3277a13d492e5e5de96a26852bb3eaf468a7e8c0f373fbe0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619282490.jpg?k=0766b0b87696532e808309748c20bdf2f73e8e714b65288a1086789d893461ce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702296.jpg?k=7c0f6a4b5c1804efc19a8f8a5f81a423f7e695e26a5b2c8eaa8ffaaad6c35959&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702297.jpg?k=398ef7ae3107133c857f7beb65ad24138256e893470d5f33b353f51729cb50fb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619268788.jpg?k=0b56765b32344f41a9ddba87256626cd396d44dcc58ddf19e0a6bcfd4631c365&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702274.jpg?k=25c2a9cede7b14b492e0593ac3f16d9e33fc0ae468aa4a1007c1d5171ef8af05&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/262073033.jpg?k=6dcba5ddbaa0931e6015508c4d55eb3e90924aeb33907dfb9cb44712048c925e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/242696344.jpg?k=8a19ea0fdcef3eb514e743f02b161a3bc2a0a44b2adf378f49d83564f4bb0733&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619252409.jpg?k=427df3c4dce14466c70562494727264dc627d27dbd2e1c4abd206d974ad27955&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619251606.jpg?k=74167ce60a6c4b736ad3bf649f23d1dbd13426c5971e4e60b3c1536848003c37&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619252843.jpg?k=efa07d812c2306310103607b85a699547ff0dcaa7e4397853e38a99c03311563&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619252353.jpg?k=fac8dd958d98ef136ae0a8674874df70b19a1316c5d92a53dc17d0e8ee4004cc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619253895.jpg?k=6e4cbc0a7160d8bc5e69c89dc0b900eaa27e6922d061deee4642c83f8c8fe3b2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619254494.jpg?k=d9f67d1fd2d97ce2b75f6155ebf5bcf0a1d33b29aac17ab3126eb4f40dcd8216&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619257052.jpg?k=faa66b32e3f3a18876f5c3dc1fe4e956b89b3973504e38fa91a2d45260ed8433&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619257381.jpg?k=43e043852b412dd8801ba71203c74f60d79cf3bd803118ceb775882ed2742f94&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259702283.jpg?k=635f704ec9222929d873f700221921d914b659a3c5bfa236f23b9b88d2b4a826&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619257454.jpg?k=e0a662c916263d9fe879a95552f28f61b2b89ea6ce370f49b15314c107aa71b7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283205.jpg?k=9405ca220e58ffe5cce1902ed7251404b43cf57c6f1b2ed7ec0bd5b057efc061&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619257559.jpg?k=67a1d24b6985e8e1cd422f8f9d0a5501c0e0b52f33d3aeafa493920047a2655c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619268232.jpg?k=49adf6bd1bb1f56a7d51ad80d7a18810b110fdb7cdfdd69a5ff0483f9b098d29&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619268277.jpg?k=54ab16b7dda6d5d0959bf5876e3d72eb3bb4283b1f5f1061fcd25331b8642340&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619269237.jpg?k=15f9e0f32b6fe45f622747852f773609835d4dd348297539d236920dcdcbeaf5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/619283043.jpg?k=b1ea67631bcd3e770c33e3d42fdf616a145cc073c9ef38c4338ec0ca5f84d610&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Comfortable Accommodations:Sporthotel Royer in Schladming offers family rooms with balconies, private bathrooms, and modern amenities. Each room includes a work desk, minibar, and free WiFi.Wellness and Leisure:Guests can enjoy spa facilities, a sauna, fitness centre, sun terrace, and indoor swimming pool. Free bicycles are available for exploring the surroundings.Dining Experience:The family-friendly restaurant serves Austrian cuisine with vegetarian, vegan, and gluten-free options. Breakfast is provided as a buffet with gluten-free options.Location and Activities:Located 17 km from Dachstein Skywalk and 91 km from Salzburg Airport, the hotel offers skiing, hiking, and cycling. Nearby attractions include Trautenfels Castle and Bischofshofen Train Station.",
+      "es": "Sporthotel Royer se encuentra en Schladming, a 17 km de Paseo aéreo de Dachstein, y ofrece alojamiento con bicicletas gratis, parking privado gratis, piscina de temporada al aire libre y centro de fitness. El alojamiento ofrece restaurante y también tiene jardín, piscina cubierta y sauna. El hotel dispone de hammam, servicio de habitaciones y wifi gratis en todo el alojamiento.\n\nEn el hotel, todas las habitaciones tienen escritorio, TV de pantalla plana, baño privado, ropa de cama y toallas. Todas las unidades disponen de caja fuerte.\n\nHay opciones buffet o sin gluten de desayuno disponibles en Sporthotel Royer.\n\nEl alojamiento ofrece terraza. Se puede jugar al ping-pong en este hotel de 4 estrellas, y la zona es ideal para practicar senderismo y esquí.\n\nCastillo de Trautenfels está a 36 km del alojamiento, y Kulm está a 45 km. El aeropuerto (Aeropuerto de Salzburgo - W. A. Mozart) está a 91 km, y el alojamiento ofrece servicio de traslado de pago para ir o volver del aeropuerto.",
+      "de": "Die Unterkunft Sporthotel Royer, die in Schladming, 17 km von Dachstein Skywalk entfernt gelegen ist, verfügt über Übernachtungsmöglichkeiten mit kostenlosen Fahrrädern, einem kostenlosen Privatparkplatz, einem saisonalen Außenpool und einem Fitnesscenter. Die Unterkunft verfügt über ein Restaurant und hat außerdem einen Garten sowie einen Innenpool und eine Sauna. Dieses Hotel bietet ein türkisches Dampfbad, einen Zimmerservice und kostenloses WLAN in der ganzen Unterkunft.\n\nIn der Unterkunft Sporthotel Royer sind die Zimmer ausgestattet mit einem Schreibtisch, einem Flachbild-TV, einem eigenen Badezimmer, Bettwäsche und Handtüchern. Alle Wohneinheiten verfügen über einen Safe.\n\nDie Unterkunft Sporthotel Royer bietet ein als Buffet angebotenes oder glutenfreies Frühstück.\n\nDie Unterkunft Sporthotel Royer bietet eine Terrasse. Sie können an diesem Hotel mit 4 Sternen Tischtennis spielen. Die Gegend ist beliebt zum Wandern und Skifahren.\n\nSchloss Trautenfels liegt 36 km von der Unterkunft Sporthotel Royer entfernt, während Der Kulm 45 km entfernt ist. Der nächstgelegene Flughafen ist der Flughafen Salzburg, 91 km von der Unterkunft Sporthotel Royer entfernt. Die Unterkunft bietet einen kostenpflichtigen Flughafentransfer.",
+      "it": "Posizionato a Schladming, a 17 km da Dachstein Skywalk, Sporthotel Royer mette a disposizione biciclette gratuite, un parcheggio privato gratuito, una piscina all’aperto stagionale e un centro fitness. Dotato di un ristorante, l’alloggio dispone anche di un giardino, oltre a una piscina coperta e una sauna. L'hotel presenta un bagno turco, il servizo in camera e il WiFi gratuito in tutta la struttura.\n\nPresso questo hotel, le camere sono dotate di una scrivania, una TV a schermo piatto, un bagno privato, le lenzuola e gli asciugamani. Tutte le unità presentano una cassaforte.\n\nPresso Sporthotel Royer la colazione include opzioni a buffet e senza glutine.\n\nQuesta struttura offre una terrazza. Potrete giocare a ping pong presso questo hotel a 4 stelle, mentre la zona è famosa per attività quali l’escursionismo e lo sci.\n\nCastello di Trautenfels è a 36 km da Sporthotel Royer, mentre Kulm si trova a 45 km dalla struttura. L'aeroporto (Aeroporto di Salisburgo - W. A. Mozart) è a 91 km di distanza, e per raggiungerlo c’è una navetta aeroportuale a pagamento organizzata dalla struttura.",
+      "fr": "L’établissement Sporthotel Royer se situe à Schladming, à 17 km de ce lieu d’intérêt : Dachstein Skywalk. Il possède un service de prêt de vélos, une piscine extérieure ouverte en saison, une salle de sport et un parking privé gratuit. Il propose un restaurant, un jardin, une piscine intérieure et un sauna. Cet hôtel comprend un hammam, un service d'étage et une connexion Wi-Fi gratuite dans l’ensemble de ses locaux.\n\nTous les hébergements comportent un bureau, une télévision à écran plat, une salle de bains privative, du linge de lit et des serviettes. Vous profiterez aussi d’un coffre-fort.\n\nL’établissement Sporthotel Royer sert un petit-déjeuner buffet ou sans gluten.\n\nCet établissement dispose d’une terrasse. Vous pourrez jouer au ping-pong dans cet hôtel 4 étoiles, et la région est prisée des amateurs de randonnée et de ski.\n\nVous séjournerez à respectivement 36 km et 45 km de ces lieux d’intérêt : Gare de Vienne-Meidling et Kulm. L’établissement se situe à 91 km de l’aéroport le plus proche (Aéroport Wolfgang Amadeus Mozart de Salzbourg) et propose un service de navette aéroport payant.",
+      "pt": "Sporthotel Royer situa-se em Schladming, a 17 km de Dachstein Skywalk, e dispõe de acomodações com bicicletas gratuitas, estacionamento privado gratuito, uma piscina exterior sazonal e um centro de fitness. Providenciando um restaurante, o alojamento também dispõe de um jardim, assim como piscina interior e sauna. Este hotel apresenta hammam, serviço de quartos e acesso Wi-Fi gratuito em toda a propriedade.\n\nNo alojamento, os quartos estão equipados com secretária, televisão de ecrã plano, casa de banho privativa, roupa de cama e toalhas. Todas as unidades apresentam um cofre.\n\nSporthotel Royer disponibiliza opções de pequeno-almoço buffet e sem glúten.\n\nSporthotel Royer oferece um terraço. Pode jogar ténis de mesa neste hotel de 4 estrelas, e a área é popular para caminhadas e esqui.\n\nCastelo Trautenfels fica a 36 km de Sporthotel Royer, enquanto Kulm está a 45 km da propriedade. O aeroporto é o Aeroporto de Salzburgo - W. A. Mozart, que está a 91 km de distância, e o alojamento disponibiliza serviço de transfer do aeroporto por um custo adicional."
+    },
+    "toConsider": {
+      "en": "This property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Este alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Diese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Questa struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Cet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Esta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    },
+    "name": {
+      "en": "Sporthotel Royer",
+      "es": "Sporthotel Royer",
+      "de": "Sporthotel Royer",
+      "it": "Sporthotel Royer",
+      "fr": "Sporthotel Royer",
+      "pt": "Sporthotel Royer"
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Sporthotel Royer?",
+          "topicComments": "Guests staying at Sporthotel Royer can enjoy a highly-rated breakfast during their stay (guest review score: 9.1). Breakfast option(s) include: Gluten-free Buffet"
+        },
+        {
+          "topic": "Does Sporthotel Royer have a pool?",
+          "topicComments": "Yes, this hotel has a pool. Find out the details about the pool and other facilities on this page."
+        },
+        {
+          "topic": "What type of room can I book at Sporthotel Royer?",
+          "topicComments": "Room options at Sporthotel Royer include: Double Single Family Triple"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Sporthotel Royer?",
+          "topicComments": "Check-in at Sporthotel Royer is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Sporthotel Royer?",
+          "topicComments": "The prices at Sporthotel Royer may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does Sporthotel Royer have a restaurant on site?",
+          "topicComments": "Sporthotel Royer has 1 restaurants: Steirerstüberl"
+        },
+        {
+          "topic": "What is there to do at Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer offers the following activities / services (charges may apply): Spa and wellness centre Fitness centre Sauna Massage Hammam Cycling Hiking Children's playground Billiards Skiing Bowling Games room Table tennis Tennis court Darts Golf course (within 3 km) Squash Solarium Tennis equipment Fitness/spa locker rooms Bicycle rental Swimming pool Spa/wellness packages Water sport facilities on site Steam room Fitness Spa facilities Spa lounge/relaxation area"
+        },
+        {
+          "topic": "How far is Sporthotel Royer from the centre of Schladming?",
+          "topicComments": "Sporthotel Royer is 600 m from the centre of Schladming."
+        },
+        {
+          "topic": "Is Sporthotel Royer popular with families?",
+          "topicComments": "Yes, Sporthotel Royer is popular with guests booking family stays."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Sporthotel Royer?",
+          "topicComments": "Los clientes de Sporthotel Royer podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9,1) Las opciones del desayuno son: Sin gluten Buffet"
+        },
+        {
+          "topic": "¿Hay piscina en Sporthotel Royer?",
+          "topicComments": "Sí, el hotel tiene piscina. En esta página encontrarás más info sobre la piscina y otras instalaciones."
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Sporthotel Royer?",
+          "topicComments": "Las opciones de habitación en Sporthotel Royer son: Doble Individual Familiar Triple"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Sporthotel Royer?",
+          "topicComments": "Podrás hacer el check-in en Sporthotel Royer a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Sporthotel Royer?",
+          "topicComments": "Los precios en Sporthotel Royer pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer tiene 1 restaurantes: Steirerstüberl"
+        },
+        {
+          "topic": "¿Qué se puede hacer en Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Spa y centro de bienestar Gimnasio Sauna Masajes Hammam Ciclismo Senderismo Zona de juegos para niños Billar Esquí Bolos Sala de juegos Ping pong Pista de tenis Dardos Campo de golf (a menos de 3 km) Squash Solárium Equipamiento de tenis Taquillas en el gimnasio / spa Alquiler de bicicletas Piscina Paquetes de spa / bienestar Instalaciones para deportes acuáticos en el alojamiento Baño de vapor Gimnasio Instalaciones de spa Zona de spa / relajación"
+        },
+        {
+          "topic": "¿A qué distancia está Sporthotel Royer del centro de Schladming?",
+          "topicComments": "Sporthotel Royer está a 600 m del centro de Schladming."
+        },
+        {
+          "topic": "¿Sporthotel Royer gusta a las familias?",
+          "topicComments": "Sí, Sporthotel Royer suele gustar a las familias."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Sporthotel Royer serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Sporthotel Royer übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9,1). Verfügbare Frühstücksoption(en): Glutenfrei Buffet"
+        },
+        {
+          "topic": "Hat die Unterkunft Sporthotel Royer einen Pool?",
+          "topicComments": "Ja, dieses Hotel hat einen Pool. Erfahren Sie Einzelheiten zum Pool und anderen Ausstattungen auf dieser Seite."
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Sporthotel Royer buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Sporthotel Royer zählen: Doppelzimmer Einzelzimmer Familienzimmer Dreibettzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Sporthotel Royer?",
+          "topicComments": "Der Check-in in der Unterkunft Sporthotel Royer ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Sporthotel Royer?",
+          "topicComments": "Die Preise an der Unterkunft Sporthotel Royer könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft Sporthotel Royer ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft Sporthotel Royer hat 1 Restaurants: Steirerstüberl"
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Sporthotel Royer?",
+          "topicComments": "Die Unterkunft Sporthotel Royer bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Spa & Wellnesscenter Fitnesscenter Sauna Massage Dampfbad/Türkisches Bad Radfahren Wandern Kinderspielplatz Billard Skifahren Bowling Spielzimmer Tischtennis Tennisplatz Dart Golfplatz (max. 3 km entfernt) Squash Solarium Tennisausrüstung Umkleideraum für Fitness/Wellness Fahrradverleih Pool Wellnessangebote Wassersportmöglichkeiten vor Ort Dampfbad Fitness Wellness Wellnesslounge/Ruhebereich"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Sporthotel Royer vom Zentrum von Schladming entfernt?",
+          "topicComments": "Die Unterkunft Sporthotel Royer ist 600 m vom Zentrum von Schladming entfernt."
+        },
+        {
+          "topic": "Ist die Unterkunft Sporthotel Royer bei Familien beliebt?",
+          "topicComments": "Ja, die Unterkunft Sporthotel Royer ist bei Gästen beliebt, die Familienaufenthalte buchen."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Sporthotel Royer?",
+          "topicComments": "Durante il soggiorno, Sporthotel Royer propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9,1). Colazione disponibile: senza glutine a buffet"
+        },
+        {
+          "topic": "Sporthotel Royer dispone di una piscina?",
+          "topicComments": "Sì. Trovi maggiori informazioni sulla piscina e sugli altri servizi in questa pagina."
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer offre: Matrimoniale Singola Familiare Tripla"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Sporthotel Royer?",
+          "topicComments": "Presso Sporthotel Royer, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Sporthotel Royer?",
+          "topicComments": "I prezzi di Sporthotel Royer possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Sporthotel Royer dispone di un ristorante in loco?",
+          "topicComments": "Sporthotel Royer offre 1 ristoranti: Steirerstüberl"
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer offre i seguenti servizi/attività (alcuni a pagamento): Spa & centro benessere Palestra Sauna Massaggi Hammam Escursioni in bicicletta Escursionismo Area giochi Biliardo Sci Bowling Sala giochi Ping-pong Campo da tennis Freccette Campo da golf (nel raggio di 3 km) Squash Solarium Attrezzatura da tennis Armadietti per fitness/spa Noleggio biciclette Piscina Pacchetti spa/benessere Attrezzature per sport acquatici sul posto Bagno turco Fitness Servizi spa Sala spa/area relax"
+        },
+        {
+          "topic": "Quanto dista Sporthotel Royer dal centro di Schladming?",
+          "topicComments": "Sporthotel Royer si trova a 600 m dal centro di Schladming."
+        },
+        {
+          "topic": "Sporthotel Royer è adatta per le famiglie?",
+          "topicComments": "Sì, Sporthotel Royer è molto richiesta per soggiorni in famiglia."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Sporthotel Royer sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Sporthotel Royer ont attribué une très bonne note à son petit-déjeuner : 9,1. L'établissement sert les types de petit-déjeuner suivants : Sans gluten Buffet"
+        },
+        {
+          "topic": "L'établissement Sporthotel Royer dispose-t-il d'une piscine ?",
+          "topicComments": "Oui, cet hôtel propose une piscine. Vous trouverez plus de détails sur la piscine et les autres équipements de l'établissement sur cette page."
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Sporthotel Royer ?",
+          "topicComments": "L'établissement Sporthotel Royer propose les options d'hébergement suivantes : Double Simple Familiale Triple"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Sporthotel Royer ?",
+          "topicComments": "L'enregistrement à l'établissement Sporthotel Royer se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Sporthotel Royer ?",
+          "topicComments": "Les tarifs fixés par l'établissement Sporthotel Royer peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Sporthotel Royer dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement Sporthotel Royer propose 1 restaurant : Steirerstüberl"
+        },
+        {
+          "topic": "Quelles activités l'établissement Sporthotel Royer propose-t-il ?",
+          "topicComments": "L'établissement Sporthotel Royer propose les activités et les services suivants (des frais peuvent s'appliquer) : Spa et centre de bien-être Centre de remise en forme Sauna Massages Hammam Cyclisme Randonnée Aire de jeux pour enfants Billard Ski Bowling Salle de jeux Tennis de table Court de tennis Fléchettes Parcours de golf (à moins de 3 km) Squash Solarium Matériel de tennis Vestiaires salle de sport/spa Location de vélos Piscine Forfaits spa/bien-être Installations de sports nautiques sur place Bain à vapeur Fitness Spa Coin spa/relaxation"
+        },
+        {
+          "topic": "L'établissement Sporthotel Royer est-il proche du centre (Schladming) ?",
+          "topicComments": "L'établissement Sporthotel Royer se trouve à 600 m du centre (Schladming)."
+        },
+        {
+          "topic": "L'établissement Sporthotel Royer est-il populaire auprès des familles ?",
+          "topicComments": "L'établissement Sporthotel Royer est très bien noté pour les séjours en famille ()."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Sporthotel Royer?",
+          "topicComments": "Os hóspedes em Sporthotel Royer podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9,1). As opções de pequeno-almoço incluem: Sem glúten Buffet"
+        },
+        {
+          "topic": "Sporthotel Royer tem piscina?",
+          "topicComments": "Sim, este hotel tem uma piscina. Veja mais informações sobre a piscina e outras comodidades nesta página."
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Sporthotel Royer?",
+          "topicComments": "As opções de quarto em Sporthotel Royer incluem: Duplo Individual Familiar Triplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Sporthotel Royer?",
+          "topicComments": "Em Sporthotel Royer, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Sporthotel Royer?",
+          "topicComments": "Os preços em Sporthotel Royer podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Sporthotel Royer tem um restaurante no local?",
+          "topicComments": "Sporthotel Royer tem 1 restaurantes: Steirerstüberl"
+        },
+        {
+          "topic": "Que atividades há em Sporthotel Royer?",
+          "topicComments": "Sporthotel Royer disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Spa e centro de bem-estar Centro de fitness Sauna Massagem Banho turco Ciclismo Caminhadas Parque infantil Bilhar Esqui Bowling Sala de jogos Ténis de mesa Campo de Ténis Setas Campo de golfe (a menos de 3 km) Squash Solário Equipamento de ténis Salas de cacifos do spa/centro de fitness Aluguer de bicicleta Piscina Pacotes de spa/bem-estar Comodidades para desportos aquáticos no local Banho de vapor Fitness Comodidades de spa Sala de spa/área de relaxamento"
+        },
+        {
+          "topic": "A que distância fica Sporthotel Royer do centro de Schladming?",
+          "topicComments": "Sporthotel Royer fica a 600 m do centro de Schladming."
+        },
+        {
+          "topic": "Sporthotel Royer é popular entre as famílias?",
+          "topicComments": "Sim, Sporthotel Royer é popular entre os hóspedes que reservam estadias com a família."
+        }
+      ]
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 22:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 07:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 2 years Extra bed upon request € 20 per child, per night Cot upon request € 20 per child, per night 3 - 5 years Extra bed upon request € 20 per child, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 10 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 22:00"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 7:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 2 años Cama supletoria a petición € 20 por niño y noche Cuna a petición € 20 por niño y noche 3 - 5 años Cama supletoria a petición € 20 por niño y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 10 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 22:00 Uhr"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 07:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 2 Jahre Zustellbett auf Anfrage € 20 pro Kind, pro Nacht Babybett auf Anfrage € 20 pro Kind, pro Nacht 3 - 5 Jahre Zustellbett auf Anfrage € 20 pro Kind, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 10 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 22:00"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 07:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 2 anni Letto supplementare su richiesta € 20 per bambino, a notte Culla su richiesta € 20 per bambino, a notte 3 - 5 anni Letto supplementare su richiesta € 20 per bambino, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 10 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 22:00"
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 07:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 2 ans Lit d'appoint sur demande € 20 par enfant et par nuit Lit bébé sur demande € 20 par enfant et par nuit 3 - 5 ans Lit d'appoint sur demande € 20 par enfant et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 10 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 22:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 07:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 2 anos Cama extra mediante pedido € 20 por criança, por noite Berço mediante pedido € 20 por criança, por noite 3 - 5 anos Cama extra mediante pedido € 20 por criança, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 10 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Restaurant",
+            "Bar",
+            "Coffee house on site",
+            "Wine/champagne",
+            "Kid-friendly buffet",
+            "Special diet menus (on request)",
+            "Breakfast in the room"
+          ],
+          "General": [
+            "Family rooms",
+            "Minimarket on site",
+            "Packed lunches"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Pool & Wellness": [
+            "Pool 1 - indoor",
+            "Spa and wellness centre",
+            "Fitness centre"
+          ],
+          "Other": [
+            "Skiing"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Restaurante",
+            "Bar",
+            "Cafetería en el alojamiento",
+            "Vino / champán",
+            "Buffet para niños",
+            "Menús para dietas especiales (bajo petición)",
+            "Desayuno en la habitación"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "General": [
+            "Habitaciones familiares",
+            "Supermercado pequeño en el alojamiento",
+            "Almuerzos para llevar"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Piscina y bienestar": [
+            "Piscina 1 - Cubierta",
+            "Spa y centro de bienestar",
+            "Gimnasio"
+          ],
+          "Other": [
+            "Esquí"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Familienzimmer",
+            "Minimarkt vor Ort",
+            "Lunchpakete"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Pool & Wellness": [
+            "Pool 1 - innen",
+            "Spa & Wellnesscenter",
+            "Fitnesscenter"
+          ],
+          "Speisen & Getränke": [
+            "Restaurant",
+            "Bar",
+            "Café vor Ort",
+            "Wein/Sekt",
+            "Kinderfreundliches Buffet",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Frühstück im Zimmer"
+          ],
+          "Other": [
+            "Skifahren"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Ristorante",
+            "Bar",
+            "Caffetteria sul posto",
+            "Vino/champagne",
+            "Buffet per bambini",
+            "Menù per diete particolari (su richiesta)",
+            "Possibilità di colazione in camera"
+          ],
+          "Generale": [
+            "Disponibilità di camere familiari",
+            "Minimarket sul posto",
+            "Possibilità di pranzo al sacco"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Piscina & benessere": [
+            "Piscina n. 1 (coperta)",
+            "Spa & centro benessere",
+            "Palestra"
+          ],
+          "Other": [
+            "Sci"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Restaurant",
+            "Bar",
+            "Café sur place",
+            "Vin/champagne",
+            "Buffet avec options enfants",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Petit-déjeuner en chambre"
+          ],
+          "Général": [
+            "Chambres familiales",
+            "Supérette sur place",
+            "Paniers-repas"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Piscine & bien-être": [
+            "Piscine 1 - Intérieure",
+            "Spa et centre de bien-être",
+            "Centre de remise en forme"
+          ],
+          "Other": [
+            "Ski"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Restaurante",
+            "Bar",
+            "Café/cafetaria no local",
+            "Vinho/champanhe",
+            "Buffet adequado para crianças",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Pequeno-almoço no quarto"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Geral": [
+            "Quartos familiares",
+            "Minimercado no local",
+            "Refeições pré-embaladas"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ],
+          "Piscina e bem-estar": [
+            "Piscina 1 – Interior",
+            "Spa e centro de bem-estar",
+            "Centro de fitness"
+          ],
+          "Other": [
+            "Esqui"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Set in Schladming, 17 km from Dachstein Skywalk, Sporthotel Royer offers accommodation with free bikes, free private parking, a seasonal outdoor swimming pool and a fitness centre.",
+      "es": "Sporthotel Royer se encuentra en Schladming, a 17 km de Paseo aéreo de Dachstein, y ofrece alojamiento con bicicletas gratis, parking privado gratis, piscina de temporada al aire libre y centro de fitness.",
+      "de": "Die Unterkunft Sporthotel Royer, die in Schladming, 17 km von Dachstein Skywalk entfernt gelegen ist, verfügt über Übernachtungsmöglichkeiten mit kostenlosen Fahrrädern, einem kostenlosen Privatparkplatz, einem saisonalen Außenpool und einem Fitnesscenter.",
+      "it": "Posizionato a Schladming, a 17 km da Dachstein Skywalk, Sporthotel Royer mette a disposizione biciclette gratuite, un parcheggio privato gratuito, una piscina all’aperto stagionale e un centro fitness.",
+      "fr": "L’établissement Sporthotel Royer se situe à Schladming, à 17 km de ce lieu d’intérêt : Dachstein Skywalk.",
+      "pt": "Sporthotel Royer situa-se em Schladming, a 17 km de Dachstein Skywalk, e dispõe de acomodações com bicicletas gratuitas, estacionamento privado gratuito, uma piscina exterior sazonal e um centro de fitness."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

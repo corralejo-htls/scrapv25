@@ -1,0 +1,1309 @@
+{
+  "data": {
+    "accommodationType": "hotel",
+    "address": {
+      "en": "Buchgreithweg 351, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "es": "Buchgreithweg 351, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "de": "Buchgreithweg 351, 8271 Bad Waltersdorf, Österreich, 8271 Bad Waltersdorf, Österreich",
+      "it": "Buchgreithweg 351, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "fr": "Buchgreithweg 351, 8271 Bad Waltersdorf, Autriche, 8271 Bad Waltersdorf, Autriche",
+      "pt": "Buchgreithweg 351, 8271 Bad Waltersdorf, Áustria, 8271 Bad Waltersdorf, Áustria"
+    },
+    "geoPosition": {
+      "latitude": 47.15925275181006,
+      "longitude": 16.007723808288574
+    },
+    "rating": 4,
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.3
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.3
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.3
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.3
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.3
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.1
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.1
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.3
+        }
+      }
+    },
+    "scoreReview": 8.5,
+    "scoreReviewBasedOn": 609,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Sonneninsel",
+          "distance": "3.8 mi",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "9 mi",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "12 mi",
+          "category": 6
+        },
+        {
+          "name": "Willis",
+          "distance": "750 ft",
+          "category": 2
+        },
+        {
+          "name": "Kulturhauscafe",
+          "distance": "1 mi",
+          "category": 2
+        },
+        {
+          "name": "Tanzbar Intermezzo",
+          "distance": "1.1 mi",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1.2 mi",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "2.6 mi",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "38 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "15 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "19 km",
+          "category": 6
+        },
+        {
+          "name": "Willis",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Kulturhauscafe",
+          "distance": "1,6 km",
+          "category": 2
+        },
+        {
+          "name": "Tanzbar Intermezzo",
+          "distance": "1,7 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "2 km",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "4,1 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "61 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "15 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "19 km",
+          "category": 6
+        },
+        {
+          "name": "Willis",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Kulturhauscafe",
+          "distance": "1,6 km",
+          "category": 2
+        },
+        {
+          "name": "Tanzbar Intermezzo",
+          "distance": "1,7 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "2 km",
+          "category": 6
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "61 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "15 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "19 km",
+          "category": 6
+        },
+        {
+          "name": "Willis",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kulturhauscafe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Tanzbar Intermezzo",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "2 km",
+          "category": 6
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "61 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "15 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "19 km",
+          "category": 6
+        },
+        {
+          "name": "Willis",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Kulturhauscafe",
+          "distance": "1,6 km",
+          "category": 2
+        },
+        {
+          "name": "Tanzbar Intermezzo",
+          "distance": "1,7 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "2 km",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "4,1 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "61 km",
+          "category": 1
+        }
+      ],
+      "pt": []
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/181798725.jpg?k=70bdd757763a37fa321584c26ae4026c17948bbf9d372209bb0454f570cbc96d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/181008993.jpg?k=3d10d3894324abc443659adf658a13ca0ac9523203b44d08635c497ad6f2cc3f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/62584733.jpg?k=3d24f057e2a76bc99b10606e44f08c03078c39a166fdf6f3ff8a31d07be518b4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037337.jpg?k=bb099314e754b5541a070a2cec3386c1ee008c62d0d3f3d20fdd55b814f5c81d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/203606351.jpg?k=c982f083e7b9e960e32ba0931cb2c4aad564d769f8c9b35b7f2f4d3289b369ba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526582397.jpg?k=713a690044c9cca0e3dc7083af893b526ca3e05609aeb73e5a3c8b7262ac27df&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526581467.jpg?k=94fc628b08e6eda58c23d11f1691935bce76943b2875349fdfcf9a7d0224a436&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037312.jpg?k=566591785541a9569cbc92a23232348d049954c718d32f995d1cfcca2515a02a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037314.jpg?k=d78a8eba23fe8b3cd14e79c6fd7ddc122ce8028320d63d71ec068dbf2bd5a129&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037317.jpg?k=a9460b0215f5ed32859008ca1d24789e36a8ca4c2719df200ff6051715d88ca9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387938320.jpg?k=fa2d5f51ac95227293a704d6640828248c7895708151c6ce0b7ad3ff87af30aa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526582329.jpg?k=fc848571f23533a7a8cbbd9467a03542d2e629809b86d6ed9419b80969e64661&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037359.jpg?k=537e36ebe7a299144638eb7e7389a34d80e8c54d4b054d074e73b08e89b78c6c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387936537.jpg?k=9ded933d4152d32ea90fd15d40d719a5ce3cfc650cf7758ab34e859f621861e7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387937670.jpg?k=9c82f2f87cc477d41ba2acc58e0e3bf0332a6d4c577f01b025fd7f7ca57fddd2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037293.jpg?k=056b5d2602f6651f61382cb71c314783e6db131c2dd1b74dd41d69534e4b2473&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/62584725.jpg?k=4421788b8711b47048ea1daad7a35fdb413abaa4600c1028afcdc363b606e377&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/270964890.jpg?k=cadf311b8db4f1cb255383793aa8ecb9e630f316172a09e857db87827b79cd55&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387937073.jpg?k=2875dabb612bb205c918a34aefdd047f9e46fa419f62cdfb5b028c7bd45ae832&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037336.jpg?k=f0d37f7bac89eca02cee7fba37d2a33bced474f288979abaf066655e2102da45&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387937179.jpg?k=27591405688e9b2bc07846a56030e53403106a4290143e1cfe7150fa0fd04efb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/62584743.jpg?k=ad99e36fdcc16c10fd3b84591b29281e4e4337bb6024000a001d3070b58ebdeb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037333.jpg?k=5bbf41cc182e712b0a0036a7898a4b149f1cef5b157dec3ddf151f590208824f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037334.jpg?k=acee4d2b4a5e51f69c07437ce69ee84b9f67fffc1b87571ea3682a6444fac550&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037280.jpg?k=1d1249568e5132fcd0327ee1b5af3b41893e4cfa67123c04d858d189ae184896&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/270964672.jpg?k=a699bebbae044493062e977fa2904b5a13e2111d486fd1037c4b7879d81dd9ec&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526581464.jpg?k=edbadfc37aca74c7ed0dfb789d4c2d75c7692b87d355a687a020403ccd50cbd4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/375322836.jpg?k=12c9e55a880f7e08d9e2c36abb78dabcbce022aa79d21c1517afef78e1918690&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/64704282.jpg?k=5f6d3f11372c8b5e629daf5e53decf0f83841dda23b18c9d3d866c9126f54059&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037367.jpg?k=b4eac86b27b3bd0eeeea71f7a4782d2c07792f3d9e92de514967912cf4e254f0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037277.jpg?k=29da2dbe5132916c2e940026329699a2fd0b79a4a3652b8170ab2d1d9d33aac4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526582370.jpg?k=cf86de99759c70661e2e60b33ece7df8e1bc4d1545f4dbd20fbcb4c20bb5a441&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037426.jpg?k=0cd460d64ac7da519445c0bed6fe019d0e7ba4e90c77c0c3092be4a0b09c3b59&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037284.jpg?k=c7b6bc587ea8b7146b3a663d21a4318563778569f4d6278a3c2c64159e7681b9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/387957484.jpg?k=bf89b4cb691597b2570f15ec1718743075efa3e1577bdaabcad140d0fe697499&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/64704779.jpg?k=faaee402f98408c466eb10866d93efc2ac8fd10bc17c8932dcd5178cf87799e6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526582293.jpg?k=e2ba6916db3a13bd0b508ce9f39a837855c1a458e8cb5e4085667689bb39fca8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/526582468.jpg?k=e8c2b5873b693cd2058e501a77d4eecdc1b9d76da27bda6ee066e27e929f2b7f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/62584752.jpg?k=bdce3ee2872fb4c4e4f44c3ebb741e46a5643d34277d756b525b1af4221c3384&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037299.jpg?k=47a2c72d57f098ce899b00d135f660ecc45eab600bad8881de581ebf8b2acfe9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037335.jpg?k=01e442644c11637222f4e6f487991941ded9939403101f1b8b3c16f6e81b2380&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037356.jpg?k=fffc5d940775e92bb04c55b25707a89765185da2387033f2b367badb34a8e677&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037292.jpg?k=38b227dbf35777fbb8801e3aa7a435950399493919aacf0bace075535ac61ba6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/316037399.jpg?k=de99fef819d90ed753ad204dd83583095efe42f592b35f201b15eb6e48e763e1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/323167093.jpg?k=3670f89c30bcab112cbfc175369b048d53b0ceffa688851b87d4950c1d96f2b3&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region. The 2,500 m² wellness and pool area is included from arrival day at 3 p.m. till departure day 11 a.m. and features natural thermal water and healthy refreshments such as tea and fruits.\n\nThe spacious rooms all come with a balcony or loggia, air conditioning, a seating area, a minibar, , a safe, and a bathroom with a hairdryer. Free WiFi is available.\n\n\nA variety of massages and beauty treatments await you at the GOLD SPA. The highlight in the sauna area is the unique earth sauna.\n\nIn the panorama restaurant you will be spoilt with regional specialities with an international touch. The spa bistro serves light snacks and a selection of drinks, pastries and smoothies. Half-board includes breakfast and a 6-course menu of your choice in the evening.\n\nThe next-door Bad Waltersdorf Golf Course, featuring Feng Shui elements, offers ideal conditions for beginners as well as advanced golfers. Hotel guests benefit from a discount on the green fees.",
+      "es": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region. The 2,500 m² wellness and pool area is included from arrival day at 3 p.m. till departure day 11 a.m. and features natural thermal water and healthy refreshments such as tea and fruits.\n\nThe spacious rooms all come with a balcony or loggia, air conditioning, a seating area, a minibar, , a safe, and a bathroom with a hairdryer. Free WiFi is available.\n\n\nA variety of massages and beauty treatments await you at the GOLD SPA. The highlight in the sauna area is the unique earth sauna.\n\nIn the panorama restaurant you will be spoilt with regional specialities with an international touch. The spa bistro serves light snacks and a selection of drinks, pastries and smoothies. Half-board includes breakfast and a 6-course menu of your choice in the evening.\n\nThe next-door Bad Waltersdorf Golf Course, featuring Feng Shui elements, offers ideal conditions for beginners as well as advanced golfers. Hotel guests benefit from a discount on the green fees.",
+      "de": "Das Spa Resort Styria - ADULTS ONLY ist eine 4-Sterne-Superior-Unterkunft in ruhiger Lage in der steirischen Thermenregion. Der 2.500 m² große Wellness- und Poolbereich ist vom Anreisetag um 15:00 Uhr bis zum Abreisetag um 11:00 Uhr inklusive und bietet natürliches Thermalwasser und gesunde Erfrischungen wie Tee und Obst.\n\nDie geräumigen Zimmer verfügen alle über einen Balkon oder eine Loggia, Klimaanlage, eine Sitzecke, eine Minibar, einen Safe und ein Badezimmer mit Haartrockner. WLAN ist kostenlos verfügbar.\n\n\nEin abwechslungsreiches Angebot an Massagen und Schönheitsanwendungen erwartet Sie im GOLD SPA. Das Highlight im Saunabereich ist die einzigartige Erdsauna.\n\nIm Panoramarestaurant genießen Sie regionale Spezialitäten mit internationaler Note. Das Spa-Bistro serviert leichte Snacks und eine Auswahl an Getränken, Gebäck und Smoothies. Die Halbpension beinhaltet das Frühstück und ein 6-Gänge-Menü Ihrer Wahl am Abend.\n\nGleich nebenan befindet sich der Golfplatz Bad Waltersdorf mit Feng-Shui-Elementen. Hier finden sowohl Anfänger als auch fortgeschrittene Golfer ideale Bedingungen vor. Als Hotelgast erhalten Sie eine Ermäßigung auf die Green Fees.",
+      "it": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region. The 2,500 m² wellness and pool area is included from arrival day at 3 p.m. till departure day 11 a.m. and features natural thermal water and healthy refreshments such as tea and fruits.\n\nThe spacious rooms all come with a balcony or loggia, air conditioning, a seating area, a minibar, , a safe, and a bathroom with a hairdryer. Free WiFi is available.\n\n\nA variety of massages and beauty treatments await you at the GOLD SPA. The highlight in the sauna area is the unique earth sauna.\n\nIn the panorama restaurant you will be spoilt with regional specialities with an international touch. The spa bistro serves light snacks and a selection of drinks, pastries and smoothies. Half-board includes breakfast and a 6-course menu of your choice in the evening.\n\nThe next-door Bad Waltersdorf Golf Course, featuring Feng Shui elements, offers ideal conditions for beginners as well as advanced golfers. Hotel guests benefit from a discount on the green fees.",
+      "fr": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region. The 2,500 m² wellness and pool area is included from arrival day at 3 p.m. till departure day 11 a.m. and features natural thermal water and healthy refreshments such as tea and fruits.\n\nThe spacious rooms all come with a balcony or loggia, air conditioning, a seating area, a minibar, , a safe, and a bathroom with a hairdryer. Free WiFi is available.\n\n\nA variety of massages and beauty treatments await you at the GOLD SPA. The highlight in the sauna area is the unique earth sauna.\n\nIn the panorama restaurant you will be spoilt with regional specialities with an international touch. The spa bistro serves light snacks and a selection of drinks, pastries and smoothies. Half-board includes breakfast and a 6-course menu of your choice in the evening.\n\nThe next-door Bad Waltersdorf Golf Course, featuring Feng Shui elements, offers ideal conditions for beginners as well as advanced golfers. Hotel guests benefit from a discount on the green fees.",
+      "pt": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region. The 2,500 m² wellness and pool area is included from arrival day at 3 p.m. till departure day 11 a.m. and features natural thermal water and healthy refreshments such as tea and fruits.\n\nThe spacious rooms all come with a balcony or loggia, air conditioning, a seating area, a minibar, , a safe, and a bathroom with a hairdryer. Free WiFi is available.\n\n\nA variety of massages and beauty treatments await you at the GOLD SPA. The highlight in the sauna area is the unique earth sauna.\n\nIn the panorama restaurant you will be spoilt with regional specialities with an international touch. The spa bistro serves light snacks and a selection of drinks, pastries and smoothies. Half-board includes breakfast and a 6-course menu of your choice in the evening.\n\nThe next-door Bad Waltersdorf Golf Course, featuring Feng Shui elements, offers ideal conditions for beginners as well as advanced golfers. Hotel guests benefit from a discount on the green fees."
+    },
+    "toConsider": {
+      "en": "Please note that the children under 16 years of age cannot be accommodated at the hotel.\nPlease note that special conditions may apply when booking more than 5 rooms.\nPlease note that vouchers from 3rd party companies are not accepted at the property.",
+      "es": "Please note that the children under 16 years of age cannot be accommodated at the hotel.\nPlease note that special conditions may apply when booking more than 5 rooms.\nPlease note that vouchers from 3rd party companies are not accepted at the property.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Bitte beachten Sie, dass Kinder unter 16 Jahren im Hotel nicht untergebracht werden können.\nBitte beachten Sie, dass für eine Buchung ab 5 Zimmern gesonderte Richtlinien gelten können.\nBitte beachten Sie, dass Gutscheine von Drittunternehmen in der Unterkunft nicht akzeptiert werden.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "In quest'hotel non possono soggiornare bambini o ragazzi di età inferiore a 16 anni.\nLe prenotazioni che comprendono più di 5 camere potrebbero essere soggette a condizioni speciali.\nL'hotel non accetta voucher da parte di società terze.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Les enfants de moins de 16 ans ne sont pas admis dans l’établissement.\nVeuillez noter que des conditions particulières peuvent s’appliquer aux réservations de plus de 5 chambres.\nVeuillez noter que les bons émis par des sociétés tierces ne sont pas acceptés dans l'établissement.",
+      "pt": "Please note that the children under 16 years of age cannot be accommodated at the hotel.\nPlease note that special conditions may apply when booking more than 5 rooms.\nPlease note that vouchers from 3rd party companies are not accepted at the property.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    },
+    "name": {
+      "en": "Spa Resort Styria- ADULTS ONLY",
+      "es": "Spa Resort Styria- ADULTS ONLY",
+      "de": "Spa Resort Styria- ADULTS ONLY",
+      "it": "Spa Resort Styria- ADULTS ONLY",
+      "fr": "Spa Resort Styria- ADULTS ONLY",
+      "pt": "Spa Resort Styria- ADULTS ONLY"
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Guests staying at Spa Resort Styria- ADULTS ONLY can enjoy a highly-rated breakfast during their stay (guest review score: 9.5). Breakfast option(s) include: Buffet"
+        },
+        {
+          "topic": "Does Spa Resort Styria- ADULTS ONLY have a pool?",
+          "topicComments": "Yes, this hotel has a pool. Find out the details about the pool and other facilities on this page."
+        },
+        {
+          "topic": "What type of room can I book at Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Room options at Spa Resort Styria- ADULTS ONLY include: Double Suite"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Check-in at Spa Resort Styria- ADULTS ONLY is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "The prices at Spa Resort Styria- ADULTS ONLY may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does Spa Resort Styria- ADULTS ONLY have a restaurant on site?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY has 1 restaurants: Panorama Restaurant"
+        },
+        {
+          "topic": "What is there to do at Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY offers the following activities / services (charges may apply): Spa and wellness centre Fitness centre Hot tub/Jacuzzi Sauna Massage Hammam Cycling Hiking Tennis court Squash Golf course (within 3 km) Solarium Body treatments Bike tours Facial treatments Public Bath Steam room Fitness/spa locker rooms Beauty Services Bicycle rental Body wrap Live sport events (broadcast) Manicure Swimming pool Spa/wellness packages Walking tours Waxing services Live music/performance Body scrub Open-air bath Pedicure Spa lounge/relaxation area Spa facilities Fitness"
+        },
+        {
+          "topic": "How far is Spa Resort Styria- ADULTS ONLY from the centre of Bad Waltersdorf?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY is 0.7 mi from the centre of Bad Waltersdorf."
+        },
+        {
+          "topic": "Does Spa Resort Styria- ADULTS ONLY have a hot tub for its guests?",
+          "topicComments": "Yes, there is a hot tub. You can find out more about this and the other facilities at Spa Resort Styria- ADULTS ONLY on this page."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Los clientes de Spa Resort Styria- ADULTS ONLY podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9,5) Las opciones del desayuno son: Buffet"
+        },
+        {
+          "topic": "¿Hay piscina en Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Sí, el hotel tiene piscina. En esta página encontrarás más info sobre la piscina y otras instalaciones."
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Las opciones de habitación en Spa Resort Styria- ADULTS ONLY son: Doble Suite"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Podrás hacer el check-in en Spa Resort Styria- ADULTS ONLY a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Los precios en Spa Resort Styria- ADULTS ONLY pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY tiene 1 restaurantes: Panorama Restaurant"
+        },
+        {
+          "topic": "¿Qué se puede hacer en Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Spa y centro de bienestar Gimnasio Bañera de hidromasaje / jacuzzi Sauna Masajes Hammam Ciclismo Senderismo Pista de tenis Squash Campo de golf (a menos de 3 km) Solárium Tratamientos corporales Tours en bici Tratamientos faciales Baños públicos Baño de vapor Taquillas en el gimnasio / spa Servicios de belleza Alquiler de bicicletas Envoltura corporal Eventos deportivos en directo (emisión) Manicura Piscina Paquetes de spa / bienestar Tours a pie Servicios de depilación Música / espectáculos en directo Exfoliación corporal Baño al aire libre Pedicura Zona de spa / relajación Instalaciones de spa Gimnasio"
+        },
+        {
+          "topic": "¿A qué distancia está Spa Resort Styria- ADULTS ONLY del centro de Bad Waltersdorf?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY está a 1,1 km del centro de Bad Waltersdorf."
+        },
+        {
+          "topic": "¿Spa Resort Styria- ADULTS ONLY tiene bañera de hidromasaje?",
+          "topicComments": "Sí, hay una bañera de hidromasaje. Encontrarás más información sobre este y otros servicios e instalaciones de Spa Resort Styria- ADULTS ONLY en esta página."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Spa Resort Styria- ADULTS ONLY serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Spa Resort Styria- ADULTS ONLY übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9,5). Verfügbare Frühstücksoption(en): Buffet"
+        },
+        {
+          "topic": "Hat die Unterkunft Spa Resort Styria- ADULTS ONLY einen Pool?",
+          "topicComments": "Ja, dieses Hotel hat einen Pool. Erfahren Sie Einzelheiten zum Pool und anderen Ausstattungen auf dieser Seite."
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Spa Resort Styria- ADULTS ONLY buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Spa Resort Styria- ADULTS ONLY zählen: Doppelzimmer Suite"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Der Check-in in der Unterkunft Spa Resort Styria- ADULTS ONLY ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Die Preise an der Unterkunft Spa Resort Styria- ADULTS ONLY könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft Spa Resort Styria- ADULTS ONLY ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft Spa Resort Styria- ADULTS ONLY hat 1 Restaurants: Panorama Restaurant"
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Die Unterkunft Spa Resort Styria- ADULTS ONLY bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Spa & Wellnesscenter Fitnesscenter Whirlpool/Jacuzzi Sauna Massage Dampfbad/Türkisches Bad Radfahren Wandern Tennisplatz Squash Golfplatz (max. 3 km entfernt) Solarium Körperanwendungen Fahrradtouren Gesichtsbehandlungen Öffentliches Bad Dampfbad Umkleideraum für Fitness/Wellness Schönheitsangebote Fahrradverleih Ganzkörperpackung Live-Sportveranstaltung (Übertragung) Maniküre Pool Wellnessangebote Touren zu Fuß Haarentfernung mit Wachs Live-Musik/Performance Körperpeeling Badebecken im Freien (Rotenburo) Pediküre Wellnesslounge/Ruhebereich Wellness Fitness"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Spa Resort Styria- ADULTS ONLY vom Zentrum von Bad Waltersdorf entfernt?",
+          "topicComments": "Die Unterkunft Spa Resort Styria- ADULTS ONLY ist 1,1 km vom Zentrum von Bad Waltersdorf entfernt."
+        },
+        {
+          "topic": "Hat die Unterkunft Spa Resort Styria- ADULTS ONLY einen Whirlpool für Gäste?",
+          "topicComments": "Ja, es gibt einen Whirlpool. Mehr über diese und weitere Einrichtungen in der Unterkunft Spa Resort Styria- ADULTS ONLY finden Sie auf dieser Seite."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Durante il soggiorno, Spa Resort Styria- ADULTS ONLY propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9,5). Colazione disponibile: a buffet"
+        },
+        {
+          "topic": "Spa Resort Styria- ADULTS ONLY dispone di una piscina?",
+          "topicComments": "Sì. Trovi maggiori informazioni sulla piscina e sugli altri servizi in questa pagina."
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY offre: Matrimoniale Suite"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Presso Spa Resort Styria- ADULTS ONLY, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "I prezzi di Spa Resort Styria- ADULTS ONLY possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Spa Resort Styria- ADULTS ONLY dispone di un ristorante in loco?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY offre 1 ristoranti: Panorama Restaurant"
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY offre i seguenti servizi/attività (alcuni a pagamento): Spa & centro benessere Palestra Vasca idromassaggio/jacuzzi Sauna Massaggi Hammam Escursioni in bicicletta Escursionismo Campo da tennis Squash Campo da golf (nel raggio di 3 km) Solarium Trattamenti corpo Tour in bicicletta Trattamenti viso Vasca comune Bagno turco Armadietti per fitness/spa Servizi di bellezza Noleggio biciclette Bendaggi corpo Trasmissione di eventi sportivi in diretta Manicure Piscina Pacchetti spa/benessere Tour a piedi Depilazione con ceretta Spettacolo/musica dal vivo Scrub corpo Vasca all'aperto Pedicure Sala spa/area relax Servizi spa Fitness"
+        },
+        {
+          "topic": "Quanto dista Spa Resort Styria- ADULTS ONLY dal centro di Bad Waltersdorf?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY si trova a 1,1 km dal centro di Bad Waltersdorf."
+        },
+        {
+          "topic": "Spa Resort Styria- ADULTS ONLY offre una vasca idromassaggio agli ospiti?",
+          "topicComments": "Sì, è presente una vasca idromassaggio. Su questa pagina trovi maggiori informazioni e gli altri servizi offerti da Spa Resort Styria- ADULTS ONLY."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Spa Resort Styria- ADULTS ONLY sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Spa Resort Styria- ADULTS ONLY ont attribué une très bonne note à son petit-déjeuner : 9,5. L'établissement sert les types de petit-déjeuner suivants : Buffet"
+        },
+        {
+          "topic": "L'établissement Spa Resort Styria- ADULTS ONLY dispose-t-il d'une piscine ?",
+          "topicComments": "Oui, cet hôtel propose une piscine. Vous trouverez plus de détails sur la piscine et les autres équipements de l'établissement sur cette page."
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Spa Resort Styria- ADULTS ONLY ?",
+          "topicComments": "L'établissement Spa Resort Styria- ADULTS ONLY propose les options d'hébergement suivantes : Double Suite"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Spa Resort Styria- ADULTS ONLY ?",
+          "topicComments": "L'enregistrement à l'établissement Spa Resort Styria- ADULTS ONLY se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Spa Resort Styria- ADULTS ONLY ?",
+          "topicComments": "Les tarifs fixés par l'établissement Spa Resort Styria- ADULTS ONLY peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Spa Resort Styria- ADULTS ONLY dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement Spa Resort Styria- ADULTS ONLY propose 1 restaurant : Panorama Restaurant"
+        },
+        {
+          "topic": "Quelles activités l'établissement Spa Resort Styria- ADULTS ONLY propose-t-il ?",
+          "topicComments": "L'établissement Spa Resort Styria- ADULTS ONLY propose les activités et les services suivants (des frais peuvent s'appliquer) : Spa et centre de bien-être Centre de remise en forme Bain à remous/jacuzzi Sauna Massages Hammam Cyclisme Randonnée Court de tennis Squash Parcours de golf (à moins de 3 km) Solarium Soins corporels Visites à vélo Soins du visage Bain public Bain à vapeur Vestiaires salle de sport/spa Services beauté Location de vélos Enveloppement corporel Diffusion d'événements sportifs Manucure Piscine Forfaits spa/bien-être Balades à pied Épilation Concerts/Spectacles Gommage corporel Bain en plein air Pédicure Coin spa/relaxation Spa Fitness"
+        },
+        {
+          "topic": "L'établissement Spa Resort Styria- ADULTS ONLY est-il proche du centre (Bad Waltersdorf) ?",
+          "topicComments": "L'établissement Spa Resort Styria- ADULTS ONLY se trouve à 1,1 km du centre (Bad Waltersdorf)."
+        },
+        {
+          "topic": "L'établissement Spa Resort Styria- ADULTS ONLY propose-t-il un bain à remous à ses clients ?",
+          "topicComments": "Oui ! Vous trouverez plus d'informations sur le bain à remous et les autres équipements de l'établissement Spa Resort Styria- ADULTS ONLY sur cette page."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Os hóspedes em Spa Resort Styria- ADULTS ONLY podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9,5). As opções de pequeno-almoço incluem: Buffet"
+        },
+        {
+          "topic": "Spa Resort Styria- ADULTS ONLY tem piscina?",
+          "topicComments": "Sim, este hotel tem uma piscina. Veja mais informações sobre a piscina e outras comodidades nesta página."
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "As opções de quarto em Spa Resort Styria- ADULTS ONLY incluem: Duplo Suite"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Em Spa Resort Styria- ADULTS ONLY, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Os preços em Spa Resort Styria- ADULTS ONLY podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Spa Resort Styria- ADULTS ONLY tem um restaurante no local?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY tem 1 restaurantes: Panorama Restaurant"
+        },
+        {
+          "topic": "Que atividades há em Spa Resort Styria- ADULTS ONLY?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Spa e centro de bem-estar Centro de fitness Banheira de hidromassagem/jacuzzi Sauna Massagem Banho turco Ciclismo Caminhadas Campo de Ténis Squash Campo de golfe (a menos de 3 km) Solário Tratamentos corporais Excursões de bicicleta Tratamentos faciais Banho público Banho de vapor Salas de cacifos do spa/centro de fitness Serviços de beleza Aluguer de bicicleta Envolvimento corporal Eventos desportivos (transmissão) Manicura Piscina Pacotes de spa/bem-estar Excursões a pé Depilação Atuações/música ao vivo Exfoliação corporal Banheira ao ar livre Pedicura Sala de spa/área de relaxamento Comodidades de spa Fitness"
+        },
+        {
+          "topic": "A que distância fica Spa Resort Styria- ADULTS ONLY do centro de Bad Waltersdorf?",
+          "topicComments": "Spa Resort Styria- ADULTS ONLY fica a 1,1 km do centro de Bad Waltersdorf."
+        },
+        {
+          "topic": "Tem Spa Resort Styria- ADULTS ONLY uma banheira de hidromassagem para os hóspedes?",
+          "topicComments": "Sim, há uma banheira de hidromassagem. Pode obter mais informações sobre esta e outras comodidades de Spa Resort Styria- ADULTS ONLY nesta página."
+        }
+      ]
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Until 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children are not allowed. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children are not allowed. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 18"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 5 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "Desde las 15:00"
+        },
+        {
+          "condition": "Salida",
+          "detail": "Hasta las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños No se pueden alojar niños. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias No se pueden alojar niños. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 18"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 5 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Ab 15:00"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Bis 11:00"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder können nicht untergebracht werden. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder können nicht untergebracht werden. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 18 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 5 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini Non è consentito l'accesso ai bambini. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi Non è consentito l'accesso ai bambini. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 18 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 5 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "À partir de 15:00"
+        },
+        {
+          "condition": "Départ",
+          "detail": "Jusqu'à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Les enfants ne sont pas autorisés. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Les enfants ne sont pas autorisés. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 18 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 5 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Não são permitidas crianças. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Não são permitidas crianças. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 18"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 5 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Restaurant",
+            "Bar",
+            "Fruits",
+            "Wine/champagne",
+            "Special diet menus (on request)",
+            "Snack bar",
+            "Breakfast in the room"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Packed lunches"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Pool & Wellness": [
+            "Pool 1 - indoor",
+            "Spa and wellness centre",
+            "Fitness centre"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Restaurante",
+            "Bar",
+            "Fruta",
+            "Vino / champán",
+            "Menús para dietas especiales (bajo petición)",
+            "Snack-bar",
+            "Desayuno en la habitación"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Adaptado personas de movilidad reducida",
+            "Almuerzos para llevar"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Piscina y bienestar": [
+            "Piscina 1 - Cubierta",
+            "Spa y centro de bienestar",
+            "Gimnasio"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherzimmer",
+            "Einrichtungen für behinderte Gäste",
+            "Lunchpakete"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Pool & Wellness": [
+            "Pool 1 - innen",
+            "Spa & Wellnesscenter",
+            "Fitnesscenter"
+          ],
+          "Speisen & Getränke": [
+            "Restaurant",
+            "Bar",
+            "Obst",
+            "Wein/Sekt",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Snackbar",
+            "Frühstück im Zimmer"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Ristorante",
+            "Bar",
+            "Frutta",
+            "Vino/champagne",
+            "Menù per diete particolari (su richiesta)",
+            "Snack bar",
+            "Possibilità di colazione in camera"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Camere/strutture per ospiti disabili",
+            "Possibilità di pranzo al sacco"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Piscina & benessere": [
+            "Piscina n. 1 (coperta)",
+            "Spa & centro benessere",
+            "Palestra"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Restaurant",
+            "Bar",
+            "Fruits",
+            "Vin/champagne",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Snack-bar",
+            "Petit-déjeuner en chambre"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Équipements pour les personnes handicapées",
+            "Paniers-repas"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Piscine & bien-être": [
+            "Piscine 1 - Intérieure",
+            "Spa et centre de bien-être",
+            "Centre de remise en forme"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Restaurante",
+            "Bar",
+            "Fruta",
+            "Vinho/champanhe",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Snack-bar",
+            "Pequeno-almoço no quarto"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Geral": [
+            "Quartos para não fumadores",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Refeições pré-embaladas"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ],
+          "Piscina e bem-estar": [
+            "Piscina 1 – Interior",
+            "Spa e centro de bem-estar",
+            "Centro de fitness"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region.",
+      "es": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region.",
+      "de": "Das Spa Resort Styria - ADULTS ONLY ist eine 4-Sterne-Superior-Unterkunft in ruhiger Lage in der steirischen Thermenregion.",
+      "it": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region.",
+      "fr": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region.",
+      "pt": "The 4-star superior Spa Resort Styria - ADULTS ONLY enjoys a quiet location in Styria’s thermal region."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

@@ -1,0 +1,1156 @@
+{
+  "data": {
+    "accommodationType": "hotel",
+    "address": {
+      "en": "Mosern 22, 8993 Grundlsee, Austria, 8993 Grundlsee, Austria",
+      "es": "Mosern 22, 8993 Grundlsee, Austria, 8993 Grundlsee, Austria",
+      "de": "Mosern 22, 8993 Grundlsee, Österreich, 8993 Grundlsee, Österreich",
+      "it": "Mosern 22, 8993 Grundlsee, Austria, 8993 Grundlsee, Austria",
+      "fr": "Mosern 22, 8993 Grundlsee, Autriche, 8993 Grundlsee, Autriche",
+      "pt": "Mosern 22, 8993 Grundlsee, Áustria, 8993 Grundlsee, Áustria"
+    },
+    "geoPosition": {
+      "latitude": 47.6235958928631,
+      "longitude": 13.830728307366371
+    },
+    "rating": 4,
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 9.8
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.9
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 9.9
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 9.8
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.9
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 9.9
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 9.8
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.9
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 9.9
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 9.8
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.9
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 9.9
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 9.8
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.9
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 9.9
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.9
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.9
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 9.3
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 9.9
+        }
+      }
+    },
+    "scoreReview": 9.8,
+    "scoreReviewBasedOn": 367,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 2
+        },
+        {
+          "name": "Felstor Loserfenster",
+          "distance": "12 km",
+          "category": 5
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 5
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "89 km",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 2
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 5
+        },
+        {
+          "name": "Loser",
+          "distance": "12 km",
+          "category": 5
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Salzburgo - W. A. Mozart",
+          "distance": "89 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 2
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 6
+        },
+        {
+          "name": "Loser",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Salzburg",
+          "distance": "89 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 6
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 6
+        },
+        {
+          "name": "Monte Loser",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Salisburgo - W. A. Mozart",
+          "distance": "89 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 2
+        },
+        {
+          "name": "Loser",
+          "distance": "12 km",
+          "category": 5
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 5
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport Wolfgang Amadeus Mozart de Salzbourg",
+          "distance": "89 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Salzwelten Altaussee",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Dachstein Shark",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Seeplatzl",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Fischkalter",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Seeblick",
+          "distance": "550 m",
+          "category": 2
+        },
+        {
+          "name": "Hallstättersee",
+          "distance": "10 km",
+          "category": 5
+        },
+        {
+          "name": "Felstor Loserfenster",
+          "distance": "12 km",
+          "category": 5
+        },
+        {
+          "name": "Bad Aussee",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Kainisch",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "89 km",
+          "category": 1
+        }
+      ]
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115899.jpg?k=4db8fcc7da0f25e27d0c726cafb8917bbcdf1249c67c97e0c61c6f64e5a18723&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549891567.jpg?k=7259de52de25e0901c3e5644b70f00f2029d8b503ab35a5f4a427f31a8ab62ab&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/209692600.jpg?k=4ec333263dbb2b4b491b3b3f335c09572078456fe82d64148e0a0c0c50d0ff0b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549890636.jpg?k=1b9608b7e1b102be9c1e2c250276d6d026d9841a69f28718b1fb3a7091647be1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115851.jpg?k=41d57281c149f3a7c8d393eb537301109f7f10a84725fae16aa036ee39e38004&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471072748.jpg?k=35c9805a82a60bca2a512e66e6395748fa7b99db9accab6c6b23e56c4fd9d498&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/494628675.jpg?k=4193b17a82a6de3ac1a9321b1e47d2b6724533a81eec7e1ddefa0a9c5944b522&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/570731613.jpg?k=6d5e200fc0b11aae002a32bbb6c58a5e85444b2a133d99918e9d041e770f7d77&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115892.jpg?k=5b794e3ebb48e106bd33cacf8958d76590bbd311c998d173091aeb81cea881fe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115796.jpg?k=8181b722f6b76fce42e5a05146076f2dd2ae050768b7da1e24a8701dcdfc9f46&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115682.jpg?k=8ab3a08b0cb27bab234ee9298ad5566745ed018ce69cf0fe3a2ebd0c66e84511&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115657.jpg?k=2e2dc83b17c2c5df39398e7bdd496756daa29ce022a8ab6105db81761a67e924&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115752.jpg?k=e7ffaa02c63ab3a1540443a21a51f1c915cc8bf04c483cf71216c34cbd7dcf74&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115768.jpg?k=b17f7d23c6d255aad5a2148bffd431844901b91fd8320bee23ba15f0a1576b6d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115598.jpg?k=051fa587300215a82828fb361c6154292b812d87bf69e89a8ec78fe38a2c4ec8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115812.jpg?k=c28b8baf7178809a1bea92fc72fa8b665324d21f19d3e05a68007799cdcd00b1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549876959.jpg?k=4b688db502fc4206e46349de1761ca4e81af33b3131c808a9b4e4b828d949b65&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115634.jpg?k=149ab020ac1961c1d908e53f1488eab8b6f4e43260c0960e5d3eea19ae10b349&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115885.jpg?k=1d7da2546c6918533127280e2c0fe32990f0df601defe845798e37f082604949&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115793.jpg?k=ddcf8437535a160e60ace67ffb0c36e643507f2d5daa046adac8b53d2166e694&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115734.jpg?k=5965bd912dbb165a4c720444dc40c7f5b4ca20ea4a1556a5013f0f84cb63e760&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115781.jpg?k=4688084ec0f4ae02da1565c7f566681001f6db12688694b5c7172f703a9b452c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/471115692.jpg?k=b0908baf4e5620bfddec20040b9cd31bf9e14d34ebcc26b47da85d45184a7423&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/494629098.jpg?k=12456cf2491c6f805a53fa05ada7158a9aa1f47829dbcfccc804d6011c38a598&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/494629102.jpg?k=f35e1c1743cca699dc63f2f852e4e6cdfcd0b3d145b779d56de3154f09dfb61f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549876128.jpg?k=586b9d405a043f7df261a84a18cd105d7cda559d5a8f2091f0a4b361bce426ea&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549890733.jpg?k=8092f52197000102c1a5288fe250ae2e761277dcd371c29b5ab339866c95b682&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549891986.jpg?k=5bcdb71b8f07cac4e58531a798bf0091c61e10b587a7f343438c9a12f427f311&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/549892120.jpg?k=a4b76b7e3707ae87e471d50057bb0d0e39f77ad59b30eb77b9761d9ff20a3419&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/570721863.jpg?k=2000d249b00bca1f2a6fba80b9c1bd341830580057cdc8cc2fc5a0bbcc00cbb7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/570731606.jpg?k=ffbb6a9c589e1e9498e25d8539a69ca144d27457c25f243922cea388f0e149fe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/641796425.jpg?k=37d819e0bc284b130764873bb988b656600b894399aa35c80f7ba1542bc54954&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/641796549.jpg?k=45587ef209edd67099dafbbdc8c0a980ed06611402f59a70f452cf3e44d5b51b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/641796561.jpg?k=362eb2965da5e8b3ba0cf570193266b6add0db3780ccc23479f7ea37a875c68e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/667657143.jpg?k=5b92d971375d587ea4491576d595c54311a779194eadd0390c6d97d4d4df6098&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/667657142.jpg?k=d6d5e1e9b93e71cc39f2dac654c00c26c43e12bffd0a83373bc92da49e2ae70a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/667657146.jpg?k=17d0951a15a7091b5bc085b57fe3850685563c066ba5f6f797e9eac659173ea9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/667657145.jpg?k=d3af12fcd776f534c5c507e255750ead7389577b94642e581e55ac1307ec7b12&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/667657144.jpg?k=07edc04122967de53bf293fee175d91abc02f6cde6d768ae3572ffcee466e6c8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/749062127.jpg?k=265b0679f3b372a9eaa179b8865b21e04465d8cea4da58fe6383514e402ccacf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/749064020.jpg?k=61b2efa56bb298c590425d98ec17e7b217ce13d50babaee8b75c4b70dec13d49&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/749062738.jpg?k=c911196d5322e5b1da47eb5a92611521f20f29d76346af346ae00bd238b50447&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/809722015.jpg?k=72e6beea1db00c4b5fd13fc0c1cbce4a7e8cb79a659d58d9b03a7e1595458535&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/809723819.jpg?k=f30dab1c75062257ed344505a9db82adea9cc44a564d6e28e04fe8c0d90bb9db&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/809723823.jpg?k=1b4e728370d6ae57257596f90d985d86cd377806aa1cc6f9c80e8f4e59420d33&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Located directly at the shore of the lake, TAUROA Seehotel Grundlsee offers rooms with elegant, wooden furniture and a flat-screen cable TV. The hotel features a restaurant and a wellness area with panoramic views of the lake and the Totes Gebirge Mountain Range.\n\nAll rooms are equipped with a minibar and have a bathroom with amenities and a hairdryer. Some rooms face the lake or come with a seating area or a sofa bed. Free wired internet is available in all rooms.\n\nThe on-site SEEplatz’l restaurant serves Austrian and international specialities made with local products. TAUROA Seehotel Grundlsee’s daily served breakfast can also be consumed in the rooms or on the lake-facing terrace during summer.\n\nYou can request a massage or relax in the spa area consisting of a Finnish sauna, a bio sauna and an infrared cabin made of Swiss stone pine wood. The spa area is located on a jetty, right next to the private beach area, where guests can sunbathe after a refreshing swim in the lake.\n\nFor exploring the lake, tours on traditional wooden boats are offered at TAUROA Seehotel Grundlsee.\n\nThe Zlaim Ski Area is 2 km away and the ski areas Altaussee-Loser and Tauplitz can be reached within a 15 to 20-minute drive. Bad Aussee, a 9-hole golf course, and the Narzissen Bad Aussee Thermal Baths are all within 5 km from the hotel, and free private parking is possible on site.",
+      "es": "El TAUROA Seehotel Grundlsee está situado a orillas del lago y ofrece habitaciones con muebles de madera elegantes y TV de pantalla plana por cable. El hotel alberga un restaurante y un centro de bienestar con vistas panorámicas al lago y a la cordillera de Totes Gebirge.\n\nLas habitaciones disponen de minibar y baño con artículos de aseo y secador de pelo. Algunas gozan de vistas al lago o tienen zona de estar o 1 sofá cama. Hay conexión a internet por cable gratuita en todas las habitaciones.\n\nEl restaurante SEEplatz'l sirve especialidades austriacas e internacionales elaboradas con productos locales. El TAUROA Seehotel Grundlsee sirve un desayuno todos los días, que puede tomarse en la habitación o en la terraza con vistas al lago en verano.\n\nEl hotel proporciona servicio de masajes y una zona de spa con sauna finlandesa, biosauna y cabina de infrarrojos hecha de madera de pino suizo. La zona de spa está situada en un embarcadero, justo al lado de la zona de playa privada, donde se puede tomar el sol después de bañarse en el lago.\n\nEl TAUROA Seehotel Grundlsee organiza excursiones al lago y paseos en barco tradicional de madera.\n\nLa estación de esquí de Zlaim está a 2 km y las estaciones de esquí de Altaussee-Loser y Tauplitz se hallan a 15-20 minutos en coche. El campo de golf de 9 hoyos, el Bad Aussee, y los baños termales de Narzissen Bad Aussee quedan a 5 km del hotel. Además, hay aparcamiento privado gratuito.",
+      "de": "Direkt am Seeufer bietet das TAUROA Seehotel Grundlsee Zimmer mit eleganten Holzmöbeln und einem Flachbild-Kabel-TV. Das Hotel erwartet Sie mit einem Restaurant und einem Wellnessbereich mit Panoramablick auf den See und das Tote Gebirge.\n\nAlle Zimmer verfügen über eine Minibar und ein Badezimmer mit Pflegeprodukten sowie einem Haartrockner. Einige Zimmer liegen zum See oder bieten einen Sitzbereich oder ein Schlafsofa. In allen Zimmern nutzen Sie einen kostenfreien Internetzugang (LAN).\n\nDas hauseigene Restaurant SEEplatz'l serviert Ihnen österreichische und internationale Spezialitäten mit Produkten aus der Region. Das im TAUROA Seehotel Grundlsee täglich servierte Frühstück genießen Sie auf Ihrem Zimmer oder im Sommer auf der Terrasse am See.\n\nSie können eine Massage buchen oder im Wellnessbereich mit einer finnischen Sauna, einer Bio-Sauna und einer Infrarotkabine aus schweizer Zirbenholz entspannen. Der Wellnessbereich befindet sich auf einem Steg direkt neben dem eigenen Strand, an dem Sie sich nach einem erfrischenden Bad im See sonnen können.\n\nDas TAUROA Seehotel Grundlsee bietet Ausflüge mit traditionellen Holzbooten auf dem See.\n\nDas Skigebiet Zlaim befindet sich 2 km entfernt und die Skigebiete Altaussee-Loser und Tauplitz erreichen Sie in 15 bis 20 Autominuten. Der 9-Loch-Golfplatz Bad Aussee und die Therme Narzissen Bad Aussee liegen beide 5 km vom Hotel entfernt. Kostenfreie Privatparkplätze stehen Ihnen an der Unterkunft zur Verfügung.",
+      "it": "Situato proprio sulla riva del lago, il TAUROA Seehotel Grundlsee vi attende con camere eleganti provviste di mobili in legno e TV via cavo a schermo piatto, un ristorante e un'area benessere con vista panoramica sul lago e sui Monti Totes.\n\nTutte le sistemazioni vantano un minibar, un bagno con set di cortesia e asciugacapelli, la connessione gratuita a internet via cavo e, in alcuni casi, la vista sul lago, un'area salotto o un divano-letto.\n\nIl ristorante in loco SEEplatz’l serve specialità austriache e internazionali preparate con prodotti locali. Inoltre ogni mattino il TAUROA Seehotel Grundlsee propone una colazione che potrete gustare anche in camera o, in estate, sulla terrazza affacciata sul lago.\n\nApprofittatene per richiedere un massaggio o rilassarvi nell'area benessere fornita di sauna finlandese, sauna bio e cabina a infrarossi costruita con legno di pino cembro. La spa si trova su un molo proprio accanto alla spiaggia privata, dove vale la pena di prendere il sole dopo una nuotata rinfrescante nel lago.\n\nIl TAUROA Seehotel Grundlsee propone gite in tipiche barche di legno per esplorare il lago.\n\nMunita di un parcheggio privato gratuito, la struttura sorge infine a 2 km dal comprensorio stilistico di Zlaim e a circa 15-20 minuti di guida dai comprensori di Altaussee-Loser e Tauplitz. A circa 5 km di distanza troverete infine il campo da golf da 9 buche di Bad Aussee e lo stabilimento termale di Narzissen Bad Aussee.",
+      "fr": "Implanté sur la rive du lac, le TAUROA Seehotel Grundlsee propose des logements dotés d'un mobilier en bois élégant et d'une télévision par câble à écran plat. Il dispose d'un restaurant ainsi que d'un espace bien-être offrant une vue panoramique sur le lac et le massif mort.\n\nToutes les chambres comportent un minibar ainsi qu'une salle de bains pourvue d'un sèche-cheveux et d'articles de toilette. Certaines d'entre elles donnent sur le lac tandis que d'autres comprennent un coin salon ou un canapé-lit. Vous bénéficierez d'une connexion Internet par câble gratuite.\n\nLe SEEplatz'l, le restaurant du TAUROA Seehotel Grundlsee, prépare des spécialités autrichiennes ainsi qu'internationales à base de produits locaux. Le petit-déjeuner y est servi tous les jours. Vous pourrez également le déguster dans votre chambre ou, en été, sur la terrasse surplombant le lac.\n\nVous aurez la possibilité de profiter d'un massage ou de vous détendre dans l'espace spa équipé d'un sauna finlandais, d'un sauna bio et une cabine infrarouge en bois de pin cembro. Le spa est situé sur une jetée, juste à côté du coin plage privé, où vous aurez l'occasion de prendre un bain de soleil après une baignade rafraîchissante dans le lac.\n\nLe TAUROA Seehotel Grundlsee organise des excursions en bateau traditionnel en bois pour explorer le lac.\n\nLe domaine skiable de Zlaim se trouve à 2 km.  Il vous faudra entre 15 et 20 minutes de route pour rejoindre ceux d'Altaussee-Loser ainsi que de Tauplitz. Le parcours de golf de 9 trous, Bad Aussee, et les thermes de Narzissen Bad Aussee sont à moins de 5 km de l'établissement. Par ailleurs, un parking privé gratuit est présent sur place.",
+      "pt": "Localizado directamente na margem do lago, o Seehotel Grundlsee apresenta quartos com mobiliário elegante em madeira e uma televisão de ecrã plano por cabo. O hotel dispõe de um restaurante e de uma área de bem-estar com vistas panorâmicas para o lago e para a Cordilheira de Totes Gebirge.\n\nTodos os quartos estão equipados com um mini-bar e uma casa de banho com produtos de higiene pessoal e um secador de cabelo. Alguns quartos estão virados para o lago ou possuem uma área de estar ou um sofá-cama. O acesso gratuito à Internet por cabo está disponível em todos os quartos.\n\nO Restaurante Seeplatz, no local, serve especialidades austríacas e internacionais confeccionadas com produtos locais. O pequeno-almoço diário do Seehotel Grundlsee é servido nos quartos ou no terraço virado para o lago, durante o Verão.\n\nPoderá solicitar uma massagem ou relaxar na área de spa, composta por uma sauna finlandesa, uma bio-sauna e uma cabina de infravermelhos feita em madeira de pinheiro suíço. A área de spa está localizada num cais, ao lado da área de praia privada, onde os hóspedes podem apanhar banhos de sol depois de um mergulho refrescante no lago.\n\nPara explorar o lago, os passeios em barcos de madeira tradicionais são providenciados no Seehotel Grundlsee.\n\nA Área de Esqui Zlaim fica a 2 km e as áreas de esqui Altaussee-Loser e Tauplitz podem ser alcançadas em cerca de 15 a 20 minutos de carro. O hotel encontra-se a cerca de 5 km de Bad Aussee, de um campo de golfe de 9 buracos e dos Banhos Termais Narzissen Bad Aussee, bem como de estacionamento privado gratuito no local."
+    },
+    "toConsider": {
+      "en": "If you arrive with children, please inform the property in advance about their number and age.\nGuests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.\nIn response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.\nDue to Coronavirus (COVID-19), this property is taking steps to help protect the safety of guests and staff. Certain services and amenities may be reduced or unavailable as a result.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "If you arrive with children, please inform the property in advance about their number and age.\nLos huéspedes deberán mostrar un documento de identidad válido y una tarjeta de crédito al realizar el registro de entrada. Ten en cuenta que todas las peticiones especiales están sujetas a disponibilidad y pueden comportar suplementos.\nEn respuesta al coronavirus (COVID-19), el alojamiento aplica medidas sanitarias y de seguridad adicionales en estos momentos.\nA causa del coronavirus (COVID-19), este alojamiento está tomando medidas para garantizar la seguridad de los clientes y el personal. Por este motivo, algunos servicios e instalaciones pueden verse limitados o no estar disponibles.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Wenn Sie mit Kindern anreisen, informieren Sie die Unterkunft bitte im Voraus über deren Anzahl und Alter.\nBeim Check-in müssen Sie einen Lichtbildausweis sowie eine Kreditkarte vorlegen. Sonderwünsche unterliegen der Verfügbarkeit und sind gegebenenfalls mit einem Aufpreis verbunden.\nWegen des Coronavirus (COVID-19) wurden in dieser Unterkunft zusätzliche Sicherheits- und Hygienemaßnahmen unternommen.\nWegen des Coronavirus (COVID-19) hat diese Unterkunft Maßnahmen unternommen, um die Sicherheit der Gäste und des Personals zu gewährleisten. Bestimmte Services und Einrichtungen könnten daher nicht oder nur eingeschränkt zur Verfügung stehen.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "If you arrive with children, please inform the property in advance about their number and age.\nAl check-in gli ospiti devono esibire un documento d'identità con foto e una carta di credito. Siete pregati di notare che le Richieste Speciali sono soggette a disponibilità, e potrebbero comportare l'addebito di un supplemento.\nIn risposta al Coronavirus (COVID-19) questa struttura ha adottato misure extra di sicurezza e igiene.\nA causa del Coronavirus (COVID-19) questa struttura sta adottando misure per proteggere la salute degli ospiti e dello staff. Pertanto, alcuni servizi potrebbero essere ridotti o non disponibili, così come le dotazioni.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "If you arrive with children, please inform the property in advance about their number and age.\nVous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement. Veuillez noter que toutes les demandes spéciales seront satisfaites sous réserve de disponibilité et pourront entraîner des frais supplémentaires.\nDans le cadre de la pandémie de coronavirus (COVID-19), cet établissement applique actuellement des mesures sanitaires supplémentaires.\nEn raison de la pandémie de coronavirus (COVID-19), cet établissement prend des mesures pour assurer la sécurité de ses clients et de son personnel. Certains services et équipements peuvent donc être réduits ou indisponibles.",
+      "pt": "If you arrive with children, please inform the property in advance about their number and age.\nNo momento do check-in, os hóspedes deverão apresentar um documento de identificação com fotografia e um cartão de crédito.  Por favor, observe que todos os Pedidos Especiais estão sujeitos à disponibilidade e que poderão acarretar custos adicionais.\nEm resposta ao Coronavírus (COVID-19), este alojamento está a tomar medidas de segurança e higienização adicionais.\nDevido ao Coronavírus (COVID-19), este alojamento está a tomar precauções adicionais para proteger os seus hóspedes e funcionários. Consequentemente, alguns serviços e comodidades poderão estar reduzidos ou indisponíveis."
+    },
+    "name": {
+      "en": "TAUROA Seehotel Grundlsee",
+      "es": "TAUROA Seehotel Grundlsee",
+      "de": "TAUROA Seehotel Grundlsee",
+      "it": "TAUROA Seehotel Grundlsee",
+      "fr": "TAUROA Seehotel Grundlsee",
+      "pt": "TAUROA Seehotel Grundlsee"
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at TAUROA Seehotel Grundlsee?",
+          "topicComments": "Guests staying at TAUROA Seehotel Grundlsee can enjoy a highly-rated breakfast during their stay (guest review score: 10). Breakfast option(s) include: Continental Vegetarian Vegan Buffet"
+        },
+        {
+          "topic": "What type of room can I book at TAUROA Seehotel Grundlsee?",
+          "topicComments": "Room options at TAUROA Seehotel Grundlsee include: Double"
+        },
+        {
+          "topic": "What are the check-in and check-out times at TAUROA Seehotel Grundlsee?",
+          "topicComments": "Check-in at TAUROA Seehotel Grundlsee is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at TAUROA Seehotel Grundlsee?",
+          "topicComments": "The prices at TAUROA Seehotel Grundlsee may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does TAUROA Seehotel Grundlsee have a restaurant on site?",
+          "topicComments": "TAUROA Seehotel Grundlsee has 1 restaurants: Seehotel Grundlsee"
+        },
+        {
+          "topic": "What is there to do at TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee offers the following activities / services (charges may apply): Spa and wellness centre Sauna Cycling Hiking Skiing Fishing Tennis court Golf course (within 3 km) Beachfront Spa facilities Horse riding Bicycle rental Beach Spa lounge/relaxation area Private beach area"
+        },
+        {
+          "topic": "How far is TAUROA Seehotel Grundlsee from the centre of Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee is 200 m from the centre of Grundlsee."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en TAUROA Seehotel Grundlsee?",
+          "topicComments": "Los clientes de TAUROA Seehotel Grundlsee podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (10) Las opciones del desayuno son: Continental Vegetariano Vegano Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en TAUROA Seehotel Grundlsee?",
+          "topicComments": "Las opciones de habitación en TAUROA Seehotel Grundlsee son: Doble"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de TAUROA Seehotel Grundlsee?",
+          "topicComments": "Podrás hacer el check-in en TAUROA Seehotel Grundlsee a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en TAUROA Seehotel Grundlsee?",
+          "topicComments": "Los precios en TAUROA Seehotel Grundlsee pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee tiene 1 restaurantes: Seehotel Grundlsee"
+        },
+        {
+          "topic": "¿Qué se puede hacer en TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Spa y centro de bienestar Sauna Ciclismo Senderismo Esquí Pesca Pista de tenis Campo de golf (a menos de 3 km) Situado frente a la playa Instalaciones de spa Equitación Alquiler de bicicletas Playa Zona de spa / relajación Zona privada de playa"
+        },
+        {
+          "topic": "¿A qué distancia está TAUROA Seehotel Grundlsee del centro de Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee está a 200 m del centro de Grundlsee."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft TAUROA Seehotel Grundlsee serviert?",
+          "topicComments": "Gäste, die in der Unterkunft TAUROA Seehotel Grundlsee übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 10). Verfügbare Frühstücksoption(en): Kontinental Vegetarisch Vegan Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft TAUROA Seehotel Grundlsee buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft TAUROA Seehotel Grundlsee zählen: Doppelzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft TAUROA Seehotel Grundlsee?",
+          "topicComments": "Der Check-in in der Unterkunft TAUROA Seehotel Grundlsee ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft TAUROA Seehotel Grundlsee?",
+          "topicComments": "Die Preise an der Unterkunft TAUROA Seehotel Grundlsee könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft TAUROA Seehotel Grundlsee ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft TAUROA Seehotel Grundlsee hat 1 Restaurants: Seehotel Grundlsee"
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft TAUROA Seehotel Grundlsee?",
+          "topicComments": "Die Unterkunft TAUROA Seehotel Grundlsee bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Spa & Wellnesscenter Sauna Radfahren Wandern Skifahren Angeln Tennisplatz Golfplatz (max. 3 km entfernt) am Strand Wellness Reiten Fahrradverleih Strand Wellnesslounge/Ruhebereich Privater Strand"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft TAUROA Seehotel Grundlsee vom Zentrum von Grundlsee entfernt?",
+          "topicComments": "Die Unterkunft TAUROA Seehotel Grundlsee ist 200 m vom Zentrum von Grundlsee entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre TAUROA Seehotel Grundlsee?",
+          "topicComments": "Durante il soggiorno, TAUROA Seehotel Grundlsee propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 10). Colazione disponibile: continentale vegetariana vegana a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee offre: Matrimoniale"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso TAUROA Seehotel Grundlsee?",
+          "topicComments": "Presso TAUROA Seehotel Grundlsee, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso TAUROA Seehotel Grundlsee?",
+          "topicComments": "I prezzi di TAUROA Seehotel Grundlsee possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "TAUROA Seehotel Grundlsee dispone di un ristorante in loco?",
+          "topicComments": "TAUROA Seehotel Grundlsee offre 1 ristoranti: Seehotel Grundlsee"
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee offre i seguenti servizi/attività (alcuni a pagamento): Spa & centro benessere Sauna Escursioni in bicicletta Escursionismo Sci Pesca Campo da tennis Campo da golf (nel raggio di 3 km) Fronte spiaggia Servizi spa Equitazione Noleggio biciclette Spiaggia Sala spa/area relax Spiaggia privata"
+        },
+        {
+          "topic": "Quanto dista TAUROA Seehotel Grundlsee dal centro di Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee si trova a 200 m dal centro di Grundlsee."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement TAUROA Seehotel Grundlsee sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement TAUROA Seehotel Grundlsee ont attribué une très bonne note à son petit-déjeuner : 10. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement TAUROA Seehotel Grundlsee ?",
+          "topicComments": "L'établissement TAUROA Seehotel Grundlsee propose les options d'hébergement suivantes : Double"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement TAUROA Seehotel Grundlsee ?",
+          "topicComments": "L'enregistrement à l'établissement TAUROA Seehotel Grundlsee se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement TAUROA Seehotel Grundlsee ?",
+          "topicComments": "Les tarifs fixés par l'établissement TAUROA Seehotel Grundlsee peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement TAUROA Seehotel Grundlsee dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement TAUROA Seehotel Grundlsee propose 1 restaurant : Seehotel Grundlsee"
+        },
+        {
+          "topic": "Quelles activités l'établissement TAUROA Seehotel Grundlsee propose-t-il ?",
+          "topicComments": "L'établissement TAUROA Seehotel Grundlsee propose les activités et les services suivants (des frais peuvent s'appliquer) : Spa et centre de bien-être Sauna Cyclisme Randonnée Ski Pêche Court de tennis Parcours de golf (à moins de 3 km) En bord de plage Spa Équitation Location de vélos Plage Coin spa/relaxation Plage privée"
+        },
+        {
+          "topic": "L'établissement TAUROA Seehotel Grundlsee est-il proche du centre (Grundlsee) ?",
+          "topicComments": "L'établissement TAUROA Seehotel Grundlsee se trouve à 200 m du centre (Grundlsee)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em TAUROA Seehotel Grundlsee?",
+          "topicComments": "Os hóspedes em TAUROA Seehotel Grundlsee podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 10). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em TAUROA Seehotel Grundlsee?",
+          "topicComments": "As opções de quarto em TAUROA Seehotel Grundlsee incluem: Duplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em TAUROA Seehotel Grundlsee?",
+          "topicComments": "Em TAUROA Seehotel Grundlsee, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em TAUROA Seehotel Grundlsee?",
+          "topicComments": "Os preços em TAUROA Seehotel Grundlsee podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "TAUROA Seehotel Grundlsee tem um restaurante no local?",
+          "topicComments": "TAUROA Seehotel Grundlsee tem 1 restaurantes: Seehotel Grundlsee"
+        },
+        {
+          "topic": "Que atividades há em TAUROA Seehotel Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Spa e centro de bem-estar Sauna Ciclismo Caminhadas Esqui Pesca Campo de Ténis Campo de golfe (a menos de 3 km) Frente à praia Comodidades de spa Equitação Aluguer de bicicleta Praia Sala de spa/área de relaxamento Área de praia privada"
+        },
+        {
+          "topic": "A que distância fica TAUROA Seehotel Grundlsee do centro de Grundlsee?",
+          "topicComments": "TAUROA Seehotel Grundlsee fica a 200 m do centro de Grundlsee."
+        }
+      ]
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 18:00 Guests are required to show a photo identification and credit card upon check-in"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 08:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 15 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 2 years Cot upon request € 30 per child, per night 4 - 5 years Extra bed upon request € 30 per child, per night 6 - 14 years Extra bed upon request € 60 per child, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 15 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 7 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 18:00 Los clientes deben mostrar un documento de identidad con fotografía y una tarjeta de crédito en el momento de hacer el check-in"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 8:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 15 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 2 años Cuna a petición € 30 por niño y noche 4 - 5 años Cama supletoria a petición € 30 por niño y noche 6 - 14 años Cama supletoria a petición € 60 por niño y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 15 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 7 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 18:00 Uhr Gäste müssen einen Lichtbildausweis und eine Kreditkarte beim Check-in vorlegen"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 08:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 15 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 2 Jahre Babybett auf Anfrage € 30 pro Kind, pro Nacht 4 - 5 Jahre Zustellbett auf Anfrage € 30 pro Kind, pro Nacht 6 - 14 Jahre Zustellbett auf Anfrage € 60 pro Kind, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 15 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 7 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 18:00 Al check-in gli ospiti devono esibire un documento di riconoscimento con foto e una carta di credito."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 08:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 15 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 2 anni Culla su richiesta € 30 per bambino, a notte 4 - 5 anni Letto supplementare su richiesta € 30 per bambino, a notte 6 - 14 anni Letto supplementare su richiesta € 60 per bambino, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 15 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 7 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 18:00 Vous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 08:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 15 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 2 ans Lit bébé sur demande € 30 par enfant et par nuit 4 - 5 ans Lit d'appoint sur demande € 30 par enfant et par nuit 6 - 14 ans Lit d'appoint sur demande € 60 par enfant et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 15 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 7 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 18:00 No momento do check-in, os hóspedes têm de apresentar um documento de identificação com fotografia e um cartão de crédito"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 08:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 15 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 2 anos Berço mediante pedido € 30 por criança, por noite 4 - 5 anos Cama extra mediante pedido € 30 por criança, por noite 6 - 14 anos Cama extra mediante pedido € 60 por criança, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 15 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 7 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Restaurant",
+            "Special diet menus (on request)"
+          ],
+          "General": [
+            "Non-smoking rooms"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Kitchen": [
+            "Electric kettle",
+            "Coffee machine"
+          ],
+          "Outdoors & View": [
+            "Beachfront",
+            "Private beach area"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Pool & Wellness": [
+            "Spa and wellness centre"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Restaurante",
+            "Menús para dietas especiales (bajo petición)"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "Cocina": [
+            "Hervidor eléctrico",
+            "Cafetera"
+          ],
+          "Exteriores y vistas": [
+            "Situado frente a la playa",
+            "Zona privada de playa"
+          ],
+          "General": [
+            "Habitaciones sin humo"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Piscina y bienestar": [
+            "Spa y centro de bienestar"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherzimmer"
+          ],
+          "Außenbereich": [
+            "am Strand",
+            "Privater Strand"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Küche": [
+            "Wasserkocher",
+            "Kaffeemaschine"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Pool & Wellness": [
+            "Spa & Wellnesscenter"
+          ],
+          "Speisen & Getränke": [
+            "Restaurant",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Ristorante",
+            "Menù per diete particolari (su richiesta)"
+          ],
+          "Cucina": [
+            "Bollitore elettrico",
+            "Macchina da caffè"
+          ],
+          "Generale": [
+            "Camere non fumatori"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Piscina & benessere": [
+            "Spa & centro benessere"
+          ],
+          "Spazi esterni": [
+            "Fronte spiaggia",
+            "Spiaggia privata"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Restaurant",
+            "Menus pour régimes spéciaux (sur demande)"
+          ],
+          "Cuisine": [
+            "Bouilloire électrique",
+            "Machine à café"
+          ],
+          "Extérieur": [
+            "En bord de plage",
+            "Plage privée"
+          ],
+          "Général": [
+            "Chambres non-fumeurs"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Piscine & bien-être": [
+            "Spa et centre de bien-être"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Restaurante",
+            "Menus especiais dietéticos (mediante pedido)"
+          ],
+          "Cozinha": [
+            "Chaleira elétrica",
+            "Máquina de café"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Exterior": [
+            "Frente à praia",
+            "Área de praia privada"
+          ],
+          "Geral": [
+            "Quartos para não fumadores"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ],
+          "Piscina e bem-estar": [
+            "Spa e centro de bem-estar"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Located directly at the shore of the lake, TAUROA Seehotel Grundlsee offers rooms with elegant, wooden furniture and a flat-screen cable TV.",
+      "es": "El TAUROA Seehotel Grundlsee está situado a orillas del lago y ofrece habitaciones con muebles de madera elegantes y TV de pantalla plana por cable.",
+      "de": "Direkt am Seeufer bietet das TAUROA Seehotel Grundlsee Zimmer mit eleganten Holzmöbeln und einem Flachbild-Kabel-TV.",
+      "it": "Situato proprio sulla riva del lago, il TAUROA Seehotel Grundlsee vi attende con camere eleganti provviste di mobili in legno e TV via cavo a schermo piatto, un ristorante e un'area benessere con vista panoramica sul lago e sui Monti Totes.\nTutte le sistemazioni vantano un minibar, un bagno con set di cortesia e asciugacapelli, la connessione gratuita a internet via cavo e, in alcuni casi, la vista sul lago, un'area salotto o un divano-letto.\nIl ristorante in loco SEEplatz’l serve specialità austriache e internazionali preparate con prodotti locali.",
+      "fr": "Implanté sur la rive du lac, le TAUROA Seehotel Grundlsee propose des logements dotés d'un mobilier en bois élégant et d'une télévision par câble à écran plat. Il dispose d'un restaurant ainsi que d'un espace bien-être offrant une vue panoramique sur le lac et le massif mort.\nToutes les chambres comportent un minibar ainsi qu'une salle de bains pourvue d'un sèche-cheveux et d'articles de toilette.",
+      "pt": "Localizado directamente na margem do lago, o Seehotel Grundlsee apresenta quartos com mobiliário elegante em madeira e uma televisão de ecrã plano por cabo."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

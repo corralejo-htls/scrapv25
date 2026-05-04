@@ -1,0 +1,1553 @@
+{
+  "data": {
+    "accommodationType": "hotel",
+    "address": {
+      "en": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Austria, 8010 Graz, Austria",
+      "es": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Austria, 8010 Graz, Austria",
+      "de": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Österreich, 8010 Graz, Österreich",
+      "it": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Austria, 8010 Graz, Austria",
+      "fr": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Autriche, 8010 Graz, Autriche",
+      "pt": "Waltendorfer Guertel 8, St. Leonhard, 8010 Graz, Áustria, 8010 Graz, Áustria"
+    },
+    "geoPosition": {
+      "latitude": 47.062732,
+      "longitude": 15.458313
+    },
+    "rating": 3,
+    "categoryScoreReview": {
+      "en": {},
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.3
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 8.7
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 8.5
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.3
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.8
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.3
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 8.7
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 8.5
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.3
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.8
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.3
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 8.7
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8.5
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.3
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.8
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.3
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 8.7
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 8.5
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.3
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.8
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 8.5
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 8.7
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.3
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.8
+        }
+      }
+    },
+    "scoreReview": 8.3,
+    "scoreReviewBasedOn": 3186,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "2,700 ft",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "0.8 mi",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "0.8 mi",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "0.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "0.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1 mi",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "950 ft",
+          "category": 2
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "2,000 ft",
+          "category": 2
+        },
+        {
+          "name": "Kyoto",
+          "distance": "2,550 ft",
+          "category": 2
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "1.1 mi",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1.2 mi",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "1.4 mi",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1.5 mi",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "1.5 mi",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "3.3 mi",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "7 mi",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "11 mi",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "4.9 mi",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1.1 mi",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1.5 mi",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "5 mi",
+          "category": 1
+        },
+        {
+          "name": "Maribor Edvard Rusjan Airport",
+          "distance": "47 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "800 m",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "250 m",
+          "category": 2
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Kyoto",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Landeszeughaus",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,9 km",
+          "category": 6
+        },
+        {
+          "name": "Casa del Arte Graz",
+          "distance": "2,3 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Torre del reloj de Graz",
+          "distance": "2,5 km",
+          "category": 6
+        },
+        {
+          "name": "Palacio Eggenberg",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Museo Arnold Schwarzenegger",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "7 km",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,8 km",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "2,4 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "8 km",
+          "category": 1
+        },
+        {
+          "name": "Aeropuerto de Maribor Edvard Rusjan",
+          "distance": "76 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "800 m",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "250 m",
+          "category": 2
+        },
+        {
+          "name": "Verein Gmota",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,9 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "2,3 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Uhrturm",
+          "distance": "2,5 km",
+          "category": 6
+        },
+        {
+          "name": "Schloss Eggenberg",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold-Schwarzenegger-Museum",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Österreichisches Freilichtmuseum",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "800 m",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "250 m",
+          "category": 6
+        },
+        {
+          "name": "Verein Gmota",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Carillon",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Landhaus di Graz",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,9 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "2,3 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Torre dell’Orologio di Graz",
+          "distance": "2,5 km",
+          "category": 6
+        },
+        {
+          "name": "Castello Eggenberg",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "800 m",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "250 m",
+          "category": 2
+        },
+        {
+          "name": "Verein Gmota",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,9 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "2,3 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Tour de l'Horloge de Graz",
+          "distance": "2,5 km",
+          "category": 6
+        },
+        {
+          "name": "Château Eggenberg",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "7 km",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,8 km",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "2,4 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "8 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "800 m",
+          "category": 6
+        },
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Matthey-Park",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Orf Landesstudio Steiermark",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eustacchiogründe",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jesuitenkollegium",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Alte Universität",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Uni Pizzeria",
+          "distance": "250 m",
+          "category": 2
+        },
+        {
+          "name": "Mo.XX",
+          "distance": "600 m",
+          "category": 2
+        },
+        {
+          "name": "Kyoto",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,9 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "2,3 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "2,4 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "2,5 km",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "7 km",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,8 km",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "2,4 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "8 km",
+          "category": 1
+        },
+        {
+          "name": "Maribor Edvard Rusjan Airport",
+          "distance": "76 km",
+          "category": 1
+        }
+      ]
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117604.jpg?k=1e3d3850d90b6e7b8187875dd864958777e6b8435d108bc0f0e8c0bc7b1a9e21&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117603.jpg?k=2f3c9fcf7de7cb26c1bd58ff64a1011550aca6a3a417ab0bf227a205f7ad2c87&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117606.jpg?k=a93a9f7d3117c36019a92971b33ad3f94439d6b10eb5ddc9e6c978da01637a96&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117612.jpg?k=cd03b77076330cf8ee44ce1e5469b8bc50c0b199d218a0b5374800da61776e14&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772871970.jpg?k=1b4393fbededdd555e55cc4c10db6c7c2257e240fde333ccb0709620a49b34c6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159780.jpg?k=f5e8567fd662983ee44e19dcf38eb6c721ab0920f39e64c81d615239821d8af3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772871977.jpg?k=7a9eb8fe46dafa89474c73a16170e5ae2960289ef1ccad32a70cab5f69364ab5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772871982.jpg?k=681298830f09d5be4d8cd90a81c3b97ed6ba85932782ea737ff8d04ea313677c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/783182180.jpg?k=dc349da9c688d4ec65e0292a507e478064be8d9f5d1808bc88a04d7fbdacaa64&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159776.jpg?k=b228cbd80f51725a0a5163d512e7891cfac888a47b21f56c1709befc5f47eaeb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872031.jpg?k=e8293d087740042a9b5118c5678e6c839e242c14107a542b72a52a4dda7856a3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159796.jpg?k=381ab555c6d5f2af588e7f9943fdd0293b8a405188bda592754526d9aa322369&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159794.jpg?k=efbc45375412169241904432c6cddbeca49bb131c0cb1a638149a4c01c55cd75&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117610.jpg?k=579e24ffa60f5faec5d489ac472ca71000b0bc1e9ae1c69ff8bbe0b0f68d1dd6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/780003431.jpg?k=9fbf270f4281244ff012f1f2529bf9502379f15a62590a1d69d6356c391e33e2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/783182176.jpg?k=9b528a98464129b400786170dee32af04a72f531ec1c7fabb9f6896593143491&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117611.jpg?k=65f8e4eb27b7b52864c2395efa3d4701a638d5e4d735c37abaad71ba69947c21&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/780003436.jpg?k=ba1a100c7b98278cb877b427ffc5d110634fe2dbafe00573adeab16f42feae3c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117615.jpg?k=93299107e93ae27828cee896dfda92131fcb49c3b4044c44970ae454648b96b5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/780003442.jpg?k=d22cd688d81250ebf7765f85df50b0314fd422480363b50d4319330e40b8ea5d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/780003443.jpg?k=cbbeed91e772dbaead32492827c6d9980a64abc0260a344e03def02eefa9676a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159792.jpg?k=46ee4cdab3e4456e54ada56ff2d417361286bf2a1fe886737a77e5e08a478872&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/783182181.jpg?k=2fe26239db9e9aa6384da05f2ab149773db89d41e14e9a0afa6e28f534c2f9a3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772871990.jpg?k=3f9b4be039da8a93575f8bbf8452e4d217a9861edc9bb9618b44a7d49d692f0d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/820404604.jpg?k=44e2c3d6ec4aa532d4cc5319f7b7808ba7df15a9a04e8e258011bab96c0e7bf2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872028.jpg?k=4a252eb21d1b317c7a276eb8ae9a6178b603f25602e6d97d5b7a38585f3d2b58&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/780003444.jpg?k=a49a426924cae3d5c91c8a45a1dca725b08e9d46c0af4e2c169b0871130f2273&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/819489056.jpg?k=eeb0e605a3584117bd5638ae951b7f7653ba1bc1e2cc3b3a601d271e166a54d9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872017.jpg?k=9fda79af06170dd62663eebad64b5355c48fde47de802ce4b99242a8f475c3ba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/753152085.jpg?k=c02426819b5108b5d05cef5e5ee318346ecbc733a084fd543cb349c647403327&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159799.jpg?k=ab200fc2ae4a0a1dd08b1eea4389e7fbd43f524b2ccad63df514119609c363ce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/753152089.jpg?k=0021bc944a4c246b32507843d0f7d416d463c147dac6335967e73216d0c28fdc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/753152084.jpg?k=ae6d09378aadaa02a8f535424cb29d894168be538bf33fddd8491915b9712d7e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/753152086.jpg?k=fc83886821c1d7e9c954813a30831f1852e0635dcb05dce132088123e575c2eb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159806.jpg?k=5f3f127029c1f63f841e6d8a0c84b476ca0c15926905df65f897a29c9edf7d3a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/846117623.jpg?k=eff0f9934326200535d5f201cf12b34a3ff04a38eccbbaefb972cc1766dcc146&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872041.jpg?k=4ecc2c7614f260dea8bfa1f805da983be50d02a95cbef73a7083cadfaefba57f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872044.jpg?k=b4e10d0a3071a1d8862b5ac8cdb7e9b58725f06d1f8b482d0c96fcfc7926f809&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872058.jpg?k=e4c0e7f46d05711ecc316aba7cd41928edd2f03721750b28ae07858e1a4bb8cd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159824.jpg?k=353b0ec36c2f83e1fca6f0f2e2c661e9b5a29c7115b34656c561252a26061b61&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872066.jpg?k=db3ccae07c71e531fe46f0b7438c9fa9dff73a1ae69f46e24ec6aa45b7291bfe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159818.jpg?k=1ff141017e560421bb67cbcf278ce88a7de07cbfd55629cfed5deea90432d542&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/776159810.jpg?k=9d2b19d6822564f5443d783e27fc7a98f951f3a1229b0b9b1ba80b7192022e6b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/772872067.jpg?k=d1dcf5b64ae5cdf0d9c6dd3d7ac82e0587069fd1ed0fc66b705567a37510d989&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Comfortable Accommodations:Rooms feature air-conditioning, private bathrooms, work desks, and balconies. Additional amenities include free WiFi, flat-screen TVs, and tea and coffee makers.Exceptional Facilities:Guests enjoy a bar, coffee shop, and 24-hour front desk. The hotel offers a lift, daily housekeeping, bicycle parking, and luggage storage.Delicious Breakfast:A continental buffet breakfast is served with local specialities, warm dishes, fresh pastries, pancakes, cheese, fruits, and juice. Vegetarian and vegan options are available.Prime Location:Located in Graz, the hotel is a 15-minute walk from Graz Opera House and 1.8 km from Glockenspiel and Grazer Landhaus. Graz Airport is 10 km away. Nearby attractions include Casino Graz and Eggenberg Palace.",
+      "es": "Ibis Styles Graz Messe está muy bien situado en el barrio de St. Leonhard, Graz, a 15 min a pie de Ópera de Graz, a 1,8 km de Glockenspiel y a 1,8 km de Landeszeughaus. Este hotel de 3 estrellas ofrece bar y habitaciones con aire acondicionado, wifi gratis y baño privado. Hay parking privado en el propio alojamiento.\n\nEn el hotel, cada habitación incluye armario. En ibis Styles Graz Messe, las habitaciones incluyen escritorio y TV, y algunas también ofrecen balcón. En el alojamiento, todas las habitaciones incluyen ropa de cama y toallas.\n\nEl desayuno ofrece opciones buffet, continentales o vegetarianas.\n\nEn la recepción 24 horas se habla alemán y inglés, y el personal estará encantado de ayudar en cualquier momento.\n\nCatedral y Mausoleo está a 1,7 km del alojamiento, y Merkur Arena está a 2,6 km. El aeropuerto (Aeropuerto de Graz) está a 10 km.",
+      "de": "Dieses Hotel – optimal gelegen im Bezirk St. Leonhard – befindet sich 1,3 km von Opernhaus Graz, 1,8 km von Glockenspiel und 1,8 km von Grazer Landhaus entfernt. Dieses Hotel mit 3 Sternen besticht durch eine Bar und klimatisierte Zimmer mit kostenlosem WLAN, jedes mit einem eigenen Badezimmer. Ein Privatparkplatz ist vor Ort verfügbar.\n\nIn der Unterkunft ibis Styles Graz Messe sind alle Zimmer versehen mit einem Kleiderschrank. In der Unterkunft ibis Styles Graz Messe ist jedes Zimmer eingerichtet mit einem Schreibtisch sowie einem TV und einige Wohneinheiten haben einen Balkon. In der Unterkunft ibis Styles Graz Messe sind die Zimmer ausgestattet mit Bettwäsche und Handtüchern.\n\nEin als Buffet angebotenes, ein kontinentales oder ein vegetarisches Frühstück wird in der Unterkunft angeboten.\n\nDie Mitarbeitenden an der rund um die Uhr besetzten Rezeption, die Deutsch und Englisch sprechen, stehen Gästen jederzeit zur Verfügung.\n\nKatharinenkirche und Mausoleum liegt 1,7 km von der Unterkunft ibis Styles Graz Messe entfernt, während Merkur Arena 2,6 km von der Unterkunft entfernt ist. Der nächstgelegene Flughafen ist der Flughafen Graz, 10 km von der Unterkunft ibis Styles Graz Messe entfernt.",
+      "it": "In posizione strategica nel quartiere St. Leonhard di Graz, ibis Styles Graz Messe è posizionato a 1,3 km da Opera di Graz, 1,8 km da Carillon e 1,8 km da Landhaus di Graz. Con un bar, questo hotel a 3 stelle dispone di camere climatizzate con WiFi gratuito e bagno privato. Il parcheggio privato è disponibile sul posto.\n\nPresso questo hotel, tutte le camere prevedono un armadio. Presso ibis Styles Graz Messe, alcune unità presentano un balcone mentre tutte le camere comprendono scrivania e TV. Presso questa struttura, le camere includono lenzuola e asciugamani.\n\nA colazione troverete opzioni a buffet, continentali o vegetariane.\n\nLo staff della reception 24 ore su 24 è a disposizione in qualsiasi momento della giornata e parla tedesco e inglese.\n\nCattedrale e Mausoleo è a 1,7 km da ibis Styles Graz Messe, mentre Merkur Arena si trova a 2,6 km dalla struttura. Aeroporto di Graz - Thalerhof si trova a 10 km di distanza.",
+      "fr": "L’établissement ibis Styles Graz Messe est idéalement placé dans le quartier St. Leonhard de Graz, à respectivement 1,3 km, 1,8 km et 1,8 km de ces lieux d’intérêt : Opéra de Graz, Glockenspiel et Grazer Landhaus. Cet hôtel 3 étoiles propose un bar ainsi que des hébergements dotés de la climatisation, d’une connexion Wi-Fi gratuite et d’une salle de bains privative. Un parking privé est disponible sur place.\n\nTous les hébergements comportent une armoire. Vous bénéficierez d’un bureau et d’une télévision. Certains hébergements possèdent également un balcon. Des serviettes et du linge de lit sont fournis.\n\nUn petit-déjeuner buffet, continental ou végétarien est servi sur place.\n\nParlant allemand et anglais, le personnel de la réception ouverte 24h/24 se fera un plaisir de vous renseigner à toute heure de la journée.\n\nVous séjournerez à respectivement 1,7 km et 2,6 km de ces lieux d’intérêt : Cathédrale Saint-Gilles et mausolée et Merkur Arena. L'aéroport le plus proche (Aéroport de Graz) est à 10 km.",
+      "pt": "Com uma localização conveniente na área de St. Leonhard, em Graz, ibis Styles Graz Messe situa-se a 15 minutos a pé de Ópera de Graz, a 1,8 km de Carrilhão e a 1,8 km de Parlamento Regional de Graz. Este hotel de 3 estrelas dispõe de um bar, quartos com ar condicionado, acesso Wi-Fi gratuito e casa de banho privativa. Existe estacionamento privado está disponível no local.\n\nNo alojamento, cada quarto inclui roupeiro. Os quartos incluem secretária e uma televisão, e alguns quartos também incluem varanda. As unidades providenciam roupa de cama e toalhas.\n\nSão oferecidas opções de pequeno-almoço buffet, continental ou vegetariano.\n\nOs funcionários da receção aberta 24 horas falam alemão e inglês, e estão disponíveis para ajudar a qualquer hora do dia.\n\nCatedral e Mausoléu fica a 1,7 km de ibis Styles Graz Messe, enquanto Merkur Arena está a 2,6 km da propriedade. O Aeroporto de Graz fica a 10 km de distância."
+    },
+    "toConsider": {
+      "en": "",
+      "es": "",
+      "de": "Diese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Questa struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Cet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Esta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    },
+    "name": {
+      "en": "ibis Styles Graz Messe",
+      "es": "ibis Styles Graz Messe",
+      "de": "ibis Styles Graz Messe",
+      "it": "ibis Styles Graz Messe",
+      "fr": "ibis Styles Graz Messe",
+      "pt": "ibis Styles Graz Messe"
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at ibis Styles Graz Messe?",
+          "topicComments": "Guests staying at ibis Styles Graz Messe can enjoy a highly-rated breakfast during their stay (guest review score: 8.9). Breakfast option(s) include: Continental Vegetarian Vegan Buffet"
+        },
+        {
+          "topic": "What type of room can I book at ibis Styles Graz Messe?",
+          "topicComments": "Room options at ibis Styles Graz Messe include: Triple Double"
+        },
+        {
+          "topic": "What are the check-in and check-out times at ibis Styles Graz Messe?",
+          "topicComments": "Check-in at ibis Styles Graz Messe is from 15:00, and check-out is until 12:00."
+        },
+        {
+          "topic": "How much does it cost to stay at ibis Styles Graz Messe?",
+          "topicComments": "The prices at ibis Styles Graz Messe may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "How far is ibis Styles Graz Messe from the centre of Graz?",
+          "topicComments": "ibis Styles Graz Messe is 1 mi from the centre of Graz."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en ibis Styles Graz Messe?",
+          "topicComments": "Los clientes de ibis Styles Graz Messe podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (8,9) Las opciones del desayuno son: Continental Vegetariano Vegano Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en ibis Styles Graz Messe?",
+          "topicComments": "Las opciones de habitación en ibis Styles Graz Messe son: Triple Doble"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de ibis Styles Graz Messe?",
+          "topicComments": "Podrás hacer el check-in en ibis Styles Graz Messe a partir de las 15:00 y el check-out hasta las 12:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en ibis Styles Graz Messe?",
+          "topicComments": "Los precios en ibis Styles Graz Messe pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿A qué distancia está ibis Styles Graz Messe del centro de Graz?",
+          "topicComments": "ibis Styles Graz Messe está a 1,6 km del centro de Graz."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft ibis Styles Graz Messe serviert?",
+          "topicComments": "Gäste, die in der Unterkunft ibis Styles Graz Messe übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 8,9). Verfügbare Frühstücksoption(en): Kontinental Vegetarisch Vegan Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft ibis Styles Graz Messe buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft ibis Styles Graz Messe zählen: Dreibettzimmer Doppelzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft ibis Styles Graz Messe?",
+          "topicComments": "Der Check-in in der Unterkunft ibis Styles Graz Messe ist ab 15:00, und der Check-out ist bis 12:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft ibis Styles Graz Messe?",
+          "topicComments": "Die Preise an der Unterkunft ibis Styles Graz Messe könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft ibis Styles Graz Messe vom Zentrum von Graz entfernt?",
+          "topicComments": "Die Unterkunft ibis Styles Graz Messe ist 1,6 km vom Zentrum von Graz entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre ibis Styles Graz Messe?",
+          "topicComments": "Durante il soggiorno, ibis Styles Graz Messe propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 8,9). Colazione disponibile: continentale vegetariana vegana a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso ibis Styles Graz Messe?",
+          "topicComments": "ibis Styles Graz Messe offre: Tripla Matrimoniale"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso ibis Styles Graz Messe?",
+          "topicComments": "Presso ibis Styles Graz Messe, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 12:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso ibis Styles Graz Messe?",
+          "topicComments": "I prezzi di ibis Styles Graz Messe possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quanto dista ibis Styles Graz Messe dal centro di Graz?",
+          "topicComments": "ibis Styles Graz Messe si trova a 1,6 km dal centro di Graz."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement ibis Styles Graz Messe sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement ibis Styles Graz Messe ont attribué une très bonne note à son petit-déjeuner : 8,9. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement ibis Styles Graz Messe ?",
+          "topicComments": "L'établissement ibis Styles Graz Messe propose les options d'hébergement suivantes : Triple Double"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement ibis Styles Graz Messe ?",
+          "topicComments": "L'enregistrement à l'établissement ibis Styles Graz Messe se fait à partir de 15:00 et le départ est possible jusqu'à 12:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement ibis Styles Graz Messe ?",
+          "topicComments": "Les tarifs fixés par l'établissement ibis Styles Graz Messe peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement ibis Styles Graz Messe est-il proche du centre (Graz) ?",
+          "topicComments": "L'établissement ibis Styles Graz Messe se trouve à 1,6 km du centre (Graz)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em ibis Styles Graz Messe?",
+          "topicComments": "Os hóspedes em ibis Styles Graz Messe podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 8,9). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em ibis Styles Graz Messe?",
+          "topicComments": "As opções de quarto em ibis Styles Graz Messe incluem: Triplo Duplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em ibis Styles Graz Messe?",
+          "topicComments": "Em ibis Styles Graz Messe, o check-in é a partir das 15:00 e o check-out até às 12:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em ibis Styles Graz Messe?",
+          "topicComments": "Os preços em ibis Styles Graz Messe podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "A que distância fica ibis Styles Graz Messe do centro de Graz?",
+          "topicComments": "ibis Styles Graz Messe fica a 1,6 km do centro de Graz."
+        }
+      ]
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Until 12:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 18"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed. Charges may be applicable."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 4 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "Desde las 15:00"
+        },
+        {
+          "condition": "Salida",
+          "detail": "Hasta las 12:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 18"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 4 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Ab 15:00"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Bis 12:00"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 18 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 4 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Alle 12:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 18 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 4 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "À partir de 15:00"
+        },
+        {
+          "condition": "Départ",
+          "detail": "Jusqu'à 12:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 18 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 4 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Às 12:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 18"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 4 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Bar",
+            "Coffee house on site",
+            "Wine/champagne",
+            "Snack bar"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Lift"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Services": [
+            "24-hour front desk"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Bar",
+            "Cafetería en el alojamiento",
+            "Vino / champán",
+            "Snack-bar"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Adaptado personas de movilidad reducida",
+            "Ascensor"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Servicios": [
+            "Recepción 24 horas"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherzimmer",
+            "Einrichtungen für behinderte Gäste",
+            "Aufzug"
+          ],
+          "Dienstleistungen": [
+            "24-Stunden-Rezeption"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Speisen & Getränke": [
+            "Bar",
+            "Café vor Ort",
+            "Wein/Sekt",
+            "Snackbar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Bar",
+            "Caffetteria sul posto",
+            "Vino/champagne",
+            "Snack bar"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Camere/strutture per ospiti disabili",
+            "Ascensore"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Servizi": [
+            "Reception 24 ore su 24"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Bar",
+            "Café sur place",
+            "Vin/champagne",
+            "Snack-bar"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Équipements pour les personnes handicapées",
+            "Ascenseur"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Services": [
+            "Réception ouverte 24h/24"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Bar",
+            "Café/cafetaria no local",
+            "Vinho/champanhe",
+            "Snack-bar"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Geral": [
+            "Quartos para não fumadores",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Elevador"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ],
+          "Serviços": [
+            "Receção disponível 24 horas"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Set 1.3 km from Graz Opera House, ibis Styles Graz Messe offers 3-star accommodation in Graz and has a bar.",
+      "es": "Ibis Styles Graz Messe está muy bien situado en el barrio de St.",
+      "de": "Dieses Hotel – optimal gelegen im Bezirk St.",
+      "it": "In posizione strategica nel quartiere St.",
+      "fr": "L’établissement ibis Styles Graz Messe est idéalement placé dans le quartier St.",
+      "pt": "Com uma localização conveniente na área de St."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}
