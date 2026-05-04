@@ -1,0 +1,1303 @@
+{
+  "data": {
+    "geoPosition": {
+      "latitude": 47.06428468649883,
+      "longitude": 15.447676554322243
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/124499731.jpg?k=95c96c9b6bc260865fef2a9ac8fa0994f95548cbb76dcf46e07a9bbe09eb4d87&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408565.jpg?k=2f411a7117efdbcb9e768a820df5eb165593471dc91db0aef3438a11e6a23ad0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029165.jpg?k=c136b52658f3ec9f23929fc1a2e9f1239c6513599cd4d0e5aa609b6080e6a7b1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541635.jpg?k=f6f022a5b62b4456246fb6032f15d236b99630a43ea042c0dc20927d30f0fbc6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/124499793.jpg?k=857f1ba0fb6723d4fde713ba6086601c67425453e3889fbe65dd84c8207923d1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/26254289.jpg?k=08b6f769560e29770efecdead362ebe15037a86daadbe7d69717e166cf9bb468&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408558.jpg?k=55c34665d395245281240de5aa6fed16a53e091c961cb5fc8817fce0034ef982&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541621.jpg?k=5ff01002bd898b05a79eb478e2733ed89d4d2dd6f9d9fbdadea3995bacbf4ddd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029274.jpg?k=aced8a0a8208faf072a9514e197cfd4303e3f7128beb11924f457b02f7f70a14&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/117159061.jpg?k=0dde99c5a449e178abba27929a9ec465cabab356ad45e3bd428842a2fecb7ddb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029737.jpg?k=b04c737bac339d7e6dfb341e1ce508f1f3c2e1a093931966223f1f9d43cb117d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541602.jpg?k=d41dfb260891933ae29365967fae8ccd182b15cc899c00638292a53ba528f843&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541493.jpg?k=1d0c7468ab3708bf9f7852eb21a3c4c6aed2b5aaca1f3a636077c3119091b6e2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541591.jpg?k=072070d6518863d0c7b804f82532a23516e925728d1d52c7b1df818fae74a0c8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/217541625.jpg?k=30f1c1d3101446c7008b9c9e886272c9e76d15f835c68618b24ebd444220e4ad&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/117157632.jpg?k=6052d8cfa9664f29906362c2960821175c2f7b5a79e1931b9a413fb3f011c2e3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029680.jpg?k=6afec7d58bc4035dc86bf172e9d3d6c091a15ed19459a53055e903361d7a2b17&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029104.jpg?k=e0094276eb2e450ac41cebad088b8236f73d2e9509e1b740786d45fd52ee486a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/117158734.jpg?k=5cb64e687def9070159ed1dacd5cf2121673bea5fffb51ed4a54545bd790c760&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/61850142.jpg?k=92829c349d519158747d3d7daf06e3d7a661b98ac1e78680c1e5f98957ea2675&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/30077268.jpg?k=f4c5467e2ce17f30d162e8c88920ac1ce6aa3c2dbd170402455455e0d2b1d109&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029188.jpg?k=32ff6d05d61e85db9a7d7170f8213fe446b1114340c8211715d1b8aa5fab940f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029751.jpg?k=6ace1cc63dd07600c5244199fde522ee4b9f0e44e4fed58ec0683dd8545f8946&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/15029196.jpg?k=523f035a02d641663a7158ca4d73b2161d9adc3396c6e59aa94b803eceeecbb9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/124500906.jpg?k=5fce667bbf83ec458e36ce483282c1e7a150432ad79e95835bc1bb8bce9b9a6f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408552.jpg?k=f5bf9a0bccb5d70ca59512c033abc8fb3b97291a87b0b2f77d0246b12e8c1ed4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408555.jpg?k=84e7be2f21d20a5297348fcaae48644703fbe813c2bbb29eb5066306d26fac5c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408560.jpg?k=765de9a54c24613de5ef3119bf07ca06f84ecfe5f473713b51d8c00ae8ff88aa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408563.jpg?k=7833fa70a363eb2586c59d6d187fbe3796275d9f6b82c193abd24b302fce6530&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408567.jpg?k=85922b889d3c503856ed31e2ab54cad827b08148bde510c399021626ea52ef60&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/129408570.jpg?k=448088bb8db2a619ec7c9796a477d5a3eeb6a74ecefbc53741a2e1d8c486cd03&o=&hp=1"
+    ],
+    "scoreReview": 7.9,
+    "scoreReviewBasedOn": 662,
+    "name": {
+      "en": "Haus Mobene - Hotel Garni",
+      "es": "Haus Mobene - Hotel Garni",
+      "de": "Haus Mobene - Hotel Garni",
+      "it": "Haus Mobene - Hotel Garni",
+      "fr": "Haus Mobene - Hotel Garni",
+      "pt": "Haus Mobene - Hotel Garni"
+    },
+    "accommodationType": "hotel",
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 7.7
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8.1
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.1
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 7.7
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 8.1
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.1
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 7.7
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 8.1
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.1
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 7.7
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8.1
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.1
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 7.7
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 8.1
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.1
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 8.1
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 8.4
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.4
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.1
+        }
+      }
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Haus Mobene - Hotel Garni enjoys a quiet location, a 10-minute walk from the centre of Graz, and rooms with a small fridge, a microwave, an electric kettle and satellite TV. It features a quiet courtyard and free WiFi.\n\nThe entire building offers disabled access.\n\nThe Jakominiplatz public transport hub, the Stadthalle convention centre and concert hall, as well as the fairgrounds can be reached on foot in 5 minutes. The UPC Arena is 1 km away from Haus Mobene.",
+      "es": "El Haus Mobene - Hotel Garni, situado en un lugar tranquilo, a 10 minutos a pie del centro de Graz, ofrece habitaciones con pequeña nevera, microondas, hervidor eléctrico, TV vía satélite, patio tranquilo y conexión WiFi gratuita.\n\nTodo el edificio está adaptado para personas de movilidad reducida.\n\nLa red de transporte público de Jakominiplatz, el centro de convenciones y sala de conciertos Stadthalle, así como el recinto ferial se encuentran a 5 minutos a pie. La UPC Arena está a 1 km del Haus Mobene.",
+      "de": "Das Haus Mobene - Hotel Garni genießt eine ruhige Lage, einen 10-minütigen Spaziergang vom Zentrum von Graz entfernt und bietet Zimmer mit einem kleinen Kühlschrank, einer Mikrowelle, einem Wasserkocher und Sat-TV. Freuen Sie sich auf einen ruhigen Innenhof und kostenfreies WLAN.\n\nDas gesamte Gebäude ist barrierefrei.\n\nDen öffentlichen Verkehrsknotenpunkt Jakominiplatz, das Kongresszentrum und die Konzerthalle Stadthalle sowie das Messegelände erreichen Sie zu Fuß in 5 Minuten. Die UPC Arena liegt 1 km vom Haus Mobene entfernt.",
+      "it": "Situata in una posizione tranquilla, a 10 minuti a piedi dal centro di Graz, l'Haus Mobene - Hotel Garni offre un tranquillo cortile, la connessione WiFi gratuita e camere dotate di mini-frigo, microonde, bollitore elettrico e TV satellitare,\n\nL'edificio è interamente accessibile agli ospiti disabili.\n\nUbicata a 1 km dall'UPC Arena, l'Haus Mobene dista 5 minuti a piedi dal centro congressi e sala concerti Stadthalle, dal centro espositivo e dallo snodo del trasporto pubblico di Jakominiplatz.",
+      "fr": "Le Haus Mobene - Hotel Garni bénéficie d'un emplacement paisible, à 10 minutes à pied du centre de Graz. Cet établissement propose des chambres avec un petit réfrigérateur, un four micro-ondes, une bouilloire électrique et une télévision par satellite. Il est doté d'une cour calme et d'une connexion Wi-Fi gratuite.\n\nL'ensemble du bâtiment est accessible aux personnes à mobilité réduite.\n\nLe centre de transports en commun de Jakominiplatz, le centre des conventions et la salle de concert Stadthalle ainsi que le parc des expositions, sont situés à 5 minutes de marche. L'UPC Arena est à 1 km du Haus Mobene.",
+      "pt": "O Haus Mobene - Hotel Garni desfruta de uma localização tranquila, a 10 minutos a pé do centro de Graz, e disponibiliza quartos com um pequeno frigorífico, um micro-ondas, uma chaleira eléctrica e televisão por satélite. Disponibiliza um pátio tranquilo e acesso Wi-Fi gratuito.\n\nTodo o edifício é acessível a hóspedes com mobilidade condicionada.\n\nO Centro de Transportes Públicos de Jakominiplatz, o Centro de Convenções e Sala de Concertos Stadthalle, bem como os recintos de feiras podem ser alcançados em 5 minutos a pé. A UPC Arena fica a 1 km do Haus Mobene."
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 19:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 07:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 6 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 2 years Extra bed upon request € 34 per child, per night Cot upon request Free 3+ years Extra bed upon request € 34 per person, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 6 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed. Charges may be applicable."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 19:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 7:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 6 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 2 años Cama supletoria a petición € 34 por niño y noche Cuna a petición Gratis Más de 3 años Cama supletoria a petición € 34 por persona y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 6 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 19:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 07:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 6 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 2 Jahre Zustellbett auf Anfrage € 34 pro Kind, pro Nacht Babybett auf Anfrage Kostenfrei über 3 Jahre Zustellbett auf Anfrage € 34 pro Person, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 6 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 19:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 07:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 6 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 2 anni Letto supplementare su richiesta € 34 per bambino, a notte Culla su richiesta Gratis 3 anni e oltre Letto supplementare su richiesta € 34 per persona, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 6 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 19:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 07:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 6 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 2 ans Lit d'appoint sur demande € 34 par enfant et par nuit Lit bébé sur demande Gratuit Plus de 3 ans Lit d'appoint sur demande € 34 par personne et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 6 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 19:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 07:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 6 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 2 anos Cama extra mediante pedido € 34 por criança, por noite Berço mediante pedido Gratuito Mais de 3 anos Cama extra mediante pedido € 34 por pessoa, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 6 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "550 yd",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "950 yd",
+          "category": 6
+        },
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "950 yd",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "950 yd",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "1,050 yd",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "0.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Landesmuseum Joanneum",
+          "distance": "0.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "0.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "0.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Grazer Dom",
+          "distance": "0.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Tschech und Polzhofer",
+          "distance": "150 yd",
+          "category": 2
+        },
+        {
+          "name": "Ristorante Corti",
+          "distance": "150 yd",
+          "category": 2
+        },
+        {
+          "name": "Pirsch-Stüberl",
+          "distance": "200 yd",
+          "category": 2
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "0.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1 mi",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "1 mi",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "2.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "5 mi",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "4.3 mi",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "0.9 mi",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1 mi",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "5 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Landeszeughaus",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Landesmuseum Joanneum",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Dom",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pirsch-Stüberl",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Tschech und Polzhofer",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Ristorante Corti",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Casa del Arte Graz",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Torre del reloj de Graz",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Palacio Eggenberg",
+          "distance": "4,6 km",
+          "category": 6
+        },
+        {
+          "name": "Museo Arnold Schwarzenegger",
+          "distance": "8 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "6 km",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1,6 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "8 km",
+          "category": 1
+        },
+        {
+          "name": "Aeropuerto de Maribor Edvard Rusjan",
+          "distance": "80 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Landesmuseum Joanneum",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Dom",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Tschech und Polzhofer",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Ristorante Corti",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Pirsch-Stüberl",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Uhrturm",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Schloss Eggenberg",
+          "distance": "4,6 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold-Schwarzenegger-Museum",
+          "distance": "8 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Landhaus di Graz",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Landesmuseum Joanneum",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Carillon",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Dom",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Tschech und Polzhofer",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Ristorante Corti",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Pirsch-Stüberl",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Torre dell’Orologio di Graz",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Castello Eggenberg",
+          "distance": "4,6 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "8 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "fr": [],
+      "pt": [
+        {
+          "name": "Heilandskirche Graz-evangelische Pfarrgemeinde",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Mausoleum",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Platz der Menschenrechte Graz",
+          "distance": "850 m",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Landesmuseum Joanneum",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Burg",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Dom",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Tschech und Polzhofer",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Ristorante Corti",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Pirsch-Stüberl",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "4,6 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "8 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "6 km",
+          "category": 5
+        },
+        {
+          "name": "Graz Ostbahnhof-Messe",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "1,6 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "8 km",
+          "category": 1
+        }
+      ]
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What type of room can I book at Haus Mobene - Hotel Garni?",
+          "topicComments": "Room options at Haus Mobene - Hotel Garni include: Double Triple Quadruple"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Haus Mobene - Hotel Garni?",
+          "topicComments": "Check-in at Haus Mobene - Hotel Garni is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Haus Mobene - Hotel Garni?",
+          "topicComments": "The prices at Haus Mobene - Hotel Garni may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "How far is Haus Mobene - Hotel Garni from the centre of Graz?",
+          "topicComments": "Haus Mobene - Hotel Garni is 850 yd from the centre of Graz."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Haus Mobene - Hotel Garni?",
+          "topicComments": "Las opciones de habitación en Haus Mobene - Hotel Garni son: Doble Triple Cuádruple"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Haus Mobene - Hotel Garni?",
+          "topicComments": "Podrás hacer el check-in en Haus Mobene - Hotel Garni a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Haus Mobene - Hotel Garni?",
+          "topicComments": "Los precios en Haus Mobene - Hotel Garni pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿A qué distancia está Haus Mobene - Hotel Garni del centro de Graz?",
+          "topicComments": "Haus Mobene - Hotel Garni está a 800 m del centro de Graz."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Haus Mobene - Hotel Garni buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Haus Mobene - Hotel Garni zählen: Doppelzimmer Dreibettzimmer Vierbettzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Haus Mobene - Hotel Garni?",
+          "topicComments": "Der Check-in in der Unterkunft Haus Mobene - Hotel Garni ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Haus Mobene - Hotel Garni?",
+          "topicComments": "Die Preise an der Unterkunft Haus Mobene - Hotel Garni könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Haus Mobene - Hotel Garni vom Zentrum von Graz entfernt?",
+          "topicComments": "Die Unterkunft Haus Mobene - Hotel Garni ist 800 m vom Zentrum von Graz entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di camere posso prenotare presso Haus Mobene - Hotel Garni?",
+          "topicComments": "Haus Mobene - Hotel Garni offre: Matrimoniale Tripla Quadrupla"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Haus Mobene - Hotel Garni?",
+          "topicComments": "Presso Haus Mobene - Hotel Garni, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Haus Mobene - Hotel Garni?",
+          "topicComments": "I prezzi di Haus Mobene - Hotel Garni possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quanto dista Haus Mobene - Hotel Garni dal centro di Graz?",
+          "topicComments": "Haus Mobene - Hotel Garni si trova a 800 m dal centro di Graz."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Haus Mobene - Hotel Garni ?",
+          "topicComments": "L'établissement Haus Mobene - Hotel Garni propose les options d'hébergement suivantes : Double Triple Quadruple"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Haus Mobene - Hotel Garni ?",
+          "topicComments": "L'enregistrement à l'établissement Haus Mobene - Hotel Garni se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Haus Mobene - Hotel Garni ?",
+          "topicComments": "Les tarifs fixés par l'établissement Haus Mobene - Hotel Garni peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Haus Mobene - Hotel Garni est-il proche du centre (Graz) ?",
+          "topicComments": "L'établissement Haus Mobene - Hotel Garni se trouve à 800 m du centre (Graz)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de quarto posso reservar em Haus Mobene - Hotel Garni?",
+          "topicComments": "As opções de quarto em Haus Mobene - Hotel Garni incluem: Duplo Triplo Quádruplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Haus Mobene - Hotel Garni?",
+          "topicComments": "Em Haus Mobene - Hotel Garni, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Haus Mobene - Hotel Garni?",
+          "topicComments": "Os preços em Haus Mobene - Hotel Garni podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "A que distância fica Haus Mobene - Hotel Garni do centro de Graz?",
+          "topicComments": "Haus Mobene - Hotel Garni fica a 800 m do centro de Graz."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Haus Mobene - Hotel Garni enjoys a quiet location, a 10-minute walk from the centre of Graz, and rooms with a small fridge, a microwave, an electric kettle and satellite TV.",
+      "es": "El Haus Mobene - Hotel Garni, situado en un lugar tranquilo, a 10 minutos a pie del centro de Graz, ofrece habitaciones con pequeña nevera, microondas, hervidor eléctrico, TV vía satélite, patio tranquilo y conexión WiFi gratuita.\nTodo el edificio está adaptado para personas de movilidad reducida.\nLa red de transporte público de Jakominiplatz, el centro de convenciones y sala de conciertos Stadthalle, así como el recinto ferial se encuentran a 5 minutos a pie.",
+      "de": "Das Haus Mobene - Hotel Garni genießt eine ruhige Lage, einen 10-minütigen Spaziergang vom Zentrum von Graz entfernt und bietet Zimmer mit einem kleinen Kühlschrank, einer Mikrowelle, einem Wasserkocher und Sat-TV.",
+      "it": "Situata in una posizione tranquilla, a 10 minuti a piedi dal centro di Graz, l'Haus Mobene - Hotel Garni offre un tranquillo cortile, la connessione WiFi gratuita e camere dotate di mini-frigo, microonde, bollitore elettrico e TV satellitare,\nL'edificio è interamente accessibile agli ospiti disabili.\nUbicata a 1 km dall'UPC Arena, l'Haus Mobene dista 5 minuti a piedi dal centro congressi e sala concerti Stadthalle, dal centro espositivo e dallo snodo del trasporto pubblico di Jakominiplatz.",
+      "fr": "Le Haus Mobene - Hotel Garni bénéficie d'un emplacement paisible, à 10 minutes à pied du centre de Graz.",
+      "pt": "O Haus Mobene - Hotel Garni desfruta de uma localização tranquila, a 10 minutos a pé do centro de Graz, e disponibiliza quartos com um pequeno frigorífico, um micro-ondas, uma chaleira eléctrica e televisão por satélite."
+    },
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "address": {
+      "en": "Kastellfeldgasse 14, 8010 Graz, Austria, 8010 Graz, Austria",
+      "es": "Kastellfeldgasse 14, 8010 Graz, Austria, 8010 Graz, Austria",
+      "de": "Kastellfeldgasse 14, 8010 Graz, Österreich, 8010 Graz, Österreich",
+      "it": "Kastellfeldgasse 14, 8010 Graz, Austria, 8010 Graz, Austria",
+      "fr": "Kastellfeldgasse 14, 8010 Graz, Autriche, 8010 Graz, Autriche",
+      "pt": "Kastellfeldgasse 14, 8010 Graz, Áustria, 8010 Graz, Áustria"
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Tea/Coffee maker",
+            "Minibar"
+          ],
+          "General": [
+            "Family rooms",
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Lift"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Kitchen": [
+            "Microwave",
+            "Refrigerator",
+            "Electric kettle"
+          ],
+          "Outdoors & View": [
+            "Terrace"
+          ],
+          "Parking": [
+            "Parking"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Tetera / cafetera",
+            "Minibar"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "Cocina": [
+            "Microondas",
+            "Nevera",
+            "Hervidor eléctrico"
+          ],
+          "Exteriores y vistas": [
+            "Terraza"
+          ],
+          "General": [
+            "Habitaciones familiares",
+            "Habitaciones sin humo",
+            "Adaptado personas de movilidad reducida",
+            "Ascensor"
+          ],
+          "Internet": [
+            "Internet"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Familienzimmer",
+            "Nichtraucherzimmer",
+            "Einrichtungen für behinderte Gäste",
+            "Aufzug"
+          ],
+          "Außenbereich": [
+            "Terrasse"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Küche": [
+            "Mikrowelle",
+            "Kühlschrank",
+            "Wasserkocher"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Speisen & Getränke": [
+            "Kaffee- und Teezubehör",
+            "Minibar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Bollitore tè/macchina caffè",
+            "Minibar"
+          ],
+          "Cucina": [
+            "Forno a microonde",
+            "Frigorifero",
+            "Bollitore elettrico"
+          ],
+          "Generale": [
+            "Disponibilità di camere familiari",
+            "Camere non fumatori",
+            "Camere/strutture per ospiti disabili",
+            "Ascensore"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Spazi esterni": [
+            "Terrazza"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Plateau / bouilloire",
+            "Minibar"
+          ],
+          "Cuisine": [
+            "Micro-ondes",
+            "Réfrigérateur",
+            "Bouilloire électrique"
+          ],
+          "Équipements": [
+            "Coin repas"
+          ],
+          "Extérieur": [
+            "Terrasse"
+          ],
+          "Général": [
+            "Chambres familiales",
+            "Chambres non-fumeurs",
+            "Équipements pour les personnes handicapées",
+            "Ascenseur"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Comodidades para fazer chá e café",
+            "Minibar"
+          ],
+          "Cozinha": [
+            "Micro-ondas",
+            "Frigorífico",
+            "Chaleira elétrica"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Exterior": [
+            "Terraço"
+          ],
+          "Geral": [
+            "Quartos familiares",
+            "Quartos para não fumadores",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Elevador"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ]
+        }
+      ]
+    },
+    "rating": null,
+    "toConsider": {
+      "en": "Please note that the reception is open daily from 07:00 to 11:00 and from 15:00 to 19:00.\nIf you expect to arrive after 19:00, please inform Haus Mobene - Hotel Garni in advance. Contact details can be found on the booking confirmation.\nPlease inform Haus Mobene - Hotel Garni in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "La recepción abre todos los días de 07:00 a 11:00 y de 15:00 a 19:00.\nSi tiene previsto llegar después de las 19:00, deberá informar al Haus Mobene - Hotel Garni con antelación. Los datos de contacto figuran en la confirmación de la reserva.\nInforma a Haus Mobene - Hotel Garni con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Bitte beachten Sie, dass die Rezeption täglich von 07:00 bis 11:00 Uhr und von 15:00 bis 19:00 Uhr geöffnet ist.\nWenn Sie nach 19:00 Uhr anreisen, informieren Sie das Mobene Haus - Hotel Garni bitte im Voraus. Die Kontaktdaten entnehmen Sie der Buchungsbestätigung.\nBitte teilen Sie der Unterkunft Haus Mobene - Hotel Garni Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "La reception è aperta tutti i giorni dalle 07:00 alle 11:00 e dalle 15:00 alle 19:00.\nSe prevedete di arrivare dopo le 19:00, siete pregati di informare l'Haus Mobene - Hotel Garni in anticipo, mediante i recapiti riportati sulla conferma della prenotazione.\nSiete pregati di comunicare in anticipo a Haus Mobene - Hotel Garni l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Veuillez noter que la réception est ouverte de 7h00 à 11h00 et de 15h00 à 19h00.\nSi vous prévoyez d'arriver après 19h00, veuillez en informer l'Haus Mobene - Hotel Garni à l'avance. Les coordonnées de l'hôtel figurent sur votre confirmation de réservation.\nVeuillez informer l'établissement Haus Mobene - Hotel Garni à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Por favor, note que a recepção está aberta diariamente das 07:00h às 11:00h e das 15:00h às 19:00h.\nSe pretende chegar depois das 19:00h, por favor, informe o Haus Mobene - Hotel Garni com antecedência. Os dados para contacto estão presentes na confirmação de reserva.\nPor favor, informe Haus Mobene - Hotel Garni antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

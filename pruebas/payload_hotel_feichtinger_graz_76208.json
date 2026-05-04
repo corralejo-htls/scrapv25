@@ -1,0 +1,1244 @@
+{
+  "data": {
+    "geoPosition": {
+      "latitude": 47.07427959502992,
+      "longitude": 15.432076156139374
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/707032892.jpg?k=f52cf9786a9cdf439c4e06eba5f4781c747535c9f733e30a35898269bf663a66&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584107705.jpg?k=0d7232e2b4c945d5906c1e8830779c40e7bf921bb4e1c26fe95677634159df7c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584098514.jpg?k=ba652c500701089d66f911b44c00c0f129ec4c1f7f63fb14d546028ba7dfa4d4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584102045.jpg?k=b8ac31650d20b5b671e5ae20abb9c4b76561872556026ee5465b69d13b9d62f6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/583317440.jpg?k=4847903d2c5240fa44cc591203f144a776971153ccf77b0cdcc2d679ab179caa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/583317480.jpg?k=690f2c49a56df43a9366ae14a4e132695566ea391b733e30f4eac0752094345e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/585112056.jpg?k=0fa43a93497f14cff33db4f49edc541a979e811103058391b54aeec460b17faa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/308578910.jpg?k=e0276ef0791f20fb636019cd956f4ca7ed6f671481872f109975b74e9043d2db&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/585111921.jpg?k=4bb22d762f089d890ff30f15744d66dd4829fa0a511a1ccf97944e5de9144823&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584108816.jpg?k=66a8633f8c1f2a407ec221126d6324bf0ba1e2fbd8ce510110e828371ec28820&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584107714.jpg?k=02d89873bcfd1499e123923ac43666769561f3f2c4d97568ad07af7fc8eb6643&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584106587.jpg?k=e2e6cbfc9d938d18abe581dbbc4b47034f10a0a8f8a4248654cd0e23c9e82cc4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584106623.jpg?k=eac8258e249bb5b92236c41f9c8aaa1d001cdc7da15cdc64a07377ea637a0c2e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584104185.jpg?k=accafbadbcc1a9c031e36c160250393c741f407d591b472315ef13b0a1baadd8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584104887.jpg?k=7b40868ac9174a8e41e6fff8cb854043ae420b78fc4e8a87a780324f0cdd6fb6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584104818.jpg?k=f48632643a53d733365eee74be6f0ac2f3ae41471da4a5a7a856c80af2cd3dd0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584104130.jpg?k=1fa53794283779bcdaa864e50b9d97fc8d566d18da1a502021dfda7230227dd7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/583317409.jpg?k=f630994a9e241f6018fb81b1bd62dcbadc989ed91888fe5f00ae30f6fe7b65ba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584111293.jpg?k=54b32b383dd3fc65fe6583cd4db27cf9ad27d9f8b7b6fd6d8db405f97b7448ec&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584111330.jpg?k=5a88245154890a940769df7181650b7568ca45f268cd70273d1f1fd7b29b41c6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/584115081.jpg?k=cdece336f1545268808e31dbaee9d1569614db7f0064588c1ddf178912227e62&o=&hp=1"
+    ],
+    "scoreReview": 9,
+    "scoreReviewBasedOn": 1471,
+    "name": {
+      "en": "Hotel Feichtinger Graz",
+      "es": "Hotel Feichtinger Graz",
+      "de": "Hotel Feichtinger Graz",
+      "it": "Hotel Feichtinger Graz",
+      "fr": "Hotel Feichtinger Graz",
+      "pt": "Hotel Feichtinger Graz"
+    },
+    "accommodationType": "hotel",
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.9
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.9
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.9
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.9
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.9
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.9
+        }
+      }
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Hotel Feichtinger is located in the centre of Graz, only a 5-minute walk away from Graz Art Museum and the historic old town. WiFi access is available free of charge.\n\nThe air-conditioned, spacious and sound-proofed rooms feature flat-screen satellite TV and a bathroom with shower and hairdryer.\n\nA rich breakfast buffet is served daily until 11:00, and Hotel Feichtinger also has a bar. Several restaurants and trendy shops are in the immediate vicinity. Lendplatz Square with its well-known farmer's market is right next to the hotel.\n\nAll rooms on the second and third floor were renovated in 2020 and 2021 and furnished in a modern style.",
+      "es": "El Hotel Feichtinger se encuentra en el centro de Graz, a tan solo 5 minutos a pie del Museo de Arte de Graz y del centro histórico. Hay WiFi gratuita.\n\nLas habitaciones son amplias, están insonorizadas y tienen aire acondicionado, TV vía satélite de pantalla plana y baño con ducha y secador de pelo.\n\nTodas las mañanas se sirve un desayuno buffet abundante hasta las 11:00. El Hotel Feichtinger también alberga un bar y está muy cerca de varios restaurantes y comercios de moda. Junto al hotel, los huéspedes hallarán la plaza Lendplatz y su conocido mercado agrícola.",
+      "de": "Das Hotel Feichtinger erwartet Sie im Zentrum von Graz, nur 5 Gehminuten vom Kunsthaus Graz und der historischen Altstadt entfernt. WLAN nutzen Sie kostenfrei.\n\nDie klimatisierten, geräumigen und schallisolierten Zimmer verfügen über einen Flachbild-Sat-TV und ein Bad mit einer Dusche sowie einem Haartrockner.\n\nEin reichhaltiges Frühstücksbuffet wird täglich bis 11:00 Uhr serviert. Besuchen Sie auch die Bar im Hotel Feichtinger. Mehrere Restaurants und angesagte Geschäfte befinden sich in unmittelbarer Nähe. Der Lendplatz mit seinem bekannten Bauernmarkt befindet sich direkt neben dem Hotel.\n\nAlle Zimmer auf der 2. und 3. Etage wurden in den Jahren 2020 und 2021 renoviert und in einem modernen Stil eingerichtet.",
+      "it": "L’Hotel Feichtinger si trova nel centro di Graz, a soli 5 minuti a piedi dal Museo d’Arte di Graz e dal centro storico. La connessione WiFi è fruibile gratuitamente.\n\nSpaziose e insonorizzate, le camere sono dotate di aria condizionata, TV satellitare a schermo piatto e bagno con doccia e asciugacapelli.\n\nL’Hotel Feichtinger ospita un bar e serve ogni giorno fino alle 11:00 un’abbondante colazione a buffet. Nelle immediate vicinanze troverete numerosi ristoranti e negozi alla moda. La Piazza Lendplatz, con il suo famoso mercato agricolo, si trova proprio accanto all'hotel.\n\nTutte le camere al secondo e terzo piano sono state rinnovate nel 2020 e 2021 e arredate in stile moderno.",
+      "fr": "L'Hotel Feichtinger est situé dans le centre de Graz, à seulement 5 minutes à pied du musée d'art et de la vieille ville historique. La connexion Wi-Fi est gratuite.\n\nLes chambres climatisées, spacieuses et insonorisées disposent d'une télévision par satellite à écran plat et d'une salle de bains avec une douche et un sèche-cheveux.\n\nUn copieux petit-déjeuner buffet est servi tous les matins jusqu'à 11h00 et l'Hotel Feichtinger possède également un bar. Vous trouverez plusieurs restaurants et des boutiques à la mode à proximité immédiate. La place Lendplatz et son célèbre marché de producteurs se trouvent juste à côté de l'hôtel.",
+      "pt": "O Hotel Feichtinger está localizado no centro de Graz, apenas a 5 minutos a pé do Museu de Arte de Graz e da histórica cidade velha. O acesso Wi-Fi está disponível gratuitamente.\n\nOs espaçosos quartos dispõem de ar condicionado, insonorização, uma televisão de ecrã plano com canais por satélite e uma casa de banho com um chuveiro e um secador de cabelo.\n\nO Hotel Feichtinger também possui um bar e serve um generoso buffet de pequeno-almoço todos os dias. A propriedade está situada perto de vários restaurantes e lojas modernas. A Praça Lendplatz, com o famoso mercado de agricultores, está ao lado do hotel."
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 14:00 to 22:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 07:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 16 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 4 years Cot upon request Free 5 - 12 years Extra bed upon request € 30 per child, per night 13 - 15 years Extra bed upon request € 35 per child, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 16 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 5 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 14:00 a las 22:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 7:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 16 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 4 años Cuna a petición Gratis 5 - 12 años Cama supletoria a petición € 30 por niño y noche 13 - 15 años Cama supletoria a petición € 35 por niño y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 16 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 5 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 14:00 bis 22:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 07:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 16 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 4 Jahre Babybett auf Anfrage Kostenfrei 5 - 12 Jahre Zustellbett auf Anfrage € 30 pro Kind, pro Nacht 13 - 15 Jahre Zustellbett auf Anfrage € 35 pro Kind, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 16 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 5 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 14:00 alle 22:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 07:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 16 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 4 anni Culla su richiesta Gratis 5 - 12 anni Letto supplementare su richiesta € 30 per bambino, a notte 13 - 15 anni Letto supplementare su richiesta € 35 per bambino, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 16 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 5 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 14:00 à 22:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 07:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 16 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 4 ans Lit bébé sur demande Gratuit 5 - 12 ans Lit d'appoint sur demande € 30 par enfant et par nuit 13 - 15 ans Lit d'appoint sur demande € 35 par enfant et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 16 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 5 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 14:00 às 22:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 07:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 16 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 4 anos Berço mediante pedido Gratuito 5 - 12 anos Cama extra mediante pedido € 30 por criança, por noite 13 - 15 anos Cama extra mediante pedido € 35 por criança, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 16 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 5 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Mariahilfkirche",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Zanderhof",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Schlossbergsteig",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "3.2 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "8 km",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Casa del Arte Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Torre del reloj de Graz",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Landeszeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Palacio Eggenberg",
+          "distance": "3,2 km",
+          "category": 6
+        },
+        {
+          "name": "Museo Arnold Schwarzenegger",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "8 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Uhrturm",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Schloss Eggenberg",
+          "distance": "3,2 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold-Schwarzenegger-Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 6
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 6
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Torre dell’Orologio di Graz",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Landhaus di Graz",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Carillon",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Castello Eggenberg",
+          "distance": "3,2 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 6
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 6
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Mariahilfkirche",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Zanderhof",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Schlossbergsteig",
+          "distance": "600 m",
+          "category": 6
+        },
+        {
+          "name": "Tour de l'Horloge de Graz",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Château Eggenberg",
+          "distance": "3,2 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "8 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Murinsel",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "950 m",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "3,2 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Cafe Restaurant Demiri",
+          "distance": "6 m",
+          "category": 2
+        },
+        {
+          "name": "Bakaliko",
+          "distance": "10 m",
+          "category": 2
+        },
+        {
+          "name": "Die Scherbe",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "550 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "600 m",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "8 km",
+          "category": 1
+        }
+      ]
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "2 adults · 0 children · 1 room",
+          "topicComments": ""
+        },
+        {
+          "topic": "Check-in date - Check-out date",
+          "topicComments": ""
+        },
+        {
+          "topic": "The best of Graz Click here to see more hotels and accommodation near popular landmarks in Graz",
+          "topicComments": ""
+        }
+      ],
+      "es": [
+        {
+          "topic": "2 adultos · 0 niños · 1 habitación",
+          "topicComments": ""
+        },
+        {
+          "topic": "Fecha de entrada - Fecha de salida",
+          "topicComments": ""
+        },
+        {
+          "topic": "Lo mejor de Graz Haz clic aquí para ver más hoteles y alojamientos cerca de los sitios de interés más visitados de Graz",
+          "topicComments": ""
+        }
+      ],
+      "de": [
+        {
+          "topic": "2 Erwachsene · 0 Kinder · 1 Zimmer",
+          "topicComments": ""
+        },
+        {
+          "topic": "Anreisedatum - Abreisedatum",
+          "topicComments": ""
+        },
+        {
+          "topic": "Das Beste von Graz Klicken Sie hier, um mehr Hotels und Unterkünfte in der Nähe von bekannten Sehenswürdigkeiten in Graz zu sehen",
+          "topicComments": ""
+        }
+      ],
+      "it": [
+        {
+          "topic": "2 adulti · 0 bambini · 1 camera",
+          "topicComments": ""
+        },
+        {
+          "topic": "Data check-in - Data check-out",
+          "topicComments": ""
+        },
+        {
+          "topic": "Il meglio di Graz Clicca qui per vedere altri hotel e alloggi vicino alle attrazioni più famose di Graz",
+          "topicComments": ""
+        }
+      ],
+      "fr": [
+        {
+          "topic": "2 adultes · 0 enfant · 1 chambre",
+          "topicComments": ""
+        },
+        {
+          "topic": "Date d'arrivée - Date de départ",
+          "topicComments": ""
+        },
+        {
+          "topic": "Les incontournables de : Graz Cliquez ici pour consulter plus d'hôtels et d'autres hébergements proches de sites d'intérêt à : Graz",
+          "topicComments": ""
+        }
+      ],
+      "pt": [
+        {
+          "topic": "2 adultos · 0 criança · 1 quarto",
+          "topicComments": ""
+        },
+        {
+          "topic": "Data de check-in - Data de check-out",
+          "topicComments": ""
+        },
+        {
+          "topic": "O melhor de: Graz Clique aqui para ver mais hotéis e alojamentos perto de locais de interesse populares em Graz",
+          "topicComments": ""
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Hotel Feichtinger is located in the centre of Graz, only a 5-minute walk away from Graz Art Museum and the historic old town.",
+      "es": "El Hotel Feichtinger se encuentra en el centro de Graz, a tan solo 5 minutos a pie del Museo de Arte de Graz y del centro histórico.",
+      "de": "Das Hotel Feichtinger erwartet Sie im Zentrum von Graz, nur 5 Gehminuten vom Kunsthaus Graz und der historischen Altstadt entfernt.",
+      "it": "L’Hotel Feichtinger si trova nel centro di Graz, a soli 5 minuti a piedi dal Museo d’Arte di Graz e dal centro storico.",
+      "fr": "L'Hotel Feichtinger est situé dans le centre de Graz, à seulement 5 minutes à pied du musée d'art et de la vieille ville historique.",
+      "pt": "O Hotel Feichtinger está localizado no centro de Graz, apenas a 5 minutos a pé do Museu de Arte de Graz e da histórica cidade velha."
+    },
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "address": {
+      "en": "Lendplatz 1a, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "es": "Lendplatz 1a, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "de": "Lendplatz 1a, Lend, 8020 Graz, Österreich, 8020 Graz, Österreich",
+      "it": "Lendplatz 1a, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "fr": "Lendplatz 1a, Lend, 8020 Graz, Autriche, 8020 Graz, Autriche",
+      "pt": "Lendplatz 1a, Lend, 8020 Graz, Áustria, 8020 Graz, Áustria"
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Bar",
+            "Fruits",
+            "Wine/champagne",
+            "Special diet menus (on request)",
+            "Minibar"
+          ],
+          "General": [
+            "Family rooms",
+            "Non-smoking rooms",
+            "Lift",
+            "Minimarket on site"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Services": [
+            "Grocery deliveries"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Bar",
+            "Fruta",
+            "Vino / champán",
+            "Menús para dietas especiales (bajo petición)",
+            "Minibar"
+          ],
+          "Aparcamiento": [
+            "Parking"
+          ],
+          "General": [
+            "Habitaciones familiares",
+            "Habitaciones sin humo",
+            "Ascensor",
+            "Supermercado pequeño en el alojamiento"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Servicios": [
+            "Servicio de entrega de comestibles"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Familienzimmer",
+            "Nichtraucherzimmer",
+            "Aufzug",
+            "Minimarkt vor Ort"
+          ],
+          "Dienstleistungen": [
+            "Lebensmittellieferung"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parken": [
+            "Parkplatz"
+          ],
+          "Speisen & Getränke": [
+            "Bar",
+            "Obst",
+            "Wein/Sekt",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Minibar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Bar",
+            "Frutta",
+            "Vino/champagne",
+            "Menù per diete particolari (su richiesta)",
+            "Minibar"
+          ],
+          "Generale": [
+            "Disponibilità di camere familiari",
+            "Camere non fumatori",
+            "Ascensore",
+            "Minimarket sul posto"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "Parcheggio"
+          ],
+          "Servizi": [
+            "Consegna spesa a domicilio"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Bar",
+            "Fruits",
+            "Vin/champagne",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Minibar"
+          ],
+          "Général": [
+            "Chambres familiales",
+            "Chambres non-fumeurs",
+            "Ascenseur",
+            "Supérette sur place"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "Parking"
+          ],
+          "Services": [
+            "Livraison de courses"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Bar",
+            "Fruta",
+            "Vinho/champanhe",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Minibar"
+          ],
+          "Estacionamento": [
+            "Estacionamento"
+          ],
+          "Geral": [
+            "Quartos familiares",
+            "Quartos para não fumadores",
+            "Elevador",
+            "Minimercado no local"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ],
+          "Serviços": [
+            "Entrega de mercearias"
+          ]
+        }
+      ]
+    },
+    "rating": 4,
+    "toConsider": {
+      "en": "Please inform Hotel Feichtinger Graz in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\nIn response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.\nDue to Coronavirus (COVID-19), this property is taking steps to help protect the safety of guests and staff. Certain services and amenities may be reduced or unavailable as a result.\nDue to Coronavirus (COVID-19), this property has reduced reception and service operating hours.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Informa a Hotel Feichtinger Graz con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\nEn respuesta al coronavirus (COVID-19), el alojamiento aplica medidas sanitarias y de seguridad adicionales en estos momentos.\nA causa del coronavirus (COVID-19), este alojamiento está tomando medidas para garantizar la seguridad de los clientes y el personal. Por este motivo, algunos servicios e instalaciones pueden verse limitados o no estar disponibles.\nA causa del coronavirus (COVID-19), este alojamiento ha reducido el horario de recepción y otros servicios.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Bitte teilen Sie der Unterkunft Hotel Feichtinger Graz Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\nWegen des Coronavirus (COVID-19) wurden in dieser Unterkunft zusätzliche Sicherheits- und Hygienemaßnahmen unternommen.\nWegen des Coronavirus (COVID-19) hat diese Unterkunft Maßnahmen unternommen, um die Sicherheit der Gäste und des Personals zu gewährleisten. Bestimmte Services und Einrichtungen könnten daher nicht oder nur eingeschränkt zur Verfügung stehen.\nWegen des Coronavirus (COVID-19) hat diese Unterkunft seine Service- und Rezeptionszeiten verringert.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Siete pregati di comunicare in anticipo a Hotel Feichtinger Graz l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\nIn risposta al Coronavirus (COVID-19) questa struttura ha adottato misure extra di sicurezza e igiene.\nA causa del Coronavirus (COVID-19) questa struttura sta adottando misure per proteggere la salute degli ospiti e dello staff. Pertanto, alcuni servizi potrebbero essere ridotti o non disponibili, così come le dotazioni.\nA causa del Coronavirus (COVID-19) questa struttura ha ridotto gli orari di servizio e reception.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Veuillez informer l'établissement Hotel Feichtinger Graz à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\nDans le cadre de la pandémie de coronavirus (COVID-19), cet établissement applique actuellement des mesures sanitaires supplémentaires.\nEn raison de la pandémie de coronavirus (COVID-19), cet établissement prend des mesures pour assurer la sécurité de ses clients et de son personnel. Certains services et équipements peuvent donc être réduits ou indisponibles.\nEn raison de la pandémie de coronavirus (COVID-19), cet établissement a réduit les horaires de sa réception et de ses services.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Por favor, informe Hotel Feichtinger Graz antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\nEm resposta ao Coronavírus (COVID-19), este alojamento está a tomar medidas de segurança e higienização adicionais.\nDevido ao Coronavírus (COVID-19), este alojamento está a tomar precauções adicionais para proteger os seus hóspedes e funcionários. Consequentemente, alguns serviços e comodidades poderão estar reduzidos ou indisponíveis.\nDevido ao Coronavírus (COVID-19), este alojamento reduziu o horário de funcionamento da receção e dos serviços.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

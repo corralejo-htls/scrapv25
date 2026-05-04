@@ -1,0 +1,1467 @@
+{
+  "data": {
+    "geoPosition": {
+      "latitude": 47.0717440508332,
+      "longitude": 15.433525890111923
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115261330.jpg?k=762d67c464e1696816ec4753ca1b9df75ef2994776706fae36c93094833dd455&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/793208236.jpg?k=91014ef590431c1f9df8ffbcfeb8da3564be92473b348770011df189058a2572&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258152139.jpg?k=1faac4b239463cbebe9ddaea41615d2b00f904a179c16419f5c2f5c44809b0e2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/386018846.jpg?k=80aabcf057da49c17f7dcbc307ef64be6fc77cfdf9225ac9b595a4efa8c00ce1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309282986.jpg?k=3b2e3b0de689a3d7843354173dabd9b61882e7a8ca6fbe29ea64a9ea5b784ab8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309283986.jpg?k=4b3d10d3e7ca69957d9dbd48ce78f5e85dd6b6bc9811d63248e7e207a794f8f5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033258.jpg?k=36e3780e6a358be7261ba6a15d6a2b93728f3a4eb892851f3d4c2b6c691daac6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309282485.jpg?k=68fce98ea64d30f2454008cfb964b4d3bfd9446dc800dd1a4d8799a5c6a73581&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115263158.jpg?k=5f3a99a98685f53bb55890a12d7d80498888f96e02b5a0b780fde36416dea134&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/386024765.jpg?k=bd406b5325c2fc1683eaa6ea60e28b434bb3eeb3f1fdebe304a7b6d5776e2e2f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309283976.jpg?k=27bf16d48f54f8d3baa96541d979ffe61c26fc12011d5c2d671bab49a6541c6f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258150887.jpg?k=c7f730035d27aa263c4ee2ef3b0e821d8c0d085b914e2153e4e94b49857e0ecb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115264451.jpg?k=87a66e002cce8e13f169277a1df2adb163f480e34a3622d24f2a5f441baa5b3c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115264444.jpg?k=119af1e2a88ca88587f46c6e2ae56b0c5edbef4a7288fb3a11cee2e47ad91ce4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115264447.jpg?k=db658a72983628504f0e29324264b6e5b972b0c7920f1ea6a0f243f6c95edbdc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115265989.jpg?k=ab07c3661ebc38f9010607048c6d01a98a0be1d253645e728b454b223df16dcf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115264442.jpg?k=a25f3bd7ef5e5b613ee61a5e0570de9d117f91e05536af6b7992425fb441fc27&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115264446.jpg?k=6c05d0b70add31760d45b9b316187b739347003e0a537070684d749438912472&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258150879.jpg?k=ed1889a2b5acbee2f7a367eb0fab6c7ce71d28016a56892409892e1be1b7c112&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258152151.jpg?k=86343198cde37ff288a42bfec06b410ca5d9e3323ea1c074eed2bbf69e9ec529&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258166223.jpg?k=bbb782e70b9ed645db4099644c964bf88ff3bae79b314ff0784dd1e786c1251f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309282477.jpg?k=763dc8a15e0b229ede778f5955d924b3d154219793ab9d48a3f7c1bd98a1bf00&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309283996.jpg?k=9e1313cdfcb5de9b4e76f7a8fb5ded5f79734230752e09cdf0ddd27ac0aa2efb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/309282502.jpg?k=01c787557605b706b5d0bbb85cb135e76921a7653a6ccea4cd52bdc99a0861ea&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258147216.jpg?k=7c443841d4b3c3a9c66d282253e838e5163daac8531a8cf015983c28f7b085de&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033228.jpg?k=10bc658d89494cf13238fd902cc3da812a599a29ef05df8ac3ec1dc0e8fdf81f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033181.jpg?k=34533d519836c8f794f8a99ba2325a08890a6d34a78d335932e52d3f26132b0e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033203.jpg?k=91b42f930cb0f8b095b9450efaa35b4510d037b30877223d9cac766c47a73c83&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033257.jpg?k=7cfdba4645420f3765c6093c073cc4be6af24653aa9de7e7058f62b80410d987&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033200.jpg?k=0dce19c1e1c9b3bdf2c3957e52882da8888d69fb554754168f776e3c5b8a1410&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033185.jpg?k=3e8d6ef414ad34c51e1ece6fcf3f976f7c456237a4f4d9601b96304ad38ebe0b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033259.jpg?k=0015b9d3d08b56a3724dbcef4c6807a134e1edb53c7111b9e59c9ed0bdd3d9dd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033191.jpg?k=31494c3ba58e63d4f8354f517b11cdc95e81c1f38b58e8c25b50f7294f119cf6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339034935.jpg?k=2fd6d5b61653534c50c316b1a3aa3820838a8aec1a57f131c9b79e817dd1336c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033178.jpg?k=c0c34e95af8f570899753786b9442941d809ca8b14377ef81d6214735b94b925&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258147704.jpg?k=ca770f239e190915987e22763698b7c51df061938eb22e5b296228d9410c5206&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339035452.jpg?k=a9f8121985d4f6f3bceeefe2f7e757a23f3478cd227a6b92292da4d1eb1cc6de&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258147296.jpg?k=ee8dc770a013d2606135d498aaef62458b0b8d2130c71b9a1deb7906b4b87b4d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033247.jpg?k=4a3da9d5a9846e2e25b71b291fb829918cad58214b8a08fadb192e413c362e81&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/4342592.jpg?k=e349b693c67124e221919fbc5efb14bca6fa72773348cb85106bcfcdc36411a0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339035315.jpg?k=2c430be0a3ea37a2758aa5a4380fec9f37380c8260c41c37e7e6202e0934c9d5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115262948.jpg?k=c37ea2b7b698fbfef2ca56a69f18630a9b6efbdd5b21ec3c7d509e9732042803&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339035728.jpg?k=ada02a5e427c7111bc3abcd4c3c4ae883fd96128ce76e388650304091180e7fb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/258150854.jpg?k=885691f09ed0efb13b00c68bb9284bea2b9e2b2c299d8396a2286114ba8b02a5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/339033160.jpg?k=b760e37ed27d24dba60f56a4918d88de0fdc11faae8f4246160fdb0668fbd2e3&o=&hp=1"
+    ],
+    "scoreReview": 8.2,
+    "scoreReviewBasedOn": 3513,
+    "name": {
+      "en": "Hotel Mariahilf",
+      "es": "Hotel Mariahilf",
+      "de": "Hotel Mariahilf",
+      "it": "Hotel Mariahilf",
+      "fr": "Hotel Mariahilf",
+      "pt": "Hotel Mariahilf"
+    },
+    "accommodationType": "hotel",
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 7.6
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 8.9
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8.2
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 9
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 7.6
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 8.9
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 8.2
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 9
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 7.6
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 8.9
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 8.2
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 9
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 7.6
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 8.9
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8.2
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 9
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 7.6
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 8.9
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 8.2
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 9
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 8.2
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 8.9
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 9
+        }
+      }
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "longDescription": {
+      "en": "Hotel Mariahilf is located in a pedestrian street in the heart of Graz, facing the Schlossberg Mountain. The Mur River, Graz Art Museum and the Congress Centre are just steps away. The hotel serves a rich buffet breakfast. Free WiFi is available in all areas.\n\nThe non-smoking rooms have a bathroom and a TV.\n\nReduced parking tickets are available at a nearby parking garage. The main square of Graz is just a short walk across the river. Hotel Mariahilf is located in the trendy district of Lend with its several bars and restaurants and nice shops.",
+      "es": "El Hotel Mariahilf se encuentra en una calle peatonal del centro de Graz y ofrece vistas al monte Schlossberg. El río Mura, el Kunsthaus Graz y el centro de congresos están a pocos pasos. El hotel sirve un desayuno buffet abundante. Además, hay WiFi gratuita en todas las zonas.\n\nLas habitaciones para no fumadores disponen de baño y TV.\n\nEl establecimiento ofrece vales de descuento para un aparcamiento cercano. La plaza principal de Graz está a un corto paseo por el río. El Hotel Mariahilf se encuentra en el moderno barrio de Lend, que alberga varios bares, restaurantes y tiendas bonitas.",
+      "de": "Das Hotel Mariahilf erwartet Sie in einer Fußgängerzone im Herzen von Graz und bietet Aussicht auf den Schlossberg. Die Mur, das Kunsthaus Graz und das Kongresszentrum befinden sich nur wenige Schritte entfernt. Freuen Sie sich auch auf ein reichhaltiges Frühstücksbuffet. WLAN nutzen Sie in allen Bereichen kostenfrei.\n\nDie Nichtraucherzimmer verfügen über ein Bad und einen TV.\n\nIn einem nahe gelegenen Parkhaus erhalten Sie Ermäßigungen auf die Parkscheine. Der Hauptplatz von Graz liegt nur einen kurzen Spaziergang über den Fluss entfernt. Das Hotel Mariahilf befindet sich im angesagten Stadtviertel Lend, in dem Sie verschiedene Bars, Restaurants und hübsche Geschäfte finden.",
+      "it": "Situato in una strada pedonale nel cuore di Graz, di fronte al monte Schlossberg e a pochi passi dal fiume Mura, dal Museo d'Arte di Graz e dal Centro Congressi, l'Hotel Mariahilf offre un abbondante colazione a buffet e il WiFi gratuito nell'intera struttura.\n\nProvviste di bagno e TV, tutte le camere dell'hotel sono per non fumatori.\n\nDurante il soggiorno all’Hotel Mariahilf godrete di tariffe scontate presso un parcheggio in garage situato nelle vicinanze, e potrete visitare la piazza principale di Graz, raggiungibile con una breve passeggiata che attraversa il fiume, oppure i numerosi negozi, ristoranti e bar del quartiere alla moda di Lend.",
+      "fr": "L'Hotel Mariahilf est situé le long d'une rue piétonne, en plein cœur de Graz, en face de la colline du Schloßberg. La rivière Mur, le musée d'art de Graz et le centre des congrès ne sont qu'à quelques pas. L'établissement vous propose un petit-déjeuner buffet copieux et une connexion Wi-Fi gratuite dans l'ensemble de son établissement.\n\nNon-fumeurs, ses chambres comprennent une salle de bains et une télévision.\n\nDes tickets de stationnement à tarif réduit sont disponibles dans un parking couvert à proximité. La place principale de Graz, de l'autre côté de la rivière, est accessible en quelques minutes de marche. L'Hotel Mariahilf se trouve dans le quartier branché de Lend, qui regorge de bars, de restaurants et de jolies boutiques.",
+      "pt": "O Hotel Mariahilf está situado numa rua pedonal no coração de Graz, de frente para a Montanha Schlossberg e a uma curta distância a pé do Rio Mur, do Museu de Arte de Graz e do Centro de Congressos. O hotel serve um generoso buffet de pequeno-almoço. Dispõe de acesso Wi-Fi gratuito em todas as áreas.\n\nOs quartos, para não fumadores, têm uma casa de banho e uma televisão.\n\nEstão disponíveis bilhetes de estacionamento por valores reduzidos numa garagem próxima. A praça principal de Graz fica apenas a uma curta caminhada ao atravessar o rio. O Hotel Mariahilf encontra-se no elegante bairro de Lend, com os seus vários bares, restaurantes e lojas agradáveis."
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 14:00 to 22:00 Guests are required to show a photo identification and credit card upon check-in"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 06:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Curfew",
+          "detail": "Entry to the property will be closed between the hours of 22:00 and 06:00"
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 5 years Extra bed upon request € 50 per child, per night Cot upon request Free 6 - 15 years Extra bed upon request € 50 per child, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 5 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 14:00 a las 22:00 Los clientes deben mostrar un documento de identidad con fotografía y una tarjeta de crédito en el momento de hacer el check-in"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 6:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Horario límite",
+          "detail": "La entrada del alojamiento se cierra de 22:00 a 06:00"
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 5 años Cama supletoria a petición € 50 por niño y noche Cuna a petición Gratis 6 - 15 años Cama supletoria a petición € 50 por niño y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 5 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 14:00 bis 22:00 Uhr Gäste müssen einen Lichtbildausweis und eine Kreditkarte beim Check-in vorlegen"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 06:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Nachtschließzeit",
+          "detail": "Der Eingang der Unterkunft ist zwischen 22:00 und 06:00 geschlossen."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 5 Jahre Zustellbett auf Anfrage € 50 pro Kind, pro Nacht Babybett auf Anfrage Kostenfrei 6 - 15 Jahre Zustellbett auf Anfrage € 50 pro Kind, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 5 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 14:00 alle 22:00 Al check-in gli ospiti devono esibire un documento di riconoscimento con foto e una carta di credito."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 06:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Chiusura notturna",
+          "detail": "L'accesso alla struttura non sarà possibile dalle 22:00 alle 06:00."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 5 anni Letto supplementare su richiesta € 50 per bambino, a notte Culla su richiesta Gratis 6 - 15 anni Letto supplementare su richiesta € 50 per bambino, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 5 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 14:00 à 22:00 Vous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 06:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Couvre-feu",
+          "detail": "Il ne sera pas possible d'accéder à l'établissement entre 22:00 et 06:00."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 5 ans Lit d'appoint sur demande € 50 par enfant et par nuit Lit bébé sur demande Gratuit 6 - 15 ans Lit d'appoint sur demande € 50 par enfant et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 5 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 14:00 às 22:00 No momento do check-in, os hóspedes têm de apresentar um documento de identificação com fotografia e um cartão de crédito"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 06:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Recolher obrigatório",
+          "detail": "A entrada para o alojamento estará encerrada entre a(s) 22:00 e a(s) 06:00."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 5 anos Cama extra mediante pedido € 50 por criança, por noite Berço mediante pedido Gratuito 6 - 15 anos Cama extra mediante pedido € 50 por criança, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 5 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "100 yd",
+          "category": 6
+        },
+        {
+          "name": "Mariahilfkirche",
+          "distance": "100 yd",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "150 yd",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "300 yd",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "350 yd",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "350 yd",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "400 yd",
+          "category": 6
+        },
+        {
+          "name": "Bürgerspitalskirche Zum Hl. Geist",
+          "distance": "400 yd",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Andrä",
+          "distance": "450 yd",
+          "category": 6
+        },
+        {
+          "name": "Graz Historical Centre",
+          "distance": "550 yd",
+          "category": 6
+        },
+        {
+          "name": "Centraal",
+          "distance": "0 yd",
+          "category": 2
+        },
+        {
+          "name": "Harrys ICE Cream Mariahilferstraße",
+          "distance": "50 yd",
+          "category": 2
+        },
+        {
+          "name": "Hummel",
+          "distance": "50 yd",
+          "category": 2
+        },
+        {
+          "name": "Graz Clock Tower",
+          "distance": "600 yd",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "600 yd",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "700 yd",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "750 yd",
+          "category": 6
+        },
+        {
+          "name": "Eggenberg Palace",
+          "distance": "1.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "4.3 mi",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "10 mi",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "3.5 mi",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "500 yd",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "550 yd",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "5 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Casa del Arte Graz",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Mariahilfkirche",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Bürgerspitalskirche Zum Hl. Geist",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Andrä",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Historical Centre",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Centraal",
+          "distance": "0 m",
+          "category": 2
+        },
+        {
+          "name": "Harrys ICE Cream Mariahilferstraße",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Hummel",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Torre del reloj de Graz",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Landeszeughaus",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "700 m",
+          "category": 6
+        },
+        {
+          "name": "Palacio Eggenberg",
+          "distance": "3 km",
+          "category": 6
+        },
+        {
+          "name": "Museo Arnold Schwarzenegger",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "450 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "500 m",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "8 km",
+          "category": 1
+        },
+        {
+          "name": "Aeropuerto de Maribor Edvard Rusjan",
+          "distance": "75 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Mariahilfkirche",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Bürgerspitalskirche Zum Hl. Geist",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Andrä",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Historical Centre",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Centraal",
+          "distance": "0 m",
+          "category": 2
+        },
+        {
+          "name": "Harrys ICE Cream Mariahilferstraße",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Hummel",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Grazer Uhrturm",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "700 m",
+          "category": 6
+        },
+        {
+          "name": "Schloss Eggenberg",
+          "distance": "3 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold-Schwarzenegger-Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Österreichisches Freilichtmuseum",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "8 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Maribor Edvard Rusjan",
+          "distance": "75 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Mariahilfkirche",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Bürgerspitalskirche Zum Hl. Geist",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Andrä",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Historical Centre",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Centraal",
+          "distance": "0 m",
+          "category": 6
+        },
+        {
+          "name": "Harrys ICE Cream Mariahilferstraße",
+          "distance": "50 m",
+          "category": 6
+        },
+        {
+          "name": "Hummel",
+          "distance": "50 m",
+          "category": 6
+        },
+        {
+          "name": "Torre dell’Orologio di Graz",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Landhaus di Graz",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Carillon",
+          "distance": "700 m",
+          "category": 6
+        },
+        {
+          "name": "Castello Eggenberg",
+          "distance": "3 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Kunsthaus Graz",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Mariahilfkirche",
+          "distance": "100 m",
+          "category": 6
+        },
+        {
+          "name": "Barmherzigenkirche",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Murinsel",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Attems",
+          "distance": "300 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Schrattenbach-Khuenburg",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstein",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Bürgerspitalskirche Zum Hl. Geist",
+          "distance": "350 m",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Andrä",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Graz Historical Centre",
+          "distance": "500 m",
+          "category": 6
+        },
+        {
+          "name": "Centraal",
+          "distance": "0 m",
+          "category": 2
+        },
+        {
+          "name": "Harrys ICE Cream Mariahilferstraße",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Hummel",
+          "distance": "50 m",
+          "category": 2
+        },
+        {
+          "name": "Tour de l'Horloge de Graz",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Zeughaus",
+          "distance": "550 m",
+          "category": 6
+        },
+        {
+          "name": "Grazer Landhaus",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Glockenspiel",
+          "distance": "700 m",
+          "category": 6
+        },
+        {
+          "name": "Château Eggenberg",
+          "distance": "3 km",
+          "category": 6
+        },
+        {
+          "name": "Arnold Schwarzenegger Museum",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Austrian Open-Air Museum",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Plabutsch",
+          "distance": "5 km",
+          "category": 5
+        },
+        {
+          "name": "Märchengrottenbahn",
+          "distance": "450 m",
+          "category": 4
+        },
+        {
+          "name": "Schloßbergbahn",
+          "distance": "500 m",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "8 km",
+          "category": 1
+        },
+        {
+          "name": "Aéroport de Maribor/Edvard Rusjan",
+          "distance": "75 km",
+          "category": 1
+        }
+      ],
+      "pt": []
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Hotel Mariahilf?",
+          "topicComments": "Guests staying at Hotel Mariahilf can enjoy a highly-rated breakfast during their stay (guest review score: 8.8). Breakfast option(s) include: Continental Vegetarian Vegan Gluten-free Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Hotel Mariahilf?",
+          "topicComments": "Room options at Hotel Mariahilf include: Single Double Triple Suite"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel Mariahilf?",
+          "topicComments": "Check-in at Hotel Mariahilf is from 14:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel Mariahilf?",
+          "topicComments": "The prices at Hotel Mariahilf may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Hotel Mariahilf?",
+          "topicComments": "Hotel Mariahilf offers the following activities / services (charges may apply): Cycling Hiking Evening entertainment"
+        },
+        {
+          "topic": "How far is Hotel Mariahilf from the centre of Graz?",
+          "topicComments": "Hotel Mariahilf is 550 yd from the centre of Graz."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Hotel Mariahilf?",
+          "topicComments": "Los clientes de Hotel Mariahilf podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (8,8) Las opciones del desayuno son: Continental Vegetariano Vegano Sin gluten Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel Mariahilf?",
+          "topicComments": "Las opciones de habitación en Hotel Mariahilf son: Individual Doble Triple Suite"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel Mariahilf?",
+          "topicComments": "Podrás hacer el check-in en Hotel Mariahilf a partir de las 14:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel Mariahilf?",
+          "topicComments": "Los precios en Hotel Mariahilf pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel Mariahilf?",
+          "topicComments": "Hotel Mariahilf ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Ciclismo Senderismo Entretenimiento nocturno"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel Mariahilf del centro de Graz?",
+          "topicComments": "Hotel Mariahilf está a 500 m del centro de Graz."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Hotel Mariahilf serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Hotel Mariahilf übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 8,8). Verfügbare Frühstücksoption(en): Kontinental Vegetarisch Vegan Glutenfrei Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Hotel Mariahilf buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Hotel Mariahilf zählen: Einzelzimmer Doppelzimmer Dreibettzimmer Suite"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Hotel Mariahilf?",
+          "topicComments": "Der Check-in in der Unterkunft Hotel Mariahilf ist ab 14:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Hotel Mariahilf?",
+          "topicComments": "Die Preise an der Unterkunft Hotel Mariahilf könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Hotel Mariahilf?",
+          "topicComments": "Die Unterkunft Hotel Mariahilf bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Radfahren Wandern Abendunterhaltung"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Hotel Mariahilf vom Zentrum von Graz entfernt?",
+          "topicComments": "Die Unterkunft Hotel Mariahilf ist 500 m vom Zentrum von Graz entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Hotel Mariahilf?",
+          "topicComments": "Durante il soggiorno, Hotel Mariahilf propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 8,8). Colazione disponibile: continentale vegetariana vegana senza glutine a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel Mariahilf?",
+          "topicComments": "Hotel Mariahilf offre: Singola Matrimoniale Tripla Suite"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel Mariahilf?",
+          "topicComments": "Presso Hotel Mariahilf, il check-in può essere effettuato dalle 14:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel Mariahilf?",
+          "topicComments": "I prezzi di Hotel Mariahilf possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel Mariahilf?",
+          "topicComments": "Hotel Mariahilf offre i seguenti servizi/attività (alcuni a pagamento): Escursioni in bicicletta Escursionismo Intrattenimento serale"
+        },
+        {
+          "topic": "Quanto dista Hotel Mariahilf dal centro di Graz?",
+          "topicComments": "Hotel Mariahilf si trova a 500 m dal centro di Graz."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Hotel Mariahilf sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Hotel Mariahilf ont attribué une très bonne note à son petit-déjeuner : 8,8. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Sans gluten Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel Mariahilf ?",
+          "topicComments": "L'établissement Hotel Mariahilf propose les options d'hébergement suivantes : Simple Double Triple Suite"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel Mariahilf ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel Mariahilf se fait à partir de 14:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel Mariahilf ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel Mariahilf peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel Mariahilf propose-t-il ?",
+          "topicComments": "L'établissement Hotel Mariahilf propose les activités et les services suivants (des frais peuvent s'appliquer) : Cyclisme Randonnée Animations en soirée"
+        },
+        {
+          "topic": "L'établissement Hotel Mariahilf est-il proche du centre (Graz) ?",
+          "topicComments": "L'établissement Hotel Mariahilf se trouve à 500 m du centre (Graz)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Hotel Mariahilf?",
+          "topicComments": "Os hóspedes em Hotel Mariahilf podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 8,8). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Sem glúten Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel Mariahilf?",
+          "topicComments": "As opções de quarto em Hotel Mariahilf incluem: Individual Duplo Triplo Suite"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel Mariahilf?",
+          "topicComments": "Em Hotel Mariahilf, o check-in é a partir das 14:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel Mariahilf?",
+          "topicComments": "Os preços em Hotel Mariahilf podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Hotel Mariahilf?",
+          "topicComments": "Hotel Mariahilf disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Ciclismo Caminhadas Entretenimento noturno"
+        },
+        {
+          "topic": "A que distância fica Hotel Mariahilf do centro de Graz?",
+          "topicComments": "Hotel Mariahilf fica a 500 m do centro de Graz."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Hotel Mariahilf is located in a pedestrian street in the heart of Graz, facing the Schlossberg Mountain.",
+      "es": "El Hotel Mariahilf se encuentra en una calle peatonal del centro de Graz y ofrece vistas al monte Schlossberg.",
+      "de": "Das Hotel Mariahilf erwartet Sie in einer Fußgängerzone im Herzen von Graz und bietet Aussicht auf den Schlossberg.",
+      "it": "Situato in una strada pedonale nel cuore di Graz, di fronte al monte Schlossberg e a pochi passi dal fiume Mura, dal Museo d'Arte di Graz e dal Centro Congressi, l'Hotel Mariahilf offre un abbondante colazione a buffet e il WiFi gratuito nell'intera struttura.\nProvviste di bagno e TV, tutte le camere dell'hotel sono per non fumatori.\nDurante il soggiorno all’Hotel Mariahilf godrete di tariffe scontate presso un parcheggio in garage situato nelle vicinanze, e potrete visitare la piazza principale di Graz, raggiungibile con una breve passeggiata che attraversa il fiume, oppure i numerosi negozi, ristoranti e bar del quartiere alla moda di Lend.",
+      "fr": "L'Hotel Mariahilf est situé le long d'une rue piétonne, en plein cœur de Graz, en face de la colline du Schloßberg.",
+      "pt": "O Hotel Mariahilf está situado numa rua pedonal no coração de Graz, de frente para a Montanha Schlossberg e a uma curta distância a pé do Rio Mur, do Museu de Arte de Graz e do Centro de Congressos."
+    },
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "address": {
+      "en": "Mariahilferstraße 9, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "es": "Mariahilferstraße 9, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "de": "Mariahilferstraße 9, Lend, 8020 Graz, Österreich, 8020 Graz, Österreich",
+      "it": "Mariahilferstraße 9, Lend, 8020 Graz, Austria, 8020 Graz, Austria",
+      "fr": "Mariahilferstraße 9, Lend, 8020 Graz, Autriche, 8020 Graz, Autriche",
+      "pt": "Mariahilferstraße 9, Lend, 8020 Graz, Áustria, 8020 Graz, Áustria"
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Bar",
+            "Coffee house on site",
+            "Fruits",
+            "Wine/champagne",
+            "Kids' meals",
+            "Special diet menus (on request)",
+            "Snack bar",
+            "Breakfast in the room"
+          ],
+          "General": [
+            "Family rooms",
+            "Non-smoking rooms",
+            "Room service",
+            "Lift",
+            "Packed lunches"
+          ],
+          "Internet": [
+            "Internet services"
+          ],
+          "Parking": [
+            "1. Off-site parking"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Bar",
+            "Cafetería en el alojamiento",
+            "Fruta",
+            "Vino / champán",
+            "Menú para niños",
+            "Menús para dietas especiales (bajo petición)",
+            "Snack-bar",
+            "Desayuno en la habitación"
+          ],
+          "Aparcamiento": [
+            "1. Parking fuera del alojamiento"
+          ],
+          "General": [
+            "Habitaciones familiares",
+            "Habitaciones sin humo",
+            "Servicio de habitaciones",
+            "Ascensor",
+            "Almuerzos para llevar"
+          ],
+          "Internet": [
+            "Internet"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Familienzimmer",
+            "Nichtraucherzimmer",
+            "Zimmerservice",
+            "Aufzug",
+            "Lunchpakete"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parken": [
+            "1. Parkplätze außerhalb des Geländes"
+          ],
+          "Speisen & Getränke": [
+            "Bar",
+            "Café vor Ort",
+            "Obst",
+            "Wein/Sekt",
+            "Kindermahlzeiten",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Snackbar",
+            "Frühstück im Zimmer"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Bar",
+            "Caffetteria sul posto",
+            "Frutta",
+            "Vino/champagne",
+            "Pasti per bambini",
+            "Menù per diete particolari (su richiesta)",
+            "Snack bar",
+            "Possibilità di colazione in camera"
+          ],
+          "Generale": [
+            "Disponibilità di camere familiari",
+            "Camere non fumatori",
+            "Servizio in camera",
+            "Ascensore",
+            "Possibilità di pranzo al sacco"
+          ],
+          "Internet": [
+            "Connessione internet"
+          ],
+          "Parcheggio": [
+            "1. Parcheggio (non sul posto)"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Bar",
+            "Café sur place",
+            "Fruits",
+            "Vin/champagne",
+            "Menus enfants",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Snack-bar",
+            "Petit-déjeuner en chambre"
+          ],
+          "Équipements": [
+            "Coin repas"
+          ],
+          "Général": [
+            "Chambres familiales",
+            "Chambres non-fumeurs",
+            "Service d'étage",
+            "Ascenseur",
+            "Paniers-repas"
+          ],
+          "Internet": [
+            "Internet"
+          ],
+          "Parking": [
+            "1. Parking en dehors de l'établissement"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Bar",
+            "Café/cafetaria no local",
+            "Fruta",
+            "Vinho/champanhe",
+            "Refeições para crianças",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Snack-bar",
+            "Pequeno-almoço no quarto"
+          ],
+          "Estacionamento": [
+            "1. Estacionamento fora do local"
+          ],
+          "Geral": [
+            "Quartos familiares",
+            "Quartos para não fumadores",
+            "Serviço de quartos",
+            "Elevador",
+            "Refeições pré-embaladas"
+          ],
+          "Internet": [
+            "Serviços de Internet"
+          ]
+        }
+      ]
+    },
+    "rating": 3,
+    "toConsider": {
+      "en": "Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Los huéspedes deberán mostrar un documento de identidad válido y una tarjeta de crédito al realizar el registro de entrada. Ten en cuenta que todas las peticiones especiales están sujetas a disponibilidad y pueden comportar suplementos.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Beim Check-in müssen Sie einen Lichtbildausweis sowie eine Kreditkarte vorlegen. Sonderwünsche unterliegen der Verfügbarkeit und sind gegebenenfalls mit einem Aufpreis verbunden.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Al check-in gli ospiti devono esibire un documento d'identità con foto e una carta di credito. Siete pregati di notare che le Richieste Speciali sono soggette a disponibilità, e potrebbero comportare l'addebito di un supplemento.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Vous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement. Veuillez noter que toutes les demandes spéciales seront satisfaites sous réserve de disponibilité et pourront entraîner des frais supplémentaires.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "No momento do check-in, os hóspedes deverão apresentar um documento de identificação com fotografia e um cartão de crédito.  Por favor, observe que todos os Pedidos Especiais estão sujeitos à disponibilidade e que poderão acarretar custos adicionais.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}
