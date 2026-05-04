@@ -1,0 +1,397 @@
+id,hotel_id,url_id,language,room_name,description,facilities,adults,children,images,info,created_at
+1,021d6ab0-2009-4392-a8f9-8b7a7e6ca784,81c6dfb4-6b44-4d67-b6fa-80e0049342da,en,Single Room,1 single bed,[],,,[],,2026-05-04 15:18:20.234429+01
+2,021d6ab0-2009-4392-a8f9-8b7a7e6ca784,81c6dfb4-6b44-4d67-b6fa-80e0049342da,en,Double Room,1 large double bed,[],,,[],,2026-05-04 15:18:20.234429+01
+3,021d6ab0-2009-4392-a8f9-8b7a7e6ca784,81c6dfb4-6b44-4d67-b6fa-80e0049342da,en,Double Room with Extra Bed,1 sofa bed and 1 large double bed,[],,,[],,2026-05-04 15:18:20.234429+01
+4,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Double Room,1 large double bed,[],,,[],,2026-05-04 15:18:36.702143+01
+5,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Family Room,1 sofa bed and 1 large double bed,[],,,[],,2026-05-04 15:18:36.702143+01
+6,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Apartment (3 Adults),"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:18:36.702143+01
+7,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Apartment (4 Adults),"1 large double bed, 1 large double bed",[],,,[],,2026-05-04 15:18:36.702143+01
+8,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Deluxe Apartment,"1 large double bed, 1 large double bed",[],,,[],,2026-05-04 15:18:36.702143+01
+9,951455e3-0b01-4266-b992-fa6f4c4db7a9,81c6dfb4-6b44-4d67-b6fa-80e0049342da,es,Habitación Individual,1 cama individual,[],,,[],,2026-05-04 15:19:33.505118+01
+10,951455e3-0b01-4266-b992-fa6f4c4db7a9,81c6dfb4-6b44-4d67-b6fa-80e0049342da,es,Habitación Doble,1 cama doble grande,[],,,[],,2026-05-04 15:19:33.505118+01
+11,951455e3-0b01-4266-b992-fa6f4c4db7a9,81c6dfb4-6b44-4d67-b6fa-80e0049342da,es,Habitación Doble con cama supletoria,1 sofá cama y 1 cama doble grande,[],,,[],,2026-05-04 15:19:33.505118+01
+12,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Habitación Doble,1 cama doble grande,[],,,[],,2026-05-04 15:19:47.177276+01
+13,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Habitación Familiar,1 sofá cama y 1 cama doble grande,[],,,[],,2026-05-04 15:19:47.177276+01
+14,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Apartamento (3 adultos),"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:19:47.177276+01
+15,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Apartamento (4 adultos),"1 cama doble grande, 1 cama doble grande",[],,,[],,2026-05-04 15:19:47.177276+01
+16,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Apartamento Deluxe,"1 cama doble grande, 1 cama doble grande",[],,,[],,2026-05-04 15:19:47.177276+01
+17,54b99542-7841-4dec-941f-98a9c317eb48,81c6dfb4-6b44-4d67-b6fa-80e0049342da,de,Einzelzimmer,1 Einzelbett,[],,,[],,2026-05-04 15:20:02.993194+01
+18,54b99542-7841-4dec-941f-98a9c317eb48,81c6dfb4-6b44-4d67-b6fa-80e0049342da,de,Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:20:02.993194+01
+19,54b99542-7841-4dec-941f-98a9c317eb48,81c6dfb4-6b44-4d67-b6fa-80e0049342da,de,Doppelzimmer mit Zustellbett,1 Schlafsofa und 1 Doppelbett,[],,,[],,2026-05-04 15:20:02.993194+01
+20,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:20:55.816503+01
+21,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Familienzimmer,1 Schlafsofa und 1 Doppelbett,[],,,[],,2026-05-04 15:20:55.816503+01
+22,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Apartment (3 Erwachsene),"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:20:55.816503+01
+23,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Apartment (4 Erwachsene),"1 Doppelbett, 1 Doppelbett",[],,,[],,2026-05-04 15:20:55.816503+01
+24,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Deluxe Apartment,"1 Doppelbett, 1 Doppelbett",[],,,[],,2026-05-04 15:20:55.816503+01
+25,adcbdc4e-082e-4315-920a-f5825e4d6927,81c6dfb4-6b44-4d67-b6fa-80e0049342da,it,Camera Singola,1 letto singolo,[],,,[],,2026-05-04 15:21:24.072508+01
+26,adcbdc4e-082e-4315-920a-f5825e4d6927,81c6dfb4-6b44-4d67-b6fa-80e0049342da,it,Camera Matrimoniale,1 letto matrimoniale,[],,,[],,2026-05-04 15:21:24.072508+01
+27,adcbdc4e-082e-4315-920a-f5825e4d6927,81c6dfb4-6b44-4d67-b6fa-80e0049342da,it,Camera Matrimoniale con Letto Supplementare,1 divano letto e 1 letto matrimoniale,[],,,[],,2026-05-04 15:21:24.072508+01
+28,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Camera Matrimoniale,1 letto matrimoniale,[],,,[],,2026-05-04 15:21:30.201137+01
+29,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Camera Familiare,1 divano letto e 1 letto matrimoniale,[],,,[],,2026-05-04 15:21:30.201137+01
+30,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Appartamento (3 Adulti),"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:21:30.201137+01
+31,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Appartamento (4 Adulti),"1 letto matrimoniale, 1 letto matrimoniale",[],,,[],,2026-05-04 15:21:30.201137+01
+32,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Appartamento Deluxe,"1 letto matrimoniale, 1 letto matrimoniale",[],,,[],,2026-05-04 15:21:30.201137+01
+33,6ecab6fa-574c-4dd0-9f3e-bad343692761,81c6dfb4-6b44-4d67-b6fa-80e0049342da,fr,Chambre Simple,1 lit simple,[],,,[],,2026-05-04 15:22:45.939251+01
+34,6ecab6fa-574c-4dd0-9f3e-bad343692761,81c6dfb4-6b44-4d67-b6fa-80e0049342da,fr,Chambre Double,1 grand lit double,[],,,[],,2026-05-04 15:22:45.939251+01
+35,6ecab6fa-574c-4dd0-9f3e-bad343692761,81c6dfb4-6b44-4d67-b6fa-80e0049342da,fr,Chambre Double avec Lit d'Appoint,1 canapé-lit et 1 grand lit double,[],,,[],,2026-05-04 15:22:45.939251+01
+36,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Chambre Double,1 grand lit double,[],,,[],,2026-05-04 15:22:58.712387+01
+37,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Chambre Familiale,1 canapé-lit et 1 grand lit double,[],,,[],,2026-05-04 15:22:58.712387+01
+38,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Appartement (3 Adultes),"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:22:58.712387+01
+39,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Appartement (4 Adultes),"1 grand lit double, 1 grand lit double",[],,,[],,2026-05-04 15:22:58.712387+01
+40,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Appartement Deluxe,"1 grand lit double, 1 grand lit double",[],,,[],,2026-05-04 15:22:58.712387+01
+41,a5b8fe77-0a3e-4ebe-a7c0-a2da73670680,81c6dfb4-6b44-4d67-b6fa-80e0049342da,pt,Quarto Individual,1 cama individual,[],,,[],,2026-05-04 15:23:17.482886+01
+42,a5b8fe77-0a3e-4ebe-a7c0-a2da73670680,81c6dfb4-6b44-4d67-b6fa-80e0049342da,pt,Quarto Duplo,1 cama de casal grande,[],,,[],,2026-05-04 15:23:17.482886+01
+43,a5b8fe77-0a3e-4ebe-a7c0-a2da73670680,81c6dfb4-6b44-4d67-b6fa-80e0049342da,pt,Quarto Duplo com Cama Extra,1 sofá-cama e 1 cama de casal grande,[],,,[],,2026-05-04 15:23:17.482886+01
+44,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Quarto Duplo,1 cama de casal grande,[],,,[],,2026-05-04 15:24:13.356117+01
+45,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Quarto Familiar,1 sofá-cama e 1 cama de casal grande,[],,,[],,2026-05-04 15:24:13.356117+01
+46,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Apartamento (3 Adultos),"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:24:13.356117+01
+47,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Apartamento (4 Adultos),"1 cama de casal grande, 1 cama de casal grande",[],,,[],,2026-05-04 15:24:13.356117+01
+48,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Apartamento Deluxe,"1 cama de casal grande, 1 cama de casal grande",[],,,[],,2026-05-04 15:24:13.356117+01
+49,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Single Room,1 single bed,[],,,[],,2026-05-04 15:25:16.427096+01
+50,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Superior Double Room,1 large double bed,[],,,[],,2026-05-04 15:25:16.427096+01
+51,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Standard Family Room,2 large double beds,[],,,[],,2026-05-04 15:25:16.427096+01
+52,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Standard Double Room,1 large double bed,[],,,[],,2026-05-04 15:25:16.427096+01
+53,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Triple Room,1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:25:16.427096+01
+54,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Deluxe Family Room,1 sofa bed and 1 large double bed,[],,,[],,2026-05-04 15:25:16.427096+01
+55,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 1A+1B - Studio,1 extra-large double bed,[],,,[],,2026-05-04 15:25:32.203528+01
+56,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 1E - Standard Apartment with Garden,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+57,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2A West - Apartment with Mountain View,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+58,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2B East - Two-Bedroom Apartment,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+59,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 4F/4E,"1 large double bed, 1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+60,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 3B Garden Apartment - Superior Apartment,"1 extra-large double bed, 1 extra-large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+61,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 1C + D - One-Bedroom Apartment,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+62,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Apartment with Balcony and Fireplace,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+63,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ1i - Apartment with Garden,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+64,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Penthouse Hochwurzen Apartment,"1 extra-large double bed, 1 extra-large double bed, 1 extra-large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+65,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2E - Apartment - Ground Floor,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+66,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 3A - Apartment with Terrace,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+67,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 3A Weitblick - Apartment with Telescope,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+68,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 1 C Premium - Comfort One-Bedroom Apartment,1 large double bed,[],,,[],,2026-05-04 15:25:32.203528+01
+69,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2 A West Hochwurzem - Superior Two-Bedroom Apartment,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+70,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2 B East Hochwurzen - Large Two-Bedroom Apartment,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+71,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 4E Deluxe - Deluxe Three-Bedroom Apartment,1 single bed and 1 large double bed and 1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:25:32.203528+01
+72,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2B Quattro - Two-Bedroom Apartment,"1 large double bed, 1 large double bed",[],,,[],,2026-05-04 15:25:32.203528+01
+73,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Typ 2B East - Two-Bedroom Apartment 7 Person,1 large double bed and 1 sofa bed,[],,,[],,2026-05-04 15:25:32.203528+01
+74,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Apartment with Mountain View,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+75,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Standard Apartment,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+76,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Apartment - Ground Floor,"1 large double bed, 1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+77,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,One-Bedroom Premium Apartment,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 15:25:32.203528+01
+78,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Individual,1 cama individual,[],,,[],,2026-05-04 15:26:57.070231+01
+79,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Doble Superior,1 cama doble grande,[],,,[],,2026-05-04 15:26:57.070231+01
+80,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Familiar Estándar,2 camas dobles grandes,[],,,[],,2026-05-04 15:26:57.070231+01
+81,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Doble Estándar,1 cama doble grande,[],,,[],,2026-05-04 15:26:57.070231+01
+82,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Triple,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:26:57.070231+01
+83,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Habitación Familiar Deluxe,1 sofá cama y 1 cama doble grande,[],,,[],,2026-05-04 15:26:57.070231+01
+84,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 1A+1B - Studio,1 cama doble extragrande,[],,,[],,2026-05-04 15:27:08.670601+01
+85,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 1E - Standard Apartment with Garden,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+86,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2A West - Apartment with Mountain View,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+87,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2B East - Two-Bedroom Apartment,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+88,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 4F/4E,"1 cama doble grande, 1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+89,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 3B Garden Apartment - Superior Apartment,"1 cama doble extragrande, 1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+90,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 1C + D - One-Bedroom Apartment,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+91,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Apartamento con balcón y chimenea,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+92,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ1i - Apartment with Garden,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+93,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Penthouse Hochwurzen Apartment,"1 cama doble extragrande, 1 cama doble extragrande, 1 cama doble extragrande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+94,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2E - Apartment - Ground Floor,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+95,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 3A - Apartment with Terrace,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+96,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 3A Weitblick - Apartment with Telescope,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+97,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 1 C Premium - Comfort One-Bedroom Apartment,1 cama doble grande,[],,,[],,2026-05-04 15:27:08.670601+01
+98,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2 A West Hochwurzem - Superior Two-Bedroom Apartment,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+99,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2 B East Hochwurzen - Large Two-Bedroom Apartment,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+100,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 4E Deluxe - Deluxe Three-Bedroom Apartment,1 cama individual y 1 cama doble grande y 1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:27:08.670601+01
+101,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2B Quattro - Two-Bedroom Apartment,"1 cama doble grande, 1 cama doble grande",[],,,[],,2026-05-04 15:27:08.670601+01
+102,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Typ 2B East - Two-Bedroom Apartment 7 Person,1 cama doble grande y 1 sofá cama,[],,,[],,2026-05-04 15:27:08.670601+01
+103,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Apartamento con vistas a las montañas,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+104,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Apartamento Estándar,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+105,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Apartamento - Planta baja,"1 cama doble grande, 1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+106,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Apartamento Premium de 1 dormitorio,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 15:27:08.670601+01
+107,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Einzelzimmer,1 Einzelbett,[],,,[],,2026-05-04 15:28:05.401078+01
+108,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Superior Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:28:05.401078+01
+109,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Standard Familienzimmer,2 Doppelbetten,[],,,[],,2026-05-04 15:28:05.401078+01
+110,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Standard Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:28:05.401078+01
+111,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Dreibettzimmer,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:28:05.401078+01
+112,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Deluxe Familienzimmer,1 Schlafsofa und 1 Doppelbett,[],,,[],,2026-05-04 15:28:05.401078+01
+113,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 1A + 1B - Studio,1 großes Doppelbett,[],,,[],,2026-05-04 15:28:27.183086+01
+114,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 1E - Standard Apartment mit Garten,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+115,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 2A West - Apartment mit Bergblick,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+116,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 2B Ost - Apartment mit 2 Schlafzimmern,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+117,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 4F/4E,"1 Doppelbett, 1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+118,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 3B Apartment mit Garten - Superior Apartment,"1 großes Doppelbett, 1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+119,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 1C + D - Apartment mit 1 Schlafzimmer,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+120,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Apartment mit Balkon und Kamin,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+121,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 1i - Apartment mit Garten,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+122,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Penthouse-Apartment Hochwurzen,"1 großes Doppelbett, 1 großes Doppelbett, 1 großes Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+123,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 2E - Apartment - Erdgeschoss,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+124,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 3A - Apartment mit Terrasse,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+125,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Apartment Typ 3A Weitblick - mit Teleskop,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+126,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Comfort Apartment mit 1 Schlafzimmer - Typ 1 C Premium,1 Doppelbett,[],,,[],,2026-05-04 15:28:27.183086+01
+127,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 2A West Hochwurzem - Superior Apartment mit 2 Schlafzimmern,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+128,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Großes Apartment mit 2 Schlafzimmern - Typ 2 B East Hochwurzen,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+129,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Deluxe Apartment mit 3 Schlafzimmern - Typ 4E Deluxe,1 Einzelbett und 1 Doppelbett und 1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:28:27.183086+01
+130,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Apartment mit 2 Schlafzimmern - Typ 2B Quattro,"1 Doppelbett, 1 Doppelbett",[],,,[],,2026-05-04 15:28:27.183086+01
+131,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Typ 2B Ost - Apartment mit 2 Schlafzimmern 7 Personen,1 Doppelbett und 1 Schlafsofa,[],,,[],,2026-05-04 15:28:27.183086+01
+132,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Apartment mit Blick auf die Berge,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+133,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Standard Apartment,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+134,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Apartment - Erdgeschoss,"1 Doppelbett, 1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+135,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Premium Apartment mit 1 Schlafzimmer,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 15:28:27.183086+01
+136,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Singola,1 letto singolo,[],,,[],,2026-05-04 15:28:52.878681+01
+137,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Matrimoniale Superior,1 letto matrimoniale,[],,,[],,2026-05-04 15:28:52.878681+01
+138,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Familiare Standard,2 letti matrimoniali,[],,,[],,2026-05-04 15:28:52.878681+01
+139,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Matrimoniale Standard,1 letto matrimoniale,[],,,[],,2026-05-04 15:28:52.878681+01
+140,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Tripla,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:28:52.878681+01
+141,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Camera Familiare Deluxe,1 divano letto e 1 letto matrimoniale,[],,,[],,2026-05-04 15:28:52.878681+01
+142,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Simple,1 lit simple,[],,,[],,2026-05-04 15:29:37.194542+01
+143,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Double Supérieure,1 grand lit double,[],,,[],,2026-05-04 15:29:37.194542+01
+144,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Familiale Standard,2 grands lits doubles,[],,,[],,2026-05-04 15:29:37.194542+01
+145,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Double Standard,1 grand lit double,[],,,[],,2026-05-04 15:29:37.194542+01
+146,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Triple,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:29:37.194542+01
+147,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Chambre Familiale Deluxe,1 canapé-lit et 1 grand lit double,[],,,[],,2026-05-04 15:29:37.194542+01
+148,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Monolocale - Tipo 1A+1B,1 letto matrimoniale large,[],,,[],,2026-05-04 15:29:54.762483+01
+149,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Standard con Giardino - Tipo 1E,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+150,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento con Vista Montagna - Tipo 2A Ovest,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+151,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento con 2 Camere da Letto - Tipo 2B Est,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+152,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Typ 4F/4E,"1 letto matrimoniale, 1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+153,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Superior Typ 3B con Giardino,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+154,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Typ 1C + D con 1 Camera da Letto,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+155,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento con Balcone e Camino,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+156,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Typ1i con Giardino,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+157,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Attico Hochwurzen,"1 letto matrimoniale large, 1 letto matrimoniale large, 1 letto matrimoniale large, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+158,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Typ 2E al Piano Terra,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+159,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Typ 3A con Terrazza,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+160,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Typ 3A Weitblick con Telescopio,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+161,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Comfort Premium Typ 1C con 1 Camera da Letto,1 letto matrimoniale,[],,,[],,2026-05-04 15:29:54.762483+01
+162,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Superior con 2 Camere da Letto - Tipo 2A Ovest Hochwurzem,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+163,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Ampio con 2 Camere da Letto - Tipo 2B Est Hochwuezen,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+164,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Deluxe Typ 4E con 3 Camere da Letto,1 letto singolo e 1 letto matrimoniale e 1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:29:54.762483+01
+165,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Quattro Typ 2B con 3 Camere da Letto,"1 letto matrimoniale, 1 letto matrimoniale",[],,,[],,2026-05-04 15:29:54.762483+01
+166,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento con 2 Camere da Letto (7 Persone) - Typ 2B East,1 letto matrimoniale e 1 divano letto,[],,,[],,2026-05-04 15:29:54.762483+01
+167,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento con Vista Montagna,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+168,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Standard,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+169,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento - Piano Terra,"1 letto matrimoniale, 1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+170,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Appartamento Premium con 1 Camera da Letto,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 15:29:54.762483+01
+177,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 1A + 1B – Studio,1 très grand lit double,[],,,[],,2026-05-04 15:31:03.461979+01
+178,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 1E – Appartement Standard avec Jardin,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+179,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 2A Ouest – Appartement – Vue sur Montagne,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+180,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 2B Est – Appartement 2 Chambres,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+181,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Typ 4F/4E,"1 grand lit double, 1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+182,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement avec Jardin Typ 3B - Appartement Supérieur,"1 très grand lit double, 1 très grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+183,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ 1C + D - Appartement 1 Chambre,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+184,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement avec Balcon et Cheminée,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+185,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ1i - Appartement avec Jardin,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+186,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Penthouse Hochwurzen,"1 très grand lit double, 1 très grand lit double, 1 très grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+187,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ 2E - Appartement - Rez-de-Chaussée,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+188,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ 3A - Appartement avec Terrasse,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+189,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Weitblick Typ 3A - Appartement avec Télescope,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+190,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Premium Typ 1 C - Appartement 1 Chambre Confort,1 grand lit double,[],,,[],,2026-05-04 15:31:03.461979+01
+191,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 2A Hochwurzem Ouest – Appartement 2 Chambres Supérieur,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+192,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Type 2B Hochwurzen Est – Grand Appartement 2 Chambres,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+193,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Deluxe Typ 4E - Appartement 3 Chambres Deluxe,1 lit simple et 1 grand lit double et 1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:31:03.461979+01
+194,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ 2B Quattro - Appartement 2 Chambres,"1 grand lit double, 1 grand lit double",[],,,[],,2026-05-04 15:31:03.461979+01
+195,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Hébergement Typ 2B East - Appartement 2 Chambres 7 Personnes,1 grand lit double et 1 canapé-lit,[],,,[],,2026-05-04 15:31:03.461979+01
+196,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement avec Vue sur la Montagne,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+197,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement Standard,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+198,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement - Rez-de-Chaussée,"1 grand lit double, 1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+199,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Appartement Premium 1 Chambre,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 15:31:03.461979+01
+171,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Individual,1 cama individual,[],,,[],,2026-05-04 15:30:54.286141+01
+172,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Duplo Superior,1 cama de casal grande,[],,,[],,2026-05-04 15:30:54.286141+01
+173,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Familiar Standard,2 camas de casal grandes,[],,,[],,2026-05-04 15:30:54.286141+01
+174,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Duplo Standard,1 cama de casal grande,[],,,[],,2026-05-04 15:30:54.286141+01
+175,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Triplo,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:30:54.286141+01
+176,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Quarto Familiar Deluxe,1 sofá-cama e 1 cama de casal grande,[],,,[],,2026-05-04 15:30:54.286141+01
+200,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 1A+1B - Studio,1 cama de casal extragrande,[],,,[],,2026-05-04 15:31:57.170103+01
+201,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 1E - Standard Apartment with Garden,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+202,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2A West - Apartment with Mountain View,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+203,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2B East - Two-Bedroom Apartment,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+204,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 4F/4E,"1 cama de casal grande, 1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+205,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 3B Garden Apartment - Superior Apartment,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+206,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 1C + D - One-Bedroom Apartment,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+207,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Apartment with Balcony and Fireplace,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+208,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ1i - Apartment with Garden,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+209,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Penthouse Hochwurzen Apartment,"1 cama de casal extragrande, 1 cama de casal extragrande, 1 cama de casal extragrande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+210,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2E - Apartment - Ground Floor,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+211,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 3A - Apartment with Terrace,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+212,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 3A Weitblick - Apartment with Telescope,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+213,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 1 C Premium - Comfort One-Bedroom Apartment,1 cama de casal grande,[],,,[],,2026-05-04 15:31:57.170103+01
+214,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2 A West Hochwurzem - Superior Two-Bedroom Apartment,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+215,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2 B East Hochwurzen - Large Two-Bedroom Apartment,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+216,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 4E Deluxe - Deluxe Three-Bedroom Apartment,1 cama individual e 1 cama de casal grande e 1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:31:57.170103+01
+217,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2B Quattro - Two-Bedroom Apartment,"1 cama de casal grande, 1 cama de casal grande",[],,,[],,2026-05-04 15:31:57.170103+01
+218,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Typ 2B East - Two-Bedroom Apartment 7 Person,1 cama de casal grande e 1 sofá-cama,[],,,[],,2026-05-04 15:31:57.170103+01
+219,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Apartamento com Vista Montanha,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+220,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Apartamento Standard,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+221,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Apartamento - Piso Térreo,"1 cama de casal grande, 1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+222,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Apartamento Premium com 1 Quarto,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 15:31:57.170103+01
+223,a054b362-ad21-4da8-a91e-fb41a24d5f94,6092eab1-6017-473e-916f-46278fd28ddf,en,Double Room,1 large double bed,[],,,[],,2026-05-04 15:32:50.351432+01
+224,a054b362-ad21-4da8-a91e-fb41a24d5f94,6092eab1-6017-473e-916f-46278fd28ddf,en,Triple Room,1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:32:50.351432+01
+225,a054b362-ad21-4da8-a91e-fb41a24d5f94,6092eab1-6017-473e-916f-46278fd28ddf,en,Quadruple Room,2 large double beds,[],,,[],,2026-05-04 15:32:50.351432+01
+226,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Superior Single Room,1 single bed,[],,,[],,2026-05-04 15:33:14.516289+01
+227,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Superior Double Room,1 large double bed,[],,,[],,2026-05-04 15:33:14.516289+01
+228,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Economy Double Room - Attic,2 single beds,[],,,[],,2026-05-04 15:33:14.516289+01
+229,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Superior Twin Room,2 single beds,[],,,[],,2026-05-04 15:33:14.516289+01
+230,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Superior Triple Room,1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:33:14.516289+01
+231,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Family Suite,1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:33:14.516289+01
+232,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Superior Suite,1 sofa bed and 1 large double bed,[],,,[],,2026-05-04 15:33:14.516289+01
+233,3114e9cc-cb0b-4020-8025-c5ac62d035d7,6092eab1-6017-473e-916f-46278fd28ddf,es,Habitación Doble,1 cama doble grande,[],,,[],,2026-05-04 15:33:40.122277+01
+234,3114e9cc-cb0b-4020-8025-c5ac62d035d7,6092eab1-6017-473e-916f-46278fd28ddf,es,Habitación Triple,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:33:40.122277+01
+235,3114e9cc-cb0b-4020-8025-c5ac62d035d7,6092eab1-6017-473e-916f-46278fd28ddf,es,Habitación cuádruple,2 camas dobles grandes,[],,,[],,2026-05-04 15:33:40.122277+01
+236,085bb053-1547-46f5-aabe-a0a5f337256b,6092eab1-6017-473e-916f-46278fd28ddf,de,Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:34:44.388635+01
+237,085bb053-1547-46f5-aabe-a0a5f337256b,6092eab1-6017-473e-916f-46278fd28ddf,de,Dreibettzimmer,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:34:44.388635+01
+238,085bb053-1547-46f5-aabe-a0a5f337256b,6092eab1-6017-473e-916f-46278fd28ddf,de,Vierbettzimmer,2 Doppelbetten,[],,,[],,2026-05-04 15:34:44.388635+01
+239,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Habitación Individual Superior,1 cama individual,[],,,[],,2026-05-04 15:35:06.389394+01
+240,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Habitación Doble Superior,1 cama doble grande,[],,,[],,2026-05-04 15:35:06.389394+01
+241,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Habitación Doble Económica - Ático,2 camas individuales,[],,,[],,2026-05-04 15:35:06.389394+01
+249,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Superior Einzelzimmer,1 Einzelbett,[],,,[],,2026-05-04 15:36:18.103852+01
+242,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Habitación Doble Superior - 2 camas,2 camas individuales,[],,,[],,2026-05-04 15:35:06.389394+01
+243,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Habitación Triple Superior,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:35:06.389394+01
+244,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Suite Familiar,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:35:06.389394+01
+245,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Suite Superior,1 sofá cama y 1 cama doble grande,[],,,[],,2026-05-04 15:35:06.389394+01
+256,7da40948-0309-4b64-ae33-718634289469,6092eab1-6017-473e-916f-46278fd28ddf,fr,Chambre Double,1 grand lit double,[],,,[],,2026-05-04 15:36:44.233285+01
+257,7da40948-0309-4b64-ae33-718634289469,6092eab1-6017-473e-916f-46278fd28ddf,fr,Chambre Triple,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:36:44.233285+01
+258,7da40948-0309-4b64-ae33-718634289469,6092eab1-6017-473e-916f-46278fd28ddf,fr,Chambre Quadruple,2 grands lits doubles,[],,,[],,2026-05-04 15:36:44.233285+01
+246,c0de1b6d-b855-4ae5-86d6-567745c70032,6092eab1-6017-473e-916f-46278fd28ddf,it,Camera Matrimoniale,1 letto matrimoniale,[],,,[],,2026-05-04 15:35:17.261776+01
+247,c0de1b6d-b855-4ae5-86d6-567745c70032,6092eab1-6017-473e-916f-46278fd28ddf,it,Camera Tripla,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:35:17.261776+01
+248,c0de1b6d-b855-4ae5-86d6-567745c70032,6092eab1-6017-473e-916f-46278fd28ddf,it,Camera Quadrupla,2 letti matrimoniali,[],,,[],,2026-05-04 15:35:17.261776+01
+259,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Camera Singola Superior,1 letto singolo,[],,,[],,2026-05-04 15:37:02.930998+01
+260,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Camera Matrimoniale Superior,1 letto matrimoniale,[],,,[],,2026-05-04 15:37:02.930998+01
+261,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Camera Matrimoniale Economy in Mansarda,2 letti singoli,[],,,[],,2026-05-04 15:37:02.930998+01
+262,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Camera Superior Doppia con Letti Singoli,2 letti singoli,[],,,[],,2026-05-04 15:37:02.930998+01
+263,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Camera Tripla Superior,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:37:02.930998+01
+264,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Suite Familiare,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:37:02.930998+01
+265,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Suite Superior,1 divano letto e 1 letto matrimoniale,[],,,[],,2026-05-04 15:37:02.930998+01
+269,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Chambre Simple Supérieure,1 lit simple,[],,,[],,2026-05-04 15:38:16.330782+01
+270,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Chambre Double Supérieure,1 grand lit double,[],,,[],,2026-05-04 15:38:16.330782+01
+271,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Chambre Double Économique (Mansardée),2 lits simples,[],,,[],,2026-05-04 15:38:16.330782+01
+272,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Chambre Lits Jumeaux Supérieure,2 lits simples,[],,,[],,2026-05-04 15:38:16.330782+01
+273,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Chambre Triple Supérieure,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:38:16.330782+01
+274,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Suite Familiale,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:38:16.330782+01
+275,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Suite Supérieure,1 canapé-lit et 1 grand lit double,[],,,[],,2026-05-04 15:38:16.330782+01
+250,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Superior Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:36:18.103852+01
+251,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Economy Doppelzimmer - Dachgeschoss,2 Einzelbetten,[],,,[],,2026-05-04 15:36:18.103852+01
+252,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Superior Zweibettzimmer,2 Einzelbetten,[],,,[],,2026-05-04 15:36:18.103852+01
+253,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Superior Dreibettzimmer,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:36:18.103852+01
+254,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Familiensuite,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:36:18.103852+01
+255,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Superior Suite,1 Schlafsofa und 1 Doppelbett,[],,,[],,2026-05-04 15:36:18.103852+01
+266,f7aa8d20-4fa8-4c9f-a00f-1b510c761f66,6092eab1-6017-473e-916f-46278fd28ddf,pt,Quarto Duplo,1 cama de casal grande,[],,,[],,2026-05-04 15:37:54.705522+01
+267,f7aa8d20-4fa8-4c9f-a00f-1b510c761f66,6092eab1-6017-473e-916f-46278fd28ddf,pt,Quarto Triplo,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:37:54.705522+01
+268,f7aa8d20-4fa8-4c9f-a00f-1b510c761f66,6092eab1-6017-473e-916f-46278fd28ddf,pt,Quarto Quádruplo,2 camas de casal grandes,[],,,[],,2026-05-04 15:37:54.705522+01
+276,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Quarto Individual Superior,1 cama individual,[],,,[],,2026-05-04 15:39:26.988113+01
+277,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Quarto Duplo Superior,1 cama de casal grande,[],,,[],,2026-05-04 15:39:26.988113+01
+278,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Quarto Duplo Económico - Sótão,2 camas individuais,[],,,[],,2026-05-04 15:39:26.988113+01
+279,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Quarto Twin Superior,2 camas individuais,[],,,[],,2026-05-04 15:39:26.988113+01
+280,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Quarto Triplo Superior,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:39:26.988113+01
+281,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Suite Familiar,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:39:26.988113+01
+282,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Suite Superior,1 sofá-cama e 1 cama de casal grande,[],,,[],,2026-05-04 15:39:26.988113+01
+283,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Double Room with Garden View,1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+284,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Economy Double Room,1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+285,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Double Room with Patio,1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+286,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Triple Room with Garden View,1 single bed and 1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+287,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,King Room with Lake View,1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+288,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Double Room with Lake View,1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+289,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Twin Room with Private External Bathroom,2 single beds,[],,,[],,2026-05-04 15:40:38.26443+01
+290,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Family Room with Garden View,2 single beds and 1 large double bed,[],,,[],,2026-05-04 15:40:38.26443+01
+291,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Doble con vistas al jardín,1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+292,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Doble Económica,1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+293,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Doble con patio,1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+294,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Triple con vistas al jardín,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+295,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación con cama extragrande y vistas al lago,1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+296,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Doble con vistas al lago,1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+297,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Doble con baño privado externo - 2 camas,2 camas individuales,[],,,[],,2026-05-04 15:42:02.498792+01
+298,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Habitación Familiar con vistas al jardín,2 camas individuales y 1 cama doble grande,[],,,[],,2026-05-04 15:42:02.498792+01
+299,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Doppelzimmer mit Gartenblick,1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+300,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Economy Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+301,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Doppelzimmer mit Patio,1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+302,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Dreibettzimmer mit Gartenblick,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+303,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Zimmer mit Kingsize-Bett und Seeblick,1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+304,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Doppelzimmer mit Seeblick,1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+305,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Zweibettzimmer mit eigenem Bad außerhalb des Zimmers,2 Einzelbetten,[],,,[],,2026-05-04 15:42:56.403413+01
+306,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Familienzimmer mit Gartenblick,2 Einzelbetten und 1 Doppelbett,[],,,[],,2026-05-04 15:42:56.403413+01
+307,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Matrimoniale con Vista Giardino,1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+308,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Matrimoniale Economy,1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+309,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Matrimoniale con Patio,1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+310,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Tripla con Vista Giardino,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+311,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera King con Vista Lago,1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+312,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Matrimoniale con Vista Lago,1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+313,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Doppia con Letti Singoli con Bagno Privato Esterno,2 letti singoli,[],,,[],,2026-05-04 15:44:40.63887+01
+314,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Camera Familiare con Vista Giardino,2 letti singoli e 1 letto matrimoniale,[],,,[],,2026-05-04 15:44:40.63887+01
+315,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Double - Vue sur Jardin,1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+316,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Double Économique,1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+317,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Double avec Patio,1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+318,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Triple - Vue sur Jardin,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+319,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Lit King-Size - Vue sur Lac,1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+320,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Double – Vue sur Lac,1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+321,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Lits Jumeaux avec Salle de Bains Privative Séparée,2 lits simples,[],,,[],,2026-05-04 15:45:36.813812+01
+322,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Chambre Familiale - Vue sur Jardin,2 lits simples et 1 grand lit double,[],,,[],,2026-05-04 15:45:36.813812+01
+323,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Duplo com Vista Jardim,1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+324,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Duplo Económico,1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+325,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Duplo com Pátio,1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+326,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Triplo com Vista do Jardim,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+327,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto King com Vista Lago,1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+328,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Duplo com Vista Lago,1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+329,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Twin com Casa de Banho Privada Externa,2 camas individuais,[],,,[],,2026-05-04 15:46:55.577755+01
+330,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Quarto Familiar com Vista Jardim,2 camas individuais e 1 cama de casal grande,[],,,[],,2026-05-04 15:46:55.577755+01
+331,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Comfort Double Room,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+332,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Special Offer - Standard Double Room,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+333,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Superior Double Room,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+334,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Double Room with Garden View,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+335,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Economy Double Room,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+336,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Suite,1 large double bed,[],,,[],,2026-05-04 16:34:46.721202+01
+337,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Deluxe Suite,"1 large double bed, 1 sofa bed",[],,,[],,2026-05-04 16:34:46.721202+01
+338,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Double or Twin Room,"2 single beds, 2 single beds",[],,,[],,2026-05-04 16:35:08.188543+01
+339,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Single Room,1 single bed,[],,,[],,2026-05-04 16:35:08.188543+01
+340,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Budget Double Room,1 large double bed,[],,,[],,2026-05-04 16:35:08.188543+01
+341,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Family Room with Shower,1 single bed and 1 large double bed,[],,,[],,2026-05-04 16:35:08.188543+01
+342,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Habitación Doble Confort,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+343,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Oferta especial - Habitación Doble Estándar,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+344,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Habitación Doble Superior,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+345,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Habitación Doble con vistas al jardín,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+346,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Habitación Doble Económica,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+347,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Suite,1 cama doble grande,[],,,[],,2026-05-04 16:36:10.768188+01
+348,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Suite Deluxe,"1 cama doble grande, 1 sofá cama",[],,,[],,2026-05-04 16:36:10.768188+01
+349,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Habitación Doble - 1 o 2 camas,"2 camas individuales, 2 camas individuales",[],,,[],,2026-05-04 16:36:30.132145+01
+350,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Habitación Individual,1 cama individual,[],,,[],,2026-05-04 16:36:30.132145+01
+351,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Habitación Doble Económica,1 cama doble grande,[],,,[],,2026-05-04 16:36:30.132145+01
+352,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Habitación Familiar con ducha,1 cama individual y 1 cama doble grande,[],,,[],,2026-05-04 16:36:30.132145+01
+353,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Comfort Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+354,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Angebot - Standard Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+355,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Superior Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+356,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Doppelzimmer mit Gartenblick,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+357,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Economy Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+358,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Suite,1 Doppelbett,[],,,[],,2026-05-04 16:36:59.848104+01
+359,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Deluxe Suite,"1 Doppelbett, 1 Schlafsofa",[],,,[],,2026-05-04 16:36:59.848104+01
+360,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Doppel- oder Zweibettzimmer,"2 Einzelbetten, 2 Einzelbetten",[],,,[],,2026-05-04 16:37:31.192569+01
+361,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Einzelzimmer,1 Einzelbett,[],,,[],,2026-05-04 16:37:31.192569+01
+362,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Budget Doppelzimmer,1 Doppelbett,[],,,[],,2026-05-04 16:37:31.192569+01
+363,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Familienzimmer mit Dusche,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-05-04 16:37:31.192569+01
+364,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Camera Matrimoniale Comfort,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+365,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Offerta Speciale - Camera Matrimoniale Standard,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+366,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Camera Matrimoniale Superior,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+367,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Camera Matrimoniale con Vista Giardino,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+368,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Camera Matrimoniale Economy,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+369,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Suite,1 letto matrimoniale,[],,,[],,2026-05-04 16:37:53.519683+01
+370,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Suite Deluxe,"1 letto matrimoniale, 1 divano letto",[],,,[],,2026-05-04 16:37:53.519683+01
+371,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Camera Matrimoniale/Doppia con Letti Singoli,"2 letti singoli, 2 letti singoli",[],,,[],,2026-05-04 16:38:08.13631+01
+372,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Camera Singola,1 letto singolo,[],,,[],,2026-05-04 16:38:08.13631+01
+373,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Camera Matrimoniale Budget,1 letto matrimoniale,[],,,[],,2026-05-04 16:38:08.13631+01
+374,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Camera Familiare con Doccia,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-05-04 16:38:08.13631+01
+375,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Chambre Double Confort,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+376,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Offre Spéciale - Chambre Double Standard,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+377,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Chambre Double Supérieure,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+378,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Chambre Double - Vue sur Jardin,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+379,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Chambre Double Économique,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+380,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Suite,1 grand lit double,[],,,[],,2026-05-04 16:38:50.728945+01
+381,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Suite Deluxe,"1 grand lit double, 1 canapé-lit",[],,,[],,2026-05-04 16:38:50.728945+01
+382,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Chambre Double ou Lits Jumeaux,"2 lits simples, 2 lits simples",[],,,[],,2026-05-04 16:39:09.683017+01
+383,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Chambre Simple,1 lit simple,[],,,[],,2026-05-04 16:39:09.683017+01
+384,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Chambre Double Économique,1 grand lit double,[],,,[],,2026-05-04 16:39:09.683017+01
+385,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Chambre Familiale avec Douche,1 lit simple et 1 grand lit double,[],,,[],,2026-05-04 16:39:09.683017+01
+386,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Quarto Duplo Conforto,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+387,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Oferta Especial - Quarto Duplo Standard,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+388,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Quarto Duplo Superior,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+389,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Quarto Duplo com Vista Jardim,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+390,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Quarto Duplo Económico,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+391,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Suite,1 cama de casal grande,[],,,[],,2026-05-04 16:39:34.583691+01
+392,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Suite Deluxe,"1 cama de casal grande, 1 sofá-cama",[],,,[],,2026-05-04 16:39:34.583691+01
+393,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Quarto Duplo ou Twin,"2 camas individuais, 2 camas individuais",[],,,[],,2026-05-04 16:40:18.423107+01
+394,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Quarto Individual,1 cama individual,[],,,[],,2026-05-04 16:40:18.423107+01
+395,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Quarto Duplo Económico,1 cama de casal grande,[],,,[],,2026-05-04 16:40:18.423107+01
+396,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Quarto Familiar com Chuveiro,1 cama individual e 1 cama de casal grande,[],,,[],,2026-05-04 16:40:18.423107+01

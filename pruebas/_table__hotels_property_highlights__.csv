@@ -1,0 +1,151 @@
+id,hotel_id,url_id,language,highlight_category,highlight_detail,created_at
+1,021d6ab0-2009-4392-a8f9-8b7a7e6ca784,81c6dfb4-6b44-4d67-b6fa-80e0049342da,en,Top Location,Top location: Highly rated by recent guests (8.5),2026-05-04 15:18:20.183687+01
+2,021d6ab0-2009-4392-a8f9-8b7a7e6ca784,81c6dfb4-6b44-4d67-b6fa-80e0049342da,en,Parking,Free private parking available at the hotel,2026-05-04 15:18:20.183687+01
+3,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Top Location,Top location: Highly rated by recent guests (9.7),2026-05-04 15:18:36.680658+01
+4,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Breakfast info,Buffet,2026-05-04 15:18:36.680658+01
+5,b7ab62c2-02a5-4b9e-bbc0-e20a76ccd2b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,en,Ski To Door,Ski-to-door,2026-05-04 15:18:36.680658+01
+6,951455e3-0b01-4266-b992-fa6f4c4db7a9,81c6dfb4-6b44-4d67-b6fa-80e0049342da,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,5)",2026-05-04 15:19:33.404878+01
+7,951455e3-0b01-4266-b992-fa6f4c4db7a9,81c6dfb4-6b44-4d67-b6fa-80e0049342da,es,Parking,Hay parking privado gratis en el hotel,2026-05-04 15:19:33.404878+01
+8,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,7)",2026-05-04 15:19:47.145847+01
+9,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Información sobre el desayuno,Buffet,2026-05-04 15:19:47.145847+01
+10,1957bd2d-99f6-4eba-aa51-1766e79f4b09,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,es,Ski To Door,A pie de pista,2026-05-04 15:19:47.145847+01
+11,54b99542-7841-4dec-941f-98a9c317eb48,81c6dfb4-6b44-4d67-b6fa-80e0049342da,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,5)",2026-05-04 15:20:02.970153+01
+12,54b99542-7841-4dec-941f-98a9c317eb48,81c6dfb4-6b44-4d67-b6fa-80e0049342da,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-05-04 15:20:02.970153+01
+13,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,7)",2026-05-04 15:20:55.799935+01
+14,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Frühstücks-Info,Buffet,2026-05-04 15:20:55.799935+01
+15,5ce1adfc-9ee0-43ac-8d17-003a545a6ff4,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,de,Ski To Door,An der Skipiste,2026-05-04 15:20:55.799935+01
+16,adcbdc4e-082e-4315-920a-f5825e4d6927,81c6dfb4-6b44-4d67-b6fa-80e0049342da,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,5",2026-05-04 15:21:24.035171+01
+17,adcbdc4e-082e-4315-920a-f5825e4d6927,81c6dfb4-6b44-4d67-b6fa-80e0049342da,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-05-04 15:21:24.035171+01
+18,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,7",2026-05-04 15:21:30.183729+01
+19,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Informazioni sulla colazione,a buffet,2026-05-04 15:21:30.183729+01
+20,94503c3a-0e50-4ed6-830d-631cab44ffdf,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,it,Ski To Door,Accesso diretto alle piste,2026-05-04 15:21:30.183729+01
+21,6ecab6fa-574c-4dd0-9f3e-bad343692761,81c6dfb4-6b44-4d67-b6fa-80e0049342da,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,5)",2026-05-04 15:22:45.882659+01
+22,6ecab6fa-574c-4dd0-9f3e-bad343692761,81c6dfb4-6b44-4d67-b6fa-80e0049342da,fr,Parking,Parking privé gratuit à l'hôtel,2026-05-04 15:22:45.882659+01
+23,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,7)",2026-05-04 15:22:58.687574+01
+24,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Infos concernant le petit-déjeuner,Buffet,2026-05-04 15:22:58.687574+01
+25,b3bc144b-678d-484b-96e9-8d084b6c12b1,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,fr,Ski To Door,Au pied des pistes,2026-05-04 15:22:58.687574+01
+26,a5b8fe77-0a3e-4ebe-a7c0-a2da73670680,81c6dfb4-6b44-4d67-b6fa-80e0049342da,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,5)",2026-05-04 15:23:17.437864+01
+27,a5b8fe77-0a3e-4ebe-a7c0-a2da73670680,81c6dfb4-6b44-4d67-b6fa-80e0049342da,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-05-04 15:23:17.437864+01
+28,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,7)",2026-05-04 15:24:13.335821+01
+29,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Informação sobre o pequeno-almoço,Buffet,2026-05-04 15:24:13.335821+01
+30,5b752e11-8dcd-47b1-a49c-7d1bd9b20c49,fdd7bf92-2095-42e0-a9b7-61b2b2ab6a93,pt,Ski To Door,Acesso imediato às pistas,2026-05-04 15:24:13.335821+01
+31,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Top Location,Top location: Highly rated by recent guests (8.9),2026-05-04 15:25:16.363393+01
+32,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Buffet",2026-05-04 15:25:16.363393+01
+33,faa8e3b0-3438-4913-9f39-e38912cbf34f,a09f778f-6437-4a15-9eda-656625ecab87,en,Parking,Free private parking available at the hotel,2026-05-04 15:25:16.363393+01
+34,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Top Location,Top location: Highly rated by recent guests (9.2),2026-05-04 15:25:32.174323+01
+35,18419cce-d496-4510-940c-20821ab0f280,03a81e7d-a654-4d48-a02e-0dee6f13301d,en,Parking,Free private parking available on-site,2026-05-04 15:25:32.174323+01
+36,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,9)",2026-05-04 15:26:57.019698+01
+37,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Buffet",2026-05-04 15:26:57.019698+01
+38,d9f0de62-9437-4131-985e-b171b74b6308,a09f778f-6437-4a15-9eda-656625ecab87,es,Parking,Hay parking privado gratis en el hotel,2026-05-04 15:26:57.019698+01
+39,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,2)",2026-05-04 15:27:08.640723+01
+40,3a544e25-e57e-4c7e-90fb-32c393c2752d,03a81e7d-a654-4d48-a02e-0dee6f13301d,es,Parking,Hay parking privado gratis en el alojamiento,2026-05-04 15:27:08.640723+01
+41,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,9)",2026-05-04 15:28:05.354492+01
+42,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Buffet",2026-05-04 15:28:05.354492+01
+43,35744f5e-ff97-424d-a64f-77c60d8e3e02,a09f778f-6437-4a15-9eda-656625ecab87,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-05-04 15:28:05.354492+01
+44,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,2)",2026-05-04 15:28:27.15698+01
+45,a4141bee-8fa9-497a-a609-56dfe75218a5,03a81e7d-a654-4d48-a02e-0dee6f13301d,de,Parking,An der Unterkunft stehen kostenfreie Privatparkplätze zur Verfügung,2026-05-04 15:28:27.15698+01
+46,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,9",2026-05-04 15:28:52.836699+01
+47,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, a buffet",2026-05-04 15:28:52.836699+01
+48,afaab18c-9f90-47d2-8f25-8c5c11d249fd,a09f778f-6437-4a15-9eda-656625ecab87,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-05-04 15:28:52.836699+01
+49,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,9)",2026-05-04 15:29:37.164737+01
+50,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Buffet",2026-05-04 15:29:37.164737+01
+51,a6c26fbe-b835-439a-a77e-a77cae711880,a09f778f-6437-4a15-9eda-656625ecab87,fr,Parking,Parking privé gratuit à l'hôtel,2026-05-04 15:29:37.164737+01
+52,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,2",2026-05-04 15:29:54.734143+01
+53,326f266f-b475-4365-a0ed-cc9fba0c8692,03a81e7d-a654-4d48-a02e-0dee6f13301d,it,Parking,Parcheggio privato gratuito disponibile sul posto,2026-05-04 15:29:54.734143+01
+54,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,9)",2026-05-04 15:30:54.228879+01
+55,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Buffet",2026-05-04 15:30:54.228879+01
+56,3e7a6bc0-56c7-4423-b33f-3f932adf4fa8,a09f778f-6437-4a15-9eda-656625ecab87,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-05-04 15:30:54.228879+01
+59,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,2)",2026-05-04 15:31:57.145204+01
+60,5948f029-83c0-4aa3-a7fa-03d34b9a09b2,03a81e7d-a654-4d48-a02e-0dee6f13301d,pt,Parking,Estacionamento privado gratuito disponível no local,2026-05-04 15:31:57.145204+01
+61,a054b362-ad21-4da8-a91e-fb41a24d5f94,6092eab1-6017-473e-916f-46278fd28ddf,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 9.0",2026-05-04 15:32:50.29525+01
+62,a054b362-ad21-4da8-a91e-fb41a24d5f94,6092eab1-6017-473e-916f-46278fd28ddf,en,Parking,Private parking available,2026-05-04 15:32:50.29525+01
+68,085bb053-1547-46f5-aabe-a0a5f337256b,6092eab1-6017-473e-916f-46278fd28ddf,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,0",2026-05-04 15:34:44.284141+01
+69,085bb053-1547-46f5-aabe-a0a5f337256b,6092eab1-6017-473e-916f-46278fd28ddf,de,Parking,Privatparkplätze verfügbar,2026-05-04 15:34:44.284141+01
+75,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,7",2026-05-04 15:36:18.043152+01
+76,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Buffet",2026-05-04 15:36:18.043152+01
+77,49d9b763-8256-4547-b1be-c14191734e03,6339b88f-3637-4eef-a253-319da5fde794,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-05-04 15:36:18.043152+01
+83,f7aa8d20-4fa8-4c9f-a00f-1b510c761f66,6092eab1-6017-473e-916f-46278fd28ddf,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 9,0",2026-05-04 15:37:54.505136+01
+84,f7aa8d20-4fa8-4c9f-a00f-1b510c761f66,6092eab1-6017-473e-916f-46278fd28ddf,pt,Parking,Estacionamento privado disponível,2026-05-04 15:37:54.505136+01
+88,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 9,7",2026-05-04 15:39:26.981032+01
+89,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Buffet",2026-05-04 15:39:26.981032+01
+90,c445cc4b-42eb-4fe0-8083-e387af765823,6339b88f-3637-4eef-a253-319da5fde794,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-05-04 15:39:26.981032+01
+91,455a8677-e248-42c0-ba93-9c2a7a5f7010,ab4a5058-fd28-4eac-960b-b00c37f94b65,en,Heart,"Situated in the best rated area in Ohrid, this property has an excellent location score of 9.3",2026-05-04 15:40:38.261516+01
+93,77e1ee69-7e97-4d7a-b7fc-cd8a49b87551,ab4a5058-fd28-4eac-960b-b00c37f94b65,de,Heart,"Diese Unterkunft befindet sich in der am besten bewerteten Gegend in Ohrid und hat für ihre Lage ein hervorragendes Bewertungsergebnis von 9,3",2026-05-04 15:42:56.310179+01
+94,4d5930c9-c07b-46da-88e0-6dd1c2619d23,ab4a5058-fd28-4eac-960b-b00c37f94b65,it,Heart,"Situata nella zona più gettonata di Ohrid, questa struttura ha un ottimo punteggio per la posizione: 9,3!",2026-05-04 15:44:40.604777+01
+57,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,2)",2026-05-04 15:31:03.422361+01
+58,b6513ced-45d4-4add-9cde-09672e6d1c07,03a81e7d-a654-4d48-a02e-0dee6f13301d,fr,Parking,Parking privé gratuit sur place,2026-05-04 15:31:03.422361+01
+63,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 9.7",2026-05-04 15:33:14.450949+01
+64,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Buffet",2026-05-04 15:33:14.450949+01
+65,bf9364f4-585e-4851-b473-2b84e82a7ab2,6339b88f-3637-4eef-a253-319da5fde794,en,Loyal customers,There are more repeat guests here than most other properties.,2026-05-04 15:33:14.450949+01
+66,3114e9cc-cb0b-4020-8025-c5ac62d035d7,6092eab1-6017-473e-916f-46278fd28ddf,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (9,0).",2026-05-04 15:33:40.049641+01
+67,3114e9cc-cb0b-4020-8025-c5ac62d035d7,6092eab1-6017-473e-916f-46278fd28ddf,es,Parking,Parking privado disponible,2026-05-04 15:33:40.049641+01
+70,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (9,7).",2026-05-04 15:35:06.225428+01
+71,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Buffet",2026-05-04 15:35:06.225428+01
+72,5b0ab414-b587-4900-bf84-42a2f27446e1,6339b88f-3637-4eef-a253-319da5fde794,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-05-04 15:35:06.225428+01
+73,c0de1b6d-b855-4ae5-86d6-567745c70032,6092eab1-6017-473e-916f-46278fd28ddf,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,0!",2026-05-04 15:35:17.199744+01
+74,c0de1b6d-b855-4ae5-86d6-567745c70032,6092eab1-6017-473e-916f-46278fd28ddf,it,Parking,Parcheggio privato disponibile,2026-05-04 15:35:17.199744+01
+78,7da40948-0309-4b64-ae33-718634289469,6092eab1-6017-473e-916f-46278fd28ddf,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 9,0 pour sa situation géographique.",2026-05-04 15:36:44.22398+01
+79,7da40948-0309-4b64-ae33-718634289469,6092eab1-6017-473e-916f-46278fd28ddf,fr,Parking,Parking privé disponible,2026-05-04 15:36:44.22398+01
+80,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-05-04 15:37:02.834994+01
+81,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, a buffet",2026-05-04 15:37:02.834994+01
+82,79504444-9c89-445e-b697-3b12b02e8083,6339b88f-3637-4eef-a253-319da5fde794,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-05-04 15:37:02.834994+01
+85,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-05-04 15:38:16.272818+01
+86,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Buffet",2026-05-04 15:38:16.272818+01
+87,9988f3b3-5cc4-4340-ad9a-6482927a2173,6339b88f-3637-4eef-a253-319da5fde794,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-05-04 15:38:16.272818+01
+92,3aedff53-03c5-42c9-9ba4-d308e1e50ff9,ab4a5058-fd28-4eac-960b-b00c37f94b65,es,Heart,"Situado en la zona mejor valorada de Ohrid, este alojamiento tiene una excelente puntuación en ubicación (9,3).",2026-05-04 15:42:02.453272+01
+95,3e65c405-6442-484d-9c53-b11f1bbdec93,ab4a5058-fd28-4eac-960b-b00c37f94b65,fr,Heart,"Situé dans le quartier le plus apprécié de Ohrid, cet établissement affiche l'excellente note de 9,3 pour sa situation géographique.",2026-05-04 15:45:36.737961+01
+96,35e6de06-ca01-4e0d-95cd-84ea1598f856,ab4a5058-fd28-4eac-960b-b00c37f94b65,pt,Heart,"Situado na área com melhor avaliação em Ohrid, este alojamento tem uma excelente pontuação de localização: 9,3",2026-05-04 15:46:55.49768+01
+97,7d197c4f-7680-4a68-9c4c-62e86062659f,286cbdba-a206-41e7-b0a3-41d3a272f78c,en,Parking,Free private parking available at the hotel,2026-05-04 16:26:32.897674+01
+98,1470dc09-a83e-4c30-8524-6d849833946c,ab8580e9-7036-4824-be01-ab7120c08d01,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 9.7",2026-05-04 16:26:49.058451+01
+99,1470dc09-a83e-4c30-8524-6d849833946c,ab8580e9-7036-4824-be01-ab7120c08d01,en,Breakfast info,Buffet,2026-05-04 16:26:49.058451+01
+100,1470dc09-a83e-4c30-8524-6d849833946c,ab8580e9-7036-4824-be01-ab7120c08d01,en,Loyal customers,There are more repeat guests here than most other properties.,2026-05-04 16:26:49.058451+01
+101,c22aa8a2-57b2-47d4-b599-4e5eca219a07,ab8580e9-7036-4824-be01-ab7120c08d01,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (9,7).",2026-05-04 16:28:02.821785+01
+102,c22aa8a2-57b2-47d4-b599-4e5eca219a07,ab8580e9-7036-4824-be01-ab7120c08d01,es,Información sobre el desayuno,Buffet,2026-05-04 16:28:02.821785+01
+103,c22aa8a2-57b2-47d4-b599-4e5eca219a07,ab8580e9-7036-4824-be01-ab7120c08d01,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-05-04 16:28:02.821785+01
+104,2755b1a8-35ce-4d9f-a8ac-aa6ade73ce30,ab8580e9-7036-4824-be01-ab7120c08d01,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,7",2026-05-04 16:29:17.813284+01
+105,2755b1a8-35ce-4d9f-a8ac-aa6ade73ce30,ab8580e9-7036-4824-be01-ab7120c08d01,de,Frühstücks-Info,Buffet,2026-05-04 16:29:17.813284+01
+106,2755b1a8-35ce-4d9f-a8ac-aa6ade73ce30,ab8580e9-7036-4824-be01-ab7120c08d01,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-05-04 16:29:17.813284+01
+107,5fa305d9-fe8d-491c-bd77-f80aefba3f5e,ab8580e9-7036-4824-be01-ab7120c08d01,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-05-04 16:30:00.716803+01
+108,5fa305d9-fe8d-491c-bd77-f80aefba3f5e,ab8580e9-7036-4824-be01-ab7120c08d01,it,Informazioni sulla colazione,a buffet,2026-05-04 16:30:00.716803+01
+109,5fa305d9-fe8d-491c-bd77-f80aefba3f5e,ab8580e9-7036-4824-be01-ab7120c08d01,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-05-04 16:30:00.716803+01
+110,a9fdce42-94e2-46d9-b137-7b779adc5838,286cbdba-a206-41e7-b0a3-41d3a272f78c,es,Parking,Hay parking privado gratis en el hotel,2026-05-04 16:30:33.307965+01
+111,1dc000bd-de28-4e98-8348-ae66f7998116,ab8580e9-7036-4824-be01-ab7120c08d01,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-05-04 16:30:52.933434+01
+112,1dc000bd-de28-4e98-8348-ae66f7998116,ab8580e9-7036-4824-be01-ab7120c08d01,fr,Infos concernant le petit-déjeuner,Buffet,2026-05-04 16:30:52.933434+01
+113,1dc000bd-de28-4e98-8348-ae66f7998116,ab8580e9-7036-4824-be01-ab7120c08d01,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-05-04 16:30:52.933434+01
+114,d3649805-aa3e-44c0-b3fe-b3edb2ad729b,286cbdba-a206-41e7-b0a3-41d3a272f78c,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-05-04 16:31:07.757002+01
+115,c90271b2-64d2-44c3-93ce-196ff91b816d,ab8580e9-7036-4824-be01-ab7120c08d01,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 9,7",2026-05-04 16:32:00.739854+01
+116,c90271b2-64d2-44c3-93ce-196ff91b816d,ab8580e9-7036-4824-be01-ab7120c08d01,pt,Informação sobre o pequeno-almoço,Buffet,2026-05-04 16:32:00.739854+01
+117,c90271b2-64d2-44c3-93ce-196ff91b816d,ab8580e9-7036-4824-be01-ab7120c08d01,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-05-04 16:32:00.739854+01
+118,16a253cd-9d10-4639-a895-b8300a3f6e0b,286cbdba-a206-41e7-b0a3-41d3a272f78c,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-05-04 16:32:07.419686+01
+119,e1104235-a731-4117-a9a6-bd2e170d570f,286cbdba-a206-41e7-b0a3-41d3a272f78c,fr,Parking,Parking privé gratuit à l'hôtel,2026-05-04 16:33:23.311606+01
+120,c64a94f1-0177-4d8e-99de-2793db54ec5c,286cbdba-a206-41e7-b0a3-41d3a272f78c,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-05-04 16:33:48.078324+01
+121,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Top Location,Top location: Highly rated by recent guests (9.7),2026-05-04 16:34:46.714258+01
+122,3fb95368-1bae-458a-8ddc-265031636453,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,en,Parking,Free parking available at the hotel,2026-05-04 16:34:46.714258+01
+123,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Top Location,Top location: Highly rated by recent guests (8.1),2026-05-04 16:35:08.126669+01
+124,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Parking,Free private parking available at the hotel,2026-05-04 16:35:08.126669+01
+125,83cea878-4426-4b18-b9cb-82df2b1642f0,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,en,Loyal customers,There are more repeat guests here than most other properties.,2026-05-04 16:35:08.126669+01
+126,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,7)",2026-05-04 16:36:10.718188+01
+127,93f89422-95d6-421e-92fe-b8468d62212d,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,es,Parking,Hay parking gratis en el hotel,2026-05-04 16:36:10.718188+01
+128,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,1)",2026-05-04 16:36:30.072333+01
+129,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Parking,Hay parking privado gratis en el hotel,2026-05-04 16:36:30.072333+01
+130,184b776a-28ee-48aa-8ce1-bbd34a86f0c3,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-05-04 16:36:30.072333+01
+131,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,7)",2026-05-04 16:36:59.82353+01
+132,6fdbc8ad-91f1-4b7b-8a51-1183a0c4d284,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,de,Parking,Am Hotel stehen kostenfreie Parkplätze zur Verfügung,2026-05-04 16:36:59.82353+01
+133,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,1)",2026-05-04 16:37:31.148327+01
+134,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-05-04 16:37:31.148327+01
+135,74cf6cf4-9f15-4350-81f7-93bb7f1a5597,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-05-04 16:37:31.148327+01
+136,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,7",2026-05-04 16:37:53.50403+01
+137,9833f2f1-e6ef-439d-92d4-43e96c7f2fea,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,it,Parking,Parcheggio gratuito disponibile presso l'hotel,2026-05-04 16:37:53.50403+01
+138,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,1",2026-05-04 16:38:08.071713+01
+139,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-05-04 16:38:08.071713+01
+140,c9d47d3d-10a5-4a81-ad4a-7427074ae32f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-05-04 16:38:08.071713+01
+141,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,7)",2026-05-04 16:38:50.713697+01
+142,290cc083-a3f1-4492-8f21-0df8779cf708,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,fr,Parking,Parking gratuit à l'hôtel,2026-05-04 16:38:50.713697+01
+143,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,1)",2026-05-04 16:39:09.62504+01
+144,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Parking,Parking privé gratuit à l'hôtel,2026-05-04 16:39:09.62504+01
+145,0ac172bb-e4f1-4459-b24d-21305ae09f68,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-05-04 16:39:09.62504+01
+146,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,7)",2026-05-04 16:39:34.552828+01
+147,edb33137-fdb7-41be-9385-016e2584a1ce,d701e6eb-e54e-4e03-bd8e-1474bf4f4c2e,pt,Parking,Estacionamento gratuito disponível no hotel,2026-05-04 16:39:34.552828+01
+148,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,1)",2026-05-04 16:40:18.316929+01
+149,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-05-04 16:40:18.316929+01
+150,36a390b7-cb37-4035-a70a-09b65736ce5f,bb1b79d9-5f8b-408b-9ed8-e14695b0b820,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-05-04 16:40:18.316929+01
