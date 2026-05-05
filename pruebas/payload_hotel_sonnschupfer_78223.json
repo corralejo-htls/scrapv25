@@ -1,0 +1,1656 @@
+{
+  "data": {
+    "name": {
+      "en": "Hotel Sonnschupfer",
+      "es": "Hotel Sonnschupfer",
+      "de": "Hotel Sonnschupfer",
+      "it": "Hotel Sonnschupfer",
+      "fr": "Hotel Sonnschupfer",
+      "pt": "Hotel Sonnschupfer"
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274474539.jpg?k=d231d1530935264b3db168e16e3fc4a0ea8d9650e913be4d644fa948b1078d20&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17359004.jpg?k=2876bb22f9e7e036ed9ae534856b3ef65e71907ea1fca67f46d941cf4f748520&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959514.jpg?k=e3fd51f24bc9e37c5d016802d5d13e5aa57c3bf317ba5b2a9509c49101e817b2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358922.jpg?k=979558bb34579cd002df9bda3e916d09f161a3f8bb4f87adf34fb49d4aa6bb87&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358446.jpg?k=1a3160b9aa8a9055669a7dd2967b3ba0b12e90ce4a94bd7e657169b423049439&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/228372265.jpg?k=8cd79c127ecf8ea9b0ccd9b6fcd041bf7db5c6c720b60d8c6dac3d81487ad3a9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959517.jpg?k=e5d3ac77e08fbf2ed9bb31ea72ada5b8a87debcf5313ace220cbcac9bb1e7dce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959509.jpg?k=c5908311b4b4ae90544b1850013d6dafc3ba30e153d9d2f782a143b150819fe0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358730.jpg?k=e094fdbc61ed25e4f4a6c274a3d6880d5010741b5ac548683dc31b1556ac8d95&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358894.jpg?k=5614292d3fe5b6f3a82d6b02090b7e472baca2c0f74390de2dc3da5771b0f7ba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17360025.jpg?k=43881f2e1bd830b3e81d3f6e7036a8790fe3e3b32da8bfadc1294848cf89b29d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959519.jpg?k=79cffe4e51b9e5106a2cb244355ee0436fb9f5d8400e611237582130a05378f8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358732.jpg?k=5a6b5ba889246f452a4f313d8084cc3c8d8d28ec115a39b9cce40b76a5d807d1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274474565.jpg?k=c1616c40d71e64d86a2e329e053f1edcea80a930b85a4ab411d7646674af8713&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358515.jpg?k=760a30c55f0c7858dbd5adf3cc3c1e020abbdbb2d7e9bf4b1748dfdea4d1ae17&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/227774456.jpg?k=1db3501e239417956226ff385ee22cbdf381e3bcbbdadc2e0143d09b6a7564b9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/227774458.jpg?k=9eb6c838a17680030a0864926622f3e9908a9b5cb474c8c778e7a5017e07817e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358501.jpg?k=1326c841ef9c01e4eff215d93cfd3770e95fd9302d38ba2a193fc9c01eb2bd7d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/227774461.jpg?k=2ebe227edd1cd1af4121a91ff759107ef7b8b4d6903065c9afd3cfdcd6e6f3b0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358800.jpg?k=20d1c929064f5200f037462329446e2cd48ce3003fa7bcb03527378c2f76e8c6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959511.jpg?k=0909fdb3927772bdf543742952a673171aeae9ed94e7ca51a75df2cafa09a958&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959526.jpg?k=9ed2d597c592501938bedf644ada5bf36ab53d5cb67f49a018a5aca7b38503c0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959528.jpg?k=11c1d1f1337393e22a2e0a75ac877cd04bec4ec6e720125d7254483e963759b6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17359081.jpg?k=9e67cf7e4c89c0878c45afdbb3713af21a7744b2f22d7f5da390c78354f512b1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358519.jpg?k=c0d52e38e1e94905f85a2a5c8d6ca9c11144d5f1f41767aae54b7067f17814ff&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358524.jpg?k=05867f3fe1e9c46e0f02c9290ee260e96c777ab81be95d302ca65b01869de514&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358522.jpg?k=77d562322554058fabd161b5b78fd979dba3b84f52165df5f769aed735efe3fc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358502.jpg?k=f418e4d2835dd6f29cf05ed7e57fe2b6964d41fda64473406628ed9dda8975aa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358729.jpg?k=a09f8a87900bb960dbcdf3d8a8bb4453f0149fa923d2cab434b91d9e7f136626&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274472542.jpg?k=e3c3d642413eb08460766edae22e48f7b5331a721e30823b960a94402417f8d2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358816.jpg?k=983fc7500d1bdef25a97d484d031c90f9668e260c7a3ea04b0cf4d2733bb2697&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358785.jpg?k=1ee65dd4c488d3749cc9cb245ddc122fb5b3af3bd0a2da86041dbe6742fafb4f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358830.jpg?k=89fd914ea489017f46c99c50df3c54b20dc6717732c08c4b6ff06e86b5a6f0ff&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358837.jpg?k=6f485267028f9a72f3dbedef5acf4b3f52ad4de2fe6aee6303491254001aadfb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358852.jpg?k=13b7862e68a44d5839a1039b18bba1508062feebd93acf75567bc3d2642e3ff9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358868.jpg?k=73971064ef4275581a0b7f86bf1f44535e798e44c0e90ebdb4ce510518e200de&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/130959523.jpg?k=9658ccb72d60bb1354cc6da841932b4e15df38e951a2204f67988ead1eb5ab61&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358918.jpg?k=99f5c058716e7295249c4d403e7e04492964db5e754ca072bb28fe7402fbcef1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358939.jpg?k=c6a8da3ee5040c03666e3b4d805054d1ed084fc1ac46873a4107ee2591fdd3d0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358919.jpg?k=b6a37baffa6ee25b882e361526c049c877c23ab6ac5365ec9e6f17768360abf9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358956.jpg?k=f8574842772d4223e8fda3e247992b99ec12b2d979f449a94aed9f7a7b81fc36&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358973.jpg?k=d3b5304aaed2b6cb5dc342e1a21891c7c568972a6baf77b81bf43592278680a9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358987.jpg?k=f13d446c4564fe9e2960c2406f77311c502a0b1473271ca1d5c439728709ffea&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17358997.jpg?k=d587862c48803b71d9612ffeaefc854e1db32ec7ab8cf4aa4e2c4fd6a93aebd4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17359014.jpg?k=0bda4ec64a90bfd533e8388475eda1b1bea78951ed74de41203f78f4b4b1662b&o=&hp=1"
+    ],
+    "longDescription": {
+      "en": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region. It features modern rooms and a log sauna.\n\nHotel Sonnschupfer has a petting zoo, llamas, ponies for riding, and mountain bikes.\n\nThe house features a TV room, a table tennis room, a sauna area and a sun terrace. Guests have the possibility to rent electric bikes on site.\n\nAll prices include half-board, which comprises a rich breakfast buffet and a 4-course dinner with a choice of main course and a salad buffet. Many products come from the hotel's own farm. A barbecue evening is hosted once a week.\n\nIn winter you can reach the surrounding ski areas quickly and easily from the nearby ski bus stop. The Planai and the Reiteralm are about a 10-minute drive away. A cross-country ski run is only 500 metres away.\n\nIn summer Hotel Sonnschupfer is an ideal starting point for extended walks, hikes and bicycle tours. Guests booking this hotel receive the Schladming Dachstein Card for free. There is a bus stop in front of the hotel which brings you to the city centre of Schladming.",
+      "es": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region. It features modern rooms and a log sauna.\n\nHotel Sonnschupfer has a petting zoo, llamas, ponies for riding, and mountain bikes.\n\nThe house features a TV room, a table tennis room, a sauna area and a sun terrace. Guests have the possibility to rent electric bikes on site.\n\nAll prices include half-board, which comprises a rich breakfast buffet and a 4-course dinner with a choice of main course and a salad buffet. Many products come from the hotel's own farm. A barbecue evening is hosted once a week.\n\nIn winter you can reach the surrounding ski areas quickly and easily from the nearby ski bus stop. The Planai and the Reiteralm are about a 10-minute drive away. A cross-country ski run is only 500 metres away.\n\nIn summer Hotel Sonnschupfer is an ideal starting point for extended walks, hikes and bicycle tours. Guests booking this hotel receive the Schladming Dachstein Card for free. There is a bus stop in front of the hotel which brings you to the city centre of Schladming.",
+      "de": "Das Hotel Sonnschupfer erwartet Sie in ruhiger Südlage westlich von Schladming, mitten in der Region Dachstein-Tauern. Freuen Sie sich auf moderne Zimmer und eine Blockhaussauna.\n\nDas Hotel Sonnschupfer verfügt über einen Streichelzoo, Lamas, Reitponys und Mountainbikes.\n\nWeitere Annehmlichkeiten des Hauses sind ein TV- und ein Tischtennisraum, ein moderner Saunabereich sowie eine Sonnenterrasse. An der Unterkunft können Sie E-Bikes mieten.\n\nAlle Preise beinhalten Halbpension, die ein reichhaltiges Frühstücksbuffet und ein 4-Gänge-Menü zum Abendessen mit einer Auswahl an Hauptgerichten sowie einem Salatbuffet umfasst. Viele Zutaten stammen aus der hauseigenen Landwirtschaft. Das Hotel bietet 1-mal wöchentlich einen Grillabend an.\n\nIm Winter erreichen Sie die umliegenden Skigebiete schnell und bequem von der nahe gelegenen Skibushaltestelle. Die Skigebiete Planai und Reiteralm sind etwa 10 Fahrminuten entfernt. Zu einer Langlaufloipe gelangen Sie nach nur 500 m.\n\nIm Sommer ist das Hotel Sonnschupfer ein hervorragender Ausgangspunkt für ausgedehnte Spaziergänge, Wanderungen und Radtouren. Wenn Sie dieses Hotel buchen, erhalten Sie die Schladming Dachstein Card kostenlos. Vor dem Hotel befindet sich eine Bushaltestelle, die Sie in die Innenstadt von Schladming bringt.",
+      "it": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region. It features modern rooms and a log sauna.\n\nHotel Sonnschupfer has a petting zoo, llamas, ponies for riding, and mountain bikes.\n\nThe house features a TV room, a table tennis room, a sauna area and a sun terrace. Guests have the possibility to rent electric bikes on site.\n\nAll prices include half-board, which comprises a rich breakfast buffet and a 4-course dinner with a choice of main course and a salad buffet. Many products come from the hotel's own farm. A barbecue evening is hosted once a week.\n\nIn winter you can reach the surrounding ski areas quickly and easily from the nearby ski bus stop. The Planai and the Reiteralm are about a 10-minute drive away. A cross-country ski run is only 500 metres away.\n\nIn summer Hotel Sonnschupfer is an ideal starting point for extended walks, hikes and bicycle tours. Guests booking this hotel receive the Schladming Dachstein Card for free. There is a bus stop in front of the hotel which brings you to the city centre of Schladming.",
+      "fr": "Orienté au sud, l’Hotel Sonnschupfer bénéficie d’un emplacement paisible à l’ouest de Schladming, au cœur de la région du Dachstein-Tauern. L’établissement possède un sauna en rondins et propose des chambres modernes.\n\nL'Hotel Sonnschupfer est doté d’un zoo pour enfants avec des lamas et des poneys pouvant être montés. Des VTT sont disponibles sur place.\n\nLa maison met à votre disposition une salle de télévision, une salle de tennis de table, un espace sauna et une terrasse bien exposée. Vous aurez la possibilité de louer des vélos électriques sur place.\n\nTous les tarifs comprennent la demi-pension, qui inclut un copieux petit-déjeuner buffet ainsi qu’un dîner de 4 plats avec un choix de plats de résistance et un buffet de salades. La plupart des produits proviennent de la ferme de l’hôtel. Une soirée barbecue est organisée une fois par semaine.\n\nEn hiver, vous pourrez rejoindre rapidement et facilement les domaines skiables des environs depuis l'arrêt de ski-bus situé à proximité. La Planai et la station de ski Reiteralm sont à environ 10 minutes de route. Une piste de ski de fond se trouve à seulement 500 mètres.\n\nEn été, l'Hotel Sonnschupfer constitue un point de départ idéal pour de longues promenades, randonnées et sorties à vélo. En séjournant dans cet hôtel, la carte Schladming Dachstein vous sera remise gratuitement. Vous trouverez devant l’hôtel un arrêt de bus d’où vous pourrez rejoindre le centre-ville de Schladming.",
+      "pt": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region. It features modern rooms and a log sauna.\n\nHotel Sonnschupfer has a petting zoo, llamas, ponies for riding, and mountain bikes.\n\nThe house features a TV room, a table tennis room, a sauna area and a sun terrace. Guests have the possibility to rent electric bikes on site.\n\nAll prices include half-board, which comprises a rich breakfast buffet and a 4-course dinner with a choice of main course and a salad buffet. Many products come from the hotel's own farm. A barbecue evening is hosted once a week.\n\nIn winter you can reach the surrounding ski areas quickly and easily from the nearby ski bus stop. The Planai and the Reiteralm are about a 10-minute drive away. A cross-country ski run is only 500 metres away.\n\nIn summer Hotel Sonnschupfer is an ideal starting point for extended walks, hikes and bicycle tours. Guests booking this hotel receive the Schladming Dachstein Card for free. There is a bus stop in front of the hotel which brings you to the city centre of Schladming."
+    },
+    "rating": 4,
+    "scoreReviewBasedOn": 472,
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Hotel Sonnschupfer?",
+          "topicComments": "Guests staying at Hotel Sonnschupfer can enjoy a highly-rated breakfast during their stay (guest review score: 9). Breakfast option(s) include: Continental Vegetarian Vegan Gluten-free Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Hotel Sonnschupfer?",
+          "topicComments": "Room options at Hotel Sonnschupfer include: Single Double Family Triple Apartment"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel Sonnschupfer?",
+          "topicComments": "Check-in at Hotel Sonnschupfer is from 11:30, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel Sonnschupfer?",
+          "topicComments": "The prices at Hotel Sonnschupfer may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Hotel Sonnschupfer?",
+          "topicComments": "Hotel Sonnschupfer offers the following activities / services (charges may apply): Spa and wellness centre Sauna Cycling Hiking Children's playground Skiing Games room Table tennis Golf course (within 3 km) Evening entertainment Spa facilities Bike tours Horse riding Fitness/spa locker rooms Spa/wellness packages Themed dinner nights Bicycle rental Walking tours Spa lounge/relaxation area Live sport events (broadcast) Water sport facilities on site"
+        },
+        {
+          "topic": "How far is Hotel Sonnschupfer from the centre of Schladming?",
+          "topicComments": "Hotel Sonnschupfer is 3.7 km from the centre of Schladming."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Hotel Sonnschupfer?",
+          "topicComments": "Los clientes de Hotel Sonnschupfer podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9) Las opciones del desayuno son: Continental Vegetariano Vegano Sin gluten Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel Sonnschupfer?",
+          "topicComments": "Las opciones de habitación en Hotel Sonnschupfer son: Individual Doble Familiar Triple Apartamento"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel Sonnschupfer?",
+          "topicComments": "Podrás hacer el check-in en Hotel Sonnschupfer a partir de las 11:30 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel Sonnschupfer?",
+          "topicComments": "Los precios en Hotel Sonnschupfer pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel Sonnschupfer?",
+          "topicComments": "Hotel Sonnschupfer ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Spa y centro de bienestar Sauna Ciclismo Senderismo Zona de juegos para niños Esquí Sala de juegos Ping pong Campo de golf (a menos de 3 km) Entretenimiento nocturno Instalaciones de spa Tours en bici Equitación Taquillas en el gimnasio / spa Paquetes de spa / bienestar Cenas temáticas Alquiler de bicicletas Tours a pie Zona de spa / relajación Eventos deportivos en directo (emisión) Instalaciones para deportes acuáticos en el alojamiento"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel Sonnschupfer del centro de Schladming?",
+          "topicComments": "Hotel Sonnschupfer está a 3,7 km del centro de Schladming."
+        }
+      ],
+      "de": [
+        {
+          "topic": "2 Erwachsene · 0 Kinder · 1 Zimmer",
+          "topicComments": ""
+        },
+        {
+          "topic": "Unterkunft speichern",
+          "topicComments": ""
+        },
+        {
+          "topic": "Anreisedatum - Abreisedatum",
+          "topicComments": ""
+        },
+        {
+          "topic": "Das Beste von Schladming Klicken Sie hier, um mehr Hotels und Unterkünfte in der Nähe von bekannten Sehenswürdigkeiten in Schladming zu sehen",
+          "topicComments": ""
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Hotel Sonnschupfer?",
+          "topicComments": "Durante il soggiorno, Hotel Sonnschupfer propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9). Colazione disponibile: continentale vegetariana vegana senza glutine a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel Sonnschupfer?",
+          "topicComments": "Hotel Sonnschupfer offre: Singola Matrimoniale Familiare Tripla Appartamento"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel Sonnschupfer?",
+          "topicComments": "Presso Hotel Sonnschupfer, il check-in può essere effettuato dalle 11:30, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel Sonnschupfer?",
+          "topicComments": "I prezzi di Hotel Sonnschupfer possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel Sonnschupfer?",
+          "topicComments": "Hotel Sonnschupfer offre i seguenti servizi/attività (alcuni a pagamento): Spa & centro benessere Sauna Escursioni in bicicletta Escursionismo Area giochi Sci Sala giochi Ping-pong Campo da golf (nel raggio di 3 km) Intrattenimento serale Servizi spa Tour in bicicletta Equitazione Armadietti per fitness/spa Pacchetti spa/benessere Serate con cene a tema Noleggio biciclette Tour a piedi Sala spa/area relax Trasmissione di eventi sportivi in diretta Attrezzature per sport acquatici sul posto"
+        },
+        {
+          "topic": "Quanto dista Hotel Sonnschupfer dal centro di Schladming?",
+          "topicComments": "Hotel Sonnschupfer si trova a 3,7 km dal centro di Schladming."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Hotel Sonnschupfer sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Hotel Sonnschupfer ont attribué une très bonne note à son petit-déjeuner : 9. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Sans gluten Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel Sonnschupfer ?",
+          "topicComments": "L'établissement Hotel Sonnschupfer propose les options d'hébergement suivantes : Simple Double Familiale Triple Appartement"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel Sonnschupfer ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel Sonnschupfer se fait à partir de 11:30 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel Sonnschupfer ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel Sonnschupfer peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel Sonnschupfer propose-t-il ?",
+          "topicComments": "L'établissement Hotel Sonnschupfer propose les activités et les services suivants (des frais peuvent s'appliquer) : Spa et centre de bien-être Sauna Cyclisme Randonnée Aire de jeux pour enfants Ski Salle de jeux Tennis de table Parcours de golf (à moins de 3 km) Animations en soirée Spa Visites à vélo Équitation Vestiaires salle de sport/spa Forfaits spa/bien-être Dîners à thème Location de vélos Balades à pied Coin spa/relaxation Diffusion d'événements sportifs Installations de sports nautiques sur place"
+        },
+        {
+          "topic": "L'établissement Hotel Sonnschupfer est-il proche du centre (Schladming) ?",
+          "topicComments": "L'établissement Hotel Sonnschupfer se trouve à 3,7 km du centre (Schladming)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Hotel Sonnschupfer?",
+          "topicComments": "Os hóspedes em Hotel Sonnschupfer podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Sem glúten Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel Sonnschupfer?",
+          "topicComments": "As opções de quarto em Hotel Sonnschupfer incluem: Individual Duplo Familiar Triplo Apartamento"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel Sonnschupfer?",
+          "topicComments": "Em Hotel Sonnschupfer, o check-in é a partir das 11:30 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel Sonnschupfer?",
+          "topicComments": "Os preços em Hotel Sonnschupfer podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Hotel Sonnschupfer?",
+          "topicComments": "Hotel Sonnschupfer disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Spa e centro de bem-estar Sauna Ciclismo Caminhadas Parque infantil Esqui Sala de jogos Ténis de mesa Campo de golfe (a menos de 3 km) Entretenimento noturno Comodidades de spa Excursões de bicicleta Equitação Salas de cacifos do spa/centro de fitness Pacotes de spa/bem-estar Jantares temáticos Aluguer de bicicleta Excursões a pé Sala de spa/área de relaxamento Eventos desportivos (transmissão) Comodidades para desportos aquáticos no local"
+        },
+        {
+          "topic": "A que distância fica Hotel Sonnschupfer do centro de Schladming?",
+          "topicComments": "Hotel Sonnschupfer fica a 3,7 km do centro de Schladming."
+        }
+      ]
+    },
+    "accommodationType": "hotel",
+    "geoPosition": {
+      "latitude": 47.39099740526918,
+      "longitude": 13.638304620981216
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.6
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.6
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.6
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.6
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.4
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.6
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.9
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.6
+        }
+      }
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Superb breakfast"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Hypoallergenic",
+            "Non-smoking throughout",
+            "Carpeted"
+          ],
+          "Outdoors & View": [
+            "View",
+            "Garden view",
+            "Outdoor furniture"
+          ],
+          "Services": [
+            "Wake-up service",
+            "English"
+          ],
+          "Other": [
+            "Spa and wellness centre",
+            "Free parking",
+            "Free WiFi",
+            "Family rooms",
+            "Skiing",
+            "Facilities for disabled guests",
+            "Airport shuttle",
+            "Bar",
+            "Parking",
+            "Pets allowed",
+            "Dressing room",
+            "Outdoor fireplace",
+            "Picnic area",
+            "Outdoor dining area",
+            "Sun terrace",
+            "BBQ facilities Additional charge",
+            "Terrace",
+            "Garden",
+            "Children's high chair",
+            "Dining table",
+            "Clothes rack",
+            "Ski pass vendor",
+            "Ski school Additional charge",
+            "Ski storage",
+            "Bicycle rental",
+            "Live sport events (broadcast)",
+            "Themed dinner nights",
+            "Bike tours",
+            "Walking tours",
+            "Evening entertainment",
+            "Water sport facilities on site Additional charge",
+            "Horse riding Off-site",
+            "Cycling",
+            "Hiking Off-site",
+            "Table tennis",
+            "Children's playground",
+            "Games room",
+            "Skiing Off-site",
+            "Golf course (within 3 km) Additional charge",
+            "Dining area",
+            "Cable channels",
+            "Radio",
+            "Coffee house on site",
+            "Kid-friendly buffet",
+            "Kids' meals",
+            "Special diet menus (on request)",
+            "Street parking",
+            "Electric vehicle charging station",
+            "Accessible parking",
+            "Private check-in/check-out",
+            "Concierge service",
+            "Luggage storage",
+            "Express check-in/check-out",
+            "Kids' outdoor play equipment",
+            "Indoor play area",
+            "Board games/puzzles",
+            "Books, DVDs, or music for children",
+            "Daily housekeeping",
+            "Dry cleaning Additional charge",
+            "Laundry Additional charge",
+            "Fax/photocopying",
+            "Meeting/banquet facilities Additional charge",
+            "Fire extinguishers",
+            "Smoke alarms",
+            "Security alarm",
+            "Key card access",
+            "Shuttle service Additional charge",
+            "Shared lounge/TV area",
+            "Designated smoking area",
+            "Allergy-free room",
+            "Heating",
+            "Soundproofing",
+            "Packed lunches",
+            "Soundproof rooms",
+            "Lift",
+            "Airport shuttle Additional charge",
+            "Wake up service/Alarm clock",
+            "Lower bathroom sink",
+            "Wheelchair accessible",
+            "Upper floors accessible by elevator",
+            "Fitness/spa locker rooms",
+            "Spa/wellness packages",
+            "Spa lounge/relaxation area",
+            "Spa facilities",
+            "Sun umbrellas",
+            "Sauna",
+            "German"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Desayuno fantástico"
+          ],
+          "Exteriores y vistas": [
+            "Vistas al jardín",
+            "Vistas"
+          ],
+          "General": [
+            "Hipoalergénico",
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de moqueta"
+          ],
+          "Servicios": [
+            "Servicio de despertador",
+            "Servicio de despertador / alarma",
+            "Inglés"
+          ],
+          "Other": [
+            "Spa y centro de bienestar",
+            "Parking gratis",
+            "WiFi gratis",
+            "Habitaciones familiares",
+            "Esquí",
+            "Habitaciones sin humo",
+            "Adaptado personas de movilidad reducida",
+            "Traslado aeropuerto",
+            "Bar",
+            "Parking",
+            "Admite mascotas",
+            "Zona de pícnic",
+            "Vestidor",
+            "Chimenea exterior",
+            "Mobiliario exterior",
+            "Zona de comedor exterior",
+            "Terraza / solárium",
+            "Barbacoa De pago",
+            "Terraza",
+            "Jardín",
+            "Trona",
+            "Mesa de comedor",
+            "Perchero",
+            "Venta de forfaits",
+            "Escuela de esquí De pago",
+            "Guardaesquíes",
+            "Alquiler de bicicletas",
+            "Eventos deportivos en directo (emisión)",
+            "Cenas temáticas",
+            "Tours en bici",
+            "Tours a pie",
+            "Entretenimiento nocturno",
+            "Instalaciones para deportes acuáticos en el alojamiento De pago",
+            "Equitación Fuera del alojamiento",
+            "Ciclismo",
+            "Senderismo Fuera del alojamiento",
+            "Ping pong",
+            "Zona de juegos para niños",
+            "Sala de juegos",
+            "Esquí Fuera del alojamiento",
+            "Campo de golf (a menos de 3 km) De pago",
+            "Zona de comedor",
+            "Canales por cable",
+            "Radio",
+            "Cafetería en el alojamiento",
+            "Buffet para niños",
+            "Menú para niños",
+            "Menús para dietas especiales (bajo petición)",
+            "Parking en la calle",
+            "Estación de carga de vehículos eléctricos",
+            "Parking adaptado para personas de movilidad reducida",
+            "Registro de entrada / salida privado",
+            "Servicio de conserjería",
+            "Guardaequipaje",
+            "Información turística",
+            "Registro de entrada y salida exprés",
+            "Barandillas protectoras para bebés",
+            "Barandillas de seguridad para bebés",
+            "Equipamiento de juegos para exterior",
+            "Zona de juegos interior",
+            "Juegos de mesa / puzles",
+            "Libros, DVD o música para niños",
+            "Servicio de limpieza diario",
+            "Servicio de limpieza en seco De pago",
+            "Servicio de lavandería De pago",
+            "Fax / fotocopiadora",
+            "Salas de reuniones / banquetes De pago",
+            "Extintores",
+            "Detectores de humo",
+            "Alarma de seguridad",
+            "Tarjeta de acceso",
+            "Servicio de traslado De pago",
+            "Zona TV / salón de uso compartido",
+            "Zona de fumadores",
+            "Habitaciones hipoalergénicas",
+            "Calefacción",
+            "Insonorización",
+            "Almuerzos para llevar",
+            "Habitaciones insonorizadas",
+            "Ascensor",
+            "Traslado aeropuerto De pago",
+            "Lavamanos más bajo",
+            "WC elevado",
+            "Adaptado para sillas de ruedas",
+            "Acceso a pisos superiores en ascensor",
+            "Taquillas en el gimnasio / spa",
+            "Paquetes de spa / bienestar",
+            "Zona de spa / relajación",
+            "Instalaciones de spa",
+            "Sombrillas",
+            "Sauna",
+            "Alemán"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Allergikerfreundlich",
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Allergikerfreundliche Zimmer verfügbar",
+            "Teppichboden"
+          ],
+          "Außenbereich": [
+            "Aussicht",
+            "Gartenmöbel"
+          ],
+          "Dienstleistungen": [
+            "Weckservice",
+            "Weckservice/Wecker",
+            "Englisch"
+          ],
+          "Speisen & Getränke": [
+            "Hervorragendes Frühstück"
+          ],
+          "Other": [
+            "Spa & Wellnesscenter",
+            "Parkplatz inbegriffen",
+            "WLAN inklusive",
+            "Familienzimmer",
+            "Skifahren",
+            "Nichtraucherzimmer",
+            "Einrichtungen für behinderte Gäste",
+            "Flughafenshuttle",
+            "Bar",
+            "Parkplatz",
+            "Haustiere erlaubt",
+            "Picknickbereich",
+            "Ankleidezimmer",
+            "Gartenblick",
+            "Feuerstelle im Freien",
+            "Essbereich im Freien",
+            "Sonnenterrasse",
+            "Grillmöglichkeiten Zusätzliche Gebühren",
+            "Terrasse",
+            "Garten",
+            "Hochstuhl",
+            "Esstisch",
+            "Kleiderständer",
+            "Skipass-Verkauf",
+            "Skischule Zusätzliche Gebühren",
+            "Skiaufbewahrung",
+            "Fahrradverleih",
+            "Live-Sportveranstaltung (Übertragung)",
+            "Motto-Dinnerabende",
+            "Fahrradtouren",
+            "Touren zu Fuß",
+            "Abendunterhaltung",
+            "Wassersportmöglichkeiten vor Ort Zusätzliche Gebühren",
+            "Reiten Außerhalb der Unterkunft",
+            "Radfahren",
+            "Wandern Außerhalb der Unterkunft",
+            "Tischtennis",
+            "Kinderspielplatz",
+            "Spielzimmer",
+            "Skifahren Außerhalb der Unterkunft",
+            "Golfplatz (max. 3 km entfernt) Zusätzliche Gebühren",
+            "Essbereich",
+            "Kabelkanäle",
+            "Radio",
+            "Café vor Ort",
+            "Kinderfreundliches Buffet",
+            "Kindermahlzeiten",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Parkplätze an der Straße",
+            "Aufladestation für Elektro-Autos",
+            "Behindertengerechte Parkplätze",
+            "Privater Check-in/-out",
+            "Conciergeservice",
+            "Gepäckaufbewahrung",
+            "Informationsschalter für Ausflüge",
+            "Express-Check-in/-out",
+            "Treppenschutz",
+            "Outdoorspielgeräte für Kinder",
+            "Indoorspielbereich",
+            "Brettspiele/Puzzle",
+            "Bücher, DVDs oder Musik für Kinder",
+            "Brettspiele/Puzzles",
+            "Tägliche Reinigung",
+            "Chemische Reinigung Zusätzliche Gebühren",
+            "Waschsalon/Wäscheservice Zusätzliche Gebühren",
+            "Fax- u. Fotokopiereinrichtungen",
+            "Konferenz- und Veranstaltungsräume Zusätzliche Gebühren",
+            "Feuerlöscher",
+            "Rauchmelder",
+            "Sicherheitsalarm",
+            "Zugang mit Schlüsselkarte",
+            "Shuttleservice Zusätzliche Gebühren",
+            "Gemeinschaftslounge/TV-Bereich",
+            "Raucherbereich",
+            "Heizung",
+            "Schallisolierung",
+            "Lunchpakete",
+            "Schallisolierte Zimmer",
+            "Aufzug",
+            "Flughafenshuttle Zusätzliche Gebühren",
+            "Niedriges Waschbecken im Bad",
+            "Höheres WC",
+            "Rollstuhlgerecht",
+            "Obere Stockwerke mit Fahrstuhl erreichbar",
+            "Umkleideraum für Fitness/Wellness",
+            "Wellnessangebote",
+            "Wellnesslounge/Ruhebereich",
+            "Wellness",
+            "Sonnenschirme",
+            "Sauna",
+            "Deutsch"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione eccellente"
+          ],
+          "Generale": [
+            "Soluzioni anallergiche",
+            "Struttura interamente non fumatori",
+            "Moquette"
+          ],
+          "Servizi": [
+            "Sveglia telefonica",
+            "Sveglia/sveglia telefonica",
+            "Inglese"
+          ],
+          "Spazi esterni": [
+            "Vista giardino",
+            "Vista"
+          ],
+          "Other": [
+            "Spa & centro benessere",
+            "Parcheggio gratuito",
+            "Connessione WiFi gratuita",
+            "Disponibilità di camere familiari",
+            "Sci",
+            "Camere non fumatori",
+            "Camere/strutture per ospiti disabili",
+            "Navetta aeroportuale",
+            "Bar",
+            "Parcheggio",
+            "Animali ammessi",
+            "Area picnic",
+            "Camino all'aperto",
+            "Arredamento da esterni",
+            "Zona pranzo all'aperto",
+            "Terrazza solarium",
+            "Barbecue a pagamento",
+            "Terrazza",
+            "Giardino",
+            "Seggiolone",
+            "Tavolo da pranzo",
+            "Stand appendiabiti",
+            "Vendita skipass",
+            "Scuola di sci a pagamento",
+            "Deposito sci",
+            "Noleggio biciclette",
+            "Trasmissione di eventi sportivi in diretta",
+            "Serate con cene a tema",
+            "Tour in bicicletta",
+            "Tour a piedi",
+            "Intrattenimento serale",
+            "Attrezzature per sport acquatici sul posto a pagamento",
+            "Equitazione Non sul posto",
+            "Escursioni in bicicletta",
+            "Escursionismo Non sul posto",
+            "Ping-pong",
+            "Area giochi",
+            "Sala giochi",
+            "Sci Non sul posto",
+            "Campo da golf (nel raggio di 3 km) a pagamento",
+            "Zona pranzo",
+            "Canali via cavo",
+            "Radio",
+            "Caffetteria sul posto",
+            "Buffet per bambini",
+            "Pasti per bambini",
+            "Menù per diete particolari (su richiesta)",
+            "Parcheggio in strada",
+            "Stazione di ricarica per veicoli elettrici",
+            "Parcheggio per disabili",
+            "Check-in e check-out privati",
+            "Servizio concierge",
+            "Deposito bagagli",
+            "Banco escursioni",
+            "Check-in e check-out express",
+            "Cancelletti di sicurezza per bambini",
+            "Area giochi all'aperto",
+            "Area giochi al coperto",
+            "Giochi da tavolo/puzzle",
+            "Libri, DVD o musica per bambini",
+            "Servizio pulizie giornaliero",
+            "Lavaggio a secco a pagamento",
+            "Servizio lavanderia a pagamento",
+            "Fax/fotocopiatrice",
+            "Spazi per riunioni/banchetti a pagamento",
+            "Estintori",
+            "Allarme antifumo",
+            "Allarme di sicurezza",
+            "Accesso con chiavi magnetiche",
+            "Servizio navetta a pagamento",
+            "Sala comune/zona TV",
+            "Area fumatori",
+            "Camera anallergica",
+            "Riscaldamento",
+            "Insonorizzazione",
+            "Possibilità di pranzo al sacco",
+            "Disponibilità di camere insonorizzate",
+            "Ascensore",
+            "Navetta aeroportuale a pagamento",
+            "Lavabo più basso",
+            "WC con seduta più alta",
+            "Accesso su sedia a rotelle",
+            "Piani superiori accessibili tramite ascensore",
+            "Armadietti per fitness/spa",
+            "Pacchetti spa/benessere",
+            "Sala spa/area relax",
+            "Servizi spa",
+            "Ombrelloni",
+            "Sauna",
+            "Tedesco"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Petit-déjeuner fabuleux"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Papier toilette",
+            "Serviettes",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Articles de toilette gratuits",
+            "Peignoir",
+            "Sèche-cheveux",
+            "Douche",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Chaise haute pour enfants",
+            "Prise près du lit",
+            "Aire de jeux pour enfants",
+            "Coin salon",
+            "Bureau",
+            "Chaînes satellite",
+            "Télévision",
+            "Buffet avec options enfants",
+            "Menus enfants",
+            "Bureau d'excursions",
+            "Jeux de plein air pour enfants",
+            "Livres, DVD ou musique pour enfants",
+            "Salon commun/salle de télévision",
+            "Toilettes surélevées"
+          ],
+          "Extérieur": [
+            "Vue sur le jardin",
+            "Vue"
+          ],
+          "Général": [
+            "Chambre anti-allergie",
+            "Établissement entièrement non-fumeurs",
+            "Moquette"
+          ],
+          "Services": [
+            "Service de réveil",
+            "Service de réveil / réveil",
+            "Anglais"
+          ],
+          "Other": [
+            "Spa et centre de bien-être",
+            "Parking gratuit",
+            "Connexion Wi-Fi gratuite",
+            "Chambres familiales",
+            "Ski",
+            "Chambres non-fumeurs",
+            "Équipements pour les personnes handicapées",
+            "Navette aéroport",
+            "Bar",
+            "Parking",
+            "Animaux domestiques admis",
+            "Dressing",
+            "Cheminée extérieure",
+            "Aire de pique-nique",
+            "Mobilier extérieur",
+            "Espace repas extérieur",
+            "Terrasse bien exposée",
+            "Installations pour barbecue En supplément",
+            "Terrasse",
+            "Jardin",
+            "Table à manger",
+            "Portant",
+            "Vente de forfaits de ski",
+            "École de ski En supplément",
+            "Local à skis",
+            "Location de vélos",
+            "Diffusion d'événements sportifs",
+            "Dîners à thème",
+            "Visites à vélo",
+            "Balades à pied",
+            "Animations en soirée",
+            "Installations de sports nautiques sur place En supplément",
+            "Équitation En dehors de l'établissement",
+            "Cyclisme",
+            "Randonnée En dehors de l'établissement",
+            "Tennis de table",
+            "Salle de jeux",
+            "Ski En dehors de l'établissement",
+            "Parcours de golf (à moins de 3 km) En supplément",
+            "Coin repas",
+            "Chaînes du câble",
+            "Radio",
+            "Café sur place",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Places de stationnement dans la rue",
+            "Borne de recharge pour les véhicules électriques",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Enregistrement/départ privé",
+            "Service de concierge",
+            "Bagagerie",
+            "Enregistrement/règlement rapide",
+            "Barrières de sécurité pour bébés",
+            "Aire de jeux intérieure",
+            "Jeux de société/puzzles",
+            "Jeux de société / puzzles",
+            "Service de ménage quotidien",
+            "Nettoyage à sec En supplément",
+            "Blanchisserie/laverie En supplément",
+            "Fax/photocopies",
+            "Salles de réunion/réception En supplément",
+            "Extincteurs",
+            "Détecteurs de fumée",
+            "Alarme de sécurité",
+            "Cartes d'accès",
+            "Service de navette En supplément",
+            "Espace fumeurs",
+            "Chambres anti-allergie",
+            "Chauffage",
+            "Insonorisation",
+            "Paniers-repas",
+            "Chambres insonorisées",
+            "Ascenseur",
+            "Navette aéroport En supplément",
+            "Lavabo bas adapté aux personnes à mobilité réduite",
+            "Accessible en fauteuil roulant",
+            "Étages supérieurs accessibles par ascenseur",
+            "Vestiaires salle de sport/spa",
+            "Forfaits spa/bien-être",
+            "Coin spa/relaxation",
+            "Spa",
+            "Parasols",
+            "Sauna",
+            "Allemand"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Soberbo pequeno-almoço"
+          ],
+          "Exterior": [
+            "Vista",
+            "Vista jardim",
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Antialérgico",
+            "Proibido fumar em todas as áreas",
+            "Quarto antialérgico",
+            "Piso em carpete"
+          ],
+          "Serviços": [
+            "Serviço de despertar",
+            "Serviço de despertar/relógio despertador",
+            "Inglês"
+          ],
+          "Other": [
+            "Spa e centro de bem-estar",
+            "Estacionamento gratuito",
+            "Acesso Wi-Fi gratuito",
+            "Quartos familiares",
+            "Esqui",
+            "Quartos para não fumadores",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Transfer (aeroporto)",
+            "Bar",
+            "Estacionamento",
+            "Animais de estimação admitidos",
+            "Sala de vestir",
+            "Lareira exterior",
+            "Área para piquenique",
+            "Área de refeições exterior",
+            "Terraço para banhos de sol",
+            "Comodidades para churrascos Custo adicional",
+            "Terraço",
+            "Jardim",
+            "Cadeira alta para bebés",
+            "Mesa de jantar",
+            "Suporte para cabides",
+            "Venda de passes de esqui",
+            "Escola de esqui Custo adicional",
+            "Depósito para equipamento de esqui",
+            "Aluguer de bicicleta",
+            "Eventos desportivos (transmissão)",
+            "Jantares temáticos",
+            "Excursões de bicicleta",
+            "Excursões a pé",
+            "Entretenimento noturno",
+            "Comodidades para desportos aquáticos no local Custo adicional",
+            "Equitação Fora do alojamento",
+            "Ciclismo",
+            "Caminhadas Fora do alojamento",
+            "Ténis de mesa",
+            "Sala de jogos",
+            "Esqui Fora do alojamento",
+            "Campo de golfe (a menos de 3 km) Custo adicional",
+            "Área de refeições",
+            "Canais por cabo",
+            "Rádio",
+            "Café/cafetaria no local",
+            "Buffet adequado para crianças",
+            "Refeições para crianças",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Estacionamento de rua",
+            "Posto de carga para veículos elétricos",
+            "Estacionamento acessível",
+            "Check-in/check-out privado",
+            "Serviço de concierge",
+            "Sala para bagagem",
+            "Balcão de turismo",
+            "Check-in/check-out expresso",
+            "Barras de segurança para bebés",
+            "Área de jogos interior",
+            "Jogos de tabuleiro/puzzles",
+            "Livros, DVDs ou música para crianças",
+            "Serviço de limpeza diário",
+            "Limpeza a seco Custo adicional",
+            "Lavandaria Custo adicional",
+            "Fax/fotocopiadora",
+            "Comodidades para reuniões/banquetes Custo adicional",
+            "Extintores",
+            "Detetores de fumo",
+            "Alarme",
+            "Cartão de acesso",
+            "Serviço de transporte Custo adicional",
+            "Área específica para fumar",
+            "Aquecimento",
+            "Insonorização",
+            "Refeições pré-embaladas",
+            "Quartos insonorizados",
+            "Elevador",
+            "Transfer (aeroporto) Custo adicional",
+            "Lavatório rebaixado",
+            "WC elevado",
+            "Acessibilidade para cadeira de rodas",
+            "Pisos superiores acessíveis por elevador",
+            "Salas de cacifos do spa/centro de fitness",
+            "Pacotes de spa/bem-estar",
+            "Sala de spa/área de relaxamento",
+            "Comodidades de spa",
+            "Guarda-sóis",
+            "Sauna",
+            "Alemão"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region.",
+      "es": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region.",
+      "de": "Das Hotel Sonnschupfer erwartet Sie in ruhiger Südlage westlich von Schladming, mitten in der Region Dachstein-Tauern.",
+      "it": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region.",
+      "fr": "Orienté au sud, l’Hotel Sonnschupfer bénéficie d’un emplacement paisible à l’ouest de Schladming, au cœur de la région du Dachstein-Tauern.",
+      "pt": "The Sonnschupfer Hotel enjoys a quiet south-facing location west of Schladming, amidst the Dachstein-Tauern region."
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "scoreReview": 9.1,
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 11:30 to 19:30"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 08:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 3 years Cot upon request Free The number of cots allowed is dependent on the option you choose. Please check your selected option for more information. There are no extra beds available at this property. All cots are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. The number of cots allowed is dependent on the option you choose. Please check your selected option for more information. There are no extra beds available at this property. All cots are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Bankcard Cash Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 11:30 a las 19:30"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 8:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 3 años Cuna a petición Gratis El número de cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. No hay camas supletorias disponibles en este alojamiento. Todas las cunas están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El número de cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. No hay camas supletorias disponibles en este alojamiento. Todas las cunas están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Bankcard Efectivo Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 11:30 bis 19:30 Uhr"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 08:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 3 Jahre Babybett auf Anfrage Kostenfrei Die Anzahl an Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Zustellbetten sind in dieser Unterkunft nicht verfügbar. Alle Babybetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Die Anzahl an Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Zustellbetten sind in dieser Unterkunft nicht verfügbar. Alle Babybetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Bankcard Barzahlung Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 11:30 alle 19:30"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 08:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 3 anni Culla su richiesta Gratis Il numero di culle ammesse dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. In questa struttura non c'è disponibilità di letti supplementari. Le culle sono soggette a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il numero di culle ammesse dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. In questa struttura non c'è disponibilità di letti supplementari. Le culle sono soggette a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Bankcard Contanti Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 11:30 à 19:30"
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 08:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 3 ans Lit bébé sur demande Gratuit Le nombre de lits bébé disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Cet établissement ne propose pas de lits d'appoint. Tous les lits bébé sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Le nombre de lits bébé disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Cet établissement ne propose pas de lits d'appoint. Tous les lits bébé sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Carte Bancaire Espèces Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 11:30 às 19:30"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 08:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 3 anos Berço mediante pedido Gratuito O número permitido de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Não existem camas extra disponíveis nesta propriedade. Todos os berços estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. O número permitido de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Não existem camas extra disponíveis nesta propriedade. Todos os berços estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Cartão bancário Dinheiro Dinheiro"
+        }
+      ]
+    },
+    "toConsider": {
+      "en": "This property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Este alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Diese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Questa struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "",
+      "pt": ""
+    },
+    "address": {
+      "en": "Obere Klaus 48, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "es": "Obere Klaus 48, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "de": "Obere Klaus 48, 8970 Schladming, Österreich, 8970 Schladming, Österreich",
+      "it": "Obere Klaus 48, 8970 Schladming, Austria, 8970 Schladming, Austria",
+      "fr": "Obere Klaus 48, 8970 Schladming, Autriche, 8970 Schladming, Autriche",
+      "pt": "Obere Klaus 48, 8970 Schladming, Áustria, 8970 Schladming, Áustria"
+    },
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Hopsiland",
+          "distance": "9 km",
+          "category": 6
+        },
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 2
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4.4 km",
+          "category": 2
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4.7 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "9 km*",
+          "category": 5
+        },
+        {
+          "name": "Drachenlift-Lärchfeldlift",
+          "distance": "4.3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2.7 km",
+          "category": 4
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "3.6 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "83 km",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Hopsiland",
+          "distance": "9 km",
+          "category": 6
+        },
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 2
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4,4 km",
+          "category": 2
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4,7 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "9 km*",
+          "category": 5
+        },
+        {
+          "name": "Drachenlift-Lärchfeldlift",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2,7 km",
+          "category": 4
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Salzburgo - W. A. Mozart",
+          "distance": "83 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Hopsiland",
+          "distance": "9 km",
+          "category": 6
+        },
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 2
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4,4 km",
+          "category": 2
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4,7 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "9 km*",
+          "category": 6
+        },
+        {
+          "name": "Drachenlift (Lärchfeldlift)",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen 2 Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2,7 km",
+          "category": 6
+        },
+        {
+          "name": "Bahnhof Schladming",
+          "distance": "3,6 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Salzburg",
+          "distance": "83 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Hopsiland",
+          "distance": "9 km",
+          "category": 6
+        },
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 6
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4,7 km",
+          "category": 6
+        },
+        {
+          "name": "Monte Hoher Dachstein",
+          "distance": "9 km*",
+          "category": 6
+        },
+        {
+          "name": "Drachenlift-Lärchfeldlift",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2,7 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "3,6 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Salisburgo - W. A. Mozart",
+          "distance": "83 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 2
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4,4 km",
+          "category": 2
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4,7 km",
+          "category": 2
+        },
+        {
+          "name": "Haut Dachstein",
+          "distance": "9 km*",
+          "category": 5
+        },
+        {
+          "name": "Drachenlift-Lärchfeldlift",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2,7 km",
+          "category": 4
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport Wolfgang Amadeus Mozart de Salzbourg",
+          "distance": "83 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Hopsiland",
+          "distance": "9 km",
+          "category": 6
+        },
+        {
+          "name": "Appartement Unser Hoamat - Susanne Pichler",
+          "distance": "2 km",
+          "category": 2
+        },
+        {
+          "name": "Kobaldhof",
+          "distance": "4,4 km",
+          "category": 2
+        },
+        {
+          "name": "Stockerwirt",
+          "distance": "4,7 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "9 km*",
+          "category": 5
+        },
+        {
+          "name": "Drachenlift-Lärchfeldlift",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hopsilift",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Hochwurzen Fun Jet",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "2,7 km",
+          "category": 4
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "83 km",
+          "category": 1
+        }
+      ]
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

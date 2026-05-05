@@ -1,0 +1,1329 @@
+{
+  "data": {
+    "name": {
+      "en": "Erzherzog Johann Alpin Style Hotel - Adults Only",
+      "es": "Erzherzog Johann Alpin Style Hotel - Adults Only",
+      "de": "Erzherzog Johann Alpin Style Hotel - Adults Only",
+      "it": "Erzherzog Johann Alpin Style Hotel - Adults Only",
+      "fr": "Erzherzog Johann Alpin Style Hotel - Adults Only",
+      "pt": "Erzherzog Johann Alpin Style Hotel - Adults Only"
+    },
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267035.jpg?k=47f3141bad2ab6d9726b593c5bcc90d817b0549870dcfb8a099a6ef396b99862&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267025.jpg?k=2966b1f5fdeb76cce15e64c6d22d0d35234fc5936a3055a2d23a654fd7b00faf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268378.jpg?k=d314bc53cb326269aa442d31c70e07b59ecfcbc5bd1b47526e670423b7d92a9f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267041.jpg?k=b1bf99174df3e731fab96b5ea3d009db0db625bc91a05db825d90295b10034cf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267031.jpg?k=310da4a0063ea9c051488f29249ce9ba71522c1976cd4f9842e8c2470a7e8fe3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899034.jpg?k=63e6a43558ef17a159ac9c2df41d17e9845798434a8ad773ae5b1404f7944f21&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983157.jpg?k=af7238e52c4fa27cfc01469f68ebbf266ac035f3b0164fedf7e4261398e24703&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983153.jpg?k=ce86ecec094c5d46c4e3ee713cacb2c297b77a9f928d28e8eef3ae38e7c950ee&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/698282828.jpg?k=5e57ce740a0c1bb2d3d7f6953e71cea1163af0ee949236d3be1949148a741f5f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568709222.jpg?k=66c1156ffef37ec652d2106462042098627555f8167a0623003565bf6a59b47d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899045.jpg?k=b0797234bf49268ccf08ae6d2b3f52e8befbe4b3f8e3ee3b3b58d7a60390f50c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983142.jpg?k=452c96ad6f90569ce60db2ef66f2165af9c5ee726ab9d978061bbfb02b8aa9c9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983154.jpg?k=fa33f1aff823edeb6d0c8db07adb118d64fa331c0e38eb54ea4be7fe46a794fd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983159.jpg?k=22f03321bdc7b758e72e025f2c397e3a1f9f0e8d6783314631f329853134f749&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983148.jpg?k=47cee2087a49b681e6d45cc23aa205e647ce0d6006edb221faa6d87579a6a22a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983151.jpg?k=8c613f0179601a2620e25e684dbc9acfeceb4360297d8d42a1b967a710122ca8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568709210.jpg?k=ac36a05b692a97de914a776b2c6365483aa4a97298f5004cb91415901a2b98dc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899012.jpg?k=fbb1cb356c8f35a6fe127cd1b47371e527b88e6710f7fd280a9717c6ee4d7c9b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568709212.jpg?k=9b944011286591dcd7b7e03fe850c8801d7c1a5322c0785a66274b009b072cdd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568714184.jpg?k=c870666c751d1708cc4aea3723811730e95ba94f5294f5f43c2ddff0111b712a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899017.jpg?k=3c59668b8f899a337e0745bce568b8f3a6499bddc0fda9b1eddaeb0067a0a19e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268298.jpg?k=57175933c583f285f47ae2e71f44659bc7b09489fa020878097a1e71560b727f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268381.jpg?k=d930c20139debfbd71637ffb8fb00e0a24486c775fec39446a99a4a1325975ed&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267966.jpg?k=fbdace981eecbf57512484714c0eb9842d01ba16bcf747417b226bc6e300efee&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899015.jpg?k=afa0b7cd0aafd54509697070dde6f0bc7f544a0d6ad94e213e3b004542049a7a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267965.jpg?k=85c0c2cd09560da8bcc03dc1c150030565efe8386399976f366248cbfba67a97&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268393.jpg?k=d80af7330551c3483bc14f15740d12de801356874ce129b37f6289da144965e6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563267968.jpg?k=e3b6dacc35279f613dbe8b2160c9faf7de4279df886987efd7b7ed9aaef77ba8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568712184.jpg?k=aa5655a7de96239228fc46d71ee2d4118642adfd5b37249fc3006cb8933d3b53&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899021.jpg?k=3d60dcfff5176eb0e69bbf0100d004c9dace812f25bafc35a2fcf983fb7b04a9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568709229.jpg?k=cd2ae08807ea55c7e8cfba1732fa828a1b7f6a7c57dab181a43172469b98ea3c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268345.jpg?k=f95fe562c4623bf72564c9598a74741b615b81a2d3627928420e2ca520fc9736&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899041.jpg?k=f581018dea42bf2e86ce07aa1836e9e9117d0edd739d1581bf3e1cd18519266a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568712888.jpg?k=489a9cb8e5ca88baf97969ae9d813b532409811fc0f0e8c4f17feb61436b5bd9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268138.jpg?k=4822a8ebf0373d11bdb7aaecd5d01e21a747e8b830ea9c9c4cd23a668849b65c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899035.jpg?k=18c23dc0f4c8c44104a3a926569950a4cb175e1706bf9e4f87d32eb21c53b048&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983137.jpg?k=0437caa2e9d7164557ef377b9acc79a3ce208f169a29c3863a3063db8caa15d5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268139.jpg?k=3e0bc420a6ec8dd381c6e3f1927390a1bac4c82985b3a6005f54b37009db5345&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899010.jpg?k=4bfba1688bbd92e6a636025ad5bad3a354aa30bdfaa01f7cd8672142ef9ba9f6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899018.jpg?k=48a32746b852cdf7e0f9cd6f26ae26ac02503fa0b98ce1d11ed0bcaa87bc15c2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568899040.jpg?k=264978087c5d6f9d2497e3b2064aad8c157130c73d9c95b27d5191caf3e55925&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268141.jpg?k=2698ec17e6b0953aaf79167ff71ac95bb5f7b1b9735b025a8e2d0c57ffe12d34&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568709232.jpg?k=2ee34b61ffae3a84f322714038f130f7229275df4e6cb7c9801f88769e4a6c4f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/697983146.jpg?k=e2faf2e625704420eabebf4d2ae8af5ff0e00554d8289f3edc42f24ae67aa3cd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/563268140.jpg?k=24ed2efd861ebd88b94bfb0e6da90720cd2c2b911c2e94ad32ecefcc229e4ff8&o=&hp=1"
+    ],
+    "longDescription": {
+      "en": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms. Guests enjoy direct access to the ski slopes from the property in winter.\n\nAll rooms have a balcony, free access to WiFi and cable TV. Bathroom toiletries and a hairdryer can be found in all modern bathrooms.\n\nThe Erzherzog Johann Alpin Style Hotel - Adults Only’s spa area features a sauna, an infrared cabin and a steam bath. The relaxation room is equipped with lounge chairs and heated loungers overlooking the Dachstein massif.\n\nDachstein Tauern golf course is only a 10-minute drive away. Guests can park their cars free of charge at the hotel.\n\nIn summer, the Summer Card is included in the price comprising regional offers such as free admission to baths and lakes, free hiking bus and much more.\n\nThere is a bus station right next to property, with connections between Schladming and Rohrmoos.",
+      "es": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms. Guests enjoy direct access to the ski slopes from the property in winter.\n\nAll rooms have a balcony, free access to WiFi and cable TV. Bathroom toiletries and a hairdryer can be found in all modern bathrooms.\n\nThe Erzherzog Johann Alpin Style Hotel - Adults Only’s spa area features a sauna, an infrared cabin and a steam bath. The relaxation room is equipped with lounge chairs and heated loungers overlooking the Dachstein massif.\n\nDachstein Tauern golf course is only a 10-minute drive away. Guests can park their cars free of charge at the hotel.\n\nIn summer, the Summer Card is included in the price comprising regional offers such as free admission to baths and lakes, free hiking bus and much more.\n\nThere is a bus station right next to property, with connections between Schladming and Rohrmoos.",
+      "de": "Das Erzherzog Johann Alpin Style Hotel - Adults Only liegt an einem Hang in der Nähe von Schladming und bietet komfortable Zimmer. Im Winter genießen Sie direkten Zugang zu den Skipisten.\n\nAlle Zimmer verfügen über einen Balkon, kostenfreies WLAN und Kabel-TV. Im modernen Bad liegen Pflegeprodukte und ein Haartrockner für Sie bereit.\n\nDer Wellnessbereich des Erzherzog Johann Alpin Style Hotel - Adults Only verfügt über eine Sauna, eine Infrarotkabine und ein Dampfbad. Der Ruheraum ist mit Liegestühlen und beheizten Liegen mit Blick auf das Dachsteinmassiv ausgestattet.\n\nDen Golfplatz Dachstein Tauern erreichen Sie nach nur 10 Fahrminuten. Am Hotel sind kostenfreie Parkplätze vorhanden.\n\nIm Sommer ist die Summer Card im Preis inbegriffen. Diese beinhaltet regionale Angebote wie kostenfreien Eintritt zu Schwimmbädern und Seen, einen kostenlosen Wanderbus und vieles mehr.\n\nDirekt neben der Unterkunft befindet sich eine Bushaltestelle mit Verbindungen zwischen Schladming und Rohrmoos.",
+      "it": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms. Guests enjoy direct access to the ski slopes from the property in winter.\n\nAll rooms have a balcony, free access to WiFi and cable TV. Bathroom toiletries and a hairdryer can be found in all modern bathrooms.\n\nThe Erzherzog Johann Alpin Style Hotel - Adults Only’s spa area features a sauna, an infrared cabin and a steam bath. The relaxation room is equipped with lounge chairs and heated loungers overlooking the Dachstein massif.\n\nDachstein Tauern golf course is only a 10-minute drive away. Guests can park their cars free of charge at the hotel.\n\nIn summer, the Summer Card is included in the price comprising regional offers such as free admission to baths and lakes, free hiking bus and much more.\n\nThere is a bus station right next to property, with connections between Schladming and Rohrmoos.",
+      "fr": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms. Guests enjoy direct access to the ski slopes from the property in winter.\n\nAll rooms have a balcony, free access to WiFi and cable TV. Bathroom toiletries and a hairdryer can be found in all modern bathrooms.\n\nThe Erzherzog Johann Alpin Style Hotel - Adults Only’s spa area features a sauna, an infrared cabin and a steam bath. The relaxation room is equipped with lounge chairs and heated loungers overlooking the Dachstein massif.\n\nDachstein Tauern golf course is only a 10-minute drive away. Guests can park their cars free of charge at the hotel.\n\nIn summer, the Summer Card is included in the price comprising regional offers such as free admission to baths and lakes, free hiking bus and much more.\n\nThere is a bus station right next to property, with connections between Schladming and Rohrmoos.",
+      "pt": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms. Guests enjoy direct access to the ski slopes from the property in winter.\n\nAll rooms have a balcony, free access to WiFi and cable TV. Bathroom toiletries and a hairdryer can be found in all modern bathrooms.\n\nThe Erzherzog Johann Alpin Style Hotel - Adults Only’s spa area features a sauna, an infrared cabin and a steam bath. The relaxation room is equipped with lounge chairs and heated loungers overlooking the Dachstein massif.\n\nDachstein Tauern golf course is only a 10-minute drive away. Guests can park their cars free of charge at the hotel.\n\nIn summer, the Summer Card is included in the price comprising regional offers such as free admission to baths and lakes, free hiking bus and much more.\n\nThere is a bus station right next to property, with connections between Schladming and Rohrmoos."
+    },
+    "rating": null,
+    "scoreReviewBasedOn": 702,
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Guests staying at Erzherzog Johann Alpin Style Hotel - Adults Only can enjoy a highly-rated breakfast during their stay (guest review score: 9.6). Breakfast option(s) include: Continental Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Room options at Erzherzog Johann Alpin Style Hotel - Adults Only include: Suite Double"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Check-in at Erzherzog Johann Alpin Style Hotel - Adults Only is from 15:00, and check-out is until 10:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "The prices at Erzherzog Johann Alpin Style Hotel - Adults Only may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only offers the following activities / services (charges may apply): Sauna Cycling Hiking Billiards Skiing Steam room Walking tours Spa facilities Bike tours Spa lounge/relaxation area"
+        },
+        {
+          "topic": "How far is Erzherzog Johann Alpin Style Hotel - Adults Only from the centre of Schladming?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only is 900 m from the centre of Schladming."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Los clientes de Erzherzog Johann Alpin Style Hotel - Adults Only podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9,6) Las opciones del desayuno son: Continental Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Las opciones de habitación en Erzherzog Johann Alpin Style Hotel - Adults Only son: Suite Doble"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Podrás hacer el check-in en Erzherzog Johann Alpin Style Hotel - Adults Only a partir de las 15:00 y el check-out hasta las 10:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Los precios en Erzherzog Johann Alpin Style Hotel - Adults Only pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Sauna Ciclismo Senderismo Billar Esquí Baño de vapor Tours a pie Instalaciones de spa Tours en bici Zona de spa / relajación"
+        },
+        {
+          "topic": "¿A qué distancia está Erzherzog Johann Alpin Style Hotel - Adults Only del centro de Schladming?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only está a 900 m del centro de Schladming."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9,6). Verfügbare Frühstücksoption(en): Kontinental Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only zählen: Suite Doppelzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Der Check-in in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only ist ab 15:00, und der Check-out ist bis 10:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Die Preise an der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Die Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Sauna Radfahren Wandern Billard Skifahren Dampfbad Touren zu Fuß Wellness Fahrradtouren Wellnesslounge/Ruhebereich"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only vom Zentrum von Schladming entfernt?",
+          "topicComments": "Die Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only ist 900 m vom Zentrum von Schladming entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Durante il soggiorno, Erzherzog Johann Alpin Style Hotel - Adults Only propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9,6). Colazione disponibile: continentale a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only offre: Suite Matrimoniale"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Presso Erzherzog Johann Alpin Style Hotel - Adults Only, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 10:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "I prezzi di Erzherzog Johann Alpin Style Hotel - Adults Only possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only offre i seguenti servizi/attività (alcuni a pagamento): Sauna Escursioni in bicicletta Escursionismo Biliardo Sci Bagno turco Tour a piedi Servizi spa Tour in bicicletta Sala spa/area relax"
+        },
+        {
+          "topic": "Quanto dista Erzherzog Johann Alpin Style Hotel - Adults Only dal centro di Schladming?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only si trova a 900 m dal centro di Schladming."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only ont attribué une très bonne note à son petit-déjeuner : 9,6. L'établissement sert les types de petit-déjeuner suivants : Continental Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only ?",
+          "topicComments": "L'établissement Erzherzog Johann Alpin Style Hotel - Adults Only propose les options d'hébergement suivantes : Suite Double"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only ?",
+          "topicComments": "L'enregistrement à l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only se fait à partir de 15:00 et le départ est possible jusqu'à 10:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only ?",
+          "topicComments": "Les tarifs fixés par l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only propose-t-il ?",
+          "topicComments": "L'établissement Erzherzog Johann Alpin Style Hotel - Adults Only propose les activités et les services suivants (des frais peuvent s'appliquer) : Sauna Cyclisme Randonnée Billard Ski Bain à vapeur Balades à pied Spa Visites à vélo Coin spa/relaxation"
+        },
+        {
+          "topic": "L'établissement Erzherzog Johann Alpin Style Hotel - Adults Only est-il proche du centre (Schladming) ?",
+          "topicComments": "L'établissement Erzherzog Johann Alpin Style Hotel - Adults Only se trouve à 900 m du centre (Schladming)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Os hóspedes em Erzherzog Johann Alpin Style Hotel - Adults Only podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9,6). As opções de pequeno-almoço incluem: Continental Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "As opções de quarto em Erzherzog Johann Alpin Style Hotel - Adults Only incluem: Suite Duplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Em Erzherzog Johann Alpin Style Hotel - Adults Only, o check-in é a partir das 15:00 e o check-out até às 10:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Os preços em Erzherzog Johann Alpin Style Hotel - Adults Only podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Erzherzog Johann Alpin Style Hotel - Adults Only?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Sauna Ciclismo Caminhadas Bilhar Esqui Banho de vapor Excursões a pé Comodidades de spa Excursões de bicicleta Sala de spa/área de relaxamento"
+        },
+        {
+          "topic": "A que distância fica Erzherzog Johann Alpin Style Hotel - Adults Only do centro de Schladming?",
+          "topicComments": "Erzherzog Johann Alpin Style Hotel - Adults Only fica a 900 m do centro de Schladming."
+        }
+      ]
+    },
+    "accommodationType": "hotel",
+    "geoPosition": {
+      "latitude": 47.387420092803886,
+      "longitude": 13.678130060434341
+    },
+    "categoryScoreReview": {
+      "en": {},
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.2
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.3
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.3
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.2
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.3
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.3
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.2
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.3
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.3
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.2
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.3
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.3
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.3
+        }
+      }
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Exceptional breakfast"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Carpeted"
+          ],
+          "Outdoors & View": [
+            "Outdoor furniture"
+          ],
+          "Services": [
+            "English"
+          ],
+          "Other": [
+            "Free parking",
+            "Free WiFi",
+            "Skiing",
+            "Terrace",
+            "Parking",
+            "Balcony",
+            "Adults only",
+            "Steam room",
+            "Slippers",
+            "Sun terrace",
+            "Garden",
+            "Refrigerator",
+            "Ski-to-door access",
+            "Ski school Additional charge",
+            "Ski storage",
+            "Bike tours Additional charge",
+            "Walking tours",
+            "Cycling Off-site",
+            "Hiking Off-site",
+            "Billiards Additional charge",
+            "Radio",
+            "Shared lounge/TV area",
+            "Luggage storage",
+            "Express check-in/check-out",
+            "Invoice provided",
+            "Fire extinguishers",
+            "CCTV outside property",
+            "CCTV in common areas",
+            "Smoke alarms",
+            "Key card access",
+            "Heating",
+            "Soundproof rooms",
+            "Lift",
+            "Upper floors accessible by elevator",
+            "Spa lounge/relaxation area",
+            "Spa facilities",
+            "Sauna",
+            "German",
+            "Russian"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Desayuno excepcional"
+          ],
+          "General": [
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de moqueta"
+          ],
+          "Servicios": [
+            "Inglés"
+          ],
+          "Other": [
+            "Parking gratis",
+            "WiFi gratis",
+            "Esquí",
+            "Habitaciones sin humo",
+            "Terraza",
+            "Parking",
+            "Balcón",
+            "Información turística",
+            "Baño de vapor",
+            "Zona de spa / relajación",
+            "Zapatillas",
+            "Mobiliario exterior",
+            "Terraza / solárium",
+            "Jardín",
+            "Nevera",
+            "Acceso directo a pistas",
+            "Escuela de esquí De pago",
+            "Guardaesquíes",
+            "Tours en bici De pago",
+            "Tours a pie",
+            "Ciclismo Fuera del alojamiento",
+            "Senderismo Fuera del alojamiento",
+            "Billar De pago",
+            "Radio",
+            "Zona TV / salón de uso compartido",
+            "Guardaequipaje",
+            "Registro de entrada y salida exprés",
+            "Proporciona factura",
+            "Extintores",
+            "Cámaras de seguridad fuera del alojamiento",
+            "Cámaras de seguridad en las zonas comunitarias",
+            "Detectores de humo",
+            "Tarjeta de acceso",
+            "Solo para adultos",
+            "Calefacción",
+            "Habitaciones insonorizadas",
+            "Ascensor",
+            "Acceso a pisos superiores en ascensor",
+            "Instalaciones de spa",
+            "Sauna",
+            "Alemán",
+            "Ruso"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Teppichboden"
+          ],
+          "Außenbereich": [
+            "Gartenmöbel"
+          ],
+          "Dienstleistungen": [
+            "Englisch"
+          ],
+          "Speisen & Getränke": [
+            "Außergewöhnliches Frühstück"
+          ],
+          "Other": [
+            "Parkplatz inbegriffen",
+            "WLAN inklusive",
+            "Skifahren",
+            "Nichtraucherzimmer",
+            "Terrasse",
+            "Parkplatz",
+            "Balkon",
+            "Informationsschalter für Ausflüge",
+            "Dampfbad",
+            "Wellnesslounge/Ruhebereich",
+            "Hausschuhe",
+            "Sonnenterrasse",
+            "Garten",
+            "Direkter Zugang zur Skipiste",
+            "Skischule Zusätzliche Gebühren",
+            "Skiaufbewahrung",
+            "Fahrradtouren Zusätzliche Gebühren",
+            "Touren zu Fuß",
+            "Radfahren Außerhalb der Unterkunft",
+            "Wandern Außerhalb der Unterkunft",
+            "Billard Zusätzliche Gebühren",
+            "Radio",
+            "Gemeinschaftslounge/TV-Bereich",
+            "Gepäckaufbewahrung",
+            "Express-Check-in/-out",
+            "Rechnung auf Anfrage",
+            "Feuerlöscher",
+            "Videoüberwachung der Außenbereiche der Unterkunft",
+            "Videoüberwachung in Gemeinschaftsbereichen",
+            "Rauchmelder",
+            "Zugang mit Schlüsselkarte",
+            "Nur für Erwachsene",
+            "Heizung",
+            "Schallisolierte Zimmer",
+            "Aufzug",
+            "Obere Stockwerke mit Fahrstuhl erreichbar",
+            "Wellness",
+            "Sauna",
+            "Deutsch",
+            "Russisch"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione eccezionale"
+          ],
+          "Generale": [
+            "Struttura interamente non fumatori",
+            "Moquette"
+          ],
+          "Servizi": [
+            "Inglese"
+          ],
+          "Other": [
+            "Parcheggio gratuito",
+            "Connessione WiFi gratuita",
+            "Sci",
+            "Camere non fumatori",
+            "Terrazza",
+            "Parcheggio",
+            "Balcone",
+            "Banco escursioni",
+            "Bagno turco",
+            "Sala spa/area relax",
+            "Pantofole",
+            "Arredamento da esterni",
+            "Terrazza solarium",
+            "Giardino",
+            "Frigorifero",
+            "Accesso immediato su pista da sci",
+            "Scuola di sci a pagamento",
+            "Deposito sci",
+            "Tour in bicicletta a pagamento",
+            "Tour a piedi",
+            "Escursioni in bicicletta Non sul posto",
+            "Escursionismo Non sul posto",
+            "Biliardo a pagamento",
+            "Radio",
+            "Sala comune/zona TV",
+            "Deposito bagagli",
+            "Check-in e check-out express",
+            "Fattura disponibile su richiesta",
+            "Estintori",
+            "Telecamere a circuito chiuso all'esterno della struttura",
+            "Telecamere a circuito chiuso nelle zone in comune",
+            "Allarme antifumo",
+            "Accesso con chiavi magnetiche",
+            "Solo per adulti",
+            "Riscaldamento",
+            "Disponibilità di camere insonorizzate",
+            "Ascensore",
+            "Piani superiori accessibili tramite ascensore",
+            "Servizi spa",
+            "Sauna",
+            "Tedesco",
+            "Russo"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Petit-déjeuner exceptionnel"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Bureau d'excursions",
+            "Papier toilette",
+            "Serviettes",
+            "Toilettes",
+            "Articles de toilette gratuits",
+            "Peignoir",
+            "Sèche-cheveux",
+            "Douche",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Coin salon",
+            "Bureau",
+            "Chaînes satellite",
+            "Télévision",
+            "Salon commun/salle de télévision",
+            "Coffre-fort"
+          ],
+          "Général": [
+            "Établissement entièrement non-fumeurs",
+            "Moquette"
+          ],
+          "Services": [
+            "Anglais"
+          ],
+          "Other": [
+            "Parking gratuit",
+            "Connexion Wi-Fi gratuite",
+            "Ski",
+            "Chambres non-fumeurs",
+            "Terrasse",
+            "Parking",
+            "Balcon",
+            "Bain à vapeur",
+            "Coin spa/relaxation",
+            "Chaussons",
+            "Mobilier extérieur",
+            "Terrasse bien exposée",
+            "Jardin",
+            "Réfrigérateur",
+            "Accès skis aux pieds",
+            "École de ski En supplément",
+            "Local à skis",
+            "Visites à vélo En supplément",
+            "Balades à pied",
+            "Cyclisme En dehors de l'établissement",
+            "Randonnée En dehors de l'établissement",
+            "Billard En supplément",
+            "Radio",
+            "Bagagerie",
+            "Enregistrement/règlement rapide",
+            "Facture fournie sur demande",
+            "Extincteurs",
+            "Caméras de surveillance à l'extérieur de l'établissement",
+            "Caméras de surveillance dans les parties communes",
+            "Détecteurs de fumée",
+            "Cartes d'accès",
+            "Réservé aux adultes",
+            "Chauffage",
+            "Chambres insonorisées",
+            "Ascenseur",
+            "Étages supérieurs accessibles par ascenseur",
+            "Spa",
+            "Sauna",
+            "Allemand",
+            "Russe"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Excecional pequeno-almoço"
+          ],
+          "Exterior": [
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Piso em carpete"
+          ],
+          "Serviços": [
+            "Inglês"
+          ],
+          "Other": [
+            "Estacionamento gratuito",
+            "Acesso Wi-Fi gratuito",
+            "Esqui",
+            "Quartos para não fumadores",
+            "Terraço",
+            "Estacionamento",
+            "Varanda",
+            "Apenas para adultos",
+            "Balcão de turismo",
+            "Banho de vapor",
+            "Chinelos de quarto",
+            "Terraço para banhos de sol",
+            "Jardim",
+            "Frigorífico",
+            "Acesso direto às pistas de esqui",
+            "Escola de esqui Custo adicional",
+            "Depósito para equipamento de esqui",
+            "Excursões de bicicleta Custo adicional",
+            "Excursões a pé",
+            "Ciclismo Fora do alojamento",
+            "Caminhadas Fora do alojamento",
+            "Bilhar Custo adicional",
+            "Rádio",
+            "Sala para bagagem",
+            "Check-in/check-out expresso",
+            "Fatura mediante pedido",
+            "Extintores",
+            "CCTV no exterior da propriedade",
+            "CCTV nas áreas comuns",
+            "Detetores de fumo",
+            "Cartão de acesso",
+            "Aquecimento",
+            "Quartos insonorizados",
+            "Elevador",
+            "Pisos superiores acessíveis por elevador",
+            "Sala de spa/área de relaxamento",
+            "Comodidades de spa",
+            "Sauna",
+            "Alemão",
+            "Russo"
+          ]
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms.",
+      "es": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms.",
+      "de": "Das Erzherzog Johann Alpin Style Hotel - Adults Only liegt an einem Hang in der Nähe von Schladming und bietet komfortable Zimmer.",
+      "it": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms.",
+      "fr": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms.",
+      "pt": "Set on a slope near Schladming, Erzherzog Johann Alpin Style Hotel - Adults Only offers comfortable rooms."
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "scoreReview": 8.6,
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 17:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 08:00 to 10:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children are not allowed. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children are not allowed. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 18"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 5 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 17:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 8:00 a las 10:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños No se pueden alojar niños. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias No se pueden alojar niños. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 18"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 5 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 17:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 08:00 bis 10:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder können nicht untergebracht werden. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder können nicht untergebracht werden. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 18 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 5 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 17:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 08:00 alle 10:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini Non è consentito l'accesso ai bambini. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi Non è consentito l'accesso ai bambini. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 18 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 5 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 17:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 08:00 à 10:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Les enfants ne sont pas autorisés. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Les enfants ne sont pas autorisés. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 18 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 5 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 17:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 08:00 às 10:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Não são permitidas crianças. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Não são permitidas crianças. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 18"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 5 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "toConsider": {
+      "en": "The Schladming Dachstein Summer Card is included from middle of May until end of October.\nPlease inform Erzherzog Johann Alpin Style Hotel - Adults Only in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "The Schladming Dachstein Summer Card is included from middle of May until end of October.\nInforma a Erzherzog Johann Alpin Style Hotel - Adults Only con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Die Schladming Dachstein Sommercard ist von Mitte Mai bis Ende Oktober im Preis inbegriffen.\nBitte teilen Sie der Unterkunft Erzherzog Johann Alpin Style Hotel - Adults Only Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "The Schladming Dachstein Summer Card is included from middle of May until end of October.\nSiete pregati di comunicare in anticipo a Erzherzog Johann Alpin Style Hotel - Adults Only l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "The Schladming Dachstein Summer Card is included from middle of May until end of October.\nVeuillez informer l'établissement Erzherzog Johann Alpin Style Hotel - Adults Only à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "The Schladming Dachstein Summer Card is included from middle of May until end of October.\nPor favor, informe Erzherzog Johann Alpin Style Hotel - Adults Only antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação."
+    },
+    "address": {
+      "en": "Rohrmoosstraße 164, 8971 Schladming, Austria, 8971 Schladming, Austria",
+      "es": "Rohrmoosstraße 164, 8971 Schladming, Austria, 8971 Schladming, Austria",
+      "de": "Rohrmoosstraße 164, 8971 Schladming, Österreich, 8971 Schladming, Österreich",
+      "it": "Rohrmoosstraße 164, 8971 Schladming, Austria, 8971 Schladming, Austria",
+      "fr": "Rohrmoosstraße 164, 8971 Schladming, Autriche, 8971 Schladming, Autriche",
+      "pt": "Rohrmoosstraße 164, 8971 Schladming, Áustria, 8971 Schladming, Áustria"
+    },
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 6
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 6
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1.1 km",
+          "category": 6
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1.4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet 1",
+          "distance": "1.4 km",
+          "category": 6
+        },
+        {
+          "name": "Rohrmoos I",
+          "distance": "1.4 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1.5 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "87 km",
+          "category": 6
+        }
+      ],
+      "es": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet 1",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Remonte Rohrmoos II",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Salzburgo - W. A. Mozart",
+          "distance": "87 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 6
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Skilift Rohrmoos I",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Bahnhof Schladming",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Salzburg",
+          "distance": "87 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 6
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 6
+        },
+        {
+          "name": "Monte Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 6
+        },
+        {
+          "name": "Impianto di risalita Planai West",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet 1",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Cabinovia Rohrmoos I",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 6
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Salisburgo - W. A. Mozart",
+          "distance": "87 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Haut Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Télécabine Planai West",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet 1",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Remontée mécanique Rohrmoos I",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport Wolfgang Amadeus Mozart de Salzbourg",
+          "distance": "87 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Hopsiland",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Vorstadtstubn",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Amalfi",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Winter.Garten",
+          "distance": "1 km",
+          "category": 2
+        },
+        {
+          "name": "Hoher Dachstein",
+          "distance": "11 km*",
+          "category": 5
+        },
+        {
+          "name": "Planai West",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Golden Jet 1",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Rohrmoos I",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Schladming Train Station",
+          "distance": "1,5 km",
+          "category": 4
+        },
+        {
+          "name": "Pichl bei Schladming",
+          "distance": "6 km",
+          "category": 4
+        },
+        {
+          "name": "Salzburg Airport W. A. Mozart",
+          "distance": "87 km",
+          "category": 1
+        }
+      ]
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}
