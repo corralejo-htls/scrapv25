@@ -1,0 +1,1530 @@
+Query SQL: SELECT url_id , COUNT(*) as COUNT_hotels , hotel_name FROM hotels GROUP BY url_id, hotel_name ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_hotels"; "hotel_name"
+"0136a135-55db-4f39-b213-269006380552"; "6"; "TAUROA Schönberghof Spielberg"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "6"; "Hotel-Gasthof Restaurant Murblick"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "6"; "Hotel Feichtinger Graz"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "6"; "Georgi Schloss - Boutique Hotel"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "6"; "Hotel Mercure Graz City"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "6"; "Hotel Highway - Bed & Breakfast"
+"10388986-c71f-4660-a026-c825f866f729"; "6"; "Hotel Drei Hasen"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "6"; "Alpengasthof Tanzstatt"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "6"; "JUFA Hotel Planneralm"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "6"; "Hotel Moser"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "6"; "Pension Stieber"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "6"; "Hotel Vitaler Landauerhof"
+"2001b485-877f-4b98-a298-75719d4f202e"; "6"; "JUFA Hotel Deutschlandsberg"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "6"; "Hotel Adler Garni"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "6"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "6"; "JUFA Hotel Schladming"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "6"; "Stadthotel Schwerterbräu"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "6"; "Almwelt Austria"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "6"; "Steinerhaus Berggasthof"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "6"; "Narzissen Vital Resort Bad Aussee"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "6"; "Ibis Budget Graz City"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "6"; "JUFA Hotel Judenburg"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "6"; "TAUROA Seehotel Grundlsee"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "6"; "Hotel Süd Graz"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "6"; "Hotel Mariahilf"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "6"; "Hotel Strasser"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "6"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "6"; "Hotel Schütterhof"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "6"; "Hotel Aquamarin"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "6"; "Sun Lodge Schladming by Schladming-Appartements"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "6"; "Motel One Graz"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "6"; "Hotel Spirodom"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "6"; "Haus Mobene - Hotel Garni"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "6"; "SHOME Hotel Graz I Self-Check-In I Free Parking"
+"4fcbb559-a1f7-437a-b3b1-2619ac3a3b8d"; "6"; "Rogner Bad Blumau"
+"57ac9475-4e3c-4882-834d-9c187b533d56"; "6"; "Hotel Sonnschupfer"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "6"; "Weinrefugium Brolli"
+"5dc96c92-18a2-4f64-af62-36e84a0dc634"; "6"; "JUFA Hotel Bruck an der Mur - im Weitental"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "6"; "Gasthof Rothwangl Hannes"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "6"; "Hotel Brücklwirt"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "6"; "Spa Resort Styria- ADULTS ONLY"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "6"; "Das Friedrich"
+"72e97b5a-d21e-4401-9ede-cb62cf04ad4e"; "6"; "TAUROA Steirerschlössl"
+"75196d55-2bfa-45be-9fbc-525ee6cbd812"; "6"; "JUFA Hotel Weiz"
+"75884606-fbe2-4388-8b50-616e548ebe39"; "6"; "Gesundheits- & Wellness Resort Oberzeiring"
+"7a11c33a-0030-41fc-9532-ce972185e316"; "6"; "Heilmoorbad Schwanberg"
+"80195229-1d55-467f-8f91-7be8f6733039"; "6"; "Hotel Pehab - Dachstein Rooftop-Spa"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "6"; "ibis Styles Graz Messe"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "6"; "Mein Hotel Fast"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "6"; "Hotel Drei Raben"
+"85fba99a-3bf3-4b75-a9a2-002d51ffd7b2"; "6"; "Hotel Tauplitzalm"
+"8865bb96-843b-4425-bfe2-3f1d6141fce9"; "6"; "I AM HOTELS Graz-Seiersberg"
+"88b4c315-4c69-40aa-8e40-eef80a981403"; "6"; "Seevilla Altaussee"
+"8b30d662-6636-4a62-bb5c-cc41751851fb"; "6"; "JUFA Hotel Grundlsee"
+"8b39c06c-fa6f-4070-8e8a-44d802971a29"; "6"; "biYou Ecoquartier in den Bergen"
+"8bb357ef-cee9-4770-8160-73ec5a977af4"; "6"; "vidimo se"
+"8dea160d-e451-4f24-a16f-38a69f32b8dc"; "6"; "Stadtvilla Schladming Boutiquehotel"
+"91a0493f-8673-4209-af19-82e0b2e54512"; "6"; "Hotel Birkenhof"
+"925808f6-ac36-4425-a957-3a0fd554f87e"; "6"; "Suitehotel Kleinwalsertal"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "6"; "Zur Steirerstub'n"
+"9b3fd2ed-68d9-4184-b46c-ec9cfc71539b"; "6"; "Hotel Sonnenalm Stuhleck"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "6"; "RINGRAST Boxenstopp mit HERZ"
+"a3d3b45a-5ae5-4870-bc1b-ab8aea1fddd7"; "6"; "Hotel Wasserpalast - breakfast for free!!!"
+"a49259bb-18cd-4d30-b6a8-93ac8a2ed104"; "6"; "Hotel Restaurant Hesch"
+"a50d9c10-8237-4209-9e3b-0cee95043703"; "6"; "JUFA Hotel Tieschen"
+"a792cd9d-2a78-4614-8646-3b908ac0b986"; "6"; "Villa Dvor"
+"a83ca9e1-a0d6-4e16-b76f-139394bb19ad"; "6"; "Sporthotel Royer"
+"b5128676-3ed2-4d41-a459-f565564ae2c7"; "6"; "PLAZA INN Graz Messe"
+"b69a1e95-3cb9-42a6-8568-991a33656c76"; "6"; "JUFA Hotel Pöllau"
+"b6b9720c-514b-4696-9daf-56b6072f6241"; "6"; "Gasthof Kranerwirt"
+"b979f6c9-ee67-4be0-944c-ead78bda95a1"; "6"; "Boutique Hotel Dom - Rooms & Suites"
+"c35b2e47-75b2-4231-83f5-f16fca526969"; "6"; "Heilthermen Resort Bad Waltersdorf, Adults only"
+"c8bca8d7-0d5b-47d3-80c4-c87f4ba28ff5"; "6"; "Hotel zum Heiligen Geist"
+"c9aa2eb0-801c-4266-affe-52b9deef8b42"; "6"; "Palais-Hotel Erzherzog Johann"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "6"; "Hotel Rösslhof"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "6"; "Schloss Gamlitz"
+"d0a16e8f-9327-4e44-a3aa-04074f53b56d"; "6"; "IntercityHotel Graz"
+"d2785fac-56ba-4224-ae15-017255f4c376"; "6"; "Hotel Post"
+"d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3"; "6"; "wild & bolz eMotel"
+"d6d84c35-f097-4424-a241-4fda51b74bb2"; "6"; "B&B Hotel Graz-Hbf"
+"da30e90c-76b5-4d35-acfc-c56d4810ae72"; "6"; "Jaglhof"
+"dcbef893-999c-4cb2-957b-61a318cc2e8a"; "6"; "Hotel Auszeit St Lambrecht"
+"e3844569-c74e-4b47-83fb-3ae92a4f72d5"; "6"; "A-ROSA Ifen Hotel Kleinwalsertal"
+"e41682e9-bf50-4a52-93a2-6f3fa5c05ac0"; "6"; "JUFA Hotel Schloss Röthelstein"
+"e6c0681e-921e-4703-9851-f47eb6536bed"; "6"; "JUFA Hotel Donnersbachwald"
+"e7326f37-b9b4-407d-b96c-392506bdbf33"; "6"; "Pension Eder"
+"eb9ac4cc-dca4-4189-8e26-dc0fe79cf18c"; "6"; "Waldschlössl Gasthof"
+"ed60c021-1f21-4586-a987-147643c790c0"; "6"; "Frühstückspension Ochnerbauer"
+"f03bb220-1406-4f83-adcf-b117d5eb944e"; "6"; "Radisson Hotel Graz"
+"f39453f1-e8bf-420c-a367-4b048afb64cb"; "6"; "Hotel Aton"
+"f5ceebd5-b31d-451d-8119-76694afe409f"; "6"; "Hi5-Hotel Seiersberg"
+"f692e0e9-677e-4a03-9ff4-9b1199a6abc3"; "6"; "Schlossberghotel"
+"f88b1ea7-4d74-4f08-9d50-7f13090b6f8a"; "6"; "JUFA Hotel Mariazell"
+"f946c239-a4a2-4017-9f07-b0284af29277"; "6"; "JUFA Hotel Maria Lankowitz"
+"faca1167-7070-49f4-8424-e09b95dc0b7c"; "6"; "Art Hotel Spielberg"
+"fb2f95b3-35ea-4688-9c10-c4701f683964"; "6"; "Lachtalhaus"
+"fbcc9c72-4d69-441b-ad73-86992ca3575a"; "6"; "Hotel Kiwano Graz"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_legal FROM hotels_legal GROUP BY url_id ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_legal"
+"0136a135-55db-4f39-b213-269006380552"; "6"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "6"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "6"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "6"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "6"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "6"
+"10388986-c71f-4660-a026-c825f866f729"; "6"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "6"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "6"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "6"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "6"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "6"
+"2001b485-877f-4b98-a298-75719d4f202e"; "6"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "6"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "6"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "6"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "6"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "6"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "6"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "6"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "6"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "6"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "6"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "6"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "6"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "6"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "6"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "6"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "6"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "6"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "6"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "6"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "6"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "6"
+"4fcbb559-a1f7-437a-b3b1-2619ac3a3b8d"; "6"
+"57ac9475-4e3c-4882-834d-9c187b533d56"; "6"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "6"
+"5dc96c92-18a2-4f64-af62-36e84a0dc634"; "6"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "6"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "6"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "6"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "6"
+"72e97b5a-d21e-4401-9ede-cb62cf04ad4e"; "6"
+"75196d55-2bfa-45be-9fbc-525ee6cbd812"; "6"
+"75884606-fbe2-4388-8b50-616e548ebe39"; "6"
+"7a11c33a-0030-41fc-9532-ce972185e316"; "6"
+"80195229-1d55-467f-8f91-7be8f6733039"; "6"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "6"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "6"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "6"
+"85fba99a-3bf3-4b75-a9a2-002d51ffd7b2"; "6"
+"8865bb96-843b-4425-bfe2-3f1d6141fce9"; "6"
+"88b4c315-4c69-40aa-8e40-eef80a981403"; "6"
+"8b30d662-6636-4a62-bb5c-cc41751851fb"; "6"
+"8b39c06c-fa6f-4070-8e8a-44d802971a29"; "6"
+"8bb357ef-cee9-4770-8160-73ec5a977af4"; "6"
+"8dea160d-e451-4f24-a16f-38a69f32b8dc"; "6"
+"91a0493f-8673-4209-af19-82e0b2e54512"; "6"
+"925808f6-ac36-4425-a957-3a0fd554f87e"; "6"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "6"
+"9b3fd2ed-68d9-4184-b46c-ec9cfc71539b"; "6"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "6"
+"a3d3b45a-5ae5-4870-bc1b-ab8aea1fddd7"; "6"
+"a49259bb-18cd-4d30-b6a8-93ac8a2ed104"; "6"
+"a50d9c10-8237-4209-9e3b-0cee95043703"; "6"
+"a792cd9d-2a78-4614-8646-3b908ac0b986"; "6"
+"a83ca9e1-a0d6-4e16-b76f-139394bb19ad"; "6"
+"b5128676-3ed2-4d41-a459-f565564ae2c7"; "6"
+"b69a1e95-3cb9-42a6-8568-991a33656c76"; "6"
+"b6b9720c-514b-4696-9daf-56b6072f6241"; "6"
+"b979f6c9-ee67-4be0-944c-ead78bda95a1"; "6"
+"c35b2e47-75b2-4231-83f5-f16fca526969"; "6"
+"c8bca8d7-0d5b-47d3-80c4-c87f4ba28ff5"; "6"
+"c9aa2eb0-801c-4266-affe-52b9deef8b42"; "6"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "6"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "6"
+"d0a16e8f-9327-4e44-a3aa-04074f53b56d"; "6"
+"d2785fac-56ba-4224-ae15-017255f4c376"; "6"
+"d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3"; "6"
+"d6d84c35-f097-4424-a241-4fda51b74bb2"; "6"
+"da30e90c-76b5-4d35-acfc-c56d4810ae72"; "6"
+"dcbef893-999c-4cb2-957b-61a318cc2e8a"; "6"
+"e3844569-c74e-4b47-83fb-3ae92a4f72d5"; "6"
+"e41682e9-bf50-4a52-93a2-6f3fa5c05ac0"; "6"
+"e6c0681e-921e-4703-9851-f47eb6536bed"; "6"
+"e7326f37-b9b4-407d-b96c-392506bdbf33"; "6"
+"eb9ac4cc-dca4-4189-8e26-dc0fe79cf18c"; "6"
+"ed60c021-1f21-4586-a987-147643c790c0"; "6"
+"f03bb220-1406-4f83-adcf-b117d5eb944e"; "6"
+"f39453f1-e8bf-420c-a367-4b048afb64cb"; "6"
+"f5ceebd5-b31d-451d-8119-76694afe409f"; "6"
+"f692e0e9-677e-4a03-9ff4-9b1199a6abc3"; "6"
+"f88b1ea7-4d74-4f08-9d50-7f13090b6f8a"; "6"
+"f946c239-a4a2-4017-9f07-b0284af29277"; "6"
+"faca1167-7070-49f4-8424-e09b95dc0b7c"; "6"
+"fb2f95b3-35ea-4688-9c10-c4701f683964"; "6"
+"fbcc9c72-4d69-441b-ad73-86992ca3575a"; "6"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_polices FROM hotels_policies GROUP BY url_id ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_polices"
+"0136a135-55db-4f39-b213-269006380552"; "48"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "48"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "48"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "42"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "48"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "42"
+"10388986-c71f-4660-a026-c825f866f729"; "42"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "42"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "48"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "42"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "42"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "48"
+"2001b485-877f-4b98-a298-75719d4f202e"; "54"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "48"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "48"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "48"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "48"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "42"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "42"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "48"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "48"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "48"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "48"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "48"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "54"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "48"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "42"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "48"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "42"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "66"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "48"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "48"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "42"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "48"
+"4fcbb559-a1f7-437a-b3b1-2619ac3a3b8d"; "42"
+"57ac9475-4e3c-4882-834d-9c187b533d56"; "42"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "48"
+"5dc96c92-18a2-4f64-af62-36e84a0dc634"; "48"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "42"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "42"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "48"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "42"
+"72e97b5a-d21e-4401-9ede-cb62cf04ad4e"; "42"
+"75196d55-2bfa-45be-9fbc-525ee6cbd812"; "48"
+"75884606-fbe2-4388-8b50-616e548ebe39"; "42"
+"7a11c33a-0030-41fc-9532-ce972185e316"; "42"
+"80195229-1d55-467f-8f91-7be8f6733039"; "42"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "48"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "42"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "48"
+"85fba99a-3bf3-4b75-a9a2-002d51ffd7b2"; "42"
+"8865bb96-843b-4425-bfe2-3f1d6141fce9"; "48"
+"88b4c315-4c69-40aa-8e40-eef80a981403"; "42"
+"8b30d662-6636-4a62-bb5c-cc41751851fb"; "48"
+"8b39c06c-fa6f-4070-8e8a-44d802971a29"; "42"
+"8bb357ef-cee9-4770-8160-73ec5a977af4"; "42"
+"8dea160d-e451-4f24-a16f-38a69f32b8dc"; "48"
+"91a0493f-8673-4209-af19-82e0b2e54512"; "48"
+"925808f6-ac36-4425-a957-3a0fd554f87e"; "42"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "48"
+"9b3fd2ed-68d9-4184-b46c-ec9cfc71539b"; "42"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "42"
+"a3d3b45a-5ae5-4870-bc1b-ab8aea1fddd7"; "42"
+"a49259bb-18cd-4d30-b6a8-93ac8a2ed104"; "42"
+"a50d9c10-8237-4209-9e3b-0cee95043703"; "54"
+"a792cd9d-2a78-4614-8646-3b908ac0b986"; "60"
+"a83ca9e1-a0d6-4e16-b76f-139394bb19ad"; "48"
+"b5128676-3ed2-4d41-a459-f565564ae2c7"; "54"
+"b69a1e95-3cb9-42a6-8568-991a33656c76"; "48"
+"b6b9720c-514b-4696-9daf-56b6072f6241"; "42"
+"b979f6c9-ee67-4be0-944c-ead78bda95a1"; "42"
+"c35b2e47-75b2-4231-83f5-f16fca526969"; "48"
+"c8bca8d7-0d5b-47d3-80c4-c87f4ba28ff5"; "42"
+"c9aa2eb0-801c-4266-affe-52b9deef8b42"; "48"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "48"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "42"
+"d0a16e8f-9327-4e44-a3aa-04074f53b56d"; "48"
+"d2785fac-56ba-4224-ae15-017255f4c376"; "42"
+"d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3"; "42"
+"d6d84c35-f097-4424-a241-4fda51b74bb2"; "48"
+"da30e90c-76b5-4d35-acfc-c56d4810ae72"; "42"
+"dcbef893-999c-4cb2-957b-61a318cc2e8a"; "48"
+"e3844569-c74e-4b47-83fb-3ae92a4f72d5"; "48"
+"e41682e9-bf50-4a52-93a2-6f3fa5c05ac0"; "48"
+"e6c0681e-921e-4703-9851-f47eb6536bed"; "48"
+"e7326f37-b9b4-407d-b96c-392506bdbf33"; "42"
+"eb9ac4cc-dca4-4189-8e26-dc0fe79cf18c"; "48"
+"ed60c021-1f21-4586-a987-147643c790c0"; "42"
+"f03bb220-1406-4f83-adcf-b117d5eb944e"; "48"
+"f39453f1-e8bf-420c-a367-4b048afb64cb"; "42"
+"f5ceebd5-b31d-451d-8119-76694afe409f"; "42"
+"f692e0e9-677e-4a03-9ff4-9b1199a6abc3"; "48"
+"f88b1ea7-4d74-4f08-9d50-7f13090b6f8a"; "48"
+"f946c239-a4a2-4017-9f07-b0284af29277"; "48"
+"faca1167-7070-49f4-8424-e09b95dc0b7c"; "42"
+"fb2f95b3-35ea-4688-9c10-c4701f683964"; "42"
+"fbcc9c72-4d69-441b-ad73-86992ca3575a"; "42"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , language, COUNT(*) as COUNT_policies FROM hotels_policies GROUP BY url_id, language ORDER BY url_id, language limit 200 
+Result:
+```
+{
+"url_id"; "language"; "count_policies"
+"0136a135-55db-4f39-b213-269006380552"; "de"; "8"
+"0136a135-55db-4f39-b213-269006380552"; "en"; "8"
+"0136a135-55db-4f39-b213-269006380552"; "es"; "8"
+"0136a135-55db-4f39-b213-269006380552"; "fr"; "8"
+"0136a135-55db-4f39-b213-269006380552"; "it"; "8"
+"0136a135-55db-4f39-b213-269006380552"; "pt"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "de"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "en"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "es"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "fr"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "it"; "8"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "pt"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "de"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "en"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "es"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "fr"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "it"; "8"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "pt"; "8"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "de"; "7"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "en"; "7"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "es"; "7"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "fr"; "7"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "it"; "7"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "pt"; "7"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "de"; "8"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "en"; "8"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "es"; "8"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "fr"; "8"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "it"; "8"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "pt"; "8"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "de"; "7"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "en"; "7"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "es"; "7"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "fr"; "7"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "it"; "7"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "pt"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "de"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "en"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "es"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "fr"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "it"; "7"
+"10388986-c71f-4660-a026-c825f866f729"; "pt"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "de"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "en"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "es"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "fr"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "it"; "7"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "pt"; "7"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "de"; "8"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "en"; "8"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "es"; "8"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "fr"; "8"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "it"; "8"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "pt"; "8"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "de"; "7"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "en"; "7"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "es"; "7"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "fr"; "7"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "it"; "7"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "pt"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "de"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "en"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "es"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "fr"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "it"; "7"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "pt"; "7"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "de"; "8"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "en"; "8"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "es"; "8"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "fr"; "8"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "it"; "8"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "pt"; "8"
+"2001b485-877f-4b98-a298-75719d4f202e"; "de"; "9"
+"2001b485-877f-4b98-a298-75719d4f202e"; "en"; "9"
+"2001b485-877f-4b98-a298-75719d4f202e"; "es"; "9"
+"2001b485-877f-4b98-a298-75719d4f202e"; "fr"; "9"
+"2001b485-877f-4b98-a298-75719d4f202e"; "it"; "9"
+"2001b485-877f-4b98-a298-75719d4f202e"; "pt"; "9"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "de"; "8"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "en"; "8"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "es"; "8"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "fr"; "8"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "it"; "8"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "pt"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "de"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "en"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "es"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "fr"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "it"; "8"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "pt"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "de"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "en"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "es"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "fr"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "it"; "8"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "pt"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "de"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "en"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "es"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "fr"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "it"; "8"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "pt"; "8"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "de"; "7"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "en"; "7"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "es"; "7"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "fr"; "7"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "it"; "7"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "pt"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "de"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "en"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "es"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "fr"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "it"; "7"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "pt"; "7"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "de"; "8"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "en"; "8"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "es"; "8"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "fr"; "8"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "it"; "8"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "pt"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "de"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "en"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "es"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "fr"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "it"; "8"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "pt"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "de"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "en"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "es"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "fr"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "it"; "8"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "pt"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "de"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "en"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "es"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "fr"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "it"; "8"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "pt"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "de"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "en"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "es"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "fr"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "it"; "8"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "pt"; "8"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "de"; "9"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "en"; "9"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "es"; "9"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "fr"; "9"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "it"; "9"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "pt"; "9"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "de"; "8"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "en"; "8"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "es"; "8"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "fr"; "8"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "it"; "8"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "pt"; "8"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "de"; "7"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "en"; "7"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "es"; "7"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "fr"; "7"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "it"; "7"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "pt"; "7"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "de"; "8"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "en"; "8"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "es"; "8"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "fr"; "8"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "it"; "8"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "pt"; "8"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "de"; "7"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "en"; "7"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "es"; "7"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "fr"; "7"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "it"; "7"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "pt"; "7"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "de"; "11"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "en"; "11"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "es"; "11"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "fr"; "11"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "it"; "11"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "pt"; "11"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "de"; "8"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "en"; "8"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "es"; "8"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "fr"; "8"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "it"; "8"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "pt"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "de"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "en"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "es"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "fr"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "it"; "8"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "pt"; "8"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "de"; "7"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "en"; "7"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "es"; "7"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "fr"; "7"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "it"; "7"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "pt"; "7"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "de"; "8"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "en"; "8"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_descriptions FROM hotels_description GROUP BY url_id  ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_descriptions"
+"0136a135-55db-4f39-b213-269006380552"; "6"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "6"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "6"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "6"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "6"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "6"
+"10388986-c71f-4660-a026-c825f866f729"; "6"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "6"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "6"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "6"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "6"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "6"
+"2001b485-877f-4b98-a298-75719d4f202e"; "6"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "6"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "6"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "6"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "6"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "6"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "6"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "6"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "6"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "6"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "6"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "6"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "6"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "6"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "6"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "6"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "6"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "6"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "6"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "6"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "6"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "6"
+"4fcbb559-a1f7-437a-b3b1-2619ac3a3b8d"; "6"
+"57ac9475-4e3c-4882-834d-9c187b533d56"; "6"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "6"
+"5dc96c92-18a2-4f64-af62-36e84a0dc634"; "6"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "6"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "6"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "6"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "6"
+"72e97b5a-d21e-4401-9ede-cb62cf04ad4e"; "6"
+"75196d55-2bfa-45be-9fbc-525ee6cbd812"; "6"
+"75884606-fbe2-4388-8b50-616e548ebe39"; "6"
+"7a11c33a-0030-41fc-9532-ce972185e316"; "6"
+"80195229-1d55-467f-8f91-7be8f6733039"; "6"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "6"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "6"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "6"
+"85fba99a-3bf3-4b75-a9a2-002d51ffd7b2"; "6"
+"8865bb96-843b-4425-bfe2-3f1d6141fce9"; "6"
+"88b4c315-4c69-40aa-8e40-eef80a981403"; "6"
+"8b30d662-6636-4a62-bb5c-cc41751851fb"; "6"
+"8b39c06c-fa6f-4070-8e8a-44d802971a29"; "6"
+"8bb357ef-cee9-4770-8160-73ec5a977af4"; "6"
+"8dea160d-e451-4f24-a16f-38a69f32b8dc"; "6"
+"91a0493f-8673-4209-af19-82e0b2e54512"; "6"
+"925808f6-ac36-4425-a957-3a0fd554f87e"; "6"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "6"
+"9b3fd2ed-68d9-4184-b46c-ec9cfc71539b"; "6"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "6"
+"a3d3b45a-5ae5-4870-bc1b-ab8aea1fddd7"; "6"
+"a49259bb-18cd-4d30-b6a8-93ac8a2ed104"; "6"
+"a50d9c10-8237-4209-9e3b-0cee95043703"; "6"
+"a792cd9d-2a78-4614-8646-3b908ac0b986"; "6"
+"a83ca9e1-a0d6-4e16-b76f-139394bb19ad"; "6"
+"b5128676-3ed2-4d41-a459-f565564ae2c7"; "6"
+"b69a1e95-3cb9-42a6-8568-991a33656c76"; "6"
+"b6b9720c-514b-4696-9daf-56b6072f6241"; "6"
+"b979f6c9-ee67-4be0-944c-ead78bda95a1"; "6"
+"c35b2e47-75b2-4231-83f5-f16fca526969"; "6"
+"c8bca8d7-0d5b-47d3-80c4-c87f4ba28ff5"; "6"
+"c9aa2eb0-801c-4266-affe-52b9deef8b42"; "6"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "6"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "6"
+"d0a16e8f-9327-4e44-a3aa-04074f53b56d"; "6"
+"d2785fac-56ba-4224-ae15-017255f4c376"; "6"
+"d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3"; "6"
+"d6d84c35-f097-4424-a241-4fda51b74bb2"; "6"
+"da30e90c-76b5-4d35-acfc-c56d4810ae72"; "6"
+"dcbef893-999c-4cb2-957b-61a318cc2e8a"; "6"
+"e3844569-c74e-4b47-83fb-3ae92a4f72d5"; "6"
+"e41682e9-bf50-4a52-93a2-6f3fa5c05ac0"; "6"
+"e6c0681e-921e-4703-9851-f47eb6536bed"; "6"
+"e7326f37-b9b4-407d-b96c-392506bdbf33"; "6"
+"eb9ac4cc-dca4-4189-8e26-dc0fe79cf18c"; "6"
+"ed60c021-1f21-4586-a987-147643c790c0"; "6"
+"f03bb220-1406-4f83-adcf-b117d5eb944e"; "6"
+"f39453f1-e8bf-420c-a367-4b048afb64cb"; "6"
+"f5ceebd5-b31d-451d-8119-76694afe409f"; "6"
+"f692e0e9-677e-4a03-9ff4-9b1199a6abc3"; "6"
+"f88b1ea7-4d74-4f08-9d50-7f13090b6f8a"; "6"
+"f946c239-a4a2-4017-9f07-b0284af29277"; "6"
+"faca1167-7070-49f4-8424-e09b95dc0b7c"; "6"
+"fb2f95b3-35ea-4688-9c10-c4701f683964"; "6"
+"fbcc9c72-4d69-441b-ad73-86992ca3575a"; "6"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , language, COUNT(*) AS COUNT_service_category  FROM hotels_all_services WHERE language ='en' GROUP BY url_id , language limit 200 
+Result:
+```
+{
+"url_id"; "language"; "count_service_category"
+"e3844569-c74e-4b47-83fb-3ae92a4f72d5"; "en"; "136"
+"d0a16e8f-9327-4e44-a3aa-04074f53b56d"; "en"; "114"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "en"; "64"
+"f03bb220-1406-4f83-adcf-b117d5eb944e"; "en"; "60"
+"faca1167-7070-49f4-8424-e09b95dc0b7c"; "en"; "58"
+"b69a1e95-3cb9-42a6-8568-991a33656c76"; "en"; "89"
+"925808f6-ac36-4425-a957-3a0fd554f87e"; "en"; "92"
+"80195229-1d55-467f-8f91-7be8f6733039"; "en"; "84"
+"75884606-fbe2-4388-8b50-616e548ebe39"; "en"; "32"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "en"; "101"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "en"; "61"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "en"; "151"
+"8865bb96-843b-4425-bfe2-3f1d6141fce9"; "en"; "74"
+"2001b485-877f-4b98-a298-75719d4f202e"; "en"; "71"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "en"; "109"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "en"; "76"
+"d2785fac-56ba-4224-ae15-017255f4c376"; "en"; "72"
+"d6d84c35-f097-4424-a241-4fda51b74bb2"; "en"; "37"
+"a792cd9d-2a78-4614-8646-3b908ac0b986"; "en"; "49"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "en"; "56"
+"b6b9720c-514b-4696-9daf-56b6072f6241"; "en"; "59"
+"e6c0681e-921e-4703-9851-f47eb6536bed"; "en"; "71"
+"da30e90c-76b5-4d35-acfc-c56d4810ae72"; "en"; "10"
+"10388986-c71f-4660-a026-c825f866f729"; "en"; "80"
+"4fcbb559-a1f7-437a-b3b1-2619ac3a3b8d"; "en"; "55"
+"b5128676-3ed2-4d41-a459-f565564ae2c7"; "en"; "64"
+"75196d55-2bfa-45be-9fbc-525ee6cbd812"; "en"; "93"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "en"; "80"
+"72e97b5a-d21e-4401-9ede-cb62cf04ad4e"; "en"; "95"
+"5dc96c92-18a2-4f64-af62-36e84a0dc634"; "en"; "63"
+"eb9ac4cc-dca4-4189-8e26-dc0fe79cf18c"; "en"; "47"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "en"; "62"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "en"; "46"
+"b979f6c9-ee67-4be0-944c-ead78bda95a1"; "en"; "56"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "en"; "134"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "en"; "89"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "en"; "50"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "en"; "58"
+"57ac9475-4e3c-4882-834d-9c187b533d56"; "en"; "116"
+"c35b2e47-75b2-4231-83f5-f16fca526969"; "en"; "135"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "en"; "84"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "en"; "35"
+"8b30d662-6636-4a62-bb5c-cc41751851fb"; "en"; "75"
+"a83ca9e1-a0d6-4e16-b76f-139394bb19ad"; "en"; "112"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "en"; "123"
+"d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3"; "en"; "37"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "en"; "40"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "en"; "9"
+"a3d3b45a-5ae5-4870-bc1b-ab8aea1fddd7"; "en"; "20"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "en"; "71"
+"c9aa2eb0-801c-4266-affe-52b9deef8b42"; "en"; "52"
+"0136a135-55db-4f39-b213-269006380552"; "en"; "82"
+"f39453f1-e8bf-420c-a367-4b048afb64cb"; "en"; "48"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "en"; "41"
+"f88b1ea7-4d74-4f08-9d50-7f13090b6f8a"; "en"; "79"
+"a49259bb-18cd-4d30-b6a8-93ac8a2ed104"; "en"; "67"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "en"; "53"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "en"; "7"
+"85fba99a-3bf3-4b75-a9a2-002d51ffd7b2"; "en"; "52"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "en"; "70"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "en"; "36"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "en"; "91"
+"ed60c021-1f21-4586-a987-147643c790c0"; "en"; "31"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "en"; "63"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "en"; "72"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "en"; "109"
+"f5ceebd5-b31d-451d-8119-76694afe409f"; "en"; "107"
+"e7326f37-b9b4-407d-b96c-392506bdbf33"; "en"; "54"
+"a50d9c10-8237-4209-9e3b-0cee95043703"; "en"; "80"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "en"; "95"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "en"; "65"
+"91a0493f-8673-4209-af19-82e0b2e54512"; "en"; "34"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "en"; "54"
+"e41682e9-bf50-4a52-93a2-6f3fa5c05ac0"; "en"; "57"
+"7a11c33a-0030-41fc-9532-ce972185e316"; "en"; "127"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "en"; "72"
+"8b39c06c-fa6f-4070-8e8a-44d802971a29"; "en"; "81"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "en"; "109"
+"9b3fd2ed-68d9-4184-b46c-ec9cfc71539b"; "en"; "71"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "en"; "39"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "en"; "57"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "en"; "62"
+"fb2f95b3-35ea-4688-9c10-c4701f683964"; "en"; "54"
+"88b4c315-4c69-40aa-8e40-eef80a981403"; "en"; "103"
+"c8bca8d7-0d5b-47d3-80c4-c87f4ba28ff5"; "en"; "48"
+"f946c239-a4a2-4017-9f07-b0284af29277"; "en"; "75"
+"f692e0e9-677e-4a03-9ff4-9b1199a6abc3"; "en"; "102"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "en"; "49"
+"8bb357ef-cee9-4770-8160-73ec5a977af4"; "en"; "18"
+"8dea160d-e451-4f24-a16f-38a69f32b8dc"; "en"; "73"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "en"; "28"
+"dcbef893-999c-4cb2-957b-61a318cc2e8a"; "en"; "87"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "en"; "60"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "en"; "82"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "en"; "43"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "en"; "17"
+"fbcc9c72-4d69-441b-ad73-86992ca3575a"; "en"; "72"
+}
+```
+
+---
+
+Query SQL: SELECT al.url_id , al.hotel_id , al.language , COUNT(al.*) AS COUNT_service_category , h.hotel_name FROM hotels_all_services al LEFT JOIN hotels h ON al.url_id = h.url_id and al.language = h.language and al.hotel_id = h.id GROUP BY al.url_id , al.hotel_id , h.hotel_name , al.language ORDER BY  al.url_id , al.language  limit 200 
+Result:
+```
+{
+"url_id"; "hotel_id"; "language"; "count_service_category"; "hotel_name"
+"0136a135-55db-4f39-b213-269006380552"; "6f9f32ce-f180-45e4-9591-fc9994459233"; "de"; "83"; "TAUROA Schönberghof Spielberg"
+"0136a135-55db-4f39-b213-269006380552"; "43c5c583-d5ea-4267-9322-d56496006f74"; "en"; "82"; "TAUROA Schönberghof Spielberg"
+"0136a135-55db-4f39-b213-269006380552"; "d043ecc2-0108-4701-879b-2b7904fe4fc5"; "es"; "83"; "TAUROA Schönberghof Spielberg"
+"0136a135-55db-4f39-b213-269006380552"; "a044966f-3cee-4efc-ad63-da1655e54e3d"; "fr"; "85"; "TAUROA Schönberghof Spielberg"
+"0136a135-55db-4f39-b213-269006380552"; "502afda7-ada5-401e-bc8f-ffb2b5ab7569"; "it"; "80"; "TAUROA Schönberghof Spielberg"
+"0136a135-55db-4f39-b213-269006380552"; "f33c3274-18de-4859-8bfb-a04cfa9b1555"; "pt"; "84"; "TAUROA Schönberghof Spielberg"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "7c6781b7-6a5a-4de0-9427-a831bd214104"; "de"; "69"; "Hotel-Gasthof Restaurant Murblick"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "26b4997f-e4fb-41b0-bd9c-92d09cb93b6a"; "en"; "70"; "Hotel-Gasthof Restaurant Murblick"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "2eedeb99-c259-4080-bfd6-45465ebd59d0"; "es"; "69"; "Hotel-Gasthof Restaurant Murblick"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "734a19eb-bd3c-414d-8017-fa31462a90ef"; "fr"; "71"; "Hotel-Gasthof Restaurant Murblick"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "ba6b4737-b9b5-470c-b83c-6a05d92de0a5"; "it"; "69"; "Hotel-Gasthof Restaurant Murblick"
+"02ad4d10-d06a-4e35-bf9e-3ab9a47c0d7c"; "9fad4185-f244-434b-a48c-6114f8721eea"; "pt"; "70"; "Hotel-Gasthof Restaurant Murblick"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "029c640f-bc02-49b5-9420-3c181ab1f4f4"; "de"; "55"; "Hotel Feichtinger Graz"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "cb72a71d-f540-42ed-a2fd-63ea78678bbb"; "en"; "56"; "Hotel Feichtinger Graz"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "1440a925-4656-42fd-b409-3a085366e456"; "es"; "55"; "Hotel Feichtinger Graz"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "1862c315-b866-40ad-b21d-e7f51368bf13"; "fr"; "57"; "Hotel Feichtinger Graz"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "a9866283-c031-401e-b8d8-3ec24212d167"; "it"; "55"; "Hotel Feichtinger Graz"
+"07960a27-da0f-44a7-ae80-250c7908d2b3"; "fa7a2c50-b813-4c4c-ae0d-240d40085e3f"; "pt"; "56"; "Hotel Feichtinger Graz"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "875619b0-bf59-43e1-8320-c454c8840162"; "de"; "59"; "Georgi Schloss - Boutique Hotel"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "64ae8f56-c812-46f6-b56b-afd315a512ea"; "en"; "60"; "Georgi Schloss - Boutique Hotel"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "03ddc622-f71b-495d-baa3-d14f43fb6060"; "es"; "59"; "Georgi Schloss - Boutique Hotel"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "432ea28b-3df7-4397-b905-8db80461c89f"; "fr"; "58"; "Georgi Schloss - Boutique Hotel"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "4df758f4-f4a0-4140-9306-815c6234f3a3"; "it"; "5"; "Georgi Schloss - Boutique Hotel"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "90d72b44-86f7-494f-ae2a-ac3596c05d57"; "pt"; "60"; "Georgi Schloss - Boutique Hotel"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "a70903eb-df4b-4b31-a504-c904ea515290"; "de"; "50"; "Hotel Mercure Graz City"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "e71d9bb2-815e-42a4-b003-ad0b730a382b"; "en"; "50"; "Hotel Mercure Graz City"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "acd94e61-29e2-4416-b0b6-790dec5b0a56"; "es"; "49"; "Hotel Mercure Graz City"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "fdc030f3-f18e-4a12-914a-448f5094d574"; "fr"; "48"; "Hotel Mercure Graz City"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "2e6a5980-2c75-4efc-a716-706f48a67645"; "it"; "50"; "Hotel Mercure Graz City"
+"09682c83-f627-4f79-833a-ac3af786f4e9"; "58dee10f-af11-4147-9008-6482516861d8"; "pt"; "48"; "Hotel Mercure Graz City"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "f37b3bde-5bcf-4520-b559-3303a40cc1db"; "de"; "42"; "Hotel Highway - Bed & Breakfast"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "fa98038b-d229-48da-86cb-4b7d490442ab"; "en"; "43"; "Hotel Highway - Bed & Breakfast"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "f1386d2d-f090-4358-85fb-6cf43cb7f809"; "es"; "42"; "Hotel Highway - Bed & Breakfast"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "12cfbc3b-b9aa-47eb-999a-8ce8095a8eac"; "fr"; "44"; "Hotel Highway - Bed & Breakfast"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "668c76e3-01b7-4c46-83ce-dc829024c8ef"; "it"; "42"; "Hotel Highway - Bed & Breakfast"
+"0b2073d8-5af0-4bf7-877f-9fcb9ff0b534"; "3f7a4532-5fab-4882-80f0-2e3f9b082170"; "pt"; "41"; "Hotel Highway - Bed & Breakfast"
+"10388986-c71f-4660-a026-c825f866f729"; "ca7a30b4-0669-4ed3-9fd1-ae9dee3370e6"; "de"; "79"; "Hotel Drei Hasen"
+"10388986-c71f-4660-a026-c825f866f729"; "f5f77a41-4f76-4c8a-aab0-0be888f80b9c"; "en"; "80"; "Hotel Drei Hasen"
+"10388986-c71f-4660-a026-c825f866f729"; "3e90780b-aa20-43f1-a824-08726bd1e16e"; "es"; "79"; "Hotel Drei Hasen"
+"10388986-c71f-4660-a026-c825f866f729"; "50e6efa4-9754-40a2-b390-9c784e80e768"; "fr"; "80"; "Hotel Drei Hasen"
+"10388986-c71f-4660-a026-c825f866f729"; "413f91b8-8c08-45fd-a116-b7c4a41b9d26"; "it"; "79"; "Hotel Drei Hasen"
+"10388986-c71f-4660-a026-c825f866f729"; "585a90da-0018-484a-97db-116d931562da"; "pt"; "79"; "Hotel Drei Hasen"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "4de60796-8fd0-4e7e-83f9-1c6782461db4"; "de"; "48"; "Alpengasthof Tanzstatt"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "29d953dd-4bf5-45e3-b538-616dffd4045b"; "en"; "49"; "Alpengasthof Tanzstatt"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "01a7127e-5a00-4db0-b50b-527e0927e00d"; "es"; "48"; "Alpengasthof Tanzstatt"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "c238b69c-4305-42fb-946d-ee44040b48fc"; "fr"; "49"; "Alpengasthof Tanzstatt"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "4e281f37-d9be-4076-b487-6fbdac9154dd"; "it"; "48"; "Alpengasthof Tanzstatt"
+"12ae005a-ffb2-445a-ab5d-596d4c5f8e10"; "1b332d42-7e23-4a7b-8045-158ba7a14aeb"; "pt"; "48"; "Alpengasthof Tanzstatt"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "08b479c1-debb-40af-95c8-4b260c99ce78"; "de"; "75"; "JUFA Hotel Planneralm"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "90ce1bc9-ff1f-473e-89ed-2201de854ab9"; "en"; "76"; "JUFA Hotel Planneralm"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "ce94ac8c-b559-4981-85f7-52cf4f772738"; "es"; "75"; "JUFA Hotel Planneralm"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "0fcf94d6-2ff0-494b-a174-db604a4ac8ea"; "fr"; "77"; "JUFA Hotel Planneralm"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "7c8c5acd-dcce-4186-8249-e42c0e85b850"; "it"; "75"; "JUFA Hotel Planneralm"
+"18e29848-6fb3-42e5-8090-73ff68346f8a"; "b33f525e-4599-42da-a19a-23b62dc03016"; "pt"; "76"; "JUFA Hotel Planneralm"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "44c1f36e-face-4137-8f48-4e08412f4e8a"; "de"; "82"; "Hotel Moser"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "f5bd7c4a-c390-45b1-bb88-0f921bc9555b"; "en"; "84"; "Hotel Moser"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "d48de257-9dc8-4143-ae68-ce8137dc7419"; "es"; "83"; "Hotel Moser"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "f5b742bc-5dcf-4969-91ee-f36696286d3d"; "fr"; "85"; "Hotel Moser"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "39ea3ec6-55eb-4fe2-a372-08bb967c411c"; "it"; "83"; "Hotel Moser"
+"19274681-7e36-4a50-9472-408ea09d4c2a"; "93d1c604-e88d-451f-b83f-591ef14a5126"; "pt"; "84"; "Hotel Moser"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "792d7109-7d26-4299-8974-b43f850ec024"; "de"; "57"; "Pension Stieber"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "5c75da9c-8037-4cbb-beac-4ab0bbae2c01"; "en"; "58"; "Pension Stieber"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "ed6d2193-c952-414d-ad23-8c10d41c2a7a"; "es"; "57"; "Pension Stieber"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "89779fce-6bfc-49cf-aa0c-8d644064d457"; "fr"; "59"; "Pension Stieber"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "157997da-51b0-433f-b342-9bff958f0baa"; "it"; "5"; "Pension Stieber"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "569ac7f8-5b76-47e3-8c81-be11a1ac8cae"; "pt"; "58"; "Pension Stieber"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "faaa3ffd-79d0-4750-8c4f-ec977318fb2e"; "de"; "133"; "Hotel Vitaler Landauerhof"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "accca36c-6a5a-4699-9b86-da8df889fc6b"; "en"; "134"; "Hotel Vitaler Landauerhof"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "ccf5a8d7-0b35-4e05-9f7e-90d8b759384a"; "es"; "132"; "Hotel Vitaler Landauerhof"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "1e571abf-95a0-4622-8209-240d7d83fd1e"; "fr"; "135"; "Hotel Vitaler Landauerhof"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "0e381c05-b35c-4c77-b9a4-6d59b1b65df7"; "it"; "133"; "Hotel Vitaler Landauerhof"
+"1ba9f1e0-ac64-4791-aeb0-ec1b73a45d4e"; "5ae92962-eb0d-422a-a24b-52a3da922f48"; "pt"; "134"; "Hotel Vitaler Landauerhof"
+"2001b485-877f-4b98-a298-75719d4f202e"; "437fdaea-3512-499f-bda3-75d8009d993d"; "de"; "70"; "JUFA Hotel Deutschlandsberg"
+"2001b485-877f-4b98-a298-75719d4f202e"; "d22601d0-e0e4-4707-bc27-c6ee83926c41"; "en"; "71"; "JUFA Hotel Deutschlandsberg"
+"2001b485-877f-4b98-a298-75719d4f202e"; "fbdbdf89-4284-4c38-9d0f-e5116b7ffab3"; "es"; "69"; "JUFA Hotel Deutschlandsberg"
+"2001b485-877f-4b98-a298-75719d4f202e"; "df7c7f37-294b-450b-b4b6-cb2476392361"; "fr"; "72"; "JUFA Hotel Deutschlandsberg"
+"2001b485-877f-4b98-a298-75719d4f202e"; "f2d74a2c-e1c6-4178-a181-9d4758179700"; "it"; "70"; "JUFA Hotel Deutschlandsberg"
+"2001b485-877f-4b98-a298-75719d4f202e"; "2617d3e6-5369-4501-afea-016fd6a100a6"; "pt"; "71"; "JUFA Hotel Deutschlandsberg"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "88189988-d8a2-4a53-aaa6-c04698175b29"; "de"; "42"; "Hotel Adler Garni"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "8808eeab-a82b-4167-91df-e3ae8092f7c3"; "en"; "40"; "Hotel Adler Garni"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "e69aa0dd-d2d1-43c8-9da3-bff6c8e94a10"; "es"; "42"; "Hotel Adler Garni"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "a5166ba6-21c7-4666-80e8-278999ce04cb"; "fr"; "44"; "Hotel Adler Garni"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "aa03e613-f4c6-4d19-9d11-dbd900f14ffd"; "it"; "40"; "Hotel Adler Garni"
+"212d2c71-c51a-4024-9fcc-078ca788f431"; "9581a58b-3281-41f5-af9e-be4ca6c003e5"; "pt"; "43"; "Hotel Adler Garni"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "38c73ff4-fa31-488d-8fa1-0459720239f0"; "de"; "61"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "72e12cbf-c83e-414c-8634-264939214373"; "en"; "62"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "701bc6e2-e244-41b2-8796-7293218ab39c"; "es"; "61"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "a065b98c-cf3d-44a9-8ec9-fb5ce29baa4a"; "fr"; "63"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "50e107ff-6327-4916-8921-2c4be27f77ea"; "it"; "61"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"2179aa50-adde-415e-abfc-a6cb3bb9df06"; "3b9f6771-4c24-41f5-a31c-c15fcb289d52"; "pt"; "62"; "Erzherzog Johann Alpin Style Hotel - Adults Only"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "6b382a03-fe0d-4b27-b0b2-50799aa2a3b6"; "de"; "64"; "JUFA Hotel Schladming"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "dda77adf-e2d9-483d-9a98-f71c368c4636"; "en"; "65"; "JUFA Hotel Schladming"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "49172aec-b7ef-4ec0-9a6e-14142c9ec857"; "es"; "61"; "JUFA Hotel Schladming"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "b2e93714-03fd-4f04-bc22-c6a4534f982e"; "fr"; "9"; "JUFA Hotel Schladming"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "56c614ab-9258-4e27-ac5b-4d34b2fbaf44"; "it"; "64"; "JUFA Hotel Schladming"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "0f325ab9-6655-4bf8-928a-e557b963d7c4"; "pt"; "61"; "JUFA Hotel Schladming"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "f9fe1019-ac79-40c3-abda-8d18430e9a2d"; "de"; "55"; "Stadthotel Schwerterbräu"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "61b553f7-8d8c-4195-975e-995ce017773a"; "en"; "7"; "Stadthotel Schwerterbräu"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "4af50396-2a26-447f-b64f-83beada6dcf3"; "es"; "58"; "Stadthotel Schwerterbräu"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "89b20123-2d7f-435f-ae7d-15bf0703bc76"; "fr"; "58"; "Stadthotel Schwerterbräu"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "787d9cef-9d2d-47c4-8186-95f2cca72bd4"; "it"; "7"; "Stadthotel Schwerterbräu"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "305e34da-6a63-4c2e-b00a-77b8fcd9aa63"; "pt"; "58"; "Stadthotel Schwerterbräu"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "449697fc-a722-401e-af26-0d2b9dac2cff"; "de"; "100"; "Almwelt Austria"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "8461476c-99fd-4605-8c96-b1128ae8f310"; "en"; "101"; "Almwelt Austria"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "27caf309-1819-4211-9c64-0fbc51f5316c"; "es"; "97"; "Almwelt Austria"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "87ed4c21-65c8-4dfc-9e70-f441626df57d"; "fr"; "102"; "Almwelt Austria"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "baff21e0-2c03-492c-99bb-560221a03d59"; "it"; "10"; "Almwelt Austria"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "55dfd88d-655f-4f04-8f84-799e812bf2f4"; "pt"; "99"; "Almwelt Austria"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "8fc00d44-b352-418c-b4a7-251c54712a30"; "de"; "36"; "Steinerhaus Berggasthof"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "4300ffd7-4d07-47e7-8bac-e983e8a75ab3"; "en"; "35"; "Steinerhaus Berggasthof"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "dd6aeb2d-7f65-46ee-9de8-bc6d74eb616c"; "es"; "36"; "Steinerhaus Berggasthof"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "1b7a3d41-9eba-4b82-b90f-4e26fa60a6a6"; "fr"; "38"; "Steinerhaus Berggasthof"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "f15cc251-d586-4134-92c4-ab83ec380a7f"; "it"; "36"; "Steinerhaus Berggasthof"
+"2db4b2f6-e39a-4ae7-b1d9-7c740356dd4b"; "8428c820-865a-486d-8657-a4e92b33849e"; "pt"; "37"; "Steinerhaus Berggasthof"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "d9c1aac6-1fe7-48b9-9716-40666d7dfc7d"; "de"; "123"; "Narzissen Vital Resort Bad Aussee"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "085029d7-4115-4ff4-89ca-46c6ba790342"; "en"; "123"; "Narzissen Vital Resort Bad Aussee"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "00f559bc-a5dd-49d8-acdb-8963a0ec897a"; "es"; "122"; "Narzissen Vital Resort Bad Aussee"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "8804bc7a-5f2a-4edb-bdbc-c8d3172778d1"; "fr"; "122"; "Narzissen Vital Resort Bad Aussee"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "43678306-4f17-4c40-9542-1347785ec1e2"; "it"; "123"; "Narzissen Vital Resort Bad Aussee"
+"324f47b1-a1da-48e9-b34d-3f4011f0688a"; "155b61a2-09b2-426f-ad27-89c1312462bb"; "pt"; "123"; "Narzissen Vital Resort Bad Aussee"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "7e367883-f455-4fe3-8ad7-fa1f27d3917e"; "de"; "33"; "Ibis Budget Graz City"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "afbb24d3-9cd5-4e82-9c1b-0ad16acee330"; "en"; "36"; "Ibis Budget Graz City"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "8997fdde-248a-4464-93ce-219a9303e8f4"; "es"; "33"; "Ibis Budget Graz City"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "8a7a1b63-3345-40e3-b144-4e576d8639ab"; "fr"; "37"; "Ibis Budget Graz City"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "4d0ef319-629f-47f8-8c1e-24afa038daec"; "it"; "35"; "Ibis Budget Graz City"
+"338558e2-6af4-43a4-b4b8-3977f4fce8b1"; "02bab944-f65d-4628-bd64-7ab1fe3b815f"; "pt"; "36"; "Ibis Budget Graz City"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "1db8fe52-1dee-47dd-9371-0e85ba40c2f3"; "de"; "53"; "JUFA Hotel Judenburg"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "726c10a2-d4bb-4408-814a-85c086595fbf"; "en"; "54"; "JUFA Hotel Judenburg"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "33e9f511-c17b-4207-90e8-c8b7537f6f89"; "es"; "53"; "JUFA Hotel Judenburg"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "f86681bc-0c85-4908-a918-b37da540e503"; "fr"; "55"; "JUFA Hotel Judenburg"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "d32fd846-07e8-47c7-9a75-702a07f62acc"; "it"; "53"; "JUFA Hotel Judenburg"
+"38f47596-217f-4b3c-acb8-194fe6688fc6"; "21066db8-3444-41b3-8958-30508b13222b"; "pt"; "54"; "JUFA Hotel Judenburg"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "8b9cde58-d5f4-424b-914e-fea035dd16e0"; "de"; "69"; "TAUROA Seehotel Grundlsee"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "f9102e4d-f60d-428a-8982-10adcabfc796"; "en"; "71"; "TAUROA Seehotel Grundlsee"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "8ac5ce33-c435-4091-aacc-5d018cff4599"; "es"; "69"; "TAUROA Seehotel Grundlsee"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "fd2b0e6c-78b4-4c49-a7d6-c8d312de5f98"; "fr"; "8"; "TAUROA Seehotel Grundlsee"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "980251ab-30e2-41cb-9e77-f8e2b639c781"; "it"; "69"; "TAUROA Seehotel Grundlsee"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "78e1a4ef-9a9f-4204-81c0-2477103549cf"; "pt"; "70"; "TAUROA Seehotel Grundlsee"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "d01f0753-82ff-496c-9f4e-e030eb7fc22b"; "de"; "79"; "Hotel Süd Graz"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "77bba34b-2890-41d7-8288-bfbf30db0cc0"; "en"; "80"; "Hotel Süd Graz"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "d3d303ec-925d-4c29-992e-069f1d993bbe"; "es"; "74"; "Hotel Süd Graz"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "61afa261-8fee-4392-96e4-613642161ec8"; "fr"; "81"; "Hotel Süd Graz"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "6fa1fd1b-878f-446d-b23b-a26c2512757c"; "it"; "79"; "Hotel Süd Graz"
+"3a7b9ca7-1f6a-4490-8259-ef5426e7fda2"; "9b25a29d-1228-447c-a436-5d20fd32c2e6"; "pt"; "80"; "Hotel Süd Graz"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "de3bca9d-4b05-4ce2-b8bf-8795b0a3e3a4"; "de"; "72"; "Hotel Mariahilf"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "16893d22-cf15-4cc8-ad19-0fbd9ed548f1"; "en"; "72"; "Hotel Mariahilf"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "8ee17a12-f3cd-4f81-b6e9-691aa354b3d5"; "es"; "71"; "Hotel Mariahilf"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "2eb7357a-1210-48e6-9647-856d3583b71f"; "fr"; "74"; "Hotel Mariahilf"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "ba6db734-6a68-48b7-bb17-c0aae751d609"; "it"; "71"; "Hotel Mariahilf"
+"3bebda1c-b029-45c2-83aa-f0c0cd19a4c2"; "f1450970-9cbb-4f41-84b6-acf4da3e2c10"; "pt"; "70"; "Hotel Mariahilf"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "f9a475c2-3dd5-401d-aed5-3298c9329d05"; "de"; "56"; "Hotel Strasser"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "d25a9b4a-8423-4460-807f-679479a33b30"; "en"; "53"; "Hotel Strasser"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "7377ff49-6326-440a-b631-6d15cd1bef30"; "es"; "56"; "Hotel Strasser"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "7f4690e5-f56e-4766-8abe-a89700313a31"; "fr"; "56"; "Hotel Strasser"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "528a3b9d-4139-43b3-b7ea-43667a5e8133"; "it"; "56"; "Hotel Strasser"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "a90c9280-9e3c-4d2d-947e-664bb6d3ace9"; "pt"; "56"; "Hotel Strasser"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "49208b76-d55b-45fc-922a-79f0775cb3bd"; "de"; "95"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "e8eb8f44-50b3-456b-9534-91121789a5b3"; "en"; "95"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "7cd92f4b-3dd4-4f0c-81ec-848a7083059a"; "es"; "97"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "ac5a9a80-7604-4809-806f-be104fc3e559"; "fr"; "98"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "4cf511d7-49ca-4c00-88a8-3a986775a1c2"; "it"; "95"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3e846ae3-065b-4dd2-b854-dd0dba4454c5"; "ba1e6687-bb49-449d-9057-870fe25da173"; "pt"; "97"; "Der Trattner - Hotel Trattnerhof & Hotel Schöcklblick"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "cca5bcfb-a62f-4d29-9e85-8203e82b230a"; "de"; "110"; "Hotel Schütterhof"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "9de72f73-99e9-43e9-b174-b4d3d5a65352"; "en"; "109"; "Hotel Schütterhof"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "508aa89c-ed17-4af7-9095-305c26db16b3"; "es"; "109"; "Hotel Schütterhof"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "63525199-93c9-4565-974b-26633e633843"; "fr"; "112"; "Hotel Schütterhof"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "1ccbb8b0-448a-4389-9518-8487a023c0b7"; "it"; "110"; "Hotel Schütterhof"
+"3edd55dc-485e-4396-91fa-b8ae74ccd351"; "a73cc4cb-60b8-447a-a24b-3afb19f97221"; "pt"; "111"; "Hotel Schütterhof"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "aa131524-9c8b-4623-ae50-853764352cc9"; "de"; "56"; "Hotel Aquamarin"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "77e60e82-077b-4202-9458-99c2217578d6"; "en"; "57"; "Hotel Aquamarin"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "1f017b93-7448-4d1b-890f-1850bc63b2cc"; "es"; "56"; "Hotel Aquamarin"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "f7187ffc-212b-4c17-8cf5-882bb1e10e98"; "fr"; "58"; "Hotel Aquamarin"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "002f8b88-881a-4b04-bc41-33b091ef8e0a"; "it"; "56"; "Hotel Aquamarin"
+"41a492c0-9d76-4d76-852c-d9a20b20804a"; "c2d051df-7621-4cd6-9758-e5e4c5079354"; "pt"; "57"; "Hotel Aquamarin"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "21eb8197-0466-4326-a0f8-45ce3051c75e"; "de"; "10"; "Sun Lodge Schladming by Schladming-Appartements"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "e53b3f61-458d-48d4-a9fa-642df8352916"; "en"; "109"; "Sun Lodge Schladming by Schladming-Appartements"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "23d5f274-18b0-40dd-83f1-6ff75a333462"; "es"; "108"; "Sun Lodge Schladming by Schladming-Appartements"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "9562f1a7-b731-420c-b97a-934e3eb84649"; "fr"; "10"; "Sun Lodge Schladming by Schladming-Appartements"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "97f0efaf-9921-4d6b-b3a2-97d568482ea1"; "it"; "108"; "Sun Lodge Schladming by Schladming-Appartements"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "a17f2ac5-d7ca-4558-8dee-7408520b0b30"; "pt"; "109"; "Sun Lodge Schladming by Schladming-Appartements"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "b7159153-80b2-40e0-af9b-faa2b5cca6e7"; "de"; "38"; "Motel One Graz"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "7fae2e42-9084-4f83-855f-e67ab0256adb"; "en"; "39"; "Motel One Graz"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "8b34cc35-0c54-4552-bf06-41c36d219609"; "es"; "38"; "Motel One Graz"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "0bc7258e-e6c3-42a7-9221-3ba7c57e1831"; "fr"; "40"; "Motel One Graz"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "a7d309fd-d671-4461-bb8b-bd2709af7c76"; "it"; "38"; "Motel One Graz"
+"47a407ee-2ddf-4025-b09b-a9e4ab29a8a4"; "dd64716d-bba3-4228-b525-e51de575ef49"; "pt"; "39"; "Motel One Graz"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "3e7dfee5-321e-4c44-8d49-bf13ff908441"; "de"; "81"; "Hotel Spirodom"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "689e5ab8-01ac-4f04-b9ef-f4ecd34d6d60"; "en"; "82"; "Hotel Spirodom"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "a6e0257f-a177-4700-8e45-4f2c2b61916b"; "es"; "10"; "Hotel Spirodom"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "21dfe14e-7d46-40fb-81fe-f24353c2ed57"; "fr"; "82"; "Hotel Spirodom"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "ac853d1e-184d-43a4-a558-1dda3f981ef6"; "it"; "81"; "Hotel Spirodom"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "69c25ae2-6908-4db6-92a9-9bee715743fd"; "pt"; "79"; "Hotel Spirodom"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "2fb18c54-b8e0-440a-ac28-7082edc6b810"; "de"; "48"; "Haus Mobene - Hotel Garni"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "9e7a7942-fcac-4ca2-9194-4eed79f62a16"; "en"; "9"; "Haus Mobene - Hotel Garni"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "dd6ee5b3-fbd1-4547-98d7-6643526a9812"; "es"; "48"; "Haus Mobene - Hotel Garni"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "9ec529c3-8fde-4845-8848-1762f4a86671"; "fr"; "50"; "Haus Mobene - Hotel Garni"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "5f40a030-4edb-41fa-8c4c-f9083b55c2e5"; "it"; "48"; "Haus Mobene - Hotel Garni"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "16ccdc87-26c5-451c-8101-f2c78c93e7cf"; "pt"; "49"; "Haus Mobene - Hotel Garni"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "1c4ae837-51c8-4deb-b6af-de589146be43"; "de"; "44"; "SHOME Hotel Graz I Self-Check-In I Free Parking"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "71bffeea-b279-4cfd-b66e-85671f0deb4d"; "en"; "41"; "SHOME Hotel Graz I Self-Check-In I Free Parking"
+}
+```
+
+---
+
+Query SQL: SELECT * FROM url_language_status WHERE status <> 'done' ORDER BY url_id , language limit 200 
+Result:
+```
+{
+"id"; "url_id"; "language"; "status"; "attempts"; "last_error"; "created_at"; "updated_at"
+"5b2dd3c9-dccb-46b1-bcd7-d5a299499cff"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "de"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:48:37.844020+01:00"; "2026-05-05 08:48:37.844020+01:00"
+"6ce776e9-5d58-421c-bf84-367102be821b"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "en"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:41:58.501202+01:00"; "2026-05-05 08:41:58.501202+01:00"
+"bfe15569-e91c-4e4b-b20d-8be31e22d826"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "es"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:45:42.009943+01:00"; "2026-05-05 08:45:42.009943+01:00"
+"34992e70-11ef-4ea9-8f7f-17fff6f68a29"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "fr"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:54:37.493310+01:00"; "2026-05-05 08:54:37.493310+01:00"
+"181fc672-8e43-4b44-b92d-e46080e3a856"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "it"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:51:57.574394+01:00"; "2026-05-05 08:51:57.574394+01:00"
+"a92c4ee0-321a-4543-b8b9-7631f5102cd6"; "11c299b0-d23c-4999-8652-4b180eb858d8"; "pt"; "error"; "1"; "All scraping engines failed"; "2026-05-05 08:57:35.645081+01:00"; "2026-05-05 08:57:35.645081+01:00"
+"02933c69-571e-4ac8-9fc0-d32c9b2ce859"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "de"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:26:02.714648+01:00"; "2026-05-05 03:26:02.714648+01:00"
+"6517de49-8635-4802-ba7c-5dc065b8f843"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "en"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:20:04.127448+01:00"; "2026-05-05 03:20:04.127448+01:00"
+"d99f4f26-6640-4194-ade8-152a582987f0"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "es"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:23:29.386626+01:00"; "2026-05-05 03:23:29.386626+01:00"
+"ad352bc2-fb26-43c6-a1b4-1437431c75d4"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "fr"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:32:22.733520+01:00"; "2026-05-05 03:32:22.733520+01:00"
+"c7e52364-9331-4214-ae67-6a9969cd1c0e"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "it"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:29:16.766806+01:00"; "2026-05-05 03:29:16.766806+01:00"
+"a078b2d8-7d7b-49f9-9671-91e36d3a6447"; "c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "pt"; "error"; "1"; "All scraping engines failed"; "2026-05-05 03:35:21.324982+01:00"; "2026-05-05 03:35:21.324982+01:00"
+"2ac75295-727b-4457-bbdc-4065eb380c74"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "de"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:16:59.761598+01:00"; "2026-05-05 06:16:59.761598+01:00"
+"e005722c-c965-411c-8d42-ad34f5a54983"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "en"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:10:09.894519+01:00"; "2026-05-05 06:10:09.894519+01:00"
+"25ccba9f-e8b0-4e8d-b142-10e4da302bb3"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "es"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:14:03.338903+01:00"; "2026-05-05 06:14:03.338903+01:00"
+"9ecbdff5-6197-4864-ab11-7e1f447f1d9e"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "fr"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:23:17.454201+01:00"; "2026-05-05 06:23:17.454201+01:00"
+"21fb1e9d-9b88-4d0b-9f23-648d4f4569aa"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "it"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:20:22.204000+01:00"; "2026-05-05 06:20:22.204000+01:00"
+"e9f6e993-7f12-4523-87cf-d3bf4d99cb49"; "e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "pt"; "error"; "1"; "All scraping engines failed"; "2026-05-05 06:26:02.602073+01:00"; "2026-05-05 06:26:02.602073+01:00"
+}
+```
+
+---
+
+Query SQL: SELECT uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error, COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs FROM url_queue uq LEFT JOIN hotels h ON uq.id = h.url_id LEFT JOIN hotels_description hd ON uq.id = hd.url_id LEFT JOIN hotels_policies hp    ON uq.id = hp.url_id LEFT JOIN hotels_legal hl ON uq.id = hl.url_id GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language) ORDER BY COUNT(DISTINCT h.language) ASC limit 200
+Result:
+```
+{
+"id"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q8: Overall URL processing status ──────────────────────────────────────
+    SELECT status, COUNT(*) AS count, MIN(updated_at) AS oldest, MAX(updated_at) AS newest FROM url_queue GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"; "oldest"; "newest"
+"done"; "97"; "2026-05-05 03:22:49.436202+01:00"; "2026-05-05 09:26:08.644303+01:00"
+"error"; "3"; "2026-05-05 03:35:21.349740+01:00"; "2026-05-05 08:57:35.654705+01:00"
+}
+```
+
+---
+
+Query SQL: 
+    -- Diagnóstico integral de todas las URLs afectadas
+    SELECT 
+        uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error,
+        -- Conteos por tabla
+        COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs
+    FROM url_queue uq
+    LEFT JOIN hotels h          ON uq.id = h.url_id
+    LEFT JOIN hotels_description hd ON uq.id = hd.url_id
+    LEFT JOIN hotels_policies hp    ON uq.id = hp.url_id
+    LEFT JOIN hotels_legal hl       ON uq.id = hl.url_id
+    GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error
+    HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language)
+    ORDER BY COUNT(DISTINCT h.language) ASC;
+    
+Result:
+```
+{
+"id"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+}
+```
+
+---
+
+Query SQL: 
+       -- ── Q1: URLs with missing languages ────────────────────────────────────────
+    -- Expected after Build 62: 0 rows.
+    -- Run after each batch to confirm all 6 languages are captured.
+    SELECT
+        uq.id  AS url_id,
+        uq.url,
+        uq.status,
+        COUNT(DISTINCT h.language) AS lang_count,
+        STRING_AGG(DISTINCT h.language, ', '
+                   ORDER BY h.language) AS languages_present,
+        6 - COUNT(DISTINCT h.language)  AS missing_count,
+        uq.languages_failed
+    FROM url_queue uq
+    LEFT JOIN hotels h ON h.url_id = uq.id
+    WHERE uq.status IN ('done', 'error')
+    GROUP BY uq.id, uq.url, uq.status, uq.languages_failed
+    HAVING COUNT(DISTINCT h.language) < 6
+    ORDER BY missing_count DESC, uq.updated_at DESC;
+    
+Result:
+```
+{
+"url_id"; "url"; "status"; "lang_count"; "languages_present"; "missing_count"; "languages_failed"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "https://www.booking.com/hotel/at/vital-styria.html"; "error"; "0"; "NULL"; "6"; "en,es,de,it,fr,pt"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "https://www.booking.com/hotel/at/steinthron.html"; "error"; "0"; "NULL"; "6"; "en,es,de,it,fr,pt"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "https://www.booking.com/hotel/at/minihotel-graz.html"; "error"; "0"; "NULL"; "6"; "en,es,de,it,fr,pt"
+}
+```
+
+---
+
+Query SQL: 
+    SELECT event_type, status, count(*) FROM scraping_logs GROUP BY event_type, status ORDER BY count DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "count"
+"scrape_success"; "done"; "582"
+"scrape_failed"; "error"; "18"
+}
+```
+
+---
+
+Query SQL: 
+    -- Logs de la última sesión:
+    SELECT url_id, language, event_type, status, duration_ms, scraped_at
+    FROM scraping_logs
+    WHERE scraped_at >= '2026-03-31 22:00:00+00'
+    ORDER BY scraped_at DESC
+    LIMIT 60;
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "scraped_at"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "pt"; "scrape_success"; "done"; "44453"; "2026-05-05 09:26:08.501370+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "pt"; "scrape_success"; "done"; "31399"; "2026-05-05 09:26:00.032807+01:00"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "fr"; "scrape_success"; "done"; "41304"; "2026-05-05 09:24:55.072478+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "fr"; "scrape_success"; "done"; "26488"; "2026-05-05 09:24:49.266513+01:00"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "it"; "scrape_success"; "done"; "24612"; "2026-05-05 09:23:54.604758+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "it"; "scrape_success"; "done"; "42872"; "2026-05-05 09:23:38.167402+01:00"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "de"; "scrape_success"; "done"; "17323"; "2026-05-05 09:23:14.808786+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "de"; "scrape_success"; "done"; "27822"; "2026-05-05 09:22:42.306447+01:00"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "es"; "scrape_success"; "done"; "39535"; "2026-05-05 09:22:19.124642+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "es"; "scrape_success"; "done"; "19694"; "2026-05-05 09:21:58.975942+01:00"
+"3c5b8301-5a02-482f-bd76-f795b3f59b78"; "en"; "scrape_success"; "done"; "50243"; "2026-05-05 09:21:14.445737+01:00"
+"9a37bd80-c3ef-4429-b0aa-b572e20a1b9f"; "en"; "scrape_success"; "done"; "26790"; "2026-05-05 09:21:02.020493+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "pt"; "scrape_success"; "done"; "51756"; "2026-05-05 09:19:47.572765+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "pt"; "scrape_success"; "done"; "30981"; "2026-05-05 09:19:31.142666+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "fr"; "scrape_success"; "done"; "58582"; "2026-05-05 09:18:33.397723+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "fr"; "scrape_success"; "done"; "44149"; "2026-05-05 09:18:19.304551+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "it"; "scrape_success"; "done"; "23248"; "2026-05-05 09:17:04.998177+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "it"; "scrape_success"; "done"; "36715"; "2026-05-05 09:16:49.195470+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "de"; "scrape_success"; "done"; "16510"; "2026-05-05 09:16:28.552697+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "de"; "scrape_success"; "done"; "13596"; "2026-05-05 09:15:50.460628+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "es"; "scrape_success"; "done"; "24079"; "2026-05-05 09:15:35.987627+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "es"; "scrape_success"; "done"; "23059"; "2026-05-05 09:15:12.565031+01:00"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "en"; "scrape_success"; "done"; "44067"; "2026-05-05 09:14:55.140063+01:00"
+"4bcccad5-ad35-481a-932c-eb924ff2ac5f"; "en"; "scrape_success"; "done"; "43692"; "2026-05-05 09:14:13.716486+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "pt"; "scrape_success"; "done"; "26957"; "2026-05-05 09:11:54.978127+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "pt"; "scrape_success"; "done"; "23226"; "2026-05-05 09:11:11.726649+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "fr"; "scrape_success"; "done"; "40739"; "2026-05-05 09:10:51.162648+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "fr"; "scrape_success"; "done"; "24793"; "2026-05-05 09:10:34.781569+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "it"; "scrape_success"; "done"; "57622"; "2026-05-05 09:09:53.086416+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "it"; "scrape_success"; "done"; "33346"; "2026-05-05 09:09:29.009544+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "de"; "scrape_success"; "done"; "19043"; "2026-05-05 09:08:31.667639+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "de"; "scrape_success"; "done"; "48350"; "2026-05-05 09:08:16.102202+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "es"; "scrape_success"; "done"; "32272"; "2026-05-05 09:08:00.566887+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "es"; "scrape_success"; "done"; "23973"; "2026-05-05 09:07:00.366814+01:00"
+"cabc5eee-5011-4a72-bcd4-d4d2d4d211e2"; "en"; "scrape_success"; "done"; "45336"; "2026-05-05 09:06:54.809826+01:00"
+"cecd7cd0-ecc7-483a-9f13-a1e124770f3c"; "en"; "scrape_success"; "done"; "21863"; "2026-05-05 09:06:24.719175+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "pt"; "scrape_success"; "done"; "16022"; "2026-05-05 09:05:25.438132+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "pt"; "scrape_success"; "done"; "50330"; "2026-05-05 09:04:42.766373+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "fr"; "scrape_success"; "done"; "30609"; "2026-05-05 09:04:27.263516+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "it"; "scrape_success"; "done"; "54859"; "2026-05-05 09:03:35.965348+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "fr"; "scrape_success"; "done"; "33429"; "2026-05-05 09:03:12.259417+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "it"; "scrape_success"; "done"; "55548"; "2026-05-05 09:02:23.089958+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "de"; "scrape_success"; "done"; "31569"; "2026-05-05 09:02:04.089179+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "de"; "scrape_success"; "done"; "27237"; "2026-05-05 09:01:03.895487+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "es"; "scrape_success"; "done"; "19873"; "2026-05-05 09:00:50.570045+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "es"; "scrape_success"; "done"; "32613"; "2026-05-05 09:00:20.029831+01:00"
+"80195229-1d55-467f-8f91-7be8f6733039"; "en"; "scrape_success"; "done"; "33095"; "2026-05-05 09:00:07.427364+01:00"
+"8196855e-f51a-4386-a124-c25a2e24ff90"; "en"; "scrape_success"; "done"; "56966"; "2026-05-05 08:59:12.854056+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "pt"; "scrape_failed"; "error"; "137207"; "2026-05-05 08:57:35.648010+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "fr"; "scrape_failed"; "error"; "123336"; "2026-05-05 08:54:37.497355+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "it"; "scrape_failed"; "error"; "162453"; "2026-05-05 08:51:57.578934+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "de"; "scrape_failed"; "error"; "137802"; "2026-05-05 08:48:37.847283+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "es"; "scrape_failed"; "error"; "182532"; "2026-05-05 08:45:42.024556+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "pt"; "scrape_success"; "done"; "24763"; "2026-05-05 08:45:14.516403+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "fr"; "scrape_success"; "done"; "34023"; "2026-05-05 08:44:34.513058+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "it"; "scrape_success"; "done"; "35228"; "2026-05-05 08:43:26.179847+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "de"; "scrape_success"; "done"; "37995"; "2026-05-05 08:42:37.514600+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "en"; "scrape_failed"; "error"; "222260"; "2026-05-05 08:41:58.504320+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "es"; "scrape_success"; "done"; "20004"; "2026-05-05 08:41:09.294477+01:00"
+"9c00815c-0541-423b-baaa-6ca7c92d7fdd"; "en"; "scrape_success"; "done"; "57009"; "2026-05-05 08:39:47.732620+01:00"
+}
+```
+
+---
+
+Query SQL: 
+        -- 3a. Distribution using only confirmed columns
+        SELECT
+            event_type,
+            status,
+            COUNT(*)                                AS total,
+            ROUND(AVG(duration_ms) / 1000.0, 1)    AS avg_s,
+            ROUND(MIN(duration_ms) / 1000.0, 1)    AS min_s,
+            ROUND(MAX(duration_ms) / 1000.0, 1)    AS max_s
+        FROM scraping_logs
+        GROUP BY event_type, status
+        ORDER BY total DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "582"; "30.3"; "10.6"; "94.9"
+"scrape_failed"; "error"; "18"; "162.4"; "116.1"; "230.9"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4a. Scrapes over 100 seconds
+        SELECT
+            url_id,
+            language,
+            event_type,
+            status,
+            duration_ms,
+            ROUND(duration_ms / 1000.0, 1) AS duration_s,
+            scraped_at
+        FROM scraping_logs
+        WHERE duration_ms > 100000
+        ORDER BY duration_ms DESC;
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "duration_s"; "scraped_at"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "en"; "scrape_failed"; "error"; "230854"; "230.9"; "2026-05-05 03:20:04.129523+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "en"; "scrape_failed"; "error"; "223167"; "223.2"; "2026-05-05 06:10:09.899195+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "en"; "scrape_failed"; "error"; "222260"; "222.3"; "2026-05-05 08:41:58.504320+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "es"; "scrape_failed"; "error"; "188663"; "188.7"; "2026-05-05 06:14:03.351601+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "es"; "scrape_failed"; "error"; "182532"; "182.5"; "2026-05-05 08:45:42.024556+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "it"; "scrape_failed"; "error"; "164434"; "164.4"; "2026-05-05 06:20:22.224316+01:00"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "es"; "scrape_failed"; "error"; "164384"; "164.4"; "2026-05-05 03:23:29.389031+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "it"; "scrape_failed"; "error"; "162453"; "162.5"; "2026-05-05 08:51:57.578934+01:00"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "it"; "scrape_failed"; "error"; "157487"; "157.5"; "2026-05-05 03:29:16.769677+01:00"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "fr"; "scrape_failed"; "error"; "152405"; "152.4"; "2026-05-05 03:32:22.826991+01:00"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "pt"; "scrape_failed"; "error"; "146120"; "146.1"; "2026-05-05 03:35:21.344759+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "de"; "scrape_failed"; "error"; "142973"; "143.0"; "2026-05-05 06:16:59.764577+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "fr"; "scrape_failed"; "error"; "142493"; "142.5"; "2026-05-05 06:23:17.557602+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "de"; "scrape_failed"; "error"; "137802"; "137.8"; "2026-05-05 08:48:37.847283+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "pt"; "scrape_failed"; "error"; "137207"; "137.2"; "2026-05-05 08:57:35.648010+01:00"
+"e4ee3918-57c1-4152-9ab1-e043ae1fdaea"; "pt"; "scrape_failed"; "error"; "128767"; "128.8"; "2026-05-05 06:26:02.604512+01:00"
+"11c299b0-d23c-4999-8652-4b180eb858d8"; "fr"; "scrape_failed"; "error"; "123336"; "123.3"; "2026-05-05 08:54:37.497355+01:00"
+"c742ae60-11f8-4ac7-9f67-2fcb54dc5a48"; "de"; "scrape_failed"; "error"; "116132"; "116.1"; "2026-05-05 03:26:02.779213+01:00"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4b. Per-language duration statistics
+        SELECT
+            language,
+            COUNT(*)                                 AS scrapes,
+            ROUND(AVG(duration_ms) / 1000.0, 1)     AS avg_s,
+            ROUND(MIN(duration_ms) / 1000.0, 1)     AS min_s,
+            ROUND(MAX(duration_ms) / 1000.0, 1)     AS max_s,
+            ROUND(STDDEV(duration_ms) / 1000.0, 1)  AS stddev_s
+        FROM scraping_logs
+        WHERE status = 'done'
+        GROUP BY language
+        ORDER BY avg_s DESC;
+    
+Result:
+```
+{
+"language"; "scrapes"; "avg_s"; "min_s"; "max_s"; "stddev_s"
+"en"; "97"; "36.3"; "14.6"; "94.9"; "14.5"
+"it"; "97"; "33.5"; "14.7"; "68.2"; "12.8"
+"fr"; "97"; "31.6"; "16.0"; "58.6"; "10.3"
+"es"; "97"; "31.3"; "11.2"; "60.7"; "10.8"
+"de"; "97"; "26.3"; "10.6"; "56.3"; "10.6"
+"pt"; "97"; "23.1"; "11.4"; "51.8"; "8.5"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4c. Timestamp collision risk (WARN-ORM-001, scraped_at as ORM PK)
+        SELECT
+            scraped_at,
+            COUNT(*) AS collision_count
+        FROM scraping_logs
+        GROUP BY scraped_at
+        HAVING COUNT(*) > 1
+        ORDER BY collision_count DESC;
+    
+Result:
+```
+{
+(Consulta ejecutada pero no devolvió filas)
+}
+```
+
+---
+
+Query SQL: 
+        -- 5a. Basic ratio (no column assumptions)
+        SELECT
+            (SELECT COUNT(*) FROM image_data)       AS total_image_data,
+            (SELECT COUNT(*) FROM image_downloads)  AS total_image_downloads,
+            ROUND(
+                (SELECT COUNT(*) FROM image_downloads)::numeric /
+                NULLIF((SELECT COUNT(*) FROM image_data), 0),
+            2)                                      AS downloads_per_photo;
+        -- Expected: 3.00 (thumb + large + highres)
+    
+Result:
+```
+{
+"total_image_data"; "total_image_downloads"; "downloads_per_photo"
+"6527"; "16154"; "2.47"
+}
+```
+
+---
+
+Query SQL: 
+    -- 5b. Download status breakdown — fill in after \d confirms 'status' column
+       SELECT status, COUNT(*) FROM image_downloads GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"
+"done"; "16103"
+"error"; "51"
+}
+```
+
+---
+
+Query SQL: 
+        SELECT 'hotels' AS table_name, COUNT(*) AS rows FROM hotels
+        UNION ALL SELECT 'hotels_description',          COUNT(*) FROM hotels_description
+        UNION ALL SELECT 'hotels_policies',             COUNT(*) FROM hotels_policies
+        UNION ALL SELECT 'hotels_legal',                COUNT(*) FROM hotels_legal
+        UNION ALL SELECT 'hotels_popular_services',     COUNT(*) FROM hotels_popular_services
+        UNION ALL SELECT 'hotels_fine_print',           COUNT(*) FROM hotels_fine_print
+        UNION ALL SELECT 'hotels_all_services',         COUNT(*) FROM hotels_all_services
+        UNION ALL SELECT 'hotels_faqs',                 COUNT(*) FROM hotels_faqs
+        UNION ALL SELECT 'hotels_guest_reviews',        COUNT(*) FROM hotels_guest_reviews
+        UNION ALL SELECT 'hotels_property_highlights',  COUNT(*) FROM hotels_property_highlights
+        UNION ALL SELECT 'image_data',                  COUNT(*) FROM image_data
+        UNION ALL SELECT 'image_downloads',             COUNT(*) FROM image_downloads
+        UNION ALL SELECT 'url_language_status',         COUNT(*) FROM url_language_status
+        UNION ALL SELECT 'scraping_logs',               COUNT(*) FROM scraping_logs
+        UNION ALL SELECT 'url_queue',                   COUNT(*) FROM url_queue
+        ORDER BY table_name;
+    
+Result:
+```
+{
+"table_name"; "rows"
+"hotels"; "582"
+"hotels_all_services"; "38440"
+"hotels_description"; "582"
+"hotels_faqs"; "3953"
+"hotels_fine_print"; "582"
+"hotels_guest_reviews"; "3879"
+"hotels_legal"; "582"
+"hotels_policies"; "4446"
+"hotels_popular_services"; "4770"
+"hotels_property_highlights"; "1746"
+"image_data"; "6527"
+"image_downloads"; "16154"
+"scraping_logs"; "600"
+"url_language_status"; "600"
+"url_queue"; "100"
+}
+```
+
+---
+
+Query SQL: 
+        SELECT
+            tablename,
+            pg_size_pretty(
+                pg_total_relation_size(schemaname || '.' || tablename)
+            ) AS size
+        FROM pg_tables
+        WHERE tablename LIKE 'scraping_logs%'
+        ORDER BY tablename;
+    
+Result:
+```
+{
+"tablename"; "size"
+"scraping_logs"; "0 bytes"
+"scraping_logs_2025_01"; "8192 bytes"
+"scraping_logs_2025_02"; "8192 bytes"
+"scraping_logs_2025_03"; "8192 bytes"
+"scraping_logs_2025_04"; "8192 bytes"
+"scraping_logs_2025_05"; "8192 bytes"
+"scraping_logs_2025_06"; "8192 bytes"
+"scraping_logs_2025_07"; "8192 bytes"
+"scraping_logs_2025_08"; "8192 bytes"
+"scraping_logs_2025_09"; "8192 bytes"
+"scraping_logs_2025_10"; "8192 bytes"
+"scraping_logs_2025_11"; "8192 bytes"
+"scraping_logs_2025_12"; "8192 bytes"
+"scraping_logs_2026_01"; "8192 bytes"
+"scraping_logs_2026_02"; "8192 bytes"
+"scraping_logs_2026_03"; "8192 bytes"
+"scraping_logs_2026_04"; "8192 bytes"
+"scraping_logs_2026_05"; "272 kB"
+"scraping_logs_2026_06"; "8192 bytes"
+"scraping_logs_2026_07"; "8192 bytes"
+"scraping_logs_2026_08"; "8192 bytes"
+"scraping_logs_2026_09"; "8192 bytes"
+"scraping_logs_2026_10"; "8192 bytes"
+"scraping_logs_2026_11"; "8192 bytes"
+"scraping_logs_2026_12"; "8192 bytes"
+"scraping_logs_2027_01"; "8192 bytes"
+"scraping_logs_2027_02"; "8192 bytes"
+"scraping_logs_2027_03"; "8192 bytes"
+"scraping_logs_2027_04"; "8192 bytes"
+"scraping_logs_2027_05"; "8192 bytes"
+"scraping_logs_2027_06"; "8192 bytes"
+"scraping_logs_2027_07"; "8192 bytes"
+"scraping_logs_2027_08"; "8192 bytes"
+"scraping_logs_2027_09"; "8192 bytes"
+"scraping_logs_2027_10"; "8192 bytes"
+"scraping_logs_2027_11"; "8192 bytes"
+"scraping_logs_2027_12"; "8192 bytes"
+"scraping_logs_default"; "8192 bytes"
+}
+```
+
+---
+
+Query SQL: 
+        -- 5a. Resumen global
+        SELECT
+            event_type,
+            status,
+            COUNT(*)                            AS total,
+            ROUND(AVG(duration_ms)/1000.0, 1)  AS avg_s,
+            ROUND(MIN(duration_ms)/1000.0, 1)  AS min_s,
+            ROUND(MAX(duration_ms)/1000.0, 1)  AS max_s
+        FROM scraping_logs
+        GROUP BY event_type, status
+        ORDER BY total DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "582"; "30.3"; "10.6"; "94.9"
+"scrape_failed"; "error"; "18"; "162.4"; "116.1"; "230.9"
+}
+```
+
+---
+
+Query SQL:     
+        SELECT 'hotels'                     AS table_name, COUNT(*) AS rows FROM hotels
+        UNION ALL SELECT 'hotels_description',              COUNT(*) FROM hotels_description
+        UNION ALL SELECT 'hotels_policies',                 COUNT(*) FROM hotels_policies
+        UNION ALL SELECT 'hotels_legal',                    COUNT(*) FROM hotels_legal
+        UNION ALL SELECT 'hotels_fine_print',               COUNT(*) FROM hotels_fine_print
+        UNION ALL SELECT 'hotels_all_services',             COUNT(*) FROM hotels_all_services
+        UNION ALL SELECT 'hotels_popular_services',         COUNT(*) FROM hotels_popular_services
+        UNION ALL SELECT 'hotels_faqs',                     COUNT(*) FROM hotels_faqs
+        UNION ALL SELECT 'hotels_guest_reviews',            COUNT(*) FROM hotels_guest_reviews
+        UNION ALL SELECT 'hotels_property_highlights',      COUNT(*) FROM hotels_property_highlights
+        UNION ALL SELECT 'image_data',                      COUNT(*) FROM image_data
+        UNION ALL SELECT 'image_downloads',                 COUNT(*) FROM image_downloads
+        UNION ALL SELECT 'url_language_status',             COUNT(*) FROM url_language_status
+        UNION ALL SELECT 'scraping_logs',                   COUNT(*) FROM scraping_logs
+        UNION ALL SELECT 'url_queue',                       COUNT(*) FROM url_queue
+        ORDER BY table_name;
+        -- Esperado para 13 URLs x 6 idiomas:
+        --   hotels / description / policies / legal / fine_print → 78 filas c/u
+        --   url_language_status / scraping_logs                  → 78 filas c/u
+        --   url_queue                                            → 13 filas
+        --   Tablas variables (all_services, popular_services, faqs,
+        --     guest_reviews, property_highlights, image_data, image_downloads) → > 0
+    
+Result:
+```
+{
+"table_name"; "rows"
+"hotels"; "582"
+"hotels_all_services"; "38440"
+"hotels_description"; "582"
+"hotels_faqs"; "3953"
+"hotels_fine_print"; "582"
+"hotels_guest_reviews"; "3879"
+"hotels_legal"; "582"
+"hotels_policies"; "4446"
+"hotels_popular_services"; "4770"
+"hotels_property_highlights"; "1746"
+"image_data"; "6527"
+"image_downloads"; "16154"
+"scraping_logs"; "600"
+"url_language_status"; "600"
+"url_queue"; "100"
+}
+```
+
+---
+
+Query SQL: 
+        -- -----------------------------------------------------------------------------
+        -- 4. CALIDAD DE DATOS — hotels_popular_services vs hotels_all_services
+        --    Valida que popular es subconjunto razonable de all_services
+        -- -----------------------------------------------------------------------------
+        SELECT
+            ps.url_id,
+            ps.language,
+            COUNT(DISTINCT ps.popular_service)  AS n_popular,
+            COUNT(DISTINCT al.service)          AS n_all,
+            ROUND(
+                COUNT(DISTINCT ps.popular_service)::numeric /
+                NULLIF(COUNT(DISTINCT al.service), 0) * 100,
+            1) AS pct_popular_de_all
+        FROM hotels_popular_services ps
+        LEFT JOIN hotels_all_services al
+               ON al.url_id = ps.url_id AND al.language = ps.language
+        GROUP BY ps.url_id, ps.language
+        ORDER BY pct_popular_de_all DESC
+        LIMIT 20;
+        -- Esperado: n_popular < n_all en la mayoría de casos
+        -- pct alto (>100%) indicaría que popular tiene ítems no presentes en all
+    
+Result:
+```
+{
+"url_id"; "language"; "n_popular"; "n_all"; "pct_popular_de_all"
+"80aa418a-37c6-4b94-b258-205146455c1c"; "es"; "8"; "8"; "100.0"
+"80195229-1d55-467f-8f91-7be8f6733039"; "pt"; "10"; "10"; "100.0"
+"6496fb6a-743e-45a7-b558-ab038fc781bd"; "de"; "10"; "10"; "100.0"
+"6a5660eb-02aa-4b46-9e94-5b8021eb0134"; "it"; "6"; "6"; "100.0"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "it"; "8"; "8"; "100.0"
+"4aa54d7c-0a4f-495f-a9fc-467ee90cf70f"; "en"; "9"; "9"; "100.0"
+"61c5a877-e5b2-458e-9031-c64ae058fb29"; "de"; "9"; "9"; "100.0"
+"49656410-68dc-4711-bc4a-8de18e5bcc8d"; "es"; "10"; "10"; "100.0"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "en"; "7"; "7"; "100.0"
+"5df70912-3ec3-43d0-995c-5aada995d62d"; "pt"; "8"; "8"; "100.0"
+"1b8b8469-a989-4d4d-b9c6-e8545f26819f"; "it"; "5"; "5"; "100.0"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "fr"; "10"; "10"; "100.0"
+"269e7b76-34e7-4535-98b1-6c2d8edbf88f"; "fr"; "9"; "9"; "100.0"
+"3a39d355-f608-41f8-b357-eec0b9a9da99"; "fr"; "8"; "8"; "100.0"
+"583151f8-b71d-4acd-80d8-440f52d15e1e"; "fr"; "8"; "8"; "100.0"
+"27bc365e-08b1-45b6-8d97-ef8ada647a4c"; "it"; "10"; "10"; "100.0"
+"275462b8-bf73-4c2b-8c9d-4799eae6ef45"; "it"; "7"; "7"; "100.0"
+"4610d6f1-cb37-49e8-87af-00c7a0e893b6"; "de"; "10"; "10"; "100.0"
+"08d83066-6a81-4329-b7e9-32e7804e5c0d"; "it"; "5"; "5"; "100.0"
+"83b43f3a-5be1-4ed0-97ed-b9250bdf3f46"; "fr"; "9"; "9"; "100.0"
+}
+```
