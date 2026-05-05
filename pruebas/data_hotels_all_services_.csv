@@ -1,0 +1,288 @@
+# SQL =
+["SELECT al.url_id , al.hotel_id , h.hotel_name , al.language, al.service_category , service 
+FROM hotels_all_services al
+LEFT JOIN hotels h ON al.url_id = h.url_id and al.language = h.language and al.hotel_id = h.id 
+WHERE hotel_name in('wild & bolz eMotel','vidimo se','Hotel Aquamarin')
+AND al.language in ('es','en')
+ORDER BY al.url_id , al.language , al.service_category"]
+ 
+## RESULT =
+[
+url_id,hotel_id,hotel_name,language,service_category,service
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Food & Drink,Good breakfast
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,General,Non-smoking throughout
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,General,Non-smoking rooms
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,General,Private entrance
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Outdoors & View,Outdoor furniture
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Outdoors & View,Mountain view
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Outdoors & View,View
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Sofa bed
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Desk
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Linen
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Sofa
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Socket near the bed
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Additional toilet
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Bath or shower
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Seating Area
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Towels
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Toilet paper
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Private bathroom
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Hairdryer
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Toilet
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Wardrobe or closet
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Room Amenities,Flat-screen TV
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,Services,English
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Free WiFi
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Free parking
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Fold-up bed
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Fire extinguishers
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Family rooms
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Accessible parking
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Darts
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Daily housekeeping
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Cable channels
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Bar
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Balcony
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Designated smoking area
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Wine/champagne Additional charge
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Upper floors accessible by elevator
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Terrace
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Table tennis
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Smoke alarms
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Sauna
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Private check-in/check-out
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Picnic area
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Pets allowed
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Parking
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Meeting/banquet facilities Additional charge
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Lift
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Kid-friendly buffet
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Key access
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Invoice provided
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Indoor play area
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Hungarian
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Heating
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Hardwood or parquet floors
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,German
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Garden
+41a492c0-9d76-4d76-852c-d9a20b20804a,77e60e82-077b-4202-9458-99c2217578d6,Hotel Aquamarin,en,,Fruits Additional charge
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Alimentos y bebidas,Buen desayuno
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Armario
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Bañera o ducha
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Baño privado
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Enchufe cerca de la cama
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Escritorio
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Papel higiénico
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Ropa de cama
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Secador de pelo
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Sofá
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Sofá cama
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Toallas
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,TV de pantalla plana
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Comodidades,Zona de estar
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Exteriores y vistas,Vistas
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Exteriores y vistas,Vistas a la montaña
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,General,Entrada privada
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,General,Prohibido fumar en todo el alojamiento
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,Servicios,Inglés
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Ascensor
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Alemán
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Admite mascotas
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Acceso a pisos superiores en ascensor
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Bar
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Terraza
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Suelo de madera o parquet
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Balcón
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Aseo adicional
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Sauna
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Salas de reuniones / banquetes De pago
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Registro de entrada / salida privado
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Proporciona factura
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Ping pong
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Parking gratis
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Parking adaptado para personas de movilidad reducida
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Parking
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Vino / champán De pago
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Mobiliario exterior
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Llave de acceso
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Jardín
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Húngaro
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Habitaciones sin humo
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Habitaciones familiares
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Fruta De pago
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Extintores
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Zona de pícnic
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Zona de juegos interior
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Zona de fumadores
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Detectores de humo
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Dardos
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Canales por cable
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Cama plegable
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Calefacción
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Buffet para niños
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,WiFi gratis
+41a492c0-9d76-4d76-852c-d9a20b20804a,1f017b93-7448-4d1b-890f-1850bc63b2cc,Hotel Aquamarin,es,,Servicio de limpieza diario
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Food & Drink,Good breakfast
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,General,Non-smoking rooms
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Room Amenities,Flat-screen TV
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Room Amenities,Satellite channels
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Room Amenities,Towels
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Room Amenities,Socket near the bed
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,Room Amenities,Linen
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Free WiFi
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Serbian
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Terrace
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Bosnian
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Parking
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Heating
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Croatian
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Family rooms
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,German
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Free parking
+8bb357ef-cee9-4770-8160-73ec5a977af4,98b9fabf-c614-452a-8e9c-050bd164b627,vidimo se,en,,Private parking
+8bb357ef-cee9-4770-8160-73ec5a977af4,11296968-4385-4242-88f6-6409e0fb97c1,vidimo se,es,Alimentos y bebidas,Buen desayuno
+8bb357ef-cee9-4770-8160-73ec5a977af4,11296968-4385-4242-88f6-6409e0fb97c1,vidimo se,es,,Habitaciones familiares
+8bb357ef-cee9-4770-8160-73ec5a977af4,11296968-4385-4242-88f6-6409e0fb97c1,vidimo se,es,,Habitaciones sin humo
+8bb357ef-cee9-4770-8160-73ec5a977af4,11296968-4385-4242-88f6-6409e0fb97c1,vidimo se,es,,WiFi gratis
+8bb357ef-cee9-4770-8160-73ec5a977af4,11296968-4385-4242-88f6-6409e0fb97c1,vidimo se,es,,Parking gratis
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,General,Non-smoking rooms
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,General,Non-smoking throughout
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Outdoors & View,Mountain view
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Towels
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Wardrobe or closet
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Toilet paper
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Toilet
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Socket near the bed
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Shower
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Seating Area
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Private bathroom
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Linen
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Hairdryer
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Flat-screen TV
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,Room Amenities,Desk
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Wine/champagne Additional charge
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Electric vehicle charging station
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Fire extinguishers
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Free parking
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Free WiFi
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Accessible parking
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,German
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Hardwood or parquet floors
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Heating
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Invoice provided
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Key card access
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Lift
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,CCTV in common areas
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Parking
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Pets allowed
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Private parking
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Shared lounge/TV area
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Smoke alarms
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,CCTV outside property
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Upper floors accessible by elevator
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Vending machine (drinks)
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,58b9e293-e963-4125-bb07-6feda8adb7aa,wild & bolz eMotel,en,,Vending machine (snacks)
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Secador de pelo
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Zona de estar
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Armario
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Baño privado
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Ducha
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Enchufe cerca de la cama
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Escritorio
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Papel higiénico
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Ropa de cama
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,Toallas
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Comodidades,TV de pantalla plana
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,Exteriores y vistas,Vistas a la montaña
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,General,Prohibido fumar en todo el alojamiento
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Estación de carga de vehículos eléctricos
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Extintores
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Habitaciones sin humo
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Máquina expendedora (aperitivos)
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Máquina expendedora (bebidas)
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Acceso a pisos superiores en ascensor
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Parking
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Parking adaptado para personas de movilidad reducida
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Parking gratis
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Zona TV / salón de uso compartido
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Parking privado
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Proporciona factura
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Admite mascotas
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Alemán
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Vino / champán De pago
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Ascensor
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,WiFi gratis
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Calefacción
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Cámaras de seguridad en las zonas comunitarias
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Cámaras de seguridad fuera del alojamiento
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Suelo de madera o parquet
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Detectores de humo
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,407aa2d8-c263-4d5c-add4-664e53975792,wild & bolz eMotel,es,,Tarjeta de acceso
+]
+----
+
+# SQL =
+["SELECT url_id, service_category ,count(*) as count_services FROM hotels_all_services  
+WHERE url_id in ('d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3','8bb357ef-cee9-4770-8160-73ec5a977af4','41a492c0-9d76-4d76-852c-d9a20b20804a') and language ='en' 
+GROUP BY url_id , service_category
+ORDER BY url_id, service_category"]
+
+## RESULT =
+[
+url_id,service_category,count_services
+41a492c0-9d76-4d76-852c-d9a20b20804a,Food & Drink,1
+41a492c0-9d76-4d76-852c-d9a20b20804a,General,3
+41a492c0-9d76-4d76-852c-d9a20b20804a,Outdoors & View,3
+41a492c0-9d76-4d76-852c-d9a20b20804a,Room Amenities,15
+41a492c0-9d76-4d76-852c-d9a20b20804a,Services,1
+41a492c0-9d76-4d76-852c-d9a20b20804a,,34
+8bb357ef-cee9-4770-8160-73ec5a977af4,Food & Drink,1
+8bb357ef-cee9-4770-8160-73ec5a977af4,General,1
+8bb357ef-cee9-4770-8160-73ec5a977af4,Room Amenities,5
+8bb357ef-cee9-4770-8160-73ec5a977af4,,11
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,General,2
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,Outdoors & View,1
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,Room Amenities,12
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,,22
+]
+
+----
+
+# SQL =
+["SELECT url_id,  language,  count(*) as count_services , service_category
+FROM hotels_all_services  
+WHERE url_id in('d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3','8bb357ef-cee9-4770-8160-73ec5a977af4','41a492c0-9d76-4d76-852c-d9a20b20804a') 
+and language in ('en','es')
+GROUP BY url_id , service_category , language
+ORDER BY url_id, language, service_category"]
+
+## RESULT =
+[
+url_id,language,count_services,service_category
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,1,Food & Drink
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,3,General
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,3,Outdoors & View
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,15,Room Amenities
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,1,Services
+41a492c0-9d76-4d76-852c-d9a20b20804a,en,34,
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,1,Alimentos y bebidas
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,13,Comodidades
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,2,Exteriores y vistas
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,2,General
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,1,Servicios
+41a492c0-9d76-4d76-852c-d9a20b20804a,es,37,
+8bb357ef-cee9-4770-8160-73ec5a977af4,en,1,Food & Drink
+8bb357ef-cee9-4770-8160-73ec5a977af4,en,1,General
+8bb357ef-cee9-4770-8160-73ec5a977af4,en,5,Room Amenities
+8bb357ef-cee9-4770-8160-73ec5a977af4,en,11,
+8bb357ef-cee9-4770-8160-73ec5a977af4,es,1,Alimentos y bebidas
+8bb357ef-cee9-4770-8160-73ec5a977af4,es,4,
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,en,2,General
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,en,1,Outdoors & View
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,en,12,Room Amenities
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,en,22,
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,es,11,Comodidades
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,es,1,Exteriores y vistas
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,es,1,General
+d39feb52-f6ee-4e8f-94c7-e65bf3b9c8b3,es,23,
+]
