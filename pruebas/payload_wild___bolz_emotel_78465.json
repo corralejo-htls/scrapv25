@@ -1,0 +1,1005 @@
+{
+  "data": {
+    "name": {
+      "en": "wild & bolz eMotel",
+      "es": "wild & bolz eMotel",
+      "de": "wild & bolz eMotel",
+      "it": "wild & bolz eMotel",
+      "fr": "wild & bolz eMotel",
+      "pt": "wild & bolz eMotel"
+    },
+    "geoPosition": {
+      "latitude": 47.493105,
+      "longitude": 14.483982
+    },
+    "address": {
+      "en": "Industriepark 3, 8784 Trieben, Austria, 8784 Trieben, Austria",
+      "es": "Industriepark 3, 8784 Trieben, Austria, 8784 Trieben, Austria",
+      "de": "Industriepark 3, 8784 Trieben, Österreich, 8784 Trieben, Österreich",
+      "it": "Industriepark 3, 8784 Trieben, Austria, 8784 Trieben, Austria",
+      "fr": "Industriepark 3, 8784 Trieben, Autriche, 8784 Trieben, Autriche",
+      "pt": "Industriepark 3, 8784 Trieben, Áustria, 8784 Trieben, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/582483275.jpg?k=482228349cce26006af15cb63a4e7edeb50b894469b4b554ee0808c010954731&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/428648968.jpg?k=e75fb03d31ff991b5d37ede1803915f780f6bc3dccedff74db2f5f175c87a815&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427122545.jpg?k=a5f885af7e3be336afaf58d267ce9fba1df78262281e5e51b657c0390d9d8e3d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689963376.jpg?k=81d5047bff62f929a83a9c1c45b06b6bfac3c9ae6326f016ef69f863e49f4202&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/428646601.jpg?k=79b8687faa4a5f0a9c1918322039b5c12e40704d89fc9be50204418b0769a161&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689962672.jpg?k=01b28470fe6814d871cb8d3f6be60d058772a0857c69dfe917a197698648ca60&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427123968.jpg?k=253bdad3f9dfbf0c86aebbe4c079dca79439a49f3ae702eb40980f509d98ab33&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689962673.jpg?k=d43ee53c23f96c2e26c688c98f9fffeb177082f21a9bfe7b7cdd508899d4327f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/415139241.jpg?k=65673512c5a712372c2ba085b27e6c563b9712f0fe4d2a1dc8430e42bd29be2e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427122415.jpg?k=7c9d12d62540c2d7c02769c76b923ff13730e97c65166d52c7ebbe81b3eb96b5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/428646599.jpg?k=9d677bfcc0d81af55897bff4e215b9dd65c8132bd3079cd8dfbecfffb825657d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/428646598.jpg?k=683570bc9299611cf6ecc142c74a3f07b8f410d54644cb18cfcb191f4107dc47&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/560435496.jpg?k=cd921bfcac221ae4239efa2802442a871b6343544dcadc507cb13e6715d94c93&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427123222.jpg?k=060ecae37716f02cc82bd5431e516c4134e3925dd0bf2abf801d16daaa4548d1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427123278.jpg?k=cb89b70b4bbd47f20d025077326c2795bacc969ffad78a882994f0f511ea8ce1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/415139239.jpg?k=92c7abc0b4b61c94e1e7b540bca973a9d455f5e4e2a894fceeac2972efecccbc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427155743.jpg?k=a5a12a95fba566d73d6e47ab33e9aa754db572cb468b654ab5728635146b9854&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/427125285.jpg?k=54cc99248c1057e669e649465d1855fee03849aec9c78dab23b54e516a9bce1c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/582483819.jpg?k=39f5a57d460d64fc1c81496d42bfe450f4571b531dcf7e3d1c4b14c248d58706&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689962670.jpg?k=30f7794238c58ab1b6fe3376ed0f6e2c392286a9951e216dea9ed79b834300be&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689963375.jpg?k=6ac03c4bb0b80c6a303b8ee59bffbd541a44aa74b7c0ab5034d2345309f6ea53&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/689963377.jpg?k=90fd88dcdf87d6d40c041bd8b28cf2c2006421e1aec391b0931f7b1db183f490&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": null,
+    "scoreReview": 8.9,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Steirerlandrast",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Wild Bean Café",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Cafe-Konditorei Josef Lösch",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Trieben",
+          "distance": "750 m",
+          "category": 4
+        },
+        {
+          "name": "Gaishorn",
+          "distance": "5 km",
+          "category": 4
+        }
+      ],
+      "es": [
+        {
+          "name": "Steirerlandrast",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Wild Bean Café",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Cafe-Konditorei Josef Lösch",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Trieben",
+          "distance": "750 m",
+          "category": 4
+        },
+        {
+          "name": "Gaishorn",
+          "distance": "5 km",
+          "category": 4
+        }
+      ],
+      "de": [
+        {
+          "name": "Steirerlandrast",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Wild Bean Café",
+          "distance": "200 m",
+          "category": 6
+        },
+        {
+          "name": "Cafe-Konditorei Josef Lösch",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Trieben",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Gaishorn",
+          "distance": "5 km",
+          "category": 6
+        }
+      ],
+      "it": [],
+      "fr": [
+        {
+          "name": "Parc national de Gesäuse",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Nikolaus",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Kneipp-Anlage",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Freizeitsee Wald am Schoberpass",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Steirerlandrast",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Wild Bean Café",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Cafe-Konditorei Josef Lösch",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Trieben",
+          "distance": "750 m",
+          "category": 4
+        },
+        {
+          "name": "Gaishorn",
+          "distance": "5 km",
+          "category": 4
+        }
+      ],
+      "pt": [
+        {
+          "name": "Nationalpark Gesäuse",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Pfarrkirche Sankt Nikolaus",
+          "distance": "11 km",
+          "category": 6
+        },
+        {
+          "name": "Kneipp-Anlage",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Freizeitsee Wald am Schoberpass",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Steirerlandrast",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Wild Bean Café",
+          "distance": "200 m",
+          "category": 2
+        },
+        {
+          "name": "Cafe-Konditorei Josef Lösch",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Trieben",
+          "distance": "750 m",
+          "category": 4
+        },
+        {
+          "name": "Gaishorn",
+          "distance": "5 km",
+          "category": 4
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 809,
+    "toConsider": {
+      "en": "This property is managed by a professional host. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the host here: see host details .",
+      "es": "Este alojamiento está gestionado por un anfitrión profesional. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre el anfitrión aquí: ver los datos del anfitrión .",
+      "de": "Diese Unterkunft wird von einem gewerblichen Gastgeber geführt. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Gastgeber finden Sie in den Gastgeber-Informationen .",
+      "it": "Questa struttura è gestita da un host professionista. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'host, vai a: dettagli dell'host .",
+      "fr": "Cet établissement est géré par un hôte professionnel. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de cet hôte sous ce lien .",
+      "pt": ""
+    },
+    "longDescription": {
+      "en": "Comfortable Accommodations:Wild & Bolz eMotel in Trieben offers rooms with private bathrooms, mountain views, and parquet floors. Each room includes a work desk, seating area, TV, and wardrobe.Modern Facilities:Guests enjoy free WiFi, a lounge, lift, and electric vehicle charging station. Free on-site private parking is available.Convenient Location:Located 15 km from Admont Abbey, 26 km from Hochtor, and 108 km from Graz Airport. Nearby attractions include Der Wilde Berg and Trautenfels Castle.Guest Satisfaction:Highly rated for room cleanliness, convenient location, and room comfort.",
+      "es": "Wild & bolz eMotel se encuentra en Trieben, a 15 km de Abadía de Admont y a 26 km de Hochtor. Ofrece alojamiento con salón de uso común y wifi gratis en todo el alojamiento, además de parking privado gratis. El hotel está a unos 38 km de Castillo de Trautenfels y a 47 km de Kulm. Este alojamiento libre de humo está a 31 km de Der Wilde Berg - Wildpark Mautern.\n\nEn el hotel, todas las habitaciones disponen de escritorio, TV de pantalla plana, baño privado, ropa de cama y toallas. Todas las unidades disponen de armario.\n\nEl aeropuerto (Aeropuerto de Graz) está a 108 km.",
+      "de": "Weniger als 15 km von Stift Admont und 26 km von Hochtor entfernt in Trieben gelegen, bietet die Unterkunft wild & bolz eMotel Übernachtungsmöglichkeiten mit einer Gemeinschaftslounge, kostenloses WLAN in der ganzen Unterkunft und einem kostenlosen Privatparkplatz für Gäste, die mit dem Auto anreisen. Die Nichtraucher Unterkunft ist 31 km von Der Wilde Berg - Wildpark Mautern entfernt gelegen.\n\nIn der Unterkunft wild & bolz eMotel sind die Zimmer versehen mit einem Schreibtisch, einem Flachbild-TV, einem eigenen Badezimmer, Bettwäsche und Handtüchern. Alle Wohneinheiten verfügen über einen Kleiderschrank.\n\nSchloss Trautenfels liegt 38 km von der Unterkunft wild & bolz eMotel entfernt, während Der Kulm 47 km entfernt ist. Der nächstgelegene Flughafen ist der Flughafen Graz, 108 km von der Unterkunft wild & bolz eMotel entfernt.",
+      "it": "Posizionato a Trieben, a 15 km da Abbazia di Admont e 26 km da Hochtor, wild & bolz eMotel mette a disposizione una sala comune e il WiFi gratuito in tutta la struttura, oltre a un parcheggio privato gratuito per chi viaggia in auto. A circa 38 km da Castello di Trautenfels, l'hotel è anche a 47 km di distanza da Kulm. L'alloggio è interamente non fumatori ed è ubicato a 31 km da Der Wilde Berg - Wildpark Mautern.\n\nPresso questo hotel, le camere sono provviste di una scrivania, una TV a schermo piatto, un bagno privato, le lenzuola e gli asciugamani. Tutte le unità presentano un armadio.\n\nAeroporto di Graz - Thalerhof si trova a 108 km di distanza.",
+      "fr": "L’établissement wild & bolz eMotel se situe à Trieben, à respectivement 15 km et 26 km de ces lieux d’intérêt : Abbaye d'Admont et Hochtor. Il met à votre disposition un salon commun, un parking privé gratuit ainsi qu’une connexion Wi-Fi gratuite dans l’ensemble de ses locaux. Cet hôtel est à respectivement 38 km et 47 km environ de : Gare de Vienne-Meidling et Kulm. Cet établissement non-fumeurs vous accueille à 31 km de : Der Wilde Berg - Wildpark Mautern.\n\nTous les hébergements proposent un bureau, une télévision à écran plat, une salle de bains privative, du linge de lit et des serviettes. Vous profiterez aussi d’une armoire.\n\nL'aéroport le plus proche (Aéroport de Graz) est à 108 km.",
+      "pt": "Wild & bolz eMotel situa-se em Trieben, a 15 km de Mosteiro de Admont e a 26 km de Monte Hochtor. O alojamento dispõe de acomodações com um salão partilhado e acesso Wi-Fi gratuito em toda a propriedade, assim como estacionamento privado gratuito. Este hotel está a cerca de 38 km de Castelo Trautenfels e a 47 km de Kulm. Este alojamento não fumador encontra-se a 31 km de Der Wilde Berg - Wildpark Mautern.\n\nNo alojamento, os quartos estão equipados com secretária, televisão de ecrã plano, casa de banho privativa, roupa de cama e toalhas. Todas as unidades apresentam roupeiro.\n\nO Aeroporto de Graz fica a 108 km de distância."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What type of room can I book at wild & bolz eMotel?",
+          "topicComments": "Room options at wild & bolz eMotel include: Single Double"
+        },
+        {
+          "topic": "What are the check-in and check-out times at wild & bolz eMotel?",
+          "topicComments": "Check-in at wild & bolz eMotel is from 14:00, and check-out is until 10:00."
+        },
+        {
+          "topic": "How much does it cost to stay at wild & bolz eMotel?",
+          "topicComments": "The prices at wild & bolz eMotel may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "How far is wild & bolz eMotel from the centre of Trieben?",
+          "topicComments": "wild & bolz eMotel is 600 m from the centre of Trieben."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en wild & bolz eMotel?",
+          "topicComments": "Las opciones de habitación en wild & bolz eMotel son: Individual Doble"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de wild & bolz eMotel?",
+          "topicComments": "Podrás hacer el check-in en wild & bolz eMotel a partir de las 14:00 y el check-out hasta las 10:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en wild & bolz eMotel?",
+          "topicComments": "Los precios en wild & bolz eMotel pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿A qué distancia está wild & bolz eMotel del centro de Trieben?",
+          "topicComments": "wild & bolz eMotel está a 600 m del centro de Trieben."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft wild & bolz eMotel buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft wild & bolz eMotel zählen: Einzelzimmer Doppelzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft wild & bolz eMotel?",
+          "topicComments": "Der Check-in in der Unterkunft wild & bolz eMotel ist ab 14:00, und der Check-out ist bis 10:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft wild & bolz eMotel?",
+          "topicComments": "Die Preise an der Unterkunft wild & bolz eMotel könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft wild & bolz eMotel vom Zentrum von Trieben entfernt?",
+          "topicComments": "Die Unterkunft wild & bolz eMotel ist 600 m vom Zentrum von Trieben entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di camere posso prenotare presso wild & bolz eMotel?",
+          "topicComments": "wild & bolz eMotel offre: Singola Matrimoniale"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso wild & bolz eMotel?",
+          "topicComments": "Presso wild & bolz eMotel, il check-in può essere effettuato dalle 14:00, mentre il check-out è fino alle 10:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso wild & bolz eMotel?",
+          "topicComments": "I prezzi di wild & bolz eMotel possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quanto dista wild & bolz eMotel dal centro di Trieben?",
+          "topicComments": "wild & bolz eMotel si trova a 600 m dal centro di Trieben."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement wild & bolz eMotel ?",
+          "topicComments": "L'établissement wild & bolz eMotel propose les options d'hébergement suivantes : Simple Double"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement wild & bolz eMotel ?",
+          "topicComments": "L'enregistrement à l'établissement wild & bolz eMotel se fait à partir de 14:00 et le départ est possible jusqu'à 10:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement wild & bolz eMotel ?",
+          "topicComments": "Les tarifs fixés par l'établissement wild & bolz eMotel peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement wild & bolz eMotel est-il proche du centre (Trieben) ?",
+          "topicComments": "L'établissement wild & bolz eMotel se trouve à 600 m du centre (Trieben)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de quarto posso reservar em wild & bolz eMotel?",
+          "topicComments": "As opções de quarto em wild & bolz eMotel incluem: Individual Duplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em wild & bolz eMotel?",
+          "topicComments": "Em wild & bolz eMotel, o check-in é a partir das 14:00 e o check-out até às 10:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em wild & bolz eMotel?",
+          "topicComments": "Os preços em wild & bolz eMotel podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "A que distância fica wild & bolz eMotel do centro de Trieben?",
+          "topicComments": "wild & bolz eMotel fica a 600 m do centro de Trieben."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Set in Trieben, within 15 km of Admont Abbey and 26 km of Hochtor, wild & bolz eMotel offers accommodation with a shared lounge and free WiFi throughout the property as well as free private parking for guests who drive.",
+      "es": "Wild & bolz eMotel se encuentra en Trieben, a 15 km de Abadía de Admont y a 26 km de Hochtor.",
+      "de": "Weniger als 15 km von Stift Admont und 26 km von Hochtor entfernt in Trieben gelegen, bietet die Unterkunft wild & bolz eMotel Übernachtungsmöglichkeiten mit einer Gemeinschaftslounge, kostenloses WLAN in der ganzen Unterkunft und einem kostenlosen Privatparkplatz für Gäste, die mit dem Auto anreisen.",
+      "it": "Posizionato a Trieben, a 15 km da Abbazia di Admont e 26 km da Hochtor, wild & bolz eMotel mette a disposizione una sala comune e il WiFi gratuito in tutta la struttura, oltre a un parcheggio privato gratuito per chi viaggia in auto.",
+      "fr": "L’établissement wild & bolz eMotel se situe à Trieben, à respectivement 15 km et 26 km de ces lieux d’intérêt : Abbaye d'Admont et Hochtor.",
+      "pt": "Wild & bolz eMotel situa-se em Trieben, a 15 km de Mosteiro de Admont e a 26 km de Monte Hochtor."
+    },
+    "services": {
+      "en": [
+        {
+          "Accessibility": [
+            "Upper floors accessible by elevator"
+          ],
+          "Food & Drink": [
+            "Wine/champagne Additional charge"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Lift",
+            "Non-smoking throughout",
+            "Hardwood or parquet floors",
+            "Heating"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German"
+          ],
+          "Outdoors & View": [
+            "Mountain view"
+          ],
+          "Parking": [
+            "Free parking",
+            "Private parking",
+            "Electric vehicle charging station",
+            "Accessible parking"
+          ],
+          "Pets": [
+            "Pets allowed"
+          ],
+          "Reception services": [
+            "Invoice provided"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "CCTV outside property",
+            "CCTV in common areas",
+            "Smoke alarms",
+            "Key card access"
+          ],
+          "Services": [
+            "Shared lounge/TV area",
+            "Vending machine (snacks)",
+            "Vending machine (drinks)"
+          ],
+          "Other": [
+            "Parking"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Accesibilidad": [
+            "Parking adaptado para personas de movilidad reducida",
+            "Acceso a pisos superiores en ascensor"
+          ],
+          "Alimentos y bebidas": [
+            "Vino / champán De pago"
+          ],
+          "Aparcamiento": [
+            "Parking gratis",
+            "Parking privado",
+            "Estación de carga de vehículos eléctricos"
+          ],
+          "Exteriores y vistas": [
+            "Vistas a la montaña"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Ascensor",
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de madera o parquet",
+            "Calefacción"
+          ],
+          "Idiomas hablados": [
+            "Alemán"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Mascotas": [
+            "Admite mascotas"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Cámaras de seguridad fuera del alojamiento",
+            "Cámaras de seguridad en las zonas comunitarias",
+            "Detectores de humo",
+            "Tarjeta de acceso"
+          ],
+          "Servicios": [
+            "Zona TV / salón de uso compartido",
+            "Máquina expendedora (aperitivos)",
+            "Máquina expendedora (bebidas)"
+          ],
+          "Servicios de recepción": [
+            "Proporciona factura"
+          ],
+          "Other": [
+            "Parking"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Aufzug",
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Heizung"
+          ],
+          "Außenbereich": [
+            "Bergblick"
+          ],
+          "Dienstleistungen": [
+            "Gemeinschaftslounge/TV-Bereich"
+          ],
+          "Gesprochene Sprachen": [
+            "Deutsch"
+          ],
+          "Haustiere": [
+            "Haustiere erlaubt"
+          ],
+          "Parken": [
+            "Privatparkplatz"
+          ],
+          "Rezeptionsleistungen": [
+            "Rechnung auf Anfrage"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Other": [
+            "Parkplatz inbegriffen",
+            "WLAN inklusive",
+            "Nichtraucherzimmer",
+            "Parkplatz",
+            "Wein/Sekt Zusätzliche Gebühren",
+            "Aufladestation für Elektro-Autos",
+            "Behindertengerechte Parkplätze",
+            "Snackautomat",
+            "Getränkeautomat",
+            "Videoüberwachung der Außenbereiche der Unterkunft",
+            "Videoüberwachung in Gemeinschaftsbereichen",
+            "Zugang mit Schlüsselkarte",
+            "Holz- oder Parkettböden",
+            "Obere Stockwerke mit Fahrstuhl erreichbar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Generale": [
+            "Camere non fumatori"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Parcheggio": [
+            "Parcheggio gratuito"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Accessibilité": [
+            "Étages supérieurs accessibles par ascenseur"
+          ],
+          "Alimentation": [
+            "Vin/champagne En supplément"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Douche",
+            "Papier toilette",
+            "Serviettes",
+            "Toilettes",
+            "Sèche-cheveux",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Coin salon",
+            "Bureau",
+            "Télévision"
+          ],
+          "Extérieur": [
+            "Vue sur la montagne"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Parquet",
+            "Chauffage"
+          ],
+          "Langues parlées": [
+            "Allemand"
+          ],
+          "Parking": [
+            "Parking gratuit",
+            "Parking privé",
+            "Borne de recharge pour les véhicules électriques"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Services": [
+            "Salon commun/salle de télévision",
+            "Distributeur automatique (collations)",
+            "Distributeur automatique (boissons)"
+          ],
+          "Services de réception": [
+            "Facture fournie sur demande"
+          ],
+          "Other": [
+            "Connexion Wi-Fi gratuite",
+            "Parking",
+            "Animaux domestiques admis",
+            "Ascenseur",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Caméras de surveillance à l'extérieur de l'établissement",
+            "Caméras de surveillance dans les parties communes",
+            "Détecteurs de fumée",
+            "Cartes d'accès"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Estacionamento": [
+            "Estacionamento gratuito",
+            "Estacionamento privado"
+          ],
+          "Exterior": [
+            "Vista montanha"
+          ],
+          "Geral": [
+            "Elevador",
+            "Proibido fumar em todas as áreas",
+            "Piso em madeira ou parquet",
+            "Aquecimento",
+            "Pisos superiores acessíveis por elevador"
+          ],
+          "Idiomas falados": [
+            "Alemão"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores",
+            "CCTV no exterior da propriedade",
+            "CCTV nas áreas comuns",
+            "Cartão de acesso"
+          ],
+          "Other": [
+            "Quartos para não fumadores",
+            "Estacionamento",
+            "Animais de estimação admitidos",
+            "Vinho/champanhe Custo adicional",
+            "Posto de carga para veículos elétricos",
+            "Estacionamento acessível",
+            "Máquina de venda automática (snacks)",
+            "Máquina de venda automática (bebidas)",
+            "Fatura mediante pedido",
+            "Detetores de fumo"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 14:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Until 10:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 16 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children of any age are welcome. Children 16 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed. Charges may be applicable."
+        },
+        {
+          "condition": "Cards accepted at this hotel",
+          "detail": "Cash is not accepted"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "Desde las 14:00"
+        },
+        {
+          "condition": "Salida",
+          "detail": "Hasta las 10:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 16 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 16 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Tarjetas aceptadas en este hotel",
+          "detail": "No se acepta efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Ab 14:00"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Bis 10:00"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 16 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 16 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "In diesem Hotel werden folgende Karten akzeptiert",
+          "detail": "Barzahlung nicht akzeptiert"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 14:00"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Alle 10:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 16 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 16 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Carte di credito accettate presso questo hotel",
+          "detail": "Non si accettano contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "À partir de 14:00"
+        },
+        {
+          "condition": "Départ",
+          "detail": "Jusqu'à 10:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 16 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 16 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Cartes acceptées par cet hôtel",
+          "detail": "Les espèces ne sont pas acceptées"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 14:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Às 10:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 16 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 16 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Cartões aceites pelo hotel",
+          "detail": "Não aceita dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.3
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 9.4
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.3
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 9.4
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.3
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 9.4
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.3
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 9.4
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.9
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.3
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.2
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 9.4
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.2
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.3
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.6
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.5
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 9.4
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

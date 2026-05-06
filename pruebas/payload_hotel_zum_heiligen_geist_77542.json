@@ -1,0 +1,1125 @@
+{
+  "data": {
+    "name": {
+      "en": "Hotel zum Heiligen Geist",
+      "es": "Hotel zum Heiligen Geist",
+      "de": "Hotel zum Heiligen Geist",
+      "it": "Hotel zum Heiligen Geist",
+      "fr": "Hotel zum Heiligen Geist",
+      "pt": "Hotel zum Heiligen Geist"
+    },
+    "geoPosition": {
+      "latitude": 47.77539764317487,
+      "longitude": 15.316167175769806
+    },
+    "address": {
+      "en": "Wiener Straße 38, 8630 Mariazell, Austria, 8630 Mariazell, Austria",
+      "es": "Wiener Straße 38, 8630 Mariazell, Austria, 8630 Mariazell, Austria",
+      "de": "Wiener Straße 38, 8630 Mariazell, Österreich, 8630 Mariazell, Österreich",
+      "it": "Wiener Straße 38, 8630 Mariazell, Austria, 8630 Mariazell, Austria",
+      "fr": "Wiener Straße 38, 8630 Mariazell, Autriche, 8630 Mariazell, Autriche",
+      "pt": "Wiener Straße 38, 8630 Mariazell, Áustria, 8630 Mariazell, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/10164934.jpg?k=784377d3b03178fee9476d3a06be24bc484abd06cee7e79ae6efecc849fee08a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428847.jpg?k=c7c335fe4a3a2adb870558fe3cb5cd864f18cfb35ee60b164361d9de062819e5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/154291566.jpg?k=73a2b798a59832b661896bd5e046beb00c5a5711dc4607cd4b7231a4121814e7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428910.jpg?k=7060fb5992fa5b7498d369b50e3dce39714551a00250fbd42a26070223ff6a5e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/154291428.jpg?k=0f7b8fa209fef4afc03fe549a7298a8bc296c1a720a566dbfb0fd089661538a1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/154290704.jpg?k=2c0dd451f1651ad78363d24a27f589dd24785802a3a0f6071f46689432cdaad5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/121876298.jpg?k=0fafd7f1c9107a7e01dc961b091fbb2ed4ac9c26adef241908154fbdb42d5039&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/121874506.jpg?k=4821467d906d399330c5910d2790435aefc1603b2c00552df3a1d04751260978&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/121874214.jpg?k=e4120606b59a895892fbfc0d6a65840094cc26f32e0afcb0f4132cf71ba8f2a1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713046.jpg?k=a7838661c4ae3f65b67d69968bcb32c0bfc95938a6f03731a492e3464765d67a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428669.jpg?k=8d3b8076b38c5d16fb320cc7ec2c22ee2976d73128a18341ae50c5d9187c9b74&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17700799.jpg?k=3b59a25815c0edf57ba75d63a868ef001bd057018c3f03224f294a09ba835917&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/32401057.jpg?k=18a313d93ecdd4c46d44664a0927ee3837c46332fcf18f14444aceaa9e618d12&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17699249.jpg?k=2e95e17014a7eadcd772f8a06129935d1ac971301f313f6539f6bf3284e17615&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17699300.jpg?k=8dbf55033c676cf8e7461281e117022007549e96bab98d7e49aec2bed395ae8f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/32401116.jpg?k=1a9f37e7ee9a7c5bbc0516ab73100d03286699c1511dce5520226f755dd2429e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21922650.jpg?k=d20419eb32800e77ef2e23ffbd1b7ca03bbbfbdcd4c29601035932316535bc8d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16712930.jpg?k=faa891c42d7b5936d4bca776f3b2649dd806f0d2239b6ea2815eb1473be5a9f0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428992.jpg?k=6e61d9166c4dffdb283ffc28d6e3d051991736cb0ac2fc1104833431348a605e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713102.jpg?k=a94624d5fbe6049a0fa0d34f72d65f16453ae5346c61a2db6e412312dc216ef7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21922363.jpg?k=bf43e0dbfad2df464f534c024d5a804df73ed2fc2b5d51632dee6237d8f8f343&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21921714.jpg?k=72cf3b26554ad5869c9c37b7354505f1a5ac10eb7f8a0289bde3ec1435cb68de&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16712963.jpg?k=ff1537e211af76d16586f133bcb1baa39be98e71af0d54d6e087c1828a3afb64&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17698691.jpg?k=fc550ec0c57c1988ec914c42a2d6219379387c7ccbc7b5187f45a33f65bb779f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21921319.jpg?k=6b1a197002819c3e40cf324f71fc60e2d7e06632207c2207e65ac7867a0a2f7b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428863.jpg?k=8246b3cd310ec8553fcb88bde29949dc73b4e3dc3d4f55917bba528e4c5c8077&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428837.jpg?k=e8320bec7bf79c5e42e69abdc9fc95fd7e523b67ace6cdd83bf8f9e7a449f3e8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428886.jpg?k=925449c670a5caab49dc1f3b85bf710d0c85bf1b0c410cd528d10773d8516780&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21428830.jpg?k=ab500190de14bc09f7fb54bfaa41855a442ca0cef555f7563d70a96f6e92135d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16712843.jpg?k=cfa7d248e303a0b067b087723d36f452bf983deae8c7ba49861804fd9d537e14&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713225.jpg?k=34f0b7ef5040a94c48c468412b0671fa9b29438d3e9fe709271bb59c883505e3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17186176.jpg?k=f369c350343af71c063efae39a66e7a1c62f4f3bf039e14c9905150cd739e161&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713059.jpg?k=36b1057533c149f70c2b213c00402a6beaf4591a0bf03ae93485b137cbc6992b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713061.jpg?k=d92f01f63824630d854d93ea12f3e6d7f5c96544355d1dcc4ad1ba78b28bf45c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713069.jpg?k=e4c9d8f89a186c27ab20f899028d22817bbc53e0d06c8617614808c7bfbe0ce4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713192.jpg?k=08e8d3c489e2421ff6cd7f3468f5a4ffcc69c1dfd2fcd8a1436ea59e5ddb4003&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713251.jpg?k=207502c8c2fe733b3da8b9d2e7b030cdeb467666705b039a57def5111c1c373e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713285.jpg?k=f288f353cac4f8b88402be7293b81c8d193ee6e778b380b5d214fecd3bf8db0c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17698159.jpg?k=ec38097ca6b473a7543809b6b9c83560eafe6f7bd9f47cd9af889eeba8a36a30&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713341.jpg?k=9bb1c9f6dc14a78811ca47260248decfb5354e9b97c884b136da22a79e7c2256&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/17698792.jpg?k=3f0f4ea8993f0a47de33a1768e69ba82edfe0907afb90f686173def44e2c9cc8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/21429019.jpg?k=690e1d683740ba15b783db83ddd7cb9a24de7898ea31372edcdf50809453e02f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713403.jpg?k=1ce20dfca504f0e3eed242bd591b009b8e84c263d73d08f7093e60e4eb577998&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713420.jpg?k=ab7474efcd663226e81bfcf0cce6637f44623deebf086e9701ecb05888a6cee2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/16713444.jpg?k=cba06339c4bc22c919cf32701909fa42be37d360416158c924f571401081c238&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": null,
+    "scoreReview": 9.3,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1.1 km",
+          "category": 4
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1.2 km",
+          "category": 4
+        }
+      ],
+      "es": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1,1 km",
+          "category": 4
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1,2 km",
+          "category": 4
+        }
+      ],
+      "de": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1,2 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 6
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1,2 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1,1 km",
+          "category": 4
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1,2 km",
+          "category": 4
+        }
+      ],
+      "pt": [
+        {
+          "name": "Scherflers Hotel Goldenes Kreuz",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Restaurant",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Brauhaus Mariazell",
+          "distance": "150 m",
+          "category": 2
+        },
+        {
+          "name": "Mariazell",
+          "distance": "1,1 km",
+          "category": 4
+        },
+        {
+          "name": "Haltestelle Waldeisenbahn",
+          "distance": "1,2 km",
+          "category": 4
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 423,
+    "toConsider": {
+      "en": "Please note that the reception is not staffed permanently. Thus, please inform them about your approximate arrival time so that they can make sure you will find someone at the reception desk.\nThe hotel has not got a parking place, parking is possible on public parking places situated within 50-300 meters.\nPlease note that smoking is generally not allowed within the hotel.\nPlease inform Hotel zum Heiligen Geist in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\nGuests under the age of 18 can only check in with a parent or official guardian.\nDue to Coronavirus (COVID-19), this property has reduced reception and service operating hours.\n\nThis property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Please note that the reception is not staffed permanently. Thus, please inform them about your approximate arrival time so that they can make sure you will find someone at the reception desk.\nThe hotel has not got a parking place, parking is possible on public parking places situated within 50-300 meters.\nPlease note that smoking is generally not allowed within the hotel.\nInforma a Hotel zum Heiligen Geist con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\nLas personas menores de 18 años solo pueden alojarse si van acompañadas de alguno de sus progenitores o tutores legales.\nA causa del coronavirus (COVID-19), este alojamiento ha reducido el horario de recepción y otros servicios.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Bitte beachten Sie, dass die Rezeption nicht ständig besetzt ist. Damit Ihr Empfang an der Rezeption gewährleistet ist, informieren Sie das Hotel bitte über Ihre voraussichtliche Ankunftszeit.\nDas Hotel hat keine Parkplätze. Sie können Ihr Fahrzeug auf den öffentlichen Parkplätzen in 50 bis 300 m Entfernung abstellen.\nBitte beachten Sie, dass das Rauchen generell innerhalb des Hotels nicht gestattet ist.\nBitte teilen Sie der Unterkunft Hotel zum Heiligen Geist Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\nGäste unter 18 Jahren können nur mit einem Elternteil oder gesetzlichen Vertreter einchecken.\nWegen des Coronavirus (COVID-19) hat diese Unterkunft seine Service- und Rezeptionszeiten verringert.",
+      "it": "Please note that the reception is not staffed permanently. Thus, please inform them about your approximate arrival time so that they can make sure you will find someone at the reception desk.\nThe hotel has not got a parking place, parking is possible on public parking places situated within 50-300 meters.\nPlease note that smoking is generally not allowed within the hotel.\nSiete pregati di comunicare in anticipo a Hotel zum Heiligen Geist l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\nGli ospiti di età inferiore ai 18 anni possono effettuare il check-in solo se accompagnati da un genitore o da un tutore legale.\nA causa del Coronavirus (COVID-19) questa struttura ha ridotto gli orari di servizio e reception.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Please note that the reception is not staffed permanently. Thus, please inform them about your approximate arrival time so that they can make sure you will find someone at the reception desk.\nThe hotel has not got a parking place, parking is possible on public parking places situated within 50-300 meters.\nPlease note that smoking is generally not allowed within the hotel.\nVeuillez informer l'établissement Hotel zum Heiligen Geist à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\nLes clients âgés de moins de 18 ans doivent être accompagnés d'un parent ou d'un tuteur légal pour pouvoir s'enregistrer.\nEn raison de la pandémie de coronavirus (COVID-19), cet établissement a réduit les horaires de sa réception et de ses services.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Please note that the reception is not staffed permanently. Thus, please inform them about your approximate arrival time so that they can make sure you will find someone at the reception desk.\nThe hotel has not got a parking place, parking is possible on public parking places situated within 50-300 meters.\nPlease note that smoking is generally not allowed within the hotel.\nPor favor, informe Hotel zum Heiligen Geist antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\nOs hóspedes com menos de 18 anos só podem fazer o check-in se acompanhados por um dos pais ou tutor legal.\nDevido ao Coronavírus (COVID-19), este alojamento reduziu o horário de funcionamento da receção e dos serviços.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    },
+    "longDescription": {
+      "en": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)",
+      "es": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)",
+      "de": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)",
+      "it": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)",
+      "fr": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)",
+      "pt": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica. Free WiFi is available.\n\nRooms at the Heiligen Geist Hotel are decorated with Italian luxury furniture and feature a seating area, beds with Hästens mattresses, a 3D HD plasma TV with German and English channels, a Blu-ray player, and a bathroom with a spacious shower, a make-up mirror and a hairdryer. They furthermore feature a safety deposit box and a minibar.\n\nA ski and bicycle storage room is available. Cross-country ski runs start outside, and a tennis court is 300 metres away. The Gemeindealpe Cable Car can be reached in a 5-minute drive.\n\nPublic parking places are situated within 50 to 300 metres.\n\nPlease note that the hotel DOES NOT HAVE an ELEVATOR (LIFT)"
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Hotel zum Heiligen Geist?",
+          "topicComments": "Guests staying at Hotel zum Heiligen Geist can enjoy a highly-rated breakfast during their stay (guest review score: 9.3). Breakfast option(s) include: Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Hotel zum Heiligen Geist?",
+          "topicComments": "Room options at Hotel zum Heiligen Geist include: Double Family Apartment"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel zum Heiligen Geist?",
+          "topicComments": "Check-in at Hotel zum Heiligen Geist is from 15:30, and check-out is until 10:30."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel zum Heiligen Geist?",
+          "topicComments": "The prices at Hotel zum Heiligen Geist may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Hotel zum Heiligen Geist?",
+          "topicComments": "Hotel zum Heiligen Geist offers the following activities / services (charges may apply): Cycling Hiking Skiing Tennis court Fishing"
+        },
+        {
+          "topic": "How far is Hotel zum Heiligen Geist from the centre of Mariazell?",
+          "topicComments": "Hotel zum Heiligen Geist is 400 m from the centre of Mariazell."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Hotel zum Heiligen Geist?",
+          "topicComments": "Los clientes de Hotel zum Heiligen Geist podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9,3) Las opciones del desayuno son: Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel zum Heiligen Geist?",
+          "topicComments": "Las opciones de habitación en Hotel zum Heiligen Geist son: Doble Familiar Apartamento"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel zum Heiligen Geist?",
+          "topicComments": "Podrás hacer el check-in en Hotel zum Heiligen Geist a partir de las 15:30 y el check-out hasta las 10:30."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel zum Heiligen Geist?",
+          "topicComments": "Los precios en Hotel zum Heiligen Geist pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel zum Heiligen Geist?",
+          "topicComments": "Hotel zum Heiligen Geist ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Ciclismo Senderismo Esquí Pista de tenis Pesca"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel zum Heiligen Geist del centro de Mariazell?",
+          "topicComments": "Hotel zum Heiligen Geist está a 400 m del centro de Mariazell."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Hotel zum Heiligen Geist serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Hotel zum Heiligen Geist übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9,3). Verfügbare Frühstücksoption(en): Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Hotel zum Heiligen Geist buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Hotel zum Heiligen Geist zählen: Doppelzimmer Familienzimmer Ferienwohnung"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Hotel zum Heiligen Geist?",
+          "topicComments": "Der Check-in in der Unterkunft Hotel zum Heiligen Geist ist ab 15:30, und der Check-out ist bis 10:30."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Hotel zum Heiligen Geist?",
+          "topicComments": "Die Preise an der Unterkunft Hotel zum Heiligen Geist könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Hotel zum Heiligen Geist?",
+          "topicComments": "Die Unterkunft Hotel zum Heiligen Geist bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Radfahren Wandern Skifahren Tennisplatz Angeln"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Hotel zum Heiligen Geist vom Zentrum von Mariazell entfernt?",
+          "topicComments": "Die Unterkunft Hotel zum Heiligen Geist ist 400 m vom Zentrum von Mariazell entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Hotel zum Heiligen Geist?",
+          "topicComments": "Durante il soggiorno, Hotel zum Heiligen Geist propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9,3). Colazione disponibile: a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel zum Heiligen Geist?",
+          "topicComments": "Hotel zum Heiligen Geist offre: Matrimoniale Familiare Appartamento"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel zum Heiligen Geist?",
+          "topicComments": "Presso Hotel zum Heiligen Geist, il check-in può essere effettuato dalle 15:30, mentre il check-out è fino alle 10:30."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel zum Heiligen Geist?",
+          "topicComments": "I prezzi di Hotel zum Heiligen Geist possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel zum Heiligen Geist?",
+          "topicComments": "Hotel zum Heiligen Geist offre i seguenti servizi/attività (alcuni a pagamento): Escursioni in bicicletta Escursionismo Sci Campo da tennis Pesca"
+        },
+        {
+          "topic": "Quanto dista Hotel zum Heiligen Geist dal centro di Mariazell?",
+          "topicComments": "Hotel zum Heiligen Geist si trova a 400 m dal centro di Mariazell."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Hotel zum Heiligen Geist sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Hotel zum Heiligen Geist ont attribué une très bonne note à son petit-déjeuner : 9,3. L'établissement sert les types de petit-déjeuner suivants : Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel zum Heiligen Geist ?",
+          "topicComments": "L'établissement Hotel zum Heiligen Geist propose les options d'hébergement suivantes : Double Familiale Appartement"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel zum Heiligen Geist ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel zum Heiligen Geist se fait à partir de 15:30 et le départ est possible jusqu'à 10:30."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel zum Heiligen Geist ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel zum Heiligen Geist peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel zum Heiligen Geist propose-t-il ?",
+          "topicComments": "L'établissement Hotel zum Heiligen Geist propose les activités et les services suivants (des frais peuvent s'appliquer) : Cyclisme Randonnée Ski Court de tennis Pêche"
+        },
+        {
+          "topic": "L'établissement Hotel zum Heiligen Geist est-il proche du centre (Mariazell) ?",
+          "topicComments": "L'établissement Hotel zum Heiligen Geist se trouve à 400 m du centre (Mariazell)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Hotel zum Heiligen Geist?",
+          "topicComments": "Os hóspedes em Hotel zum Heiligen Geist podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9,3). As opções de pequeno-almoço incluem: Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel zum Heiligen Geist?",
+          "topicComments": "As opções de quarto em Hotel zum Heiligen Geist incluem: Duplo Familiar Apartamento"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel zum Heiligen Geist?",
+          "topicComments": "Em Hotel zum Heiligen Geist, o check-in é a partir das 15:30 e o check-out até às 10:30."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel zum Heiligen Geist?",
+          "topicComments": "Os preços em Hotel zum Heiligen Geist podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Hotel zum Heiligen Geist?",
+          "topicComments": "Hotel zum Heiligen Geist disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Ciclismo Caminhadas Esqui Campo de Ténis Pesca"
+        },
+        {
+          "topic": "A que distância fica Hotel zum Heiligen Geist do centro de Mariazell?",
+          "topicComments": "Hotel zum Heiligen Geist fica a 400 m do centro de Mariazell."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica.",
+      "es": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica.",
+      "de": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica.",
+      "it": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica.",
+      "fr": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica.",
+      "pt": "Hotel zum Heiligen Geist is located in the centre of Mariazell, just 30 metres from the Bürgeralpe Cable Car and 500 metres from the Basilica."
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Superb breakfast",
+            "Minibar"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Heating",
+            "Carpeted"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English",
+            "Hungarian",
+            "Italian"
+          ],
+          "Outdoors & View": [
+            "Outdoor furniture"
+          ],
+          "Parking": [
+            "Electric vehicle charging station",
+            "Accessible parking"
+          ],
+          "Reception services": [
+            "Express check-in/check-out",
+            "Invoice provided"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "Smoke alarms"
+          ],
+          "Other": [
+            "Parking",
+            "Family rooms",
+            "Sun terrace",
+            "Ski-to-door access",
+            "Ski school Additional charge",
+            "Ski storage",
+            "Cycling",
+            "Hiking",
+            "Skiing Off-site",
+            "Fishing Additional charge Off-site",
+            "Tennis court Additional charge Off-site",
+            "Blu-ray player",
+            "Key access",
+            "Upper floors accessible by stairs only"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Accesibilidad": [
+            "Parking adaptado para personas de movilidad reducida"
+          ],
+          "Alimentos y bebidas": [
+            "Desayuno fantástico",
+            "Minibar"
+          ],
+          "Aparcamiento": [
+            "Estación de carga de vehículos eléctricos"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Prohibido fumar en todo el alojamiento",
+            "Calefacción",
+            "Suelo de moqueta"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés",
+            "Húngaro",
+            "Italiano"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Detectores de humo"
+          ],
+          "Servicios de recepción": [
+            "Proporciona factura"
+          ],
+          "Other": [
+            "Parking",
+            "Habitaciones familiares",
+            "Pista de tenis",
+            "Esquí",
+            "Acceso directo a pistas",
+            "Guardaesquíes",
+            "Mobiliario exterior",
+            "Terraza / solárium",
+            "Escuela de esquí De pago",
+            "Ciclismo",
+            "Senderismo",
+            "Esquí Fuera del alojamiento",
+            "Pesca De pago Fuera del alojamiento",
+            "Pista de tenis De pago Fuera del alojamiento",
+            "Reproductor de Blu-ray",
+            "Registro de entrada y salida exprés",
+            "Llave de acceso",
+            "Acceso a pisos superiores solo mediante escaleras"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Heizung",
+            "Teppichboden"
+          ],
+          "Außenbereich": [
+            "Gartenmöbel"
+          ],
+          "Gesprochene Sprachen": [
+            "Deutsch",
+            "Englisch",
+            "Ungarisch",
+            "Italienisch"
+          ],
+          "Rezeptionsleistungen": [
+            "Rechnung auf Anfrage"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Speisen & Getränke": [
+            "Hervorragendes Frühstück",
+            "Minibar"
+          ],
+          "Other": [
+            "Parkplatz",
+            "WLAN inklusive",
+            "Familienzimmer",
+            "Nichtraucherzimmer",
+            "Tennisplatz",
+            "Skifahren",
+            "Direkter Zugang zur Skipiste",
+            "Skiaufbewahrung",
+            "Sonnenterrasse",
+            "Skischule Zusätzliche Gebühren",
+            "Radfahren",
+            "Wandern",
+            "Skifahren Außerhalb der Unterkunft",
+            "Angeln Zusätzliche Gebühren Außerhalb der Unterkunft",
+            "Tennisplatz Zusätzliche Gebühren Außerhalb der Unterkunft",
+            "Blu-Ray-Player",
+            "Aufladestation für Elektro-Autos",
+            "Behindertengerechte Parkplätze",
+            "Express-Check-in/-out",
+            "Zugang mit Schlüssel",
+            "Obere Stockwerke nur über eine Treppe erreichbar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione eccellente",
+            "Minibar"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Struttura interamente non fumatori",
+            "Riscaldamento",
+            "Moquette"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Lingue parlate": [
+            "Tedesco",
+            "Inglese",
+            "Ungherese",
+            "Italiano"
+          ],
+          "Servizi alla reception": [
+            "Fattura disponibile su richiesta"
+          ],
+          "Sicurezza": [
+            "Estintori"
+          ],
+          "Other": [
+            "Parcheggio",
+            "Disponibilità di camere familiari",
+            "Campo da tennis",
+            "Sci",
+            "Accesso immediato su pista da sci",
+            "Deposito sci",
+            "Arredamento da esterni",
+            "Terrazza solarium",
+            "Scuola di sci a pagamento",
+            "Escursioni in bicicletta",
+            "Escursionismo",
+            "Sci Non sul posto",
+            "Pesca a pagamento Non sul posto",
+            "Campo da tennis a pagamento Non sul posto",
+            "Lettore Blu-ray",
+            "Stazione di ricarica per veicoli elettrici",
+            "Parcheggio per disabili",
+            "Check-in e check-out express",
+            "Allarme antifumo",
+            "Accesso con chiavi",
+            "Piani superiori accessibili solo tramite scale"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Petit-déjeuner fabuleux",
+            "Minibar"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Papier toilette",
+            "Serviettes",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Sèche-cheveux",
+            "Douche",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Bureau",
+            "Téléphone",
+            "Télévision",
+            "Coffre-fort"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Chauffage",
+            "Moquette"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais",
+            "Hongrois"
+          ],
+          "Parking": [
+            "Borne de recharge pour les véhicules électriques"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Services de réception": [
+            "Facture fournie sur demande"
+          ],
+          "Other": [
+            "Parking",
+            "Connexion Wi-Fi gratuite",
+            "Chambres familiales",
+            "Court de tennis",
+            "Ski",
+            "Accès skis aux pieds",
+            "Local à skis",
+            "Mobilier extérieur",
+            "Terrasse bien exposée",
+            "École de ski En supplément",
+            "Cyclisme",
+            "Randonnée",
+            "Ski En dehors de l'établissement",
+            "Pêche En supplément En dehors de l'établissement",
+            "Court de tennis En supplément En dehors de l'établissement",
+            "Lecteur Blu-ray",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Enregistrement/règlement rapide",
+            "Détecteurs de fumée",
+            "Clés d'accès",
+            "Étages supérieurs accessibles uniquement par les escaliers",
+            "Italien"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Soberbo pequeno-almoço",
+            "Minibar"
+          ],
+          "Exterior": [
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Aquecimento",
+            "Piso em carpete"
+          ],
+          "Idiomas falados": [
+            "Alemão",
+            "Inglês",
+            "Húngaro",
+            "Italiano"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores"
+          ],
+          "Other": [
+            "Estacionamento",
+            "Quartos familiares",
+            "Quartos para não fumadores",
+            "Campo de Ténis",
+            "Esqui",
+            "Acesso direto às pistas de esqui",
+            "Depósito para equipamento de esqui",
+            "Terraço para banhos de sol",
+            "Escola de esqui Custo adicional",
+            "Ciclismo",
+            "Caminhadas",
+            "Esqui Fora do alojamento",
+            "Pesca Custo adicional Fora do alojamento",
+            "Campo de Ténis Custo adicional Fora do alojamento",
+            "Leitor Blu-ray",
+            "Posto de carga para veículos elétricos",
+            "Estacionamento acessível",
+            "Check-in/check-out expresso",
+            "Fatura mediante pedido",
+            "Detetores de fumo",
+            "Chave de acesso",
+            "Pisos superiores acessíveis apenas por escadas"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:30 to 18:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 08:30 to 10:30"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children older than 5 years are welcome. Children 12 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children older than 5 years are welcome. Children 12 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Bankcard Cash Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:30 a las 18:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 8:30 a las 10:30"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños a partir de 5 años. Los niños a partir de 12 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños a partir de 5 años. Los niños a partir de 12 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Bankcard Efectivo Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:30 bis 18:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 08:30 bis 10:30 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder ab 5 Jahren sind willkommen. Kinder im Alter von 12 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder ab 5 Jahren sind willkommen. Kinder im Alter von 12 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Bankcard Barzahlung Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:30 alle 18:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 08:30 alle 10:30"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di almeno 5 anni sono i benvenuti. I bambini di 12 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di almeno 5 anni sono i benvenuti. I bambini di 12 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Bankcard Contanti Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:30 à 18:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 08:30 à 10:30"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Les enfants de 5 ans et plus sont les bienvenus. Les enfants âgés de plus de 12 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Les enfants de 5 ans et plus sont les bienvenus. Les enfants âgés de plus de 12 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Carte Bancaire Espèces Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:30 às 18:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 08:30 às 10:30"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Crianças com mais de 5 anos são bem-vindas. As crianças com 12 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Crianças com mais de 5 anos são bem-vindas. As crianças com 12 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Cartão bancário Dinheiro Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.3
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.3
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.3
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.3
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.3
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.5
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 9.1
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.3
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

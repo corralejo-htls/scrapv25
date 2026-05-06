@@ -1,0 +1,1701 @@
+{
+  "data": {
+    "name": {
+      "en": "Hotel Brücklwirt",
+      "es": "Hotel Brücklwirt",
+      "de": "Hotel Brücklwirt",
+      "it": "Hotel Brücklwirt",
+      "fr": "Hotel Brücklwirt",
+      "pt": "Hotel Brücklwirt"
+    },
+    "geoPosition": {
+      "latitude": 47.39018572165551,
+      "longitude": 15.140190124511719
+    },
+    "address": {
+      "en": "Leobner Straße 90, 8712 Niklasdorf, Austria, 8712 Niklasdorf, Austria",
+      "es": "Leobner Straße 90, 8712 Niklasdorf, Austria, 8712 Niklasdorf, Austria",
+      "de": "Leobner Straße 90, 8712 Niklasdorf, Österreich, 8712 Niklasdorf, Österreich",
+      "it": "Leobner Straße 90, 8712 Niklasdorf, Austria, 8712 Niklasdorf, Austria",
+      "fr": "Leobner Straße 90, 8712 Niklasdorf, Autriche, 8712 Niklasdorf, Autriche",
+      "pt": "Leobner Straße 90, 8712 Niklasdorf, Áustria, 8712 Niklasdorf, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486478409.jpg?k=8b8b3bb1f24e72ad76cf160869ed73e57f611c926085fd2edb632bf84769933d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/488696852.jpg?k=c9a607ea093cfb2eef35f4950fd44c2e0f532148d6729082fa17fec179051d49&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/460331182.jpg?k=791d969e8a6db1add969e9d211a068a7ac173af0c6ee48e54fa123e3d7e00d8f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/460332220.jpg?k=107abd2e63cac37d2297f5431b9510a0b48cdb45d0662656ae6fa33a32239a3e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/488900052.jpg?k=d46efb007b99422c0c0b3e0b338668576005fbec3fa601c12ced9fb551026172&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/460332058.jpg?k=97a3f4127c775251a9161abaf9bb726bf514f45e5650c68d6b133e7714c2ab9b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/460329051.jpg?k=c2b4f42d771450316291fe506507cb333e795c0c728350e79bd074eefa7d6912&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/468969519.jpg?k=0d83c958e0ec247da23cbfece16d6ab3ed076812b53b90ee44dd38b664f86785&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/460339864.jpg?k=dc28df49c0a0e19d8efe0bd33dc3e6ef4cca0c556976c0266e8fcf1308152fba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738808609.jpg?k=f0bdfa97abc7310ed958f5ae266765e042ded23c5c2813b4c641939e9045a127&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486478481.jpg?k=258f325570ca551df6c478e3eefceb3b48d765fc01f607eb19f357722be0115c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738810693.jpg?k=029f0eac27832e88b1b6ca0366d68c0e18bc3d50e5a65747a732dbf3d17e3334&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738809114.jpg?k=c148a910853bcb273808ef68f2e301430065b31f682dac656b4e956e9f8d6453&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738810542.jpg?k=76ac3ca45edbf9f8d1ba0add81556e3e519a09be3c27f29eedf496ef4c77ac39&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738809836.jpg?k=c23f1112961996312024918bf9f9744eba9829af12361337bb5cb3522d62b835&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486479779.jpg?k=d631c24c32616aa08357d229bc23a435ee9687b8865abd61949261d3fc320f4a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486479759.jpg?k=fe885d01ce3d1049b50d56cfdb2de1bf5fcbba3b9e5e48deae26b3f7d982920f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738809266.jpg?k=73091d4a96fb60873b2c6823c0a0d60f399385b7a6f5008754a33fea9c1a2d2b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738809405.jpg?k=789a2a599d07a5a94b4f1499a6a526da00bd7e85a8d41ee922ec6986c2e8b9c5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486478719.jpg?k=53b64b84921ed49b2e33a9b613af554515c6ab45cb7ba6ca823513415f214872&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738808702.jpg?k=2715d72d9bd595c1570f628b6cec1395e00a112600966ab474d082c3208622b3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486479852.jpg?k=375ca53d122c7ec427bcbb9695731a2834f82fa46309014d6a57c2a62c0dbc44&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486478647.jpg?k=00fc5f0e8277faba44a570ac00155380d3a4e4fbff11a68f05cf7579b9a51eb1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/486478693.jpg?k=789411f5d30afe9231618245f8ad0b65eaede8059e65a88b6000461d4bb8acac&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/27604077.jpg?k=f681d9d14ad79df965475852f051d5cdf2e1623a9acf547aba392f16f5b6b0a9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/105713279.jpg?k=89c563df34f259f0b8290186045edbb10986d05532a2a3ae83ea5a90b413e4ba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738808963.jpg?k=0e6f5033948c668d90ce3213b877fd741a9be657b0e576b1682face6a2451ec3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738807979.jpg?k=2f76a36bafbaa5ad1d448093882b2752553172e4f59568bcf73dcfc02ca9e88b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738807925.jpg?k=c942e9dfc82303f67a9d307f3ddaea43ba3ad3b4921f6fef8ff30ff20d90822b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/214774730.jpg?k=59bae18a574c66b28f62776c23abc25d7e6f169adfc570455115d58abb81cc6b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803442.jpg?k=b35fae559e4c788563b751f5b9bc2c577633120778c0049102516a9e47378335&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803494.jpg?k=d603f4ef80b46b1bc40aa4491135a542b28c5ecfa4b8b458ed11ebd81c51469c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803531.jpg?k=532639d879b8af24b297b98ea77c8fb15d253e3b8d865bd73f4514e526679b86&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803464.jpg?k=c9ec500c75080c91bf52302cf46401befe26bae32777f7cc65fe3cdbdcf3baba&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803396.jpg?k=c9f172e36b63e5dfd6a5e935d7d83202e1fbbc8384d4cff001d313243193a529&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803377.jpg?k=bd997aa2c51fae3f3d6e5a3074dcee21cb615f8a41c9e8d0a32a442a8b06a638&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/738803792.jpg?k=a767d29c03a586d61c8171a40b92bcbcf4392eb58faddc8522bdae8bf8239e0b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/145960419.jpg?k=85e48465f42b4a69eb6aae704b2312dc6f569d6be9430ebe09f7ae275e06cb6c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/115127148.jpg?k=fbb6ec75b0a3eb961f4e23ec04836d8b8aca8284f4277586164df98eecf2094c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/488697612.jpg?k=2008d5ffb43016f73ab33aeabd501e7cbedbd94fad4bb0079e3f5a13dd564343&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/488697367.jpg?k=ed0eb74034849999e8daf8dc258a44a51197b0f18119c906cefab8fd936a2a4d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/488697821.jpg?k=1ef873b9571ffd1eeb4e8b8fb68c94c2919560a7278ec8d7e2bccd6246b240a9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/669936159.jpg?k=aadf2aa0ee5b398626e76a92cbcff7356d3a1f99ea7f34280277e4b1a15a4572&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/465725267.jpg?k=00cbf481dcd1d681ef975395c3007880d305c3f75538b0181c161416bdd93d0d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/468969817.jpg?k=c6c641a2978871ebc921cea925eab2bd12f11406b8adcdaa2e64cdcdee48c53c&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": 4,
+    "scoreReview": 8.7,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Glacis",
+          "distance": "2.3 mi",
+          "category": 6
+        },
+        {
+          "name": "Jakobikirche",
+          "distance": "2.4 mi",
+          "category": 6
+        },
+        {
+          "name": "Hacklhaus",
+          "distance": "2.6 mi",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "2.6 mi",
+          "category": 6
+        },
+        {
+          "name": "Bergmannsbrunnen",
+          "distance": "2.6 mi",
+          "category": 6
+        },
+        {
+          "name": "Pestsaule Leoben",
+          "distance": "2.6 mi",
+          "category": 6
+        },
+        {
+          "name": "Pestsäule",
+          "distance": "2.6 mi",
+          "category": 6
+        },
+        {
+          "name": "Kirche Maria am Waasen",
+          "distance": "2.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Kirche Sankt Xaver",
+          "distance": "2.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "2.7 mi",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "3,000 ft",
+          "category": 2
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "0.9 mi",
+          "category": 2
+        },
+        {
+          "name": "Gasthof zur Alten Mühle",
+          "distance": "1.2 mi",
+          "category": 2
+        },
+        {
+          "name": "Gösser Museum of Brewing",
+          "distance": "3.5 mi",
+          "category": 6
+        },
+        {
+          "name": "Castle Kapfenberg",
+          "distance": "11 mi",
+          "category": 6
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "0.7 mi",
+          "category": 4
+        },
+        {
+          "name": "Leoben Railway Station",
+          "distance": "2.9 mi",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "44 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Gösser Museum of Brewing",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Castillo de Kapfenberg",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "900 m",
+          "category": 2
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "1,4 km",
+          "category": 2
+        },
+        {
+          "name": "Cafe Anneliese",
+          "distance": "1,6 km",
+          "category": 2
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Leoben Railway Station",
+          "distance": "4,7 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "72 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Glacis",
+          "distance": "3,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jakobikirche",
+          "distance": "3,9 km",
+          "category": 6
+        },
+        {
+          "name": "Hacklhaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Bergmannsbrunnen",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsaule Leoben",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsäule",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Maria am Waasen",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Sankt Xaver",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "900 m",
+          "category": 2
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "1,4 km",
+          "category": 2
+        },
+        {
+          "name": "Gasthof zur Alten Mühle",
+          "distance": "1,9 km",
+          "category": 2
+        },
+        {
+          "name": "Gösser Braumuseum",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Burg Oberkapfenberg",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptbahnhof Leoben",
+          "distance": "4,7 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "72 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Glacis",
+          "distance": "3,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jakobikirche",
+          "distance": "3,9 km",
+          "category": 6
+        },
+        {
+          "name": "Hacklhaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Bergmannsbrunnen",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsaule Leoben",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsäule",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Maria am Waasen",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Sankt Xaver",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "1,4 km",
+          "category": 6
+        },
+        {
+          "name": "Cafe Anneliese",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Gösser Museum of Brewing",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Castello di Kapfenberg",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Leoben Railway Station",
+          "distance": "4,7 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "72 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Glacis",
+          "distance": "3,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jakobikirche",
+          "distance": "3,9 km",
+          "category": 6
+        },
+        {
+          "name": "Hacklhaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Bergmannsbrunnen",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsaule Leoben",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsäule",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Maria am Waasen",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Sankt Xaver",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "900 m",
+          "category": 2
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "1,4 km",
+          "category": 2
+        },
+        {
+          "name": "Gasthof zur Alten Mühle",
+          "distance": "1,9 km",
+          "category": 2
+        },
+        {
+          "name": "Gösser Museum of Brewing",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Château de Kapfenberg",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Leoben Railway Station",
+          "distance": "4,7 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "72 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Glacis",
+          "distance": "3,7 km",
+          "category": 6
+        },
+        {
+          "name": "Jakobikirche",
+          "distance": "3,9 km",
+          "category": 6
+        },
+        {
+          "name": "Hacklhaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Bergmannsbrunnen",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsaule Leoben",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Pestsäule",
+          "distance": "4,1 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Maria am Waasen",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kirche Sankt Xaver",
+          "distance": "4,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kunsthalle Leoben",
+          "distance": "4,4 km",
+          "category": 6
+        },
+        {
+          "name": "Martin Fritz E.U.",
+          "distance": "900 m",
+          "category": 2
+        },
+        {
+          "name": "Gasthaus Ingeborg",
+          "distance": "1,4 km",
+          "category": 2
+        },
+        {
+          "name": "Cafe Anneliese",
+          "distance": "1,6 km",
+          "category": 2
+        },
+        {
+          "name": "Gösser Museum of Brewing",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Castle Kapfenberg",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Niklasdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Leoben Railway Station",
+          "distance": "4,7 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "72 km",
+          "category": 1
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 109,
+    "toConsider": {
+      "en": "Please note that the reception is only open until 15:00 on Sundays and public holidays. Please inform the hotel by phone if you arrive later. Your room key will then be deposited at the reception.\nGuests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.\nPlease inform Hotel Brücklwirt in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\nIn response to Coronavirus (COVID-19), additional safety and sanitation measures are in effect at this property.",
+      "es": "Please note that the reception is only open until 15:00 on Sundays and public holidays. Please inform the hotel by phone if you arrive later. Your room key will then be deposited at the reception.\nLos huéspedes deberán mostrar un documento de identidad válido y una tarjeta de crédito al realizar el registro de entrada. Ten en cuenta que todas las peticiones especiales están sujetas a disponibilidad y pueden comportar suplementos.\nInforma a Hotel Brücklwirt con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\nEn respuesta al coronavirus (COVID-19), el alojamiento aplica medidas sanitarias y de seguridad adicionales en estos momentos.",
+      "de": "Beachten Sie bitte, dass die Rezeption an Sonn- und Feiertagen nur bis 15:00 Uhr geöffnet ist. Treffen Sie später ein, rufen Sie die Unterkunft bitte vorab an. Ihr Zimmerschlüssel wird dann an der Rezeption hinterlegt.\nBeim Check-in müssen Sie einen Lichtbildausweis sowie eine Kreditkarte vorlegen. Sonderwünsche unterliegen der Verfügbarkeit und sind gegebenenfalls mit einem Aufpreis verbunden.\nBitte teilen Sie der Unterkunft Hotel Brücklwirt Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\nWegen des Coronavirus (COVID-19) wurden in dieser Unterkunft zusätzliche Sicherheits- und Hygienemaßnahmen unternommen.\n\nDiese Unterkunft wird von einem gewerblichen Gastgeber geführt. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Gastgeber finden Sie in den Gastgeber-Informationen .",
+      "it": "La domenica e nei giorni giorni festivi la reception è aperta solo fino alle 15:00. Siete pregati di informare l'hotel per telefono se prevedete di arrivare oltre tale orario, in modo che la chiave della vostra camera venga depositata presso la reception.\nAl check-in gli ospiti devono esibire un documento d'identità con foto e una carta di credito. Siete pregati di notare che le Richieste Speciali sono soggette a disponibilità, e potrebbero comportare l'addebito di un supplemento.\nSiete pregati di comunicare in anticipo a Hotel Brücklwirt l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\nIn risposta al Coronavirus (COVID-19) questa struttura ha adottato misure extra di sicurezza e igiene.\n\nQuesta struttura è gestita da un host professionista. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'host, vai a: dettagli dell'host .",
+      "fr": "Please note that the reception is only open until 15:00 on Sundays and public holidays. Please inform the hotel by phone if you arrive later. Your room key will then be deposited at the reception.\nVous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement. Veuillez noter que toutes les demandes spéciales seront satisfaites sous réserve de disponibilité et pourront entraîner des frais supplémentaires.\nVeuillez informer l'établissement Hotel Brücklwirt à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\nDans le cadre de la pandémie de coronavirus (COVID-19), cet établissement applique actuellement des mesures sanitaires supplémentaires.\n\nCet établissement est géré par un hôte professionnel. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de cet hôte sous ce lien .",
+      "pt": "Please note that the reception is only open until 15:00 on Sundays and public holidays. Please inform the hotel by phone if you arrive later. Your room key will then be deposited at the reception.\nNo momento do check-in, os hóspedes deverão apresentar um documento de identificação com fotografia e um cartão de crédito.  Por favor, observe que todos os Pedidos Especiais estão sujeitos à disponibilidade e que poderão acarretar custos adicionais.\nPor favor, informe Hotel Brücklwirt antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\nEm resposta ao Coronavírus (COVID-19), este alojamento está a tomar medidas de segurança e higienização adicionais.\n\nEsta propriedade é gerida por um anfitrião profissional. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre o anfitrião aqui: ver detalhes do anfitrião ."
+    },
+    "longDescription": {
+      "en": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access. Leoben and the S6 motorway are only a short drive away.\n\nThe rooms all comes with cable TV, a desk and a private bathroom.\n\nThe restaurant serves regional and seasonal cuisine, as well as a wide range of Styrian wines, and a rich breakfast buffet is served every morning.\n\nThe Grüner See can be reach within 38 km.\n\nGuests of Hotel Brücklwirt can relax at the spa area including a sauna. Modern seminar rooms are available as well.",
+      "es": "El Hotel Brücklwirt data de 1735 y se encuentra en Niklasdorf, rodeado por un gran jardín. Ofrece aparcamiento gratuito y conexión WiFi gratuita. Leoben y la autopista S6 están a poca distancia en coche.\n\nLas habitaciones disponen de TV por cable, escritorio y baño privado.\n\nEl restaurante sirve cocina regional y de temporada, así como una amplia variedad de vinos de Estiria. Todas las mañanas se sirve un desayuno buffet abundante.\n\nEl Grüner See está a 38 km.\n\nEl Hotel Brücklwirt alberga una zona de spa con sauna. También hay modernas salas de reuniones.",
+      "de": "Das Hotel Brücklwirt aus dem Jahr 1735 in Niklasdorf ist von einem großen Garten umgeben und bietet kostenfreie Parkplätze und kostenfreies WLAN. Leoben und die Autobahn S6 sind nur eine kurze Autofahrt entfernt.\n\nAlle Zimmer sind mit Kabel-TV, einem Schreibtisch und einem eigenen Bad ausgestattet.\n\nDas Restaurant serviert regionale und saisonale Küche sowie eine große Auswahl an steirischen Weinen. Ein reichhaltiges Frühstücksbuffet wird jeden Morgen serviert.\n\nDen Grünen See erreichen Sie nach 38 km.\n\nIm Hotel Brücklwirt können Sie im Wellnessbereich mit Sauna entspannen. Moderne Seminarräume sind ebenfalls vorhanden.",
+      "it": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access. Leoben and the S6 motorway are only a short drive away.\n\nThe rooms all comes with cable TV, a desk and a private bathroom.\n\nThe restaurant serves regional and seasonal cuisine, as well as a wide range of Styrian wines, and a rich breakfast buffet is served every morning.\n\nThe Grüner See can be reach within 38 km.\n\nGuests of Hotel Brücklwirt can relax at the spa area including a sauna. Modern seminar rooms are available as well.",
+      "fr": "Datant de 1735, l'Hotel Brücklwirt est situé à Niklasdorf. Entouré d'un grand jardin, il propose gratuitement un parking et une connexion Wi-Fi. Leoben et l'autoroute S6 sont à seulement quelques minutes en voiture.\n\nLes chambres sont toutes équipées d'une télévision par câble, d'un bureau et d'une salle de bains privative.\n\nLe restaurant sert une cuisine régionale et de saison, ainsi qu'une large gamme de vins de Styrie. Un copieux petit-déjeuner buffet est servi chaque matin.\n\nLe Grüner See est à 38 km.\n\nLors de votre séjour à l'Hotel Brücklwirt, vous pourrez vous détendre dans le spa doté d'un sauna. Des salles de séminaire modernes sont également disponibles.",
+      "pt": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access. Leoben and the S6 motorway are only a short drive away.\n\nThe rooms all comes with cable TV, a desk and a private bathroom.\n\nThe restaurant serves regional and seasonal cuisine, as well as a wide range of Styrian wines, and a rich breakfast buffet is served every morning.\n\nThe Grüner See can be reach within 38 km.\n\nGuests of Hotel Brücklwirt can relax at the spa area including a sauna. Modern seminar rooms are available as well."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Hotel Brücklwirt?",
+          "topicComments": "Guests staying at Hotel Brücklwirt can enjoy a highly-rated breakfast during their stay (guest review score: 9). Breakfast option(s) include: Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Hotel Brücklwirt?",
+          "topicComments": "Room options at Hotel Brücklwirt include: Single Double Apartment"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel Brücklwirt?",
+          "topicComments": "Check-in at Hotel Brücklwirt is from 14:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel Brücklwirt?",
+          "topicComments": "The prices at Hotel Brücklwirt may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does Hotel Brücklwirt have a restaurant on site?",
+          "topicComments": "Hotel Brücklwirt has 1 restaurants: Restaurant #1"
+        },
+        {
+          "topic": "What is there to do at Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt offers the following activities / services (charges may apply): Sauna Hammam Cycling Hiking Skiing Spa lounge/relaxation area Bicycle rental Spa facilities Fitness/spa locker rooms Steam room Bike tours"
+        },
+        {
+          "topic": "How far is Hotel Brücklwirt from the centre of Niklasdorf?",
+          "topicComments": "Hotel Brücklwirt is 0.9 mi from the centre of Niklasdorf."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Hotel Brücklwirt?",
+          "topicComments": "Los clientes de Hotel Brücklwirt podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9) Las opciones del desayuno son: Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel Brücklwirt?",
+          "topicComments": "Las opciones de habitación en Hotel Brücklwirt son: Individual Doble Apartamento"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel Brücklwirt?",
+          "topicComments": "Podrás hacer el check-in en Hotel Brücklwirt a partir de las 14:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel Brücklwirt?",
+          "topicComments": "Los precios en Hotel Brücklwirt pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt tiene 1 restaurantes: Restaurant #1"
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Sauna Hammam Ciclismo Senderismo Esquí Zona de spa / relajación Alquiler de bicicletas Instalaciones de spa Taquillas en el gimnasio / spa Baño de vapor Tours en bici"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel Brücklwirt del centro de Niklasdorf?",
+          "topicComments": "Hotel Brücklwirt está a 1,4 km del centro de Niklasdorf."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Hotel Brücklwirt serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Hotel Brücklwirt übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9). Verfügbare Frühstücksoption(en): Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Hotel Brücklwirt buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Hotel Brücklwirt zählen: Einzelzimmer Doppelzimmer Ferienwohnung"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Hotel Brücklwirt?",
+          "topicComments": "Der Check-in in der Unterkunft Hotel Brücklwirt ist ab 14:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Hotel Brücklwirt?",
+          "topicComments": "Die Preise an der Unterkunft Hotel Brücklwirt könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft Hotel Brücklwirt ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft Hotel Brücklwirt hat 1 Restaurants: Restaurant #1"
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Hotel Brücklwirt?",
+          "topicComments": "Die Unterkunft Hotel Brücklwirt bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Sauna Dampfbad/Türkisches Bad Radfahren Wandern Skifahren Wellnesslounge/Ruhebereich Fahrradverleih Wellness Umkleideraum für Fitness/Wellness Dampfbad Fahrradtouren"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Hotel Brücklwirt vom Zentrum von Niklasdorf entfernt?",
+          "topicComments": "Die Unterkunft Hotel Brücklwirt ist 1,4 km vom Zentrum von Niklasdorf entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Hotel Brücklwirt?",
+          "topicComments": "Durante il soggiorno, Hotel Brücklwirt propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9). Colazione disponibile: a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt offre: Singola Matrimoniale Appartamento"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel Brücklwirt?",
+          "topicComments": "Presso Hotel Brücklwirt, il check-in può essere effettuato dalle 14:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel Brücklwirt?",
+          "topicComments": "I prezzi di Hotel Brücklwirt possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Hotel Brücklwirt dispone di un ristorante in loco?",
+          "topicComments": "Hotel Brücklwirt offre 1 ristoranti: Restaurant #1"
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt offre i seguenti servizi/attività (alcuni a pagamento): Sauna Hammam Escursioni in bicicletta Escursionismo Sci Sala spa/area relax Noleggio biciclette Servizi spa Armadietti per fitness/spa Bagno turco Tour in bicicletta"
+        },
+        {
+          "topic": "Quanto dista Hotel Brücklwirt dal centro di Niklasdorf?",
+          "topicComments": "Hotel Brücklwirt si trova a 1,4 km dal centro di Niklasdorf."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Hotel Brücklwirt sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Hotel Brücklwirt ont attribué une très bonne note à son petit-déjeuner : 9. L'établissement sert les types de petit-déjeuner suivants : Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel Brücklwirt ?",
+          "topicComments": "L'établissement Hotel Brücklwirt propose les options d'hébergement suivantes : Simple Double Appartement"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel Brücklwirt ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel Brücklwirt se fait à partir de 14:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel Brücklwirt ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel Brücklwirt peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Hotel Brücklwirt dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement Hotel Brücklwirt propose 1 restaurant : Restaurant #1"
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel Brücklwirt propose-t-il ?",
+          "topicComments": "L'établissement Hotel Brücklwirt propose les activités et les services suivants (des frais peuvent s'appliquer) : Sauna Hammam Cyclisme Randonnée Ski Coin spa/relaxation Location de vélos Spa Vestiaires salle de sport/spa Bain à vapeur Visites à vélo"
+        },
+        {
+          "topic": "L'établissement Hotel Brücklwirt est-il proche du centre (Niklasdorf) ?",
+          "topicComments": "L'établissement Hotel Brücklwirt se trouve à 1,4 km du centre (Niklasdorf)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Hotel Brücklwirt?",
+          "topicComments": "Os hóspedes em Hotel Brücklwirt podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9). As opções de pequeno-almoço incluem: Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel Brücklwirt?",
+          "topicComments": "As opções de quarto em Hotel Brücklwirt incluem: Individual Duplo Apartamento"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel Brücklwirt?",
+          "topicComments": "Em Hotel Brücklwirt, o check-in é a partir das 14:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel Brücklwirt?",
+          "topicComments": "Os preços em Hotel Brücklwirt podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Hotel Brücklwirt tem um restaurante no local?",
+          "topicComments": "Hotel Brücklwirt tem 1 restaurantes: Restaurant #1"
+        },
+        {
+          "topic": "Que atividades há em Hotel Brücklwirt?",
+          "topicComments": "Hotel Brücklwirt disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Sauna Banho turco Ciclismo Caminhadas Esqui Sala de spa/área de relaxamento Aluguer de bicicleta Comodidades de spa Salas de cacifos do spa/centro de fitness Banho de vapor Excursões de bicicleta"
+        },
+        {
+          "topic": "A que distância fica Hotel Brücklwirt do centro de Niklasdorf?",
+          "topicComments": "Hotel Brücklwirt fica a 1,4 km do centro de Niklasdorf."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access.",
+      "es": "El Hotel Brücklwirt data de 1735 y se encuentra en Niklasdorf, rodeado por un gran jardín.",
+      "de": "Das Hotel Brücklwirt aus dem Jahr 1735 in Niklasdorf ist von einem großen Garten umgeben und bietet kostenfreie Parkplätze und kostenfreies WLAN.",
+      "it": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access.",
+      "fr": "Datant de 1735, l'Hotel Brücklwirt est situé à Niklasdorf.",
+      "pt": "Dating from 1735, Hotel Brücklwirt in Niklasdorf is surrounded by a large garden and offers free parking and free WiFi access."
+    },
+    "services": {
+      "en": [
+        {
+          "Accessibility": [
+            "Wheelchair accessible",
+            "Upper floors accessible by elevator"
+          ],
+          "Food & Drink": [
+            "Superb breakfast",
+            "Wine/champagne Additional charge",
+            "Snack bar"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Heating",
+            "Carpeted",
+            "Lift"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English",
+            "Italian"
+          ],
+          "Outdoors & View": [
+            "Mountain view",
+            "View",
+            "Outdoor furniture"
+          ],
+          "Parking": [
+            "Free parking",
+            "Accessible parking"
+          ],
+          "Reception services": [
+            "Invoice provided",
+            "Concierge service",
+            "Express check-in/check-out"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "Smoke alarms",
+            "Key card access"
+          ],
+          "Services": [
+            "Shared lounge/TV area",
+            "Vending machine (snacks)",
+            "Vending machine (drinks)",
+            "Wake-up service"
+          ],
+          "Other": [
+            "Facilities for disabled guests",
+            "Room service",
+            "Restaurant",
+            "Family rooms",
+            "Bar",
+            "Picnic area",
+            "Sun terrace",
+            "Terrace",
+            "Garden",
+            "Ski storage",
+            "Bicycle rental",
+            "Bike tours Additional charge",
+            "Cycling Off-site",
+            "Hiking Off-site",
+            "Skiing Off-site",
+            "Cable channels",
+            "Coffee house on site",
+            "Kids' meals Additional charge",
+            "Special diet menus (on request)",
+            "Street parking",
+            "Private check-in/check-out",
+            "Luggage storage",
+            "Board games/puzzles",
+            "Daily housekeeping",
+            "Ironing service",
+            "Laundry Additional charge",
+            "Fax/photocopying Additional charge",
+            "Meeting/banquet facilities Additional charge",
+            "Security alarm",
+            "Pet bowls",
+            "Allergy-free room",
+            "Soundproofing",
+            "Packed lunches",
+            "Soundproof rooms",
+            "Lower bathroom sink",
+            "Fitness/spa locker rooms",
+            "Spa lounge/relaxation area",
+            "Steam room",
+            "Spa facilities",
+            "Sun loungers or beach chairs",
+            "Hammam",
+            "Sauna"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Accesibilidad": [
+            "Parking adaptado para personas de movilidad reducida",
+            "Acceso a pisos superiores en ascensor"
+          ],
+          "Alimentos y bebidas": [
+            "Desayuno fantástico",
+            "Vino / champán De pago"
+          ],
+          "Aparcamiento": [
+            "Parking gratis"
+          ],
+          "Exteriores y vistas": [
+            "Vistas a la montaña",
+            "Vistas"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Prohibido fumar en todo el alojamiento",
+            "Calefacción",
+            "Suelo de moqueta",
+            "Ascensor"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés",
+            "Italiano"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Mascotas": [
+            "Admite mascotas"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Detectores de humo",
+            "Tarjeta de acceso"
+          ],
+          "Servicios": [
+            "Servicio de lavandería De pago",
+            "Zona TV / salón de uso compartido",
+            "Máquina expendedora (aperitivos)",
+            "Máquina expendedora (bebidas)",
+            "Servicio de despertador"
+          ],
+          "Servicios de recepción": [
+            "Proporciona factura"
+          ],
+          "Other": [
+            "Adaptado personas de movilidad reducida",
+            "Servicio de habitaciones",
+            "Restaurante",
+            "Habitaciones familiares",
+            "Bar",
+            "Parking",
+            "Zona de pícnic",
+            "Mobiliario exterior",
+            "Terraza / solárium",
+            "Terraza",
+            "Jardín",
+            "Guardaesquíes",
+            "Alquiler de bicicletas",
+            "Tours en bici De pago",
+            "Ciclismo Fuera del alojamiento",
+            "Senderismo Fuera del alojamiento",
+            "Esquí Fuera del alojamiento",
+            "Canales por cable",
+            "Cafetería en el alojamiento",
+            "Menú para niños De pago",
+            "Menús para dietas especiales (bajo petición)",
+            "Snack-bar",
+            "Parking en la calle",
+            "Registro de entrada / salida privado",
+            "Servicio de conserjería",
+            "Guardaequipaje",
+            "Información turística",
+            "Registro de entrada y salida exprés",
+            "Juegos de mesa / puzles",
+            "Servicio de limpieza diario",
+            "Servicio de planchado",
+            "Fax / fotocopiadora De pago",
+            "Salas de reuniones / banquetes De pago",
+            "Alarma de seguridad",
+            "Boles para mascotas",
+            "Habitaciones hipoalergénicas",
+            "Insonorización",
+            "Almuerzos para llevar",
+            "Habitaciones insonorizadas",
+            "Lavamanos más bajo",
+            "WC elevado",
+            "WC con barras de apoyo",
+            "Adaptado para sillas de ruedas",
+            "Taquillas en el gimnasio / spa",
+            "Zona de spa / relajación",
+            "Baño de vapor",
+            "Instalaciones de spa",
+            "Tumbonas/sillas de playa",
+            "Hammam",
+            "Sauna"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Allergikerfreundliche Zimmer verfügbar",
+            "Heizung",
+            "Teppichboden",
+            "Aufzug"
+          ],
+          "Außenbereich": [
+            "Bergblick",
+            "Aussicht",
+            "Gartenmöbel"
+          ],
+          "Barrierefreiheit": [
+            "Rollstuhlgerecht"
+          ],
+          "Dienstleistungen": [
+            "Gemeinschaftslounge/TV-Bereich",
+            "Weckservice"
+          ],
+          "Gesprochene Sprachen": [
+            "Dampfbad/Türkisches Bad",
+            "Deutsch",
+            "Englisch",
+            "Italienisch"
+          ],
+          "Haustiere": [
+            "Haustiere erlaubt"
+          ],
+          "Rezeptionsleistungen": [
+            "Rechnung auf Anfrage"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Speisen & Getränke": [
+            "Hervorragendes Frühstück"
+          ],
+          "Other": [
+            "Nichtraucherzimmer",
+            "Einrichtungen für behinderte Gäste",
+            "Zimmerservice",
+            "WLAN inklusive",
+            "Restaurant",
+            "Parkplatz inbegriffen",
+            "Familienzimmer",
+            "Bar",
+            "Parkplatz",
+            "Picknickbereich",
+            "Sonnenterrasse",
+            "Terrasse",
+            "Garten",
+            "Skiaufbewahrung",
+            "Fahrradverleih",
+            "Fahrradtouren Zusätzliche Gebühren",
+            "Radfahren Außerhalb der Unterkunft",
+            "Wandern Außerhalb der Unterkunft",
+            "Skifahren Außerhalb der Unterkunft",
+            "Kabelkanäle",
+            "Café vor Ort",
+            "Wein/Sekt Zusätzliche Gebühren",
+            "Kindermahlzeiten Zusätzliche Gebühren",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Snackbar",
+            "Parkplätze an der Straße",
+            "Behindertengerechte Parkplätze",
+            "Privater Check-in/-out",
+            "Conciergeservice",
+            "Gepäckaufbewahrung",
+            "Informationsschalter für Ausflüge",
+            "Express-Check-in/-out",
+            "Brettspiele/Puzzle",
+            "Tägliche Reinigung",
+            "Bügelservice",
+            "Waschsalon/Wäscheservice Zusätzliche Gebühren",
+            "Fax- u. Fotokopiereinrichtungen Zusätzliche Gebühren",
+            "Konferenz- und Veranstaltungsräume Zusätzliche Gebühren",
+            "Sicherheitsalarm",
+            "Zugang mit Schlüsselkarte",
+            "Futternapf",
+            "Snackautomat",
+            "Getränkeautomat",
+            "Schallisolierung",
+            "Lunchpakete",
+            "Schallisolierte Zimmer",
+            "Niedriges Waschbecken im Bad",
+            "Höheres WC",
+            "WC mit Haltegriffen",
+            "Obere Stockwerke mit Fahrstuhl erreichbar",
+            "Umkleideraum für Fitness/Wellness",
+            "Wellnesslounge/Ruhebereich",
+            "Dampfbad",
+            "Wellness",
+            "Sonnenstühle/-liegen",
+            "Sauna"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione eccellente"
+          ],
+          "Generale": [
+            "Camere non fumatori"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Parcheggio": [
+            "Parcheggio gratuito"
+          ],
+          "Other": [
+            "Camere/strutture per ospiti disabili",
+            "Servizio in camera",
+            "Ristorante",
+            "Disponibilità di camere familiari",
+            "Bar"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Accessibilité": [
+            "Accessible en fauteuil roulant",
+            "Étages supérieurs accessibles par ascenseur"
+          ],
+          "Alimentation": [
+            "Petit-déjeuner fabuleux",
+            "Vin/champagne En supplément"
+          ],
+          "Animaux de compagnie": [
+            "Gamelles pour animaux de compagnie"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Papier toilette",
+            "Serviettes",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Articles de toilette gratuits",
+            "Peignoir",
+            "Sèche-cheveux",
+            "Douche",
+            "Linge de maison",
+            "Prise près du lit",
+            "Coin salon",
+            "Bureau",
+            "Chaînes satellite",
+            "Télévision",
+            "Menus enfants En supplément",
+            "Bureau d'excursions",
+            "Coffre-fort",
+            "Toilettes surélevées",
+            "Toilettes avec barres d'appui"
+          ],
+          "Extérieur": [
+            "Vue",
+            "Vue sur la montagne"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Chauffage",
+            "Moquette"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais"
+          ],
+          "Parking": [
+            "Parking gratuit"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Services": [
+            "Salon commun/salle de télévision",
+            "Distributeur automatique (collations)",
+            "Distributeur automatique (boissons)",
+            "Service de réveil"
+          ],
+          "Services de réception": [
+            "Facture fournie sur demande"
+          ],
+          "Other": [
+            "Équipements pour les personnes handicapées",
+            "Service d'étage",
+            "Connexion Wi-Fi gratuite",
+            "Restaurant",
+            "Chambres familiales",
+            "Bar",
+            "Parking",
+            "Animaux domestiques admis",
+            "Aire de pique-nique",
+            "Mobilier extérieur",
+            "Terrasse bien exposée",
+            "Terrasse",
+            "Jardin",
+            "Local à skis",
+            "Location de vélos",
+            "Visites à vélo En supplément",
+            "Cyclisme En dehors de l'établissement",
+            "Randonnée En dehors de l'établissement",
+            "Ski En dehors de l'établissement",
+            "Chaînes du câble",
+            "Café sur place",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Snack-bar",
+            "Places de stationnement dans la rue",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Enregistrement/départ privé",
+            "Service de concierge",
+            "Bagagerie",
+            "Enregistrement/règlement rapide",
+            "Jeux de société/puzzles",
+            "Service de ménage quotidien",
+            "Service de repassage",
+            "Blanchisserie/laverie En supplément",
+            "Fax/photocopies En supplément",
+            "Salles de réunion/réception En supplément",
+            "Détecteurs de fumée",
+            "Alarme de sécurité",
+            "Cartes d'accès",
+            "Chambres anti-allergie",
+            "Insonorisation",
+            "Paniers-repas",
+            "Chambres insonorisées",
+            "Ascenseur",
+            "Lavabo bas adapté aux personnes à mobilité réduite",
+            "Vestiaires salle de sport/spa",
+            "Coin spa/relaxation",
+            "Bain à vapeur",
+            "Spa",
+            "Chaises longues ou de plage",
+            "Hammam",
+            "Sauna",
+            "Italien"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Soberbo pequeno-almoço"
+          ],
+          "Estacionamento": [
+            "Estacionamento gratuito"
+          ],
+          "Exterior": [
+            "Vista",
+            "Vista montanha",
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Quarto antialérgico",
+            "Aquecimento",
+            "Piso em carpete",
+            "Elevador",
+            "Pisos superiores acessíveis por elevador"
+          ],
+          "Idiomas falados": [
+            "Banho turco",
+            "Alemão",
+            "Inglês",
+            "Italiano"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores",
+            "Cartão de acesso"
+          ],
+          "Serviços": [
+            "Serviço de despertar"
+          ],
+          "Other": [
+            "Quartos para não fumadores",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Serviço de quartos",
+            "Restaurante",
+            "Quartos familiares",
+            "Bar",
+            "Estacionamento",
+            "Animais de estimação admitidos",
+            "Área para piquenique",
+            "Terraço para banhos de sol",
+            "Terraço",
+            "Jardim",
+            "Depósito para equipamento de esqui",
+            "Aluguer de bicicleta",
+            "Excursões de bicicleta Custo adicional",
+            "Ciclismo Fora do alojamento",
+            "Caminhadas Fora do alojamento",
+            "Esqui Fora do alojamento",
+            "Canais por cabo",
+            "Café/cafetaria no local",
+            "Vinho/champanhe Custo adicional",
+            "Refeições para crianças Custo adicional",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Snack-bar",
+            "Estacionamento de rua",
+            "Estacionamento acessível",
+            "Fatura mediante pedido",
+            "Check-in/check-out privado",
+            "Serviço de concierge",
+            "Sala para bagagem",
+            "Balcão de turismo",
+            "Check-in/check-out expresso",
+            "Jogos de tabuleiro/puzzles",
+            "Serviço de limpeza diário",
+            "Serviço de engomadoria",
+            "Lavandaria Custo adicional",
+            "Fax/fotocopiadora Custo adicional",
+            "Comodidades para reuniões/banquetes Custo adicional",
+            "Detetores de fumo",
+            "Alarme",
+            "Tigela para animal de estimação",
+            "Máquina de venda automática (snacks)",
+            "Máquina de venda automática (bebidas)",
+            "Insonorização",
+            "Refeições pré-embaladas",
+            "Quartos insonorizados",
+            "Lavatório rebaixado",
+            "WC elevado",
+            "WC com barras de apoio",
+            "Acessibilidade para cadeira de rodas",
+            "Salas de cacifos do spa/centro de fitness",
+            "Sala de spa/área de relaxamento",
+            "Banho de vapor",
+            "Comodidades de spa",
+            "Cadeiras de praia/espreguiçadeiras",
+            "Sauna"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 14:00 to 21:00 Guests are required to show a photo identification and credit card upon check-in You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 06:30 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 13 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 3 years Cot upon request € 5 per child, per night Prices for cots are not included in the total price, and will have to be paid for separately during your stay. The number of cots allowed is dependent on the option you choose. Please check your selected option for more information. There are no extra beds available at this property. All cots are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 13 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots are not included in the total price, and will have to be paid for separately during your stay. The number of cots allowed is dependent on the option you choose. Please check your selected option for more information. There are no extra beds available at this property. All cots are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed. Charges may be applicable."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 14:00 a las 21:00 Los clientes deben mostrar un documento de identidad con fotografía y una tarjeta de crédito en el momento de hacer el check-in Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 6:30 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 13 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 3 años Cuna a petición € 5 por niño y noche El precio de las cunas no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. No hay camas supletorias disponibles en este alojamiento. Todas las cunas están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 13 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. No hay camas supletorias disponibles en este alojamiento. Todas las cunas están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 14:00 bis 21:00 Uhr Gäste müssen einen Lichtbildausweis und eine Kreditkarte beim Check-in vorlegen Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 06:30 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 13 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 3 Jahre Babybett auf Anfrage € 5 pro Kind, pro Nacht Preise für Babybetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Zustellbetten sind in dieser Unterkunft nicht verfügbar. Alle Babybetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 13 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Babybetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Zustellbetten sind in dieser Unterkunft nicht verfügbar. Alle Babybetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 14:00 alle 21:00 Al check-in gli ospiti devono esibire un documento di riconoscimento con foto e una carta di credito. Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 06:30 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 13 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 3 anni Culla su richiesta € 5 per bambino, a notte Il prezzo delle culle non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle ammesse dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. In questa struttura non c'è disponibilità di letti supplementari. Le culle sono soggette a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 13 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle ammesse dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. In questa struttura non c'è disponibilità di letti supplementari. Le culle sono soggette a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 14:00 à 21:00 Vous devrez présenter une pièce d'identité avec photo et une carte de crédit lors de l'enregistrement. Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 06:30 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 13 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 3 ans Lit bébé sur demande € 5 par enfant et par nuit Les frais supplémentaires associés aux lits bébé ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Cet établissement ne propose pas de lits d'appoint. Tous les lits bébé sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 13 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Cet établissement ne propose pas de lits d'appoint. Tous les lits bébé sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 14:00 às 21:00 No momento do check-in, os hóspedes têm de apresentar um documento de identificação com fotografia e um cartão de crédito Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 06:30 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 13 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 3 anos Berço mediante pedido € 5 por criança, por noite Os preços para os berços não estão incluídos no preço total e têm de ser pagos separadamente durante a sua estadia. O número permitido de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Não existem camas extra disponíveis nesta propriedade. Todos os berços estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 13 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para os berços não estão incluídos no preço total e têm de ser pagos separadamente durante a sua estadia. O número permitido de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Não existem camas extra disponíveis nesta propriedade. Todos os berços estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.5
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 10
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.5
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 10
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.5
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 10
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.5
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 10
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.8
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.5
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 10
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.5
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 10
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

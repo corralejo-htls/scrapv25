@@ -1,0 +1,1255 @@
+{
+  "data": {
+    "name": {
+      "en": "Hotel Aquamarin",
+      "es": "Hotel Aquamarin",
+      "de": "Hotel Aquamarin",
+      "it": "Hotel Aquamarin",
+      "fr": "Hotel Aquamarin",
+      "pt": "Hotel Aquamarin"
+    },
+    "geoPosition": {
+      "latitude": 47.55421791364746,
+      "longitude": 13.94674926996231
+    },
+    "address": {
+      "en": "Thörl 48, 8983 Bad Mitterndorf, Austria, 8983 Bad Mitterndorf, Austria",
+      "es": "Thörl 48, 8983 Bad Mitterndorf, Austria, 8983 Bad Mitterndorf, Austria",
+      "de": "Thörl 48, 8983 Bad Mitterndorf, Österreich, 8983 Bad Mitterndorf, Österreich",
+      "it": "Thörl 48, 8983 Bad Mitterndorf, Austria, 8983 Bad Mitterndorf, Austria",
+      "fr": "Thörl 48, 8983 Bad Mitterndorf, Autriche, 8983 Bad Mitterndorf, Autriche",
+      "pt": "Thörl 48, 8983 Bad Mitterndorf, Áustria, 8983 Bad Mitterndorf, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177180677.jpg?k=ad73e9584eb3eae009c2ac35a003d7c852a7e6b8c3e52e915bb66e34df2663ce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426606.jpg?k=729b9830db2b4e1d1d30d5df69b3938187cbdf1197d496232183fae25fd33e33&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425106.jpg?k=195ec8683acb8fd9d177943ac58e3799d7387f1efa21915d515a0c65aad233d1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/259358630.jpg?k=e6c727be3715611a88b314d866c4d45fc37da8177970dac92a86edb12b29c377&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/473096563.jpg?k=ef3f049c4ea67e08d47f95db13ffc4c4524481d7376cb5953e1d7502142f6284&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/451698263.jpg?k=4453ebaa4e537941795ed11570ab3eea3fbef7c60fce0479d52795223756a3bb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/452154493.jpg?k=83836c9b8ac3a1a39b7a2cbd638c34ec22ddc6a5ed9796b0cfb91595c0c230a0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425272.jpg?k=29ce05d30b607512e4dc2bd5571596d62c753a4bdf8c29a271d8f614b838f5dc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36527323.jpg?k=dcca6114b3b68cbbc330ef4a8491dfea4cb6a76124187385781c4a60d14d7d81&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426080.jpg?k=2fdeae9b17730442ef2d8187830bd92e8367f82b5b3f5c148edcece58cb46655&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426106.jpg?k=cadc2ab2009af8d45b1060d1573996db4c71c01fa86fed54a6d2c9bd45892ceb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425483.jpg?k=93b375d0d33d721a0a2de6921154628042482d8a7597904ec39fcc1067278a48&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426127.jpg?k=f4d0e121230ce12a4d60069f754a5c375519d864c60c3f0c4f98b0e8319ac130&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425844.jpg?k=ad5e992ea8044cfce431794caf913d680ca219a39e3a8edc29a237831d79d8c2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425910.jpg?k=117587e2250a2a3cbdd0ca2eff02eb9b2e3e81b989e436f7f405f52880bc20ee&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177425675.jpg?k=960e3cefa5f3a03935dcac487245788252bd5474b56574e62965e32d283b7259&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426077.jpg?k=bc9de32a242d9b7ee147a739ba574655bdeb93756890c7c4001d821182de391f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/177426129.jpg?k=3675839d60e259e198d266a48882ab275c9bdc05a07660d612a5bf875009b9f5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/157975213.jpg?k=75b78c320ba7fe1a038efdce9a8a5ade360c976bdc6b135f95a70f24b57366b9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/157975218.jpg?k=92cc67985e8de709244926537585da5ee55f82608cfb35f4adc560708d723e63&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/72024764.jpg?k=b54edd0aefc4ad009b475d5aa1803e606db1655859a76919459716edbb727157&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36670299.jpg?k=87539866e3073a6daa943d968e1ce1f2b6ea83013a7e8b62d4ba00068f3c2eb7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36580923.jpg?k=784494d45f75a3db071d5d39389d78791a31ff5166d34c8ee167fa1b73686596&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36631858.jpg?k=6364b7e98d75758e09cd487c3f6374b1d8ff7725cd3e01fc384f88fa6fb5a99b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36579927.jpg?k=949d7e79cc04de3185e711c063864ba38af026a794e33c6770153d4588912a17&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/71256556.jpg?k=36a413598457767ddcb5f9b94763578068d8c7a8b051ab8f32c7fd427d0f3a59&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/71256503.jpg?k=7dfd872480e34123fb85f7c39ef253eca189e589b514ba49a57a8934ccf18400&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36527468.jpg?k=4163b0b13f6887c2820c949c10b3e6faa1726b8447fdb3612aa2f1b4b7037c41&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/40484991.jpg?k=c6476e7b69d62d930b0066ee38bfb7a4fe81e7ec8c0ac6fd0ee3434b4af38526&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36631872.jpg?k=b684daaf78bbefadfe4b2bb418b6ff1db387332872d6d4fea863d35af5e4138c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36670281.jpg?k=93f7eb8d6d490c25df7e9282e6cdd2d865f35e82937ec3698b03d8c14b369301&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36581096.jpg?k=0f9325847df62b80d47bd1fefe6a994ea7919cff325c8467e631bb934a0f1c6a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927933.jpg?k=e2d25af01337a945f1e4eee8828635f76abd7cde24e17c991d06ff09b487c993&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/40485161.jpg?k=a244b5bd1547ef780ef16f359e34c97697175d028106eb139ee82f94ff57dd85&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927888.jpg?k=eb0fd565f710519329c03de800d33da348b80a031904d637ac2c6ad2de154091&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927902.jpg?k=b4a02ccc10f2cd2f64fda57421a851dc7de94c0806fca5cb4812065c90ce26de&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36769942.jpg?k=79035b2972db5db50bdaa02312f6d61151fc536b450197e89f99cf7a96eeb0c8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927910.jpg?k=686166c24bbd51f6f06411eefa2d69db7aa5f65bd3559603b2d968dee361238b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927904.jpg?k=c333294ba4d8525d6b8d2bf7530df09c98052b369a40e685b38ec2a3c2c66c50&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/44927893.jpg?k=0ed25ca4d0bcc4348dc0e691280342b9cba9c6e48b634b4493f75c9b8208cca4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/71256055.jpg?k=725c3132b78455ae77da6c0c0db052cdeb0399658c0f25ed3d1abe1bc093c1cf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/79241959.jpg?k=05a33008a29afa1bdf16071a413c4d1f364029c54af91f98f6e0f719b3f1e551&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36670304.jpg?k=135c9679cb7df1510f3a3531049abf9a6b9b1389058b6932bf5198c1146284ce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/36670277.jpg?k=29bad256cff4424ad6bb2b9b7c64a4265efe2071278c703340a58546dc34af1e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/4358011.jpg?k=b69aa8d48b2ba5e1f90cb00e3da415fb57161dea7ec88fc9ba91ce4da65fece1&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": 3,
+    "scoreReview": 7.8,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Trautenfels Castle",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 6
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1.2 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 6
+        }
+      ],
+      "es": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Castillo de Trautenfels",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 2
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1,2 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 4
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 4
+        }
+      ],
+      "de": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 2
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1,2 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Castello di Trautenfels",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 6
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Gare de Vienne-Meidling",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 6
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 6
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 6
+        }
+      ],
+      "pt": [
+        {
+          "name": "Schloss Trautenfels",
+          "distance": "12 km",
+          "category": 6
+        },
+        {
+          "name": "Trautenfels Castle",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant Muskatnuss",
+          "distance": "30 m",
+          "category": 2
+        },
+        {
+          "name": "Spring in",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Schöni Alm",
+          "distance": "1,2 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Mitterndorf",
+          "distance": "650 m",
+          "category": 4
+        },
+        {
+          "name": "Bad Mitterndorf-Heilbrunn",
+          "distance": "2 km",
+          "category": 4
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 242,
+    "toConsider": {
+      "en": "Please inform Hotel Aquamarin in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\n\nThis property is managed by a professional host. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the host here: see host details .",
+      "es": "Informa a Hotel Aquamarin con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\n\nEste alojamiento está gestionado por un anfitrión profesional. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre el anfitrión aquí: ver los datos del anfitrión .",
+      "de": "Bitte teilen Sie der Unterkunft Hotel Aquamarin Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\n\nDiese Unterkunft wird von einem gewerblichen Gastgeber geführt. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Gastgeber finden Sie in den Gastgeber-Informationen .",
+      "it": "Siete pregati di comunicare in anticipo a Hotel Aquamarin l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\n\nQuesta struttura è gestita da un host professionista. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'host, vai a: dettagli dell'host .",
+      "fr": "Veuillez informer l'établissement Hotel Aquamarin à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\n\nCet établissement est géré par un hôte professionnel. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de cet hôte sous ce lien .",
+      "pt": "Por favor, informe Hotel Aquamarin antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\n\nEsta propriedade é gerida por um anfitrião profissional. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre o anfitrião aqui: ver detalhes do anfitrião ."
+    },
+    "longDescription": {
+      "en": "The cosy, family-friendly Hotel Aquamarin offers a rustic and romantic ambience in the famous spa town of Bad Mitterndorf in the Styrian part of the Salzkammergut. It is located directly at the foot of the Tauplitz Alpenstraße, from where buses take guests straight to the ski slopes.\n\nEvery room at Hotel Aquamarin is furnished with a nice balcony, allowing you to enjoy beautiful views of the surrounding mountains and inhale the healthy mountain air.\n\nYou can enjoy traditional Styrian dishes or Hungarian cuisine in the restaurant or on the sunny terrace. Whole foods, vegetarian dishes and special ways of preparation (gluten-free or lactose-free) are also available.\n\nThe vicinity of the hotel is suited for a wide range of sports and leisure options in every season. In summer you can enjoy hiking, cycling, mountain biking, horseback riding, swimming, tennis, golf, and mountaineering. In winter the region offers ideal conditions for every kind of winter sports and is snow-sure until late in the season. Your hosts are happy to provide tips and information.",
+      "es": "El acogedor Hotel Aquamarin, ideal para familias, ofrece un ambiente rústico y romántico en la famosa ciudad balneario de Bad Mitterndorf, en la parte estiria de Salzkammergut. El establecimiento está situado a los pies de la calle Tauplitz Alpenstraße, desde donde salen autobuses directos a las pistas de esquí.\n\nTodas las habitaciones del Hotel Aquamarin están equipadas con un bonito balcón que le permitirá disfrutar de hermosas vistas a las montañas de los alrededores y respirar el saludable aire de montaña.\n\nPodrá disfrutar de platos tradicionales de Estiria o de cocina húngara en el restaurante o en la soleada terraza. También se ofrecen alimentos integrales, platos vegetarianos y platos especiales (sin gluten o sin lactosa).\n\nEn las inmediaciones del hotel se puede practicar una amplia gama de deportes y actividades de ocio en cualquier época del año. En verano se puede practicar senderismo, ciclismo, ciclismo de montaña, equitación, natación, tenis, golf y montañismo. En invierno, la región ofrece condiciones ideales para todo tipo de deportes de invierno y nieve hasta altas horas de la temporada. Los anfitriones estarán encantados de proporcionarle información y consejos.",
+      "de": "Das gemütliche, familienfreundliche Hotel Aquamarin begrüßt Sie im bekannten Kurort Bad Mitterndorf im steirischen Teil des Salzkammerguts. Es bietet Ihnen ein romantisches Ambiente im Landhausstil und befindet sich direkt am Fuße der Tauplitzalm Alpenstraße. Dort starten Busse direkt zu den Skipisten.\n\nJedes Zimmer im Hotel Aquamarin verfügt über einen hübschen Balkon, von dem Sie die herrliche Aussicht auf die umliegenden Berge genießen und gesunde Bergluft atmen können.\n\nIm Restaurant oder auf der sonnigen Terrasse werden Ihnen traditionelle steirische Gerichte oder ungarische Küche serviert. Vollwertkost, vegetarische Gerichte und spezielle Zubereitungsarten (glutenfrei oder laktosefrei) sind ebenfalls erhältlich.\n\nDie Umgebung des Hotels eignet sich für eine breite Palette von Sport- und Freizeitmöglichkeiten zu jeder Jahreszeit. Im Sommer können Sie sich beim Wandern, Radfahren, Mountainbiking, Reiten, Schwimmen, Tennis, Golf und Bergsteigen erholen. Im Winter bietet die Region ideale Bedingungen für jede Art von Wintersport. Sie ist bis spät in die Saison schneesicher. Ihre Gastgeber versorgen Sie gern mit Tipps und Informationen.",
+      "it": "Accogliente struttura adatta alle famiglie, l'Hotel Aquamarin offre un ambiente rustico e romantico nella famosa città termale di Bad Mitterndorf, nella parte stiriana di Salzkammergut. Si trova proprio ai piedi della Tauplitz Alpenstraße, da dove partono gli autobus diretti alle piste sciistiche.\n\nOgni camera dell'Hotel Aquamarin è arredata con un bel balcone, che vi permetterà di godere di una splendida vista sulle montagne circostanti e respirare l'aria pura di montagna.\n\nPotrete gustare piatti tradizionali della Stiria o cucina ungherese nel ristorante o sulla terrazza soleggiata. Sono inoltre disponibili cibi integrali, piatti vegetariani e pietanze speciali (senza glutine o senza lattosio).\n\nLa zona circostante è ideale per praticare numerose attività sportive e ricreative in ogni stagione. In estate potrete praticare escursionismo, ciclismo, mountain bike, equitazione, nuoto, tennis, golf e alpinismo. In inverno la regione offre condizioni ideali per ogni tipo di sport invernale ed è innevata fino a tarda stagione. I padroni di casa saranno lieti di fornirvi consigli e informazioni.",
+      "fr": "L'Hotel Aquamarin est un établissement confortable à la gestion familiale qui vous accueille dans une ambiance rustique et romantique dans la célèbre ville thermale de Bad Mitterndorf, dans la partie styrienne du Salzkammergut. Il est situé directement au pied de la Tauplitz Alpenstraße, d'où partent les bus pour rejoindre directement les pistes de ski.\n\nToutes les chambres de l'Hotel Aquamarin sont dotées d'un joli balcon offrant une vue magnifique sur les montagnes environnantes et l'air sain de la montagne.\n\nVous pourrez déguster des plats traditionnels de Styrie ou une cuisine hongroise dans le restaurant ou sur la terrasse bien exposée. Des aliments sains, des plats végétariens et des recettes spéciales de préparation (sans gluten ou sans lactose) sont également disponibles.\n\nEn toute saison, vous pourrez pratiquer de nombreuses activités sportives et de loisirs dans les environs de l'hôtel. En été, vous pourrez pratiquer la randonnée à pied ou à vélo, le VTT, l'équitation, la natation, le tennis, le golf et l'alpinisme. En hiver, la région est idéale pour tous les types de sports d'hiver et de neige jusque tard dans la saison. Les propriétaires se feront un plaisir de vous fournir des conseils et des informations.",
+      "pt": "O acolhedor Hotel Aquamarin, adequado para famílias, proporciona um ambiente rústico e romântico na famosa cidade termal de Bad Mitterndorf, na parte da Estíria de Salzkammergut. Está localizado no sopé do Tauplitz Alpenstraße, de onde os autocarros levam os hóspedes directamente para as pistas de esqui.\n\nTodos os quartos do Hotel Aquamarin estão equipados com uma agradável varanda, permitindo-lhe desfrutar de belas vistas sobre as montanhas circundantes e inhale o ar puro da montanha.\n\nPoderá desfrutar de pratos tradicionais da Estíria ou de cozinha húngara no restaurante ou no terraço ensolarado. Também estão disponíveis pratos vegetarianos, pratos vegetarianos e pratos especiais de preparação (sem glúten ou sem lactose).\n\nAs imediações do hotel são adequadas para uma grande variedade de opções desportivas e de lazer em qualquer época. No Verão, os hóspedes podem desfrutar de caminhadas, ciclismo, BTT, equitação, ténis, golfe e montanhismo. No Inverno, a região proporciona condições ideais para todos os tipos de desportos de Inverno e é de neve até tarde na época. Os anfitriões terão todo o prazer em fornecer dicas e informações."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Hotel Aquamarin?",
+          "topicComments": "Guests staying at Hotel Aquamarin can enjoy a highly-rated breakfast during their stay (guest review score: 7.5). Breakfast option(s) include: Continental Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Hotel Aquamarin?",
+          "topicComments": "Room options at Hotel Aquamarin include: Family Double Triple Quadruple"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel Aquamarin?",
+          "topicComments": "Check-in at Hotel Aquamarin is from 14:00, and check-out is until 10:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel Aquamarin?",
+          "topicComments": "The prices at Hotel Aquamarin may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Hotel Aquamarin?",
+          "topicComments": "Hotel Aquamarin offers the following activities / services (charges may apply): Sauna Table tennis Darts"
+        },
+        {
+          "topic": "How far is Hotel Aquamarin from the centre of Bad Mitterndorf?",
+          "topicComments": "Hotel Aquamarin is 1,000 m from the centre of Bad Mitterndorf."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Hotel Aquamarin?",
+          "topicComments": "Los clientes de Hotel Aquamarin podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (7,5) Las opciones del desayuno son: Continental Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel Aquamarin?",
+          "topicComments": "Las opciones de habitación en Hotel Aquamarin son: Familiar Doble Triple Cuádruple"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel Aquamarin?",
+          "topicComments": "Podrás hacer el check-in en Hotel Aquamarin a partir de las 14:00 y el check-out hasta las 10:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel Aquamarin?",
+          "topicComments": "Los precios en Hotel Aquamarin pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel Aquamarin?",
+          "topicComments": "Hotel Aquamarin ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Sauna Ping pong Dardos"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel Aquamarin del centro de Bad Mitterndorf?",
+          "topicComments": "Hotel Aquamarin está a 1.000 m del centro de Bad Mitterndorf."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Hotel Aquamarin serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Hotel Aquamarin übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 7,5). Verfügbare Frühstücksoption(en): Kontinental Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Hotel Aquamarin buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Hotel Aquamarin zählen: Familienzimmer Doppelzimmer Dreibettzimmer Vierbettzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Hotel Aquamarin?",
+          "topicComments": "Der Check-in in der Unterkunft Hotel Aquamarin ist ab 14:00, und der Check-out ist bis 10:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Hotel Aquamarin?",
+          "topicComments": "Die Preise an der Unterkunft Hotel Aquamarin könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Hotel Aquamarin?",
+          "topicComments": "Die Unterkunft Hotel Aquamarin bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Sauna Tischtennis Dart"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Hotel Aquamarin vom Zentrum von Bad Mitterndorf entfernt?",
+          "topicComments": "Die Unterkunft Hotel Aquamarin ist 1.000 m vom Zentrum von Bad Mitterndorf entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Hotel Aquamarin?",
+          "topicComments": "Durante il soggiorno, Hotel Aquamarin propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 7,5). Colazione disponibile: continentale a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel Aquamarin?",
+          "topicComments": "Hotel Aquamarin offre: Familiare Matrimoniale Tripla Quadrupla"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel Aquamarin?",
+          "topicComments": "Presso Hotel Aquamarin, il check-in può essere effettuato dalle 14:00, mentre il check-out è fino alle 10:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel Aquamarin?",
+          "topicComments": "I prezzi di Hotel Aquamarin possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel Aquamarin?",
+          "topicComments": "Hotel Aquamarin offre i seguenti servizi/attività (alcuni a pagamento): Sauna Ping-pong Freccette"
+        },
+        {
+          "topic": "Quanto dista Hotel Aquamarin dal centro di Bad Mitterndorf?",
+          "topicComments": "Hotel Aquamarin si trova a 1.000 m dal centro di Bad Mitterndorf."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Hotel Aquamarin sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Hotel Aquamarin ont attribué une très bonne note à son petit-déjeuner : 7,5. L'établissement sert les types de petit-déjeuner suivants : Continental Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel Aquamarin ?",
+          "topicComments": "L'établissement Hotel Aquamarin propose les options d'hébergement suivantes : Familiale Double Triple Quadruple"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel Aquamarin ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel Aquamarin se fait à partir de 14:00 et le départ est possible jusqu'à 10:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel Aquamarin ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel Aquamarin peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel Aquamarin propose-t-il ?",
+          "topicComments": "L'établissement Hotel Aquamarin propose les activités et les services suivants (des frais peuvent s'appliquer) : Sauna Tennis de table Fléchettes"
+        },
+        {
+          "topic": "L'établissement Hotel Aquamarin est-il proche du centre (Bad Mitterndorf) ?",
+          "topicComments": "L'établissement Hotel Aquamarin se trouve à 1 000 m du centre (Bad Mitterndorf)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Hotel Aquamarin?",
+          "topicComments": "Os hóspedes em Hotel Aquamarin podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 7,5). As opções de pequeno-almoço incluem: Continental Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel Aquamarin?",
+          "topicComments": "As opções de quarto em Hotel Aquamarin incluem: Familiar Duplo Triplo Quádruplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel Aquamarin?",
+          "topicComments": "Em Hotel Aquamarin, o check-in é a partir das 14:00 e o check-out até às 10:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel Aquamarin?",
+          "topicComments": "Os preços em Hotel Aquamarin podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Hotel Aquamarin?",
+          "topicComments": "Hotel Aquamarin disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Sauna Ténis de mesa Setas"
+        },
+        {
+          "topic": "A que distância fica Hotel Aquamarin do centro de Bad Mitterndorf?",
+          "topicComments": "Hotel Aquamarin fica a 1 000 m do centro de Bad Mitterndorf."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "The cosy, family-friendly Hotel Aquamarin offers a rustic and romantic ambience in the famous spa town of Bad Mitterndorf in the Styrian part of the Salzkammergut.",
+      "es": "El acogedor Hotel Aquamarin, ideal para familias, ofrece un ambiente rústico y romántico en la famosa ciudad balneario de Bad Mitterndorf, en la parte estiria de Salzkammergut.",
+      "de": "Das gemütliche, familienfreundliche Hotel Aquamarin begrüßt Sie im bekannten Kurort Bad Mitterndorf im steirischen Teil des Salzkammerguts.",
+      "it": "Accogliente struttura adatta alle famiglie, l'Hotel Aquamarin offre un ambiente rustico e romantico nella famosa città termale di Bad Mitterndorf, nella parte stiriana di Salzkammergut.",
+      "fr": "L'Hotel Aquamarin est un établissement confortable à la gestion familiale qui vous accueille dans une ambiance rustique et romantique dans la célèbre ville thermale de Bad Mitterndorf, dans la partie styrienne du Salzkammergut.",
+      "pt": "O acolhedor Hotel Aquamarin, adequado para famílias, proporciona um ambiente rústico e romântico na famosa cidade termal de Bad Mitterndorf, na parte da Estíria de Salzkammergut."
+    },
+    "services": {
+      "en": [
+        {
+          "Accessibility": [
+            "Upper floors accessible by elevator"
+          ],
+          "Food & Drink": [
+            "Good breakfast",
+            "Wine/champagne Additional charge"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Designated smoking area",
+            "Non-smoking throughout",
+            "Hardwood or parquet floors",
+            "Heating",
+            "Private entrance",
+            "Lift"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English",
+            "Hungarian"
+          ],
+          "Outdoors & View": [
+            "View",
+            "Mountain view",
+            "Outdoor furniture"
+          ],
+          "Parking": [
+            "Free parking",
+            "Accessible parking"
+          ],
+          "Pets": [
+            "Pets allowed"
+          ],
+          "Reception services": [
+            "Invoice provided"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "Smoke alarms"
+          ],
+          "Other": [
+            "Family rooms",
+            "Bar",
+            "Parking",
+            "Balcony",
+            "Picnic area",
+            "Terrace",
+            "Garden",
+            "Fold-up bed",
+            "Darts",
+            "Table tennis",
+            "Cable channels",
+            "Fruits Additional charge",
+            "Kid-friendly buffet",
+            "Daily housekeeping",
+            "Private check-in/check-out",
+            "Meeting/banquet facilities Additional charge",
+            "Indoor play area",
+            "Key access",
+            "Sauna"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Accesibilidad": [
+            "Parking adaptado para personas de movilidad reducida",
+            "Acceso a pisos superiores en ascensor"
+          ],
+          "Alimentos y bebidas": [
+            "Buen desayuno",
+            "Vino / champán De pago"
+          ],
+          "Aparcamiento": [
+            "Parking gratis"
+          ],
+          "Exteriores y vistas": [
+            "Vistas",
+            "Vistas a la montaña"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de madera o parquet",
+            "Calefacción",
+            "Entrada privada",
+            "Ascensor"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés",
+            "Húngaro"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Mascotas": [
+            "Admite mascotas"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Detectores de humo"
+          ],
+          "Servicios de recepción": [
+            "Proporciona factura"
+          ],
+          "Other": [
+            "Habitaciones familiares",
+            "Bar",
+            "Parking",
+            "Zona de pícnic",
+            "Balcón",
+            "Aseo adicional",
+            "Mobiliario exterior",
+            "Terraza",
+            "Jardín",
+            "Cama plegable",
+            "Dardos",
+            "Ping pong",
+            "Canales por cable",
+            "Fruta De pago",
+            "Buffet para niños",
+            "Servicio de limpieza diario",
+            "Registro de entrada / salida privado",
+            "Salas de reuniones / banquetes De pago",
+            "Zona de juegos interior",
+            "Llave de acceso",
+            "Zona de fumadores",
+            "Sauna"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Heizung",
+            "Privater Eingang",
+            "Aufzug"
+          ],
+          "Außenbereich": [
+            "Bergblick",
+            "Aussicht",
+            "Gartenmöbel"
+          ],
+          "Gesprochene Sprachen": [
+            "Deutsch",
+            "Englisch",
+            "Ungarisch"
+          ],
+          "Haustiere": [
+            "Haustiere erlaubt"
+          ],
+          "Rezeptionsleistungen": [
+            "Rechnung auf Anfrage"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Speisen & Getränke": [
+            "Gutes Frühstück"
+          ],
+          "Other": [
+            "WLAN inklusive",
+            "Parkplatz inbegriffen",
+            "Familienzimmer",
+            "Nichtraucherzimmer",
+            "Bar",
+            "Parkplatz",
+            "Balkon",
+            "Picknickbereich",
+            "Zusätzliches WC",
+            "Terrasse",
+            "Garten",
+            "Klappbett",
+            "Dart",
+            "Tischtennis",
+            "Kabelkanäle",
+            "Obst Zusätzliche Gebühren",
+            "Wein/Sekt Zusätzliche Gebühren",
+            "Kinderfreundliches Buffet",
+            "Behindertengerechte Parkplätze",
+            "Tägliche Reinigung",
+            "Privater Check-in/-out",
+            "Konferenz- und Veranstaltungsräume Zusätzliche Gebühren",
+            "Indoorspielbereich",
+            "Zugang mit Schlüssel",
+            "Raucherbereich",
+            "Holz- oder Parkettböden",
+            "Obere Stockwerke mit Fahrstuhl erreichbar",
+            "Sauna"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Accessibilità": [
+            "Piani superiori accessibili tramite ascensore"
+          ],
+          "Cibo e bevande": [
+            "Colazione buona",
+            "Vino/champagne a pagamento"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Area fumatori",
+            "Struttura interamente non fumatori",
+            "Parquet o pavimento in legno",
+            "Riscaldamento",
+            "Ingresso indipendente",
+            "Ascensore"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Lingue parlate": [
+            "Tedesco",
+            "Inglese",
+            "Ungherese"
+          ],
+          "Parcheggio": [
+            "Parcheggio gratuito"
+          ],
+          "Servizi alla reception": [
+            "Fattura disponibile su richiesta"
+          ],
+          "Sicurezza": [
+            "Estintori"
+          ],
+          "Spazi esterni": [
+            "Vista montagna",
+            "Vista"
+          ],
+          "Other": [
+            "Disponibilità di camere familiari",
+            "Bar",
+            "Servizi igienici aggiuntivi",
+            "Area picnic",
+            "Arredamento da esterni",
+            "Balcone",
+            "Terrazza",
+            "Giardino",
+            "Letto pieghevole",
+            "Freccette",
+            "Ping-pong",
+            "Canali via cavo",
+            "Frutta a pagamento",
+            "Buffet per bambini",
+            "Parcheggio per disabili",
+            "Servizio pulizie giornaliero",
+            "Check-in e check-out privati",
+            "Spazi per riunioni/banchetti a pagamento",
+            "Area giochi al coperto",
+            "Allarme antifumo",
+            "Accesso con chiavi",
+            "Sauna"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Accessibilité": [
+            "Étages supérieurs accessibles par ascenseur"
+          ],
+          "Alimentation": [
+            "Bon petit-déjeuner",
+            "Vin/champagne En supplément"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Papier toilette",
+            "Serviettes",
+            "Toilettes supplémentaires",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Sèche-cheveux",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Canapé-lit",
+            "Canapé",
+            "Coin salon",
+            "Bureau",
+            "Télévision",
+            "Buffet avec options enfants"
+          ],
+          "Extérieur": [
+            "Vue sur la montagne",
+            "Vue"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Espace fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Parquet",
+            "Chauffage",
+            "Entrée privée"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais",
+            "Hongrois"
+          ],
+          "Parking": [
+            "Parking gratuit"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Services de réception": [
+            "Facture fournie sur demande"
+          ],
+          "Other": [
+            "Connexion Wi-Fi gratuite",
+            "Chambres familiales",
+            "Bar",
+            "Parking",
+            "Animaux domestiques admis",
+            "Balcon",
+            "Aire de pique-nique",
+            "Mobilier extérieur",
+            "Terrasse",
+            "Jardin",
+            "Lit pliant",
+            "Fléchettes",
+            "Tennis de table",
+            "Chaînes du câble",
+            "Fruits En supplément",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Service de ménage quotidien",
+            "Enregistrement/départ privé",
+            "Salles de réunion/réception En supplément",
+            "Aire de jeux intérieure",
+            "Détecteurs de fumée",
+            "Clés d'accès",
+            "Ascenseur",
+            "Sauna"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Bom pequeno-almoço"
+          ],
+          "Estacionamento": [
+            "Estacionamento gratuito"
+          ],
+          "Exterior": [
+            "Vista",
+            "Vista montanha",
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Piso em madeira ou parquet",
+            "Aquecimento",
+            "Entrada privada",
+            "Elevador",
+            "Pisos superiores acessíveis por elevador"
+          ],
+          "Idiomas falados": [
+            "Alemão",
+            "Inglês",
+            "Húngaro"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores"
+          ],
+          "Other": [
+            "Quartos familiares",
+            "Quartos para não fumadores",
+            "Bar",
+            "Estacionamento",
+            "Animais de estimação admitidos",
+            "Varanda",
+            "WC adicional",
+            "Área para piquenique",
+            "Terraço",
+            "Jardim",
+            "Cama desdobrável",
+            "Setas",
+            "Ténis de mesa",
+            "Canais por cabo",
+            "Fruta Custo adicional",
+            "Vinho/champanhe Custo adicional",
+            "Buffet adequado para crianças",
+            "Estacionamento acessível",
+            "Serviço de limpeza diário",
+            "Check-in/check-out privado",
+            "Comodidades para reuniões/banquetes Custo adicional",
+            "Fatura mediante pedido",
+            "Área de jogos interior",
+            "Detetores de fumo",
+            "Chave de acesso",
+            "Área específica para fumar",
+            "Sauna"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 14:00 to 20:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 08:00 to 10:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 17 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 2 years Cot upon request € 6 per child, per night 5 - 13 years Extra bed upon request € 30 per child, per night 14 - 15 years Extra bed upon request € 45 per child, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 17 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 18"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are allowed on request. Charges may be applicable."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Bankcard Cash Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 14:00 a las 20:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 8:00 a las 10:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 17 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 2 años Cuna a petición € 6 por niño y noche 5 - 13 años Cama supletoria a petición € 30 por niño y noche 14 - 15 años Cama supletoria a petición € 45 por niño y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 17 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 18"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "Se admiten bajo petición. Se pueden aplicar suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Bankcard Efectivo Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 14:00 bis 20:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 08:00 bis 10:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 17 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 2 Jahre Babybett auf Anfrage € 6 pro Kind, pro Nacht 5 - 13 Jahre Zustellbett auf Anfrage € 30 pro Kind, pro Nacht 14 - 15 Jahre Zustellbett auf Anfrage € 45 pro Kind, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 17 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 18 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind auf Anfrage gestattet. Möglicherweise fallen Gebühren an."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Bankcard Barzahlung Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 14:00 alle 20:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 08:00 alle 10:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 17 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 2 anni Culla su richiesta € 6 per bambino, a notte 5 - 13 anni Letto supplementare su richiesta € 30 per bambino, a notte 14 - 15 anni Letto supplementare su richiesta € 45 per bambino, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 17 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 18 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali ammessi su richiesta. Potrebbe essere richiesto un supplemento."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Bankcard Contanti Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 14:00 à 20:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 08:00 à 10:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 17 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 2 ans Lit bébé sur demande € 6 par enfant et par nuit 5 - 13 ans Lit d'appoint sur demande € 30 par enfant et par nuit 14 - 15 ans Lit d'appoint sur demande € 45 par enfant et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 17 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 18 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie sont admis sur demande (un supplément peut s'appliquer)."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Carte Bancaire Espèces Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 14:00 às 20:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 08:00 às 10:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 17 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 2 anos Berço mediante pedido € 6 por criança, por noite 5 - 13 anos Cama extra mediante pedido € 30 por criança, por noite 14 - 15 anos Cama extra mediante pedido € 45 por criança, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 17 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 18"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: admitidos mediante pedido. Poderão aplicar-se custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Cartão bancário Dinheiro Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 7.4
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 9.4
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 7.4
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 8
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 9.4
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 7.4
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 8
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 9.4
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 7.4
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 8
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 9.4
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 7.4
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 8.4
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 8
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 9.4
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 8
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 8.4
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.2
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 8.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 9.4
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

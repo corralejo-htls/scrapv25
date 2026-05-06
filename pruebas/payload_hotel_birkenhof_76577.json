@@ -1,0 +1,1174 @@
+{
+  "data": {
+    "name": {
+      "en": "Hotel Birkenhof",
+      "es": "Hotel Birkenhof",
+      "de": "Hotel Birkenhof",
+      "it": "Hotel Birkenhof",
+      "fr": "Hotel Birkenhof",
+      "pt": "Hotel Birkenhof"
+    },
+    "geoPosition": {
+      "latitude": 46.68894556927613,
+      "longitude": 15.976671874523163
+    },
+    "address": {
+      "en": "Thermenstraße 8, 8490 Bad Radkersburg, Austria, 8490 Bad Radkersburg, Austria",
+      "es": "Thermenstraße 8, 8490 Bad Radkersburg, Austria, 8490 Bad Radkersburg, Austria",
+      "de": "Thermenstraße 8, 8490 Bad Radkersburg, Österreich, 8490 Bad Radkersburg, Österreich",
+      "it": "Thermenstraße 8, 8490 Bad Radkersburg, Austria, 8490 Bad Radkersburg, Austria",
+      "fr": "Thermenstraße 8, 8490 Bad Radkersburg, Autriche, 8490 Bad Radkersburg, Autriche",
+      "pt": "Thermenstraße 8, 8490 Bad Radkersburg, Áustria, 8490 Bad Radkersburg, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358827682.jpg?k=0f0b41c616ba282a9d958fb2ae0eba600351527aae9f99e5112ae0857a175f96&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/201631062.jpg?k=8d82b717d81736b5a259d3c4c6e141edf5760188974934a41daf38cd5fc3da44&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/674730620.jpg?k=adf8cabfbbad21ae7b2fac13210cc1715f5891bdf19567aff5f0dfe50690c7bd&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200235224.jpg?k=91748c0dd7b83845b1d3b18e6f9cc5368ff85ba0bf58797ceb209f1139fac7e0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936757.jpg?k=b336e4180f441f2ea6e67d5aea166e5c53359b4dd94a4285f114e4081225fa13&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/674730618.jpg?k=06ef05ec696eb6931ae542cf3bf6654fd7d9f626b833bb809784846a305079b2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358827618.jpg?k=9626bf66f2a64704470f0ab7ddc4b239d826350e782ae901856f0d49f348d9ae&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/664242815.jpg?k=4115ecb754da8a92891c0487e4bdb46c810191ae2904de17117e89e6adce6150&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358828431.jpg?k=b904e7b35ec62c8a619dbb4a656174c1d8b0e85555cbf68abb62b458f94bd861&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358828435.jpg?k=5495550c3613120fe7ff7b4b7ed990a8ca50c825e837872dbbd9a45f290c79f4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/399508301.jpg?k=7c39615a5b51f4467141c54cb454078c29e2a67f7de272cf74881ddac35bfbdb&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/399508218.jpg?k=00c573c68d702ae0398a18c15476286243c4ad019ed67eef290567a3b5761df3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/674730602.jpg?k=4cb3e1b03a9ba003b6138ded4a18ebffbe14acc4cab6759e19624a58c0a4a363&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/138106434.jpg?k=3d72e3fdcc7b601c68879ef18652adc42644b149b6955c2fede5313eb49af900&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/243774542.jpg?k=5d4a1f6d490c79181cbe739a6711de5a9333529fa4634cbb0518fab94c7580fe&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/399508300.jpg?k=53cf6ceb5c659367ed7b55d2bf2aa7fd8fa9f79249e8a449d3292747e3d8ea3a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244080918.jpg?k=4345239e3ae8f6e98bb050b89159ffc9c589a806afc348d0e770565d1652b3b8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137941236.jpg?k=65e415297f086c87afa917b787239346f46f01f021c2b90d5c1752c6cc84ed32&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/243774634.jpg?k=1a4148fed1a7629c70a3d204c75fd4573c3fe33c05454ae903b7bf919f02864e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936718.jpg?k=c2ed7046fb05a1fac2abf67d9f395d804c9c9512b0de8236f4f187aa77945dab&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137941184.jpg?k=213e3cccf7d101384809a0743a2a754a746585457a1d977276989f2bf5bd455e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234573.jpg?k=7671cda6aaf6aa9d5252275f485930313712959b9d2249db5dee8bf9f6a9a8f6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234581.jpg?k=b42c6512c26e28af524d9036c5c75bc905c79b030d09a2e8ec263350d08f289e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234589.jpg?k=1c74d77a9e814576f836375fc765d275e9de7ba3eb6e945161f626221c301d71&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/244081006.jpg?k=67aa97884a2c2c21869232fd3868170fbfff06533a3da6e2b9e352b441e35480&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936747.jpg?k=ff8b9d3f73b31b979b3307fbbe6dbe3cf4a343dbc3d96822a3342a203a635fc9&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/243774610.jpg?k=00a9ceba6e5832bb8c1de71dbd5002e199783b752c2d9f3bbf91cfe654689201&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/77692064.jpg?k=4fa6dbace56df4e3a0154301c317402ca91a27676a5250886fc457f546e4f80f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/243774648.jpg?k=3dcd4f1d8658658a7ecfec7e01039577d63cd9ed8f24c60bfdf677ec1eac9506&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/243774559.jpg?k=aa10658ee50b125e9fbcf7c6a2e6ed13257195a2ff7a872a5f83b21e89b2fece&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234577.jpg?k=7b2acc7aa33afe7a6233d6e16fe395677ee0cceef532c3824456fb84c4975563&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200384941.jpg?k=8a1d47734c82b9fd96d002e6237da2cf353578d46b109112512d4a9a3b5237ef&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234586.jpg?k=2ec7d582760f6078c8fee7f017beb8b116deef57fc4d5b626979bfffcbc18c81&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200384930.jpg?k=17846a3a128dcff9ef87390bdb01e90788946adec76b3c653f85843ecf223c52&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/201631074.jpg?k=bf5f8a6525e2c3edb5b76ffc8cf3de014a34c9cb672fc15a8107655599f46a9f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358827573.jpg?k=de050e5321084e3ea74f0496605350f4a00be5969bd6bc58b5112780595aa9b3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936649.jpg?k=28b6e8f2fa1b66ce8de53f072533c92f8e6db2e613febf6bc17c20482faa703b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936660.jpg?k=038372cc36383af733e65bb8d7b4597bbb0d412aab97aecaf6aef15c6e168ce7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/200234594.jpg?k=45657545c612804d7088a76fa9071c7bcee1f0cb4ae6ab9956f105157105058b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936677.jpg?k=e7bf06809580dfbda43405d778cd41356d7045dcfe230e3abe87b2c6e70b937f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/138106425.jpg?k=6fcb59f989e85caf214fffad852e586b61da0750f3d8761035f22e367131321a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936685.jpg?k=13ef168c0afe22850cf6532cff50470fdab0f9088866405eb3aad8c02ab58e6b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/138106414.jpg?k=e27d5187b8f83eba028804373fbd84b8d0f378ea1ced8a76dea4dd32a9b6d604&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936699.jpg?k=72bed592b247dab6a1f3fb136e985f747e79f0a19e57e75b67ad5bffd77d3fc8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/137936708.jpg?k=43ca86e8965bb44cd5ee3775b2cba988a8eb26fc01e79c0223ecc166324159d8&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": 3,
+    "scoreReview": 9.4,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Türkenloch",
+          "distance": "1.1 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2.2 km",
+          "category": 4
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "64 km",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Stadtpfarrkirche St. Johannes",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Rathausturm",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstorff",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Frauenkirche",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mariensäule",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptplatz",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kapuzinerklosterkirche",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Grad Radgona",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Župnišče",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Spominski park Nikoli Več",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Stamperl Radkersburg",
+          "distance": "1,2 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2,2 km",
+          "category": 4
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Maribor Edvard Rusjan",
+          "distance": "46 km",
+          "category": 1
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "64 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Stamperl Radkersburg",
+          "distance": "1,2 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2,2 km",
+          "category": 6
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Maribor Edvard Rusjan",
+          "distance": "46 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "64 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 6
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 6
+        },
+        {
+          "name": "Türkenloch",
+          "distance": "1,1 km",
+          "category": 6
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2,2 km",
+          "category": 6
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "64 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Stadtpfarrkirche St. Johannes",
+          "distance": "900 m",
+          "category": 6
+        },
+        {
+          "name": "Rathausturm",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Palais Herberstorff",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Frauenkirche",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Mariensäule",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptplatz",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Kapuzinerklosterkirche",
+          "distance": "1,3 km",
+          "category": 6
+        },
+        {
+          "name": "Grad Radgona",
+          "distance": "1,6 km",
+          "category": 6
+        },
+        {
+          "name": "Župnišče",
+          "distance": "1,7 km",
+          "category": 6
+        },
+        {
+          "name": "Spominski park Nikoli Več",
+          "distance": "1,8 km",
+          "category": 6
+        },
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Türkenloch",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2,2 km",
+          "category": 4
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "64 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Fontäne",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Viva",
+          "distance": "400 m",
+          "category": 2
+        },
+        {
+          "name": "Türkenloch",
+          "distance": "1,1 km",
+          "category": 2
+        },
+        {
+          "name": "Bad Radkersburg",
+          "distance": "2,2 km",
+          "category": 4
+        },
+        {
+          "name": "Halbenrain",
+          "distance": "5 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "64 km",
+          "category": 1
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 467,
+    "toConsider": {
+      "en": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nPlease inform Hotel Birkenhof in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.\nPayment before arrival via bank transfer is required. The property will contact you after you book to provide instructions.\n\nThis property is managed by a professional host. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the host here: see host details .",
+      "es": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nInforma a Hotel Birkenhof con antelación de tu hora prevista de llegada. Para ello, puedes utilizar el apartado de peticiones especiales al hacer la reserva o ponerte en contacto directamente con el alojamiento. Los datos de contacto aparecen en la confirmación de la reserva.\nEs necesario realizar el pago antes de la llegada a través de transferencia bancaria. El alojamiento se pondrá en contacto contigo después de reservar para darte las instrucciones.\n\nEste alojamiento está gestionado por un anfitrión profesional. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre el anfitrión aquí: ver los datos del anfitrión .",
+      "de": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nBitte teilen Sie der Unterkunft Hotel Birkenhof Ihre voraussichtliche Ankunftszeit im Voraus mit. Nutzen Sie hierfür bei der Buchung das Feld für besondere Anfragen oder kontaktieren Sie die Unterkunft direkt.\nEine Zahlung per Überweisung ist vor der Anreise erforderlich. Die Unterkunft wird Sie nach der Buchung kontaktieren und entsprechende Kontodaten kommunizieren.\n\nDiese Unterkunft wird von einem gewerblichen Gastgeber geführt. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Gastgeber finden Sie in den Gastgeber-Informationen .",
+      "it": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nSiete pregati di comunicare in anticipo a Hotel Birkenhof l'orario in cui prevedete di arrivare. Potrete inserire questa informazione nella sezione Richieste Speciali al momento della prenotazione, o contattare la struttura utilizzando i recapiti riportati nella conferma della prenotazione.\nÈ necessario pagare prima dell'arrivo tramite bonifico bancario. Dopo aver prenotato, la struttura vi contatterà per fornirvi le relative istruzioni.",
+      "fr": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nVeuillez informer l'établissement Hotel Birkenhof à l'avance de l'heure à laquelle vous prévoyez d'arriver. Vous pouvez indiquer cette information dans la rubrique « Demandes spéciales » lors de la réservation ou contacter directement l'établissement. Ses coordonnées figurent sur votre confirmation de réservation.\nVous devrez effectuer un virement bancaire avant votre arrivée. L'établissement vous contactera après votre réservation pour vous donner plus d'informations.\n\nCet établissement est géré par un hôte professionnel. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de cet hôte sous ce lien .",
+      "pt": "When booking more than 4 rooms, different policies and additional supplements may apply.\nPlease note that there are fees for using the electric car loading station.\nGuests arriving after 17:00 are advised to contact the property before their stay to arrange their key collection.\nPor favor, informe Hotel Birkenhof antecipadamente sobre o seu horário de chegada. Para isso poderá utilizar a caixa de Pedidos Especiais durante o processo da reserva ou contactar a propriedade diretamente através dos dados para contacto providenciados na sua confirmação.\nÉ necessário efetuar um pagamento por transferência bancária antes da chegada. A propriedade entrará em contacto consigo após a reserva para providenciar as instruções.\n\nEsta propriedade é gerida por um anfitrião profissional. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre o anfitrião aqui: ver detalhes do anfitrião ."
+    },
+    "longDescription": {
+      "en": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg. It offers a healthy breakfast buffet and free Wi-Fi.\n\nThe bright rooms all provide a balcony or a spacious terrace, a private bathroom and cable TV.\n\nThe Birkenhof offers a bicycle rental. The Mur-Radweg bicycle trail leads by the hotel. Guests can access several hiking trails in the immediate vicinity and the thermal spa with a reduction on the admission and already 1 hour prior to official opening times if a day ticket is bought.\n\nThe town centre is reachable in a 10-minute walk. Guests can also get active at the Bad Radkersburg Golf Club, which is 6 km away. Free parking is available on site.\n\nOur house only offers overnight stays with breakfast. However, there are numerous guest houses and wine taverns in the area.\n\nBirkenhof guests receive a 10% discount when purchasing a day ticket for the Bad Radkersburg thermal baths.",
+      "es": "El Hotel Garni Birkenhof está situado a las afueras de la pintoresca ciudad balneario de Bad Radkersburg, a 3 minutos a pie del spa termal. Ofrece un desayuno buffet saludable y conexión Wi-Fi gratuita.\n\nLas habitaciones son luminosas y disponen de balcón o terraza amplia, baño privado y TV por cable.\n\nEl Birkenhof ofrece servicio de alquiler de bicicletas. La ruta ciclista Mur-Radweg pasa junto al hotel. Los huéspedes pueden acceder a varias rutas de senderismo en las inmediaciones y al spa termal con un descuento en la entrada y ya 1 hora antes del horario oficial de apertura si se compra un billete de un día.\n\nEl centro de la ciudad está a 10 minutos a pie. El club de golf de Bad Radkersburg está a 6 km. Hay aparcamiento gratuito.\n\nNuestra casa sólo ofrece pernoctaciones con desayuno. Sin embargo, hay numerosas casas de huéspedes y tabernas de vino en la zona.\n\nLos huéspedes del Birkenhof disfrutan de un descuento del 10% en la compra de un billete de un día para los baños termales de Bad Radkersburg.",
+      "de": "Das Hotel Garni Birkenhof liegt am Rande der malerischen Kurstadt Bad Radkersburg, 3 Gehminuten von der Therme entfernt. Freuen Sie sich auf ein gesundes Frühstücksbuffet und kostenfreies WLAN.\n\nDie hellen Zimmer verfügen alle über einen Balkon oder eine geräumige Terrasse, ein eigenes Bad und Kabel-TV.\n\nDer Birkenhof bietet einen Fahrradverleih. Der Mur-Radweg führt am Hotel vorbei. Sie können mehrere Wanderwege in unmittelbarer Nähe und das Thermalbad mit einer Ermäßigung auf den Eintritt nutzen und bereits 1 Stunde vor offiziellen Öffnungszeiten, wenn Sie ein Tagesticket kaufen.\n\nDas Stadtzentrum erreichen Sie nach einem 10-minütigen Spaziergang. Der Golfclub Bad Radkersburg ist 6 km entfernt. Die Parkplätze an der Unterkunft nutzen Sie kostenfrei.\n\nUnser Haus bietet nur Übernachtungen mit Frühstück an. In der Umgebung befinden sich jedoch zahlreiche Pensionen und Weinstuben.\n\nAls Gast im Birkenhof erhalten Sie eine Ermäßigung von 10 % beim Kauf einer Tageskarte für die Therme Bad Radkersburg.",
+      "it": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg. It offers a healthy breakfast buffet and free Wi-Fi.\n\nThe bright rooms all provide a balcony or a spacious terrace, a private bathroom and cable TV.\n\nThe Birkenhof offers a bicycle rental. The Mur-Radweg bicycle trail leads by the hotel. Guests can access several hiking trails in the immediate vicinity and the thermal spa with a reduction on the admission and already 1 hour prior to official opening times if a day ticket is bought.\n\nThe town centre is reachable in a 10-minute walk. Guests can also get active at the Bad Radkersburg Golf Club, which is 6 km away. Free parking is available on site.\n\nOur house only offers overnight stays with breakfast. However, there are numerous guest houses and wine taverns in the area.\n\nBirkenhof guests receive a 10% discount when purchasing a day ticket for the Bad Radkersburg thermal baths.",
+      "fr": "Situé à 3 minutes à pied du spa thermal, l'Hotel Garni Birkenhof se trouve en bordure de la pittoresque ville thermale de Bad Radkersburg. Il propose un petit-déjeuner buffet équilibré et une connexion Wi-Fi gratuite.\n\nLes chambres lumineuses disposent toutes d'un balcon ou d'une terrasse spacieuse, d'une salle de bains privative et d'une télévision par câble.\n\nLe Birkenhof assure un service de location de vélos. La piste cyclable Mur-Radweg passe devant l'hôtel. Vous pourrez accéder à plusieurs sentiers de randonnée dans les environs immédiats et au spa thermal avec une réduction sur l'entrée et déjà 1 heure avant les heures d'ouverture officielles si un billet d'une journée est acheté.\n\nLe centre-ville est accessible en 10 minutes à pied. Vous pourrez également vous dépenser au club de golf de Bad Radkersburg, situé à 6 km. Le stationnement sur place est gratuit.\n\nNotre maison offre seulement des nuitées avec petit déjeuner. Cependant, vous trouverez de nombreuses maisons d'hôtes et tavernes à vin dans les environs.\n\nVous bénéficierez d'une réduction de 10 % sur l'achat d'un billet d'une journée pour les thermes de Bad Radkersburg.",
+      "pt": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg. It offers a healthy breakfast buffet and free Wi-Fi.\n\nThe bright rooms all provide a balcony or a spacious terrace, a private bathroom and cable TV.\n\nThe Birkenhof offers a bicycle rental. The Mur-Radweg bicycle trail leads by the hotel. Guests can access several hiking trails in the immediate vicinity and the thermal spa with a reduction on the admission and already 1 hour prior to official opening times if a day ticket is bought.\n\nThe town centre is reachable in a 10-minute walk. Guests can also get active at the Bad Radkersburg Golf Club, which is 6 km away. Free parking is available on site.\n\nOur house only offers overnight stays with breakfast. However, there are numerous guest houses and wine taverns in the area.\n\nBirkenhof guests receive a 10% discount when purchasing a day ticket for the Bad Radkersburg thermal baths."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What type of room can I book at Hotel Birkenhof?",
+          "topicComments": "Room options at Hotel Birkenhof include: Double Suite"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Hotel Birkenhof?",
+          "topicComments": "Check-in at Hotel Birkenhof is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Hotel Birkenhof?",
+          "topicComments": "The prices at Hotel Birkenhof may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "What is there to do at Hotel Birkenhof?",
+          "topicComments": "Hotel Birkenhof offers the following activities / services (charges may apply): Cycling Hiking Golf course (within 3 km) Bicycle rental"
+        },
+        {
+          "topic": "How far is Hotel Birkenhof from the centre of Bad Radkersburg?",
+          "topicComments": "Hotel Birkenhof is 800 m from the centre of Bad Radkersburg."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Hotel Birkenhof?",
+          "topicComments": "Las opciones de habitación en Hotel Birkenhof son: Doble Suite"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Hotel Birkenhof?",
+          "topicComments": "Podrás hacer el check-in en Hotel Birkenhof a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Hotel Birkenhof?",
+          "topicComments": "Los precios en Hotel Birkenhof pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Qué se puede hacer en Hotel Birkenhof?",
+          "topicComments": "Hotel Birkenhof ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Ciclismo Senderismo Campo de golf (a menos de 3 km) Alquiler de bicicletas"
+        },
+        {
+          "topic": "¿A qué distancia está Hotel Birkenhof del centro de Bad Radkersburg?",
+          "topicComments": "Hotel Birkenhof está a 800 m del centro de Bad Radkersburg."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Hotel Birkenhof buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Hotel Birkenhof zählen: Doppelzimmer Suite"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Hotel Birkenhof?",
+          "topicComments": "Der Check-in in der Unterkunft Hotel Birkenhof ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Hotel Birkenhof?",
+          "topicComments": "Die Preise an der Unterkunft Hotel Birkenhof könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Hotel Birkenhof?",
+          "topicComments": "Die Unterkunft Hotel Birkenhof bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Radfahren Wandern Golfplatz (max. 3 km entfernt) Fahrradverleih"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Hotel Birkenhof vom Zentrum von Bad Radkersburg entfernt?",
+          "topicComments": "Die Unterkunft Hotel Birkenhof ist 800 m vom Zentrum von Bad Radkersburg entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di camere posso prenotare presso Hotel Birkenhof?",
+          "topicComments": "Hotel Birkenhof offre: Matrimoniale Suite"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Hotel Birkenhof?",
+          "topicComments": "Presso Hotel Birkenhof, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Hotel Birkenhof?",
+          "topicComments": "I prezzi di Hotel Birkenhof possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Hotel Birkenhof?",
+          "topicComments": "Hotel Birkenhof offre i seguenti servizi/attività (alcuni a pagamento): Escursioni in bicicletta Escursionismo Campo da golf (nel raggio di 3 km) Noleggio biciclette"
+        },
+        {
+          "topic": "Quanto dista Hotel Birkenhof dal centro di Bad Radkersburg?",
+          "topicComments": "Hotel Birkenhof si trova a 800 m dal centro di Bad Radkersburg."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Hotel Birkenhof ?",
+          "topicComments": "L'établissement Hotel Birkenhof propose les options d'hébergement suivantes : Double Suite"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Hotel Birkenhof ?",
+          "topicComments": "L'enregistrement à l'établissement Hotel Birkenhof se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Hotel Birkenhof ?",
+          "topicComments": "Les tarifs fixés par l'établissement Hotel Birkenhof peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "Quelles activités l'établissement Hotel Birkenhof propose-t-il ?",
+          "topicComments": "L'établissement Hotel Birkenhof propose les activités et les services suivants (des frais peuvent s'appliquer) : Cyclisme Randonnée Parcours de golf (à moins de 3 km) Location de vélos"
+        },
+        {
+          "topic": "L'établissement Hotel Birkenhof est-il proche du centre (Bad Radkersburg) ?",
+          "topicComments": "L'établissement Hotel Birkenhof se trouve à 800 m du centre (Bad Radkersburg)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de quarto posso reservar em Hotel Birkenhof?",
+          "topicComments": "As opções de quarto em Hotel Birkenhof incluem: Duplo Suite"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Hotel Birkenhof?",
+          "topicComments": "Em Hotel Birkenhof, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Hotel Birkenhof?",
+          "topicComments": "Os preços em Hotel Birkenhof podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Que atividades há em Hotel Birkenhof?",
+          "topicComments": "Hotel Birkenhof disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Ciclismo Caminhadas Campo de golfe (a menos de 3 km) Aluguer de bicicleta"
+        },
+        {
+          "topic": "A que distância fica Hotel Birkenhof do centro de Bad Radkersburg?",
+          "topicComments": "Hotel Birkenhof fica a 800 m do centro de Bad Radkersburg."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg.",
+      "es": "El Hotel Garni Birkenhof está situado a las afueras de la pintoresca ciudad balneario de Bad Radkersburg, a 3 minutos a pie del spa termal.",
+      "de": "Das Hotel Garni Birkenhof liegt am Rande der malerischen Kurstadt Bad Radkersburg, 3 Gehminuten von der Therme entfernt.",
+      "it": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg.",
+      "fr": "Situé à 3 minutes à pied du spa thermal, l'Hotel Garni Birkenhof se trouve en bordure de la pittoresque ville thermale de Bad Radkersburg.",
+      "pt": "Located a 3-minute walk from the Thermal Spa, Hotel Garni Birkenhof is situated on the edge of the scenic spa town of Bad Radkersburg."
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Exceptional breakfast"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Hardwood or parquet floors",
+            "Heating"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English",
+            "Spanish"
+          ],
+          "Parking": [
+            "Free parking",
+            "Electric vehicle charging station"
+          ],
+          "Services": [
+            "Vending machine (drinks)"
+          ],
+          "Other": [
+            "Parking",
+            "Hiking",
+            "Golf course (within 3 km)",
+            "Terrace",
+            "Garden",
+            "Clothes rack",
+            "Bicycle rental Additional charge",
+            "Cycling",
+            "Cable channels"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Desayuno excepcional"
+          ],
+          "Aparcamiento": [
+            "Parking gratis",
+            "Estación de carga de vehículos eléctricos"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de madera o parquet",
+            "Calefacción"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés",
+            "Español"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Servicios": [
+            "Máquina expendedora (bebidas)"
+          ],
+          "Other": [
+            "Parking",
+            "Información turística",
+            "Senderismo",
+            "Campo de golf (a menos de 3 km)",
+            "Terraza",
+            "Jardín",
+            "Perchero",
+            "Alquiler de bicicletas De pago",
+            "Ciclismo",
+            "Canales por cable"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Heizung"
+          ],
+          "Gesprochene Sprachen": [
+            "Deutsch",
+            "Englisch",
+            "Spanisch"
+          ],
+          "Speisen & Getränke": [
+            "Außergewöhnliches Frühstück"
+          ],
+          "Other": [
+            "Parkplatz inbegriffen",
+            "WLAN inklusive",
+            "Nichtraucherzimmer",
+            "Parkplatz",
+            "Informationsschalter für Ausflüge",
+            "Wandern",
+            "Golfplatz (max. 3 km entfernt)",
+            "Terrasse",
+            "Garten",
+            "Kleiderständer",
+            "Fahrradverleih Zusätzliche Gebühren",
+            "Radfahren",
+            "Kabelkanäle",
+            "Aufladestation für Elektro-Autos",
+            "Getränkeautomat",
+            "Holz- oder Parkettböden"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione eccezionale"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Struttura interamente non fumatori",
+            "Parquet o pavimento in legno",
+            "Riscaldamento"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Lingue parlate": [
+            "Tedesco",
+            "Inglese",
+            "Spagnolo"
+          ],
+          "Parcheggio": [
+            "Parcheggio gratuito"
+          ],
+          "Servizi": [
+            "Distributore automatico di bevande"
+          ],
+          "Other": [
+            "Parcheggio",
+            "Banco escursioni",
+            "Escursionismo",
+            "Campo da golf (nel raggio di 3 km)",
+            "Terrazza",
+            "Giardino",
+            "Stand appendiabiti",
+            "Noleggio biciclette a pagamento",
+            "Escursioni in bicicletta",
+            "Canali via cavo",
+            "Stazione di ricarica per veicoli elettrici"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Petit-déjeuner exceptionnel"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Télévision à écran plat",
+            "Bureau d'excursions",
+            "Douche",
+            "Papier toilette",
+            "Serviettes",
+            "Toilettes",
+            "Sèche-cheveux",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Bureau",
+            "Télévision",
+            "Coffre-fort"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Parquet",
+            "Chauffage"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais",
+            "Espagnol"
+          ],
+          "Parking": [
+            "Parking gratuit",
+            "Borne de recharge pour les véhicules électriques"
+          ],
+          "Services": [
+            "Distributeur automatique (boissons)"
+          ],
+          "Other": [
+            "Connexion Wi-Fi gratuite",
+            "Parking",
+            "Randonnée",
+            "Parcours de golf (à moins de 3 km)",
+            "Terrasse",
+            "Jardin",
+            "Portant",
+            "Location de vélos En supplément",
+            "Cyclisme",
+            "Chaînes du câble"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Excecional pequeno-almoço"
+          ],
+          "Estacionamento": [
+            "Estacionamento gratuito"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Piso em madeira ou parquet",
+            "Aquecimento"
+          ],
+          "Idiomas falados": [
+            "Alemão",
+            "Inglês"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Other": [
+            "Quartos para não fumadores",
+            "Estacionamento",
+            "Balcão de turismo",
+            "Caminhadas",
+            "Campo de golfe (a menos de 3 km)",
+            "Terraço",
+            "Jardim",
+            "Suporte para cabides",
+            "Aluguer de bicicleta Custo adicional",
+            "Ciclismo",
+            "Canais por cabo",
+            "Posto de carga para veículos elétricos",
+            "Máquina de venda automática (bebidas)",
+            "Espanhol"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 19:00 You'll need to let the property know in advance what time you'll arrive."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 07:30 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children older than 1 year are welcome. Children 15 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 1 years Cot upon request € 30 per child, per night 2 years Cot upon request € 30 per child, per night Extra bed upon request € 45 per child, per night 3+ years Extra bed upon request € 45 per person, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children older than 1 year are welcome. Children 15 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "No age restriction",
+          "detail": "There is no age requirement for check-in"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 6 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 19:00 Tienes que decirle al alojamiento con antelación a qué hora vas a llegar."
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 7:30 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños a partir de 1 año. Los niños a partir de 15 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 1 año Cuna a petición € 30 por niño y noche 2 años Cuna a petición € 30 por niño y noche Cama supletoria a petición € 45 por niño y noche Más de 3 años Cama supletoria a petición € 45 por persona y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños a partir de 1 año. Los niños a partir de 15 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "No hay restricción por edad",
+          "detail": "No hay edad mínima para el check-in"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 6 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 19:00 Uhr Bitte informieren Sie die Unterkunft im Voraus über Ihre Ankunftszeit."
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 07:30 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder ab 1 Jahr sind willkommen. Kinder im Alter von 15 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 1 Jahr Babybett auf Anfrage € 30 pro Kind, pro Nacht 2 Jahre Babybett auf Anfrage € 30 pro Kind, pro Nacht Zustellbett auf Anfrage € 45 pro Kind, pro Nacht über 3 Jahre Zustellbett auf Anfrage € 45 pro Person, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder ab 1 Jahr sind willkommen. Kinder im Alter von 15 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Keine Altersbeschränkung",
+          "detail": "Es gibt keine Altersbeschränkung für den Check-in."
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 6 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 19:00 Dovrai comunicare in anticipo alla struttura il tuo orario di arrivo."
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 07:30 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di almeno 1 anno sono i benvenuti. I bambini di 15 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 1 anno Culla su richiesta € 30 per bambino, a notte 2 anni Culla su richiesta € 30 per bambino, a notte Letto supplementare su richiesta € 45 per bambino, a notte 3 anni e oltre Letto supplementare su richiesta € 45 per persona, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di almeno 1 anno sono i benvenuti. I bambini di 15 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Nessuna età minima",
+          "detail": "Non è richiesta un'età minima per fare il check-in."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 6 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 19:00 Vous devrez indiquer à l'avance votre heure d'arrivée à l'établissement."
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 07:30 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Les enfants de 1 an et plus sont les bienvenus. Les enfants âgés de plus de 15 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 1 ans Lit bébé sur demande € 30 par enfant et par nuit 2 ans Lit bébé sur demande € 30 par enfant et par nuit Lit d'appoint sur demande € 45 par enfant et par nuit Plus de 3 ans Lit d'appoint sur demande € 45 par personne et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Les enfants de 1 an et plus sont les bienvenus. Les enfants âgés de plus de 15 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Aucune restriction d'âge",
+          "detail": "Aucune restriction relative à l'âge ne s'applique pour l'enregistrement."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 6 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 19:00 Terá de informar a sua hora de chegada com antecedência ao alojamento."
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 07:30 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Crianças com mais de 1 ano são bem-vindas As crianças com 15 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 1 ano Berço mediante pedido € 30 por criança, por noite 2 anos Berço mediante pedido € 30 por criança, por noite Cama extra mediante pedido € 45 por criança, por noite Mais de 3 anos Cama extra mediante pedido € 45 por pessoa, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Crianças com mais de 1 ano são bem-vindas As crianças com 15 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Sem restrições de idade",
+          "detail": "Não há restrições de idade para fazer check-in"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 6 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.5
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.5
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.5
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.5
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 9.4
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.5
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.6
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 9.4
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.7
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.5
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

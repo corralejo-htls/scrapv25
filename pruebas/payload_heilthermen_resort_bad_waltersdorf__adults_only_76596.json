@@ -1,0 +1,1913 @@
+{
+  "data": {
+    "name": {
+      "en": "Heilthermen Resort Bad Waltersdorf, Adults only",
+      "es": "Heilthermen Resort Bad Waltersdorf, Adults only",
+      "de": "Heilthermen Resort Bad Waltersdorf, Adults only",
+      "it": "Heilthermen Resort Bad Waltersdorf, Adults only",
+      "fr": "Heilthermen Resort Bad Waltersdorf, Adults only",
+      "pt": "Heilthermen Resort Bad Waltersdorf, Adults only"
+    },
+    "geoPosition": {
+      "latitude": 47.16834545407239,
+      "longitude": 16.026853322982788
+    },
+    "address": {
+      "en": "Thermenstraße 111, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "es": "Thermenstraße 111, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "de": "Thermenstraße 111, 8271 Bad Waltersdorf, Österreich, 8271 Bad Waltersdorf, Österreich",
+      "it": "Thermenstraße 111, 8271 Bad Waltersdorf, Austria, 8271 Bad Waltersdorf, Austria",
+      "fr": "Thermenstraße 111, 8271 Bad Waltersdorf, Autriche, 8271 Bad Waltersdorf, Autriche",
+      "pt": "Thermenstraße 111, 8271 Bad Waltersdorf, Áustria, 8271 Bad Waltersdorf, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598347979.jpg?k=e7c6ff7e04ff07dc34025ef7de8aa81300ad883ce6bbd9772850038823934fb4&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/599255455.jpg?k=08400285446a7b3294a6ed95b3a8d644bdf199b62a3471285a088def1d80a94a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598347864.jpg?k=23f2d13d88ef891be530fe705de2a58b046bfdc9e72724398abeeac787b7dbdc&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598336330.jpg?k=2c2ebda4b0c2123b04efe87c3b869d9a05712862e9ca669e8e1497648eea0287&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/616435882.jpg?k=aef64603659d34d6986bf9a7959b5120f6a9d359c463c5288cb88d3dbc4d3df1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/604806447.jpg?k=89fa67ddbd45dbf128dcc61b7795a29c854399475d9d575ba91d435142130baa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/600655736.jpg?k=77d51c827ee5ed1e627295885c0c20b0875859a793d69cc17aa50a797f73ea6a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598330311.jpg?k=56a80840eb011dcf446d9c5b0aee051598bc1acd512b29614d93cf6409a775ce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/499900834.jpg?k=79a86fd3d8b13da387229da90b6043b9dbca8300d8483fd9de64d57fe536cc98&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/499954973.jpg?k=115cc69367d5624812ce07c4b38e1a50277c08bed237a7c5cf447d024138e07c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/490240365.jpg?k=f47410eb97a0da83d057ecfdb4e765f865b10898aa4ef9f01160e7b21f368d89&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/567943454.jpg?k=2be9fe073f55bcbb129a0cfad1fb23cb368b74c8da706e69c2b8b0f519e90d8c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/291884296.jpg?k=0eacd24c49e03da5649dad16a06631c82f7bece1cd1da7ff380e9531df4a8656&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/490240216.jpg?k=fd8ccb0ad49f1d43fa45546de6a5d77a3c849f8a70c4eb3a00eb84314880b97a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/52135858.jpg?k=a09114ec8efa5aea30304b5a799f807788fed4d787f1fe5babf613b18dd6a4c6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/73253314.jpg?k=ad25edbcc535de41380982cc5b8f4c3555d596031a1451546206e0b9dfc3c283&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/52134318.jpg?k=c1dcb71923e8120ac3e67df0e153b17e9671c094726fcabb71f8d64d667d42ea&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/52134335.jpg?k=d3c9b70afa2ce403f834af9480812ad8900025e3a4bc7e284cb649a95fbfd2f2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/73253323.jpg?k=5a9334a2e5b6bc2cef33b1765254ca4cd0f4b247c8ef363161ca879a866c21c2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/73254366.jpg?k=fe5f48f067d87721c534eed232f602fcd794552e7810873dbefa8111e485e42e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/490241694.jpg?k=d172ab20fe263a408de195a71da0814135ed86d499d2fc31c5f292e5b07bed2a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598330345.jpg?k=17daed03a1c974ac3728d8228d68666221134ac6126b8d94a57da303bceb76d8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598336290.jpg?k=187c901fafab285dbe99d8b81cf4ec583ee0b3373fba04c56e7fb7d6a91c0428&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598336351.jpg?k=ce3a3168d81c97528a7a311d0740701d240a94251eeb91a74a0ca17f799af8e2&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598337072.jpg?k=76266b36c75b887f0a4c5191f335622869e99ca2d2ec085ca80c40c9c19e4f07&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598344218.jpg?k=d49999911415773c609c65629ba096e3affbe967f0ee4eb42c7b4730fa5a1848&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598344237.jpg?k=89c2542a063ef1fc8ff1434af64aa0e132a499e1601d048b07d8a4dd26fc4c70&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598344282.jpg?k=9ac9147012a38abde47e2ee15bb4b1bcff3d2982a59603d7d00115387edb854d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598346207.jpg?k=73c97f9e352daaac1d9e5516b791e360f220488248b5d70ccdc386ca8b70abf3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598346578.jpg?k=7ab45c01def9ec44a27b871d65d60741d5281b16919ab6d1a99269c1d8b7cda7&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598346619.jpg?k=e634642bf4d20fde82859799b151b95f58fc7b08247de4f37675ab6d9dd2852d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598346692.jpg?k=dbe3cecb294ec0e77bfdd5195a08c767de50e413ae1ba82a9a837e1da507793a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598347460.jpg?k=a942bdda7ec195bfa15453251f96398d13ff71928ad272814205af6898b8e654&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598347923.jpg?k=62b17a7a5e9617930ee660b1c87aadba390655ec913260cf559102264b2e8f7f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598357562.jpg?k=d239a14420b5bdf0ad437de55d3c2ae2fce20eac53a0bc600fa4a78e28d0742d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598362359.jpg?k=b3ac38b6fc25ce7332dbdb18baab15f1221c3571043e4a3d80be20163d94b74e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598362694.jpg?k=0e4d7246bd74c5423af0ceed058044ec3ff3c2f8b403c669dd8852d0ecda0d08&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598363030.jpg?k=892f2122964cb0df81b01121f48e0b55f4f44db2ce45b8d2e35aa26ec4bdd3fa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598364309.jpg?k=1d791c2db4f1dc755c1e1aeec7efc48911ef289687e347f688383d4585d624d3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/598367457.jpg?k=ab50bcbecfcb8db71352464589a7641ef0e95a773686b6c9a90c5259091a95db&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/599164672.jpg?k=865bbca1c5b0fe6387f07bec339b9f885cb271e7a056282f965b3d982f5e6f4b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/599164702.jpg?k=c693ed3a3d20b2b341c2128c4a9154c9508b8abdb6e5dde7f067f757ee198c62&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/599164734.jpg?k=2d4d14cd14c0388c90219cbf84eade3cc48f47d93f79028cf0d9663dd5768fef&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/599164811.jpg?k=29a2dc642a4d61450a449e95db1cdc0030a7a6c18a01c56ff2c9318cca44ca01&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": 4,
+    "scoreReview": 9.1,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "50 ft",
+          "category": 2
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "6.6 ft",
+          "category": 2
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "1,450 ft",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "0.7 mi",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "2.2 mi",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "38 mi",
+          "category": 1
+        }
+      ],
+      "es": [
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "2 m",
+          "category": 2
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "450 m",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Aeropuerto de Graz",
+          "distance": "61 km",
+          "category": 1
+        }
+      ],
+      "de": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "2 m",
+          "category": 2
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "450 m",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "3,6 km",
+          "category": 6
+        },
+        {
+          "name": "Flughafen Graz",
+          "distance": "61 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "20 m",
+          "category": 6
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "2 m",
+          "category": 6
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "450 m",
+          "category": 6
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1,2 km",
+          "category": 6
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "3,6 km",
+          "category": 6
+        },
+        {
+          "name": "Aeroporto di Graz - Thalerhof",
+          "distance": "61 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "2 m",
+          "category": 2
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "450 m",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Aéroport de Graz",
+          "distance": "61 km",
+          "category": 1
+        }
+      ],
+      "pt": [
+        {
+          "name": "Sonneninsel",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Merlins Kinderland - Indoorspielplatz",
+          "distance": "13 km",
+          "category": 6
+        },
+        {
+          "name": "Grazer Tor / Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Altes Rathaus",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Augustiner-Eremitenkirche",
+          "distance": "16 km",
+          "category": 6
+        },
+        {
+          "name": "Ungarbastei",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Hauptstraße",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Stadtpfarrkirche Fürstenfeld",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Malteser Ordenskommende",
+          "distance": "17 km",
+          "category": 6
+        },
+        {
+          "name": "Keltischer Baumkreis",
+          "distance": "18 km",
+          "category": 6
+        },
+        {
+          "name": "Restaurant der Heiltherme",
+          "distance": "20 m",
+          "category": 2
+        },
+        {
+          "name": "Quellenhotel Heiltherme Bad Waltersdorf",
+          "distance": "2 m",
+          "category": 2
+        },
+        {
+          "name": "Lets Dance",
+          "distance": "450 m",
+          "category": 2
+        },
+        {
+          "name": "Bad Waltersdorf",
+          "distance": "1,2 km",
+          "category": 4
+        },
+        {
+          "name": "Sebersdorf",
+          "distance": "3,6 km",
+          "category": 4
+        },
+        {
+          "name": "Graz Airport",
+          "distance": "61 km",
+          "category": 1
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 2513,
+    "toConsider": {
+      "en": "Please note  : As of November 1, 2025, payments made via Booking (or other external partners) can be made in cash or by card. We accept third-party vouchers (Wellcard, Webhotels, Steiermark Voucher, Thermalbad and Vulkanland Voucher, Bad Waltersdorf Voucher) exclusively for direct bookings.\nGuests under the age of 18 can only check in with a parent or official guardian.",
+      "es": "Please note  : As of November 1, 2025, payments made via Booking (or other external partners) can be made in cash or by card. We accept third-party vouchers (Wellcard, Webhotels, Steiermark Voucher, Thermalbad and Vulkanland Voucher, Bad Waltersdorf Voucher) exclusively for direct bookings.\nLas personas menores de 18 años solo pueden alojarse si van acompañadas de alguno de sus progenitores o tutores legales.\n\nEste alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Bitte beachten: Ab dem 1. November 2025 können Zahlungen über Booking (oder andere externe Partnerunternehmen) bar oder mit Karte getätigt werden. Gutscheine von Drittanbietern (Wellcard, Webhotels, Steiermark-Gutschein, Thermalbad- und Vulkanland-Gutschein, Bad Waltersdorf-Gutschein) akzeptieren wir ausschließlich bei Direktbuchungen.\nGäste unter 18 Jahren können nur mit einem Elternteil oder gesetzlichen Vertreter einchecken.\n\nDiese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Please note  : As of November 1, 2025, payments made via Booking (or other external partners) can be made in cash or by card. We accept third-party vouchers (Wellcard, Webhotels, Steiermark Voucher, Thermalbad and Vulkanland Voucher, Bad Waltersdorf Voucher) exclusively for direct bookings.\nGli ospiti di età inferiore ai 18 anni possono effettuare il check-in solo se accompagnati da un genitore o da un tutore legale.\n\nQuesta struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "Please note  : As of November 1, 2025, payments made via Booking (or other external partners) can be made in cash or by card. We accept third-party vouchers (Wellcard, Webhotels, Steiermark Voucher, Thermalbad and Vulkanland Voucher, Bad Waltersdorf Voucher) exclusively for direct bookings.\nLes clients âgés de moins de 18 ans doivent être accompagnés d'un parent ou d'un tuteur légal pour pouvoir s'enregistrer.\n\nCet établissement est géré, est représenté ou détient une licence délivrée par une société. Cette mention n’a aucune incidence sur les taxes, y compris sur la TVA et sur toute autre « taxe indirecte », mais la législation applicable en matière de protection des consommateurs l’exige. Vous trouverez plus d’informations au sujet de la société sous ce lien .",
+      "pt": "Please note  : As of November 1, 2025, payments made via Booking (or other external partners) can be made in cash or by card. We accept third-party vouchers (Wellcard, Webhotels, Steiermark Voucher, Thermalbad and Vulkanland Voucher, Bad Waltersdorf Voucher) exclusively for direct bookings.\nOs hóspedes com menos de 18 anos só podem fazer o check-in se acompanhados por um dos pais ou tutor legal.\n\nEsta propriedade é gerida, licenciada ou representada por uma empresa. Esta designação não tem qualquer relevância em termos fiscais, incluindo o IVA e outros “impostos indiretos”, mas é necessária de acordo com a legislação aplicável aos consumidores. Pode encontrar mais informações sobre a empresa aqui: Ver dados da empresa ."
+    },
+    "longDescription": {
+      "en": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz. It offers a luxurious private spa and free access to the public Heiltherme Spa Centre, directly attached to the hotel. Free WiFi is available.\n\nThe Hoteltherme is 3,000 m² in size and includes a natural bathing pond, an indoor thermal pool, a modern outdoor thermal pool, a sauna area as well as a separate ladies' spa, modern relaxation oases and various saunas.\n\nThe 25,000 m² Heiltherme includes 7 thermal pools, 9 saunas and a wellness and activity program. Free admission includes the days of arrival and departure.\n\nThere is a wide range of massages and beauty treatments in the spa at the Heilthermen Resort. A fitness room is also available at the Heiltherme Bad Waltersdorf.\n\nThe Adults Only Hotel, a retreat for adults, invites you to let yourself go completely with newly designed rooms and suites, a completely renewed feel-good world of the hotel spa with a modern, fresh design. Light colors, natural materials and spacious balconies and terraces make for even better vacation moments in the new rooms. Individual sleeping systems ensure a deep, restful sleep.\n\nThe hotel restaurant serves Styrian specialties and Austrian and international cuisine using mainly regional products. Half-board includes a varied breakfast buffet and a 5-course dinner.\n\nThe Heilthermen Resort offers many other pleasure stations such as a pool bar, a second restaurant, a bistro, etc. There is a free private parking lot at the accommodation.",
+      "es": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz. It offers a luxurious private spa and free access to the public Heiltherme Spa Centre, directly attached to the hotel. Free WiFi is available.\n\nThe Hoteltherme is 3,000 m² in size and includes a natural bathing pond, an indoor thermal pool, a modern outdoor thermal pool, a sauna area as well as a separate ladies' spa, modern relaxation oases and various saunas.\n\nThe 25,000 m² Heiltherme includes 7 thermal pools, 9 saunas and a wellness and activity program. Free admission includes the days of arrival and departure.\n\nThere is a wide range of massages and beauty treatments in the spa at the Heilthermen Resort. A fitness room is also available at the Heiltherme Bad Waltersdorf.\n\nThe Adults Only Hotel, a retreat for adults, invites you to let yourself go completely with newly designed rooms and suites, a completely renewed feel-good world of the hotel spa with a modern, fresh design. Light colors, natural materials and spacious balconies and terraces make for even better vacation moments in the new rooms. Individual sleeping systems ensure a deep, restful sleep.\n\nThe hotel restaurant serves Styrian specialties and Austrian and international cuisine using mainly regional products. Half-board includes a varied breakfast buffet and a 5-course dinner.\n\nThe Heilthermen Resort offers many other pleasure stations such as a pool bar, a second restaurant, a bistro, etc. There is a free private parking lot at the accommodation.",
+      "de": "Das Heilthermen Resort Bad Waltersdorf, Adults only liegt im Thermen- und Vulkanland in der Hügellandschaft der Oststeiermark, 60 km von Graz entfernt. Es bietet ein luxuriöses, eigenes Spa und kostenlosen Zugang zur öffentlichen Heiltherme, die direkt an das Hotel angeschlossen ist. WLAN nutzen Sie kostenlos.\n\nDie 3.000 m² große Hoteltherme verfügt über einen Naturbadeteich, einen Thermalinnenpool, einen modernen Thermalaußenpool, eine Saunalandschaft, ein separates Damen-Spa, moderne Ruheoasen sowie verschiedene Saunen.\n\nDie 25.000 m² große Heiltherme umfasst sieben Thermalbecken, neun Saunen sowie ein Wellness- und Aktivprogramm. Auch am Tag Ihrer An- und Abreise haben Sie kostenfreien Zugang.\n\nDas Spa des Heilthermen Resorts bietet ein breites Angebot an Massagen und Beautyanwendungen. Auch ein Fitnesscenter steht Ihnen in der Heiltherme Bad Waltersdorf zur Verfügung.\n\nDas Hotel, das ausschließlich Erwachsenen vorbehalten ist, lädt mit neu gestalteten Zimmern und Suiten dazu ein, sich komplett fallen zu lassen. Es bietet eine rundum erneuerte Wohlfühlwelt des Hotel-Spa mit einem modernen, frischen Design. Helle Farben, natürliche Materialien und großzügige Balkone und Terrassen sorgen in den neuen Zimmern für noch bessere Urlaubsmomente. Individuelle Schlafsysteme sorgen für einen tiefen, erholsamen Schlaf.\n\nIm Hotelrestaurant werden steirische Spezialitäten sowie österreichische und internationale Küche mit überwiegend regionalen Produkten serviert. Die Halbpension beinhaltet ein abwechslungsreiches Frühstücksbuffet und ein 5-gängiges Abendessen.\n\nDas Heilthermen Resort bietet mit einer Poolbar, einem zweiten Restaurant und einem Bistro viele weitere Orte zum Genießen. An der Unterkunft gibt es einen kostenlosen Privatparkplatz.",
+      "it": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz. It offers a luxurious private spa and free access to the public Heiltherme Spa Centre, directly attached to the hotel. Free WiFi is available.\n\nThe Hoteltherme is 3,000 m² in size and includes a natural bathing pond, an indoor thermal pool, a modern outdoor thermal pool, a sauna area as well as a separate ladies' spa, modern relaxation oases and various saunas.\n\nThe 25,000 m² Heiltherme includes 7 thermal pools, 9 saunas and a wellness and activity program. Free admission includes the days of arrival and departure.\n\nThere is a wide range of massages and beauty treatments in the spa at the Heilthermen Resort. A fitness room is also available at the Heiltherme Bad Waltersdorf.\n\nThe Adults Only Hotel, a retreat for adults, invites you to let yourself go completely with newly designed rooms and suites, a completely renewed feel-good world of the hotel spa with a modern, fresh design. Light colors, natural materials and spacious balconies and terraces make for even better vacation moments in the new rooms. Individual sleeping systems ensure a deep, restful sleep.\n\nThe hotel restaurant serves Styrian specialties and Austrian and international cuisine using mainly regional products. Half-board includes a varied breakfast buffet and a 5-course dinner.\n\nThe Heilthermen Resort offers many other pleasure stations such as a pool bar, a second restaurant, a bistro, etc. There is a free private parking lot at the accommodation.",
+      "fr": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz. It offers a luxurious private spa and free access to the public Heiltherme Spa Centre, directly attached to the hotel. Free WiFi is available.\n\nThe Hoteltherme is 3,000 m² in size and includes a natural bathing pond, an indoor thermal pool, a modern outdoor thermal pool, a sauna area as well as a separate ladies' spa, modern relaxation oases and various saunas.\n\nThe 25,000 m² Heiltherme includes 7 thermal pools, 9 saunas and a wellness and activity program. Free admission includes the days of arrival and departure.\n\nThere is a wide range of massages and beauty treatments in the spa at the Heilthermen Resort. A fitness room is also available at the Heiltherme Bad Waltersdorf.\n\nThe Adults Only Hotel, a retreat for adults, invites you to let yourself go completely with newly designed rooms and suites, a completely renewed feel-good world of the hotel spa with a modern, fresh design. Light colors, natural materials and spacious balconies and terraces make for even better vacation moments in the new rooms. Individual sleeping systems ensure a deep, restful sleep.\n\nThe hotel restaurant serves Styrian specialties and Austrian and international cuisine using mainly regional products. Half-board includes a varied breakfast buffet and a 5-course dinner.\n\nThe Heilthermen Resort offers many other pleasure stations such as a pool bar, a second restaurant, a bistro, etc. There is a free private parking lot at the accommodation.",
+      "pt": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz. It offers a luxurious private spa and free access to the public Heiltherme Spa Centre, directly attached to the hotel. Free WiFi is available.\n\nThe Hoteltherme is 3,000 m² in size and includes a natural bathing pond, an indoor thermal pool, a modern outdoor thermal pool, a sauna area as well as a separate ladies' spa, modern relaxation oases and various saunas.\n\nThe 25,000 m² Heiltherme includes 7 thermal pools, 9 saunas and a wellness and activity program. Free admission includes the days of arrival and departure.\n\nThere is a wide range of massages and beauty treatments in the spa at the Heilthermen Resort. A fitness room is also available at the Heiltherme Bad Waltersdorf.\n\nThe Adults Only Hotel, a retreat for adults, invites you to let yourself go completely with newly designed rooms and suites, a completely renewed feel-good world of the hotel spa with a modern, fresh design. Light colors, natural materials and spacious balconies and terraces make for even better vacation moments in the new rooms. Individual sleeping systems ensure a deep, restful sleep.\n\nThe hotel restaurant serves Styrian specialties and Austrian and international cuisine using mainly regional products. Half-board includes a varied breakfast buffet and a 5-course dinner.\n\nThe Heilthermen Resort offers many other pleasure stations such as a pool bar, a second restaurant, a bistro, etc. There is a free private parking lot at the accommodation."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Guests staying at Heilthermen Resort Bad Waltersdorf, Adults only can enjoy a highly-rated breakfast during their stay (guest review score: 9.4). Breakfast option(s) include: Continental Vegetarian Vegan Gluten-free Buffet"
+        },
+        {
+          "topic": "Does Heilthermen Resort Bad Waltersdorf, Adults only have a pool?",
+          "topicComments": "Yes, this hotel has a pool. Find out the details about the pool and other facilities on this page."
+        },
+        {
+          "topic": "What type of room can I book at Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Room options at Heilthermen Resort Bad Waltersdorf, Adults only include: Double Single Suite"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Check-in at Heilthermen Resort Bad Waltersdorf, Adults only is from 15:00, and check-out is until 11:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "The prices at Heilthermen Resort Bad Waltersdorf, Adults only may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does Heilthermen Resort Bad Waltersdorf, Adults only have a restaurant on site?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only has 2 restaurants: Quellblick Kulinarium"
+        },
+        {
+          "topic": "What is there to do at Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only offers the following activities / services (charges may apply): Spa and wellness centre Hot tub/Jacuzzi Fitness centre Sauna Massage Hammam Cycling Hiking Table tennis Fishing Tennis court Squash Golf course (within 3 km) Solarium Bicycle rental Personal trainer Horse riding Archery Beauty Services Fitness/spa locker rooms Facial treatments Live music/performance Waxing services Swimming pool Make up services Manicure Pedicure Hair cut Hair colouring Hair styling Body treatments Body scrub Body wrap Spa facilities Steam room Spa lounge/relaxation area Foot bath Spa/wellness packages Back massage Neck massage Foot massage Head massage Full body massage Fitness"
+        },
+        {
+          "topic": "How far is Heilthermen Resort Bad Waltersdorf, Adults only from the centre of Bad Waltersdorf?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only is 0.8 mi from the centre of Bad Waltersdorf."
+        },
+        {
+          "topic": "Does Heilthermen Resort Bad Waltersdorf, Adults only have a hot tub for its guests?",
+          "topicComments": "Yes, there is a hot tub. You can find out more about this and the other facilities at Heilthermen Resort Bad Waltersdorf, Adults only on this page."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Los clientes de Heilthermen Resort Bad Waltersdorf, Adults only podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (9,4) Las opciones del desayuno son: Continental Vegetariano Vegano Sin gluten Buffet"
+        },
+        {
+          "topic": "¿Hay piscina en Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Sí, el hotel tiene piscina. En esta página encontrarás más info sobre la piscina y otras instalaciones."
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Las opciones de habitación en Heilthermen Resort Bad Waltersdorf, Adults only son: Doble Individual Suite"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Podrás hacer el check-in en Heilthermen Resort Bad Waltersdorf, Adults only a partir de las 15:00 y el check-out hasta las 11:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Los precios en Heilthermen Resort Bad Waltersdorf, Adults only pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only tiene 2 restaurantes: Quellblick Kulinarium"
+        },
+        {
+          "topic": "¿Qué se puede hacer en Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only ofrece las siguientes actividades y servicios (se pueden aplicar cargos): Spa y centro de bienestar Bañera de hidromasaje / jacuzzi Gimnasio Sauna Masajes Hammam Ciclismo Senderismo Ping pong Pesca Pista de tenis Squash Campo de golf (a menos de 3 km) Solárium Alquiler de bicicletas Entrenador personal Equitación Tiro con arco Servicios de belleza Taquillas en el gimnasio / spa Tratamientos faciales Música / espectáculos en directo Servicios de depilación Piscina Servicios de maquillaje Manicura Pedicura Corte de pelo Tinte Peinado Tratamientos corporales Exfoliación corporal Envoltura corporal Instalaciones de spa Baño de vapor Zona de spa / relajación Pediluvio Paquetes de spa / bienestar Masaje de espalda Masaje de cuello Masaje de pies Masaje de cabeza Masaje corporal completo Gimnasio"
+        },
+        {
+          "topic": "¿A qué distancia está Heilthermen Resort Bad Waltersdorf, Adults only del centro de Bad Waltersdorf?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only está a 1,3 km del centro de Bad Waltersdorf."
+        },
+        {
+          "topic": "¿Heilthermen Resort Bad Waltersdorf, Adults only tiene bañera de hidromasaje?",
+          "topicComments": "Sí, hay una bañera de hidromasaje. Encontrarás más información sobre este y otros servicios e instalaciones de Heilthermen Resort Bad Waltersdorf, Adults only en esta página."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 9,4). Verfügbare Frühstücksoption(en): Kontinental Vegetarisch Vegan Glutenfrei Buffet"
+        },
+        {
+          "topic": "Hat die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only einen Pool?",
+          "topicComments": "Ja, dieses Hotel hat einen Pool. Erfahren Sie Einzelheiten zum Pool und anderen Ausstattungen auf dieser Seite."
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only zählen: Doppelzimmer Einzelzimmer Suite"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Der Check-in in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only ist ab 15:00, und der Check-out ist bis 11:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Die Preise an der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only hat 2 Restaurants: Quellblick Kulinarium"
+        },
+        {
+          "topic": "Welche Aktivitäten bietet die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only bietet folgende Aktivitäten/Services (es könnten Gebühren anfallen): Spa & Wellnesscenter Whirlpool/Jacuzzi Fitnesscenter Sauna Massage Dampfbad/Türkisches Bad Radfahren Wandern Tischtennis Angeln Tennisplatz Squash Golfplatz (max. 3 km entfernt) Solarium Fahrradverleih Persönlicher Trainer Reiten Bogenschießen Schönheitsangebote Umkleideraum für Fitness/Wellness Gesichtsbehandlungen Live-Musik/Performance Haarentfernung mit Wachs Pool Make-up-Service Maniküre Pediküre Haare schneiden Haare färben Haar-Styling Körperanwendungen Körperpeeling Ganzkörperpackung Wellness Dampfbad Wellnesslounge/Ruhebereich Fußbad Wellnessangebote Rückenmassage Nackenmassage Fußmassage Kopfmassage Ganzkörpermassage Fitness"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only vom Zentrum von Bad Waltersdorf entfernt?",
+          "topicComments": "Die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only ist 1,3 km vom Zentrum von Bad Waltersdorf entfernt."
+        },
+        {
+          "topic": "Hat die Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only einen Whirlpool für Gäste?",
+          "topicComments": "Ja, es gibt einen Whirlpool. Mehr über diese und weitere Einrichtungen in der Unterkunft Heilthermen Resort Bad Waltersdorf, Adults only finden Sie auf dieser Seite."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Durante il soggiorno, Heilthermen Resort Bad Waltersdorf, Adults only propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 9,4). Colazione disponibile: continentale vegetariana vegana senza glutine a buffet"
+        },
+        {
+          "topic": "Heilthermen Resort Bad Waltersdorf, Adults only dispone di una piscina?",
+          "topicComments": "Sì. Trovi maggiori informazioni sulla piscina e sugli altri servizi in questa pagina."
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only offre: Matrimoniale Singola Suite"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Presso Heilthermen Resort Bad Waltersdorf, Adults only, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 11:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "I prezzi di Heilthermen Resort Bad Waltersdorf, Adults only possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Heilthermen Resort Bad Waltersdorf, Adults only dispone di un ristorante in loco?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only offre 2 ristoranti: Quellblick Kulinarium"
+        },
+        {
+          "topic": "Quali servizi/attività sono disponibili presso Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only offre i seguenti servizi/attività (alcuni a pagamento): Spa & centro benessere Vasca idromassaggio/jacuzzi Palestra Sauna Massaggi Hammam Escursioni in bicicletta Escursionismo Ping-pong Pesca Campo da tennis Squash Campo da golf (nel raggio di 3 km) Solarium Noleggio biciclette Personal trainer Equitazione Tiro con l'arco Servizi di bellezza Armadietti per fitness/spa Trattamenti viso Spettacolo/musica dal vivo Depilazione con ceretta Piscina Servizi di make up Manicure Pedicure Taglio capelli Tinta capelli Acconciature Trattamenti corpo Scrub corpo Bendaggi corpo Servizi spa Bagno turco Sala spa/area relax Pediluvio Pacchetti spa/benessere Massaggi schiena Massaggi collo Massaggi piedi Massaggi testa Massaggi corpo Fitness"
+        },
+        {
+          "topic": "Quanto dista Heilthermen Resort Bad Waltersdorf, Adults only dal centro di Bad Waltersdorf?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only si trova a 1,3 km dal centro di Bad Waltersdorf."
+        },
+        {
+          "topic": "Heilthermen Resort Bad Waltersdorf, Adults only offre una vasca idromassaggio agli ospiti?",
+          "topicComments": "Sì, è presente una vasca idromassaggio. Su questa pagina trovi maggiori informazioni e gli altri servizi offerti da Heilthermen Resort Bad Waltersdorf, Adults only."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Heilthermen Resort Bad Waltersdorf, Adults only sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Heilthermen Resort Bad Waltersdorf, Adults only ont attribué une très bonne note à son petit-déjeuner : 9,4. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Sans gluten Buffet"
+        },
+        {
+          "topic": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only dispose-t-il d'une piscine ?",
+          "topicComments": "Oui, cet hôtel propose une piscine. Vous trouverez plus de détails sur la piscine et les autres équipements de l'établissement sur cette page."
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Heilthermen Resort Bad Waltersdorf, Adults only ?",
+          "topicComments": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only propose les options d'hébergement suivantes : Double Simple Suite"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Heilthermen Resort Bad Waltersdorf, Adults only ?",
+          "topicComments": "L'enregistrement à l'établissement Heilthermen Resort Bad Waltersdorf, Adults only se fait à partir de 15:00 et le départ est possible jusqu'à 11:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Heilthermen Resort Bad Waltersdorf, Adults only ?",
+          "topicComments": "Les tarifs fixés par l'établissement Heilthermen Resort Bad Waltersdorf, Adults only peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only propose 2 restaurant : Quellblick Kulinarium"
+        },
+        {
+          "topic": "Quelles activités l'établissement Heilthermen Resort Bad Waltersdorf, Adults only propose-t-il ?",
+          "topicComments": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only propose les activités et les services suivants (des frais peuvent s'appliquer) : Spa et centre de bien-être Bain à remous/jacuzzi Centre de remise en forme Sauna Massages Hammam Cyclisme Randonnée Tennis de table Pêche Court de tennis Squash Parcours de golf (à moins de 3 km) Solarium Location de vélos Coach sportif personnel Équitation Tir à l'arc Services beauté Vestiaires salle de sport/spa Soins du visage Concerts/Spectacles Épilation Piscine Maquillage Manucure Pédicure Coupe de cheveux Coloration Coiffure Soins corporels Gommage corporel Enveloppement corporel Spa Bain à vapeur Coin spa/relaxation Bain de pieds Forfaits spa/bien-être Massage du dos Massage du cou Massage des pieds Massage crânien Massage corporel Fitness"
+        },
+        {
+          "topic": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only est-il proche du centre (Bad Waltersdorf) ?",
+          "topicComments": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only se trouve à 1,3 km du centre (Bad Waltersdorf)."
+        },
+        {
+          "topic": "L'établissement Heilthermen Resort Bad Waltersdorf, Adults only propose-t-il un bain à remous à ses clients ?",
+          "topicComments": "Oui ! Vous trouverez plus d'informations sur le bain à remous et les autres équipements de l'établissement Heilthermen Resort Bad Waltersdorf, Adults only sur cette page."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Os hóspedes em Heilthermen Resort Bad Waltersdorf, Adults only podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 9,4). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Sem glúten Buffet"
+        },
+        {
+          "topic": "Heilthermen Resort Bad Waltersdorf, Adults only tem piscina?",
+          "topicComments": "Sim, este hotel tem uma piscina. Veja mais informações sobre a piscina e outras comodidades nesta página."
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "As opções de quarto em Heilthermen Resort Bad Waltersdorf, Adults only incluem: Duplo Individual Suite"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Em Heilthermen Resort Bad Waltersdorf, Adults only, o check-in é a partir das 15:00 e o check-out até às 11:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Os preços em Heilthermen Resort Bad Waltersdorf, Adults only podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Heilthermen Resort Bad Waltersdorf, Adults only tem um restaurante no local?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only tem 2 restaurantes: Quellblick Kulinarium"
+        },
+        {
+          "topic": "Que atividades há em Heilthermen Resort Bad Waltersdorf, Adults only?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only disponibiliza as seguintes atividades/serviços (podem-se aplicar custos): Spa e centro de bem-estar Banheira de hidromassagem/jacuzzi Centro de fitness Sauna Massagem Banho turco Ciclismo Caminhadas Ténis de mesa Pesca Campo de Ténis Squash Campo de golfe (a menos de 3 km) Solário Aluguer de bicicleta Personal trainer Equitação Arco e flecha Serviços de beleza Salas de cacifos do spa/centro de fitness Tratamentos faciais Atuações/música ao vivo Depilação Piscina Maquilhagem Manicura Pedicura Cortes de cabelo Coloração do cabelo Penteados Tratamentos corporais Exfoliação corporal Envolvimento corporal Comodidades de spa Banho de vapor Sala de spa/área de relaxamento Pedilúvio Pacotes de spa/bem-estar Massagem nas costas Massagem no pescoço Massagem nos pés Massagem craniana Massagem no corpo todo Fitness"
+        },
+        {
+          "topic": "A que distância fica Heilthermen Resort Bad Waltersdorf, Adults only do centro de Bad Waltersdorf?",
+          "topicComments": "Heilthermen Resort Bad Waltersdorf, Adults only fica a 1,3 km do centro de Bad Waltersdorf."
+        },
+        {
+          "topic": "Tem Heilthermen Resort Bad Waltersdorf, Adults only uma banheira de hidromassagem para os hóspedes?",
+          "topicComments": "Sim, há uma banheira de hidromassagem. Pode obter mais informações sobre esta e outras comodidades de Heilthermen Resort Bad Waltersdorf, Adults only nesta página."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz.",
+      "es": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz.",
+      "de": "Das Heilthermen Resort Bad Waltersdorf, Adults only liegt im Thermen- und Vulkanland in der Hügellandschaft der Oststeiermark, 60 km von Graz entfernt.",
+      "it": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz.",
+      "fr": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz.",
+      "pt": "The Heilthermen Resort Bad Waltersdorf, Adults only is located in the Thermen- & Vulkanland in the East Styrian hill country, Eastern Styria’s hill country, 60 km from Graz."
+    },
+    "services": {
+      "en": [
+        {
+          "Accessibility": [
+            "Wheelchair accessible",
+            "Upper floors accessible by elevator"
+          ],
+          "Food & Drink": [
+            "Superb breakfast",
+            "Wine/champagne Additional charge",
+            "Snack bar",
+            "Minibar"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Hypoallergenic",
+            "Non-smoking throughout",
+            "Hardwood or parquet floors",
+            "Heating",
+            "Lift",
+            "Entire unit located on ground floor"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English"
+          ],
+          "Outdoors & View": [
+            "Inner courtyard view",
+            "Garden view",
+            "Outdoor furniture",
+            "Pool with view"
+          ],
+          "Parking": [
+            "Private parking",
+            "Free parking",
+            "Accessible parking"
+          ],
+          "Reception services": [
+            "Invoice provided",
+            "24-hour front desk"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "Smoke alarms",
+            "Key card access",
+            "24-hour security"
+          ],
+          "Services": [
+            "Airport shuttle",
+            "Shuttle service Additional charge",
+            "Wake-up service",
+            "Airport shuttle Additional charge"
+          ],
+          "Other": [
+            "12 swimming pools",
+            "Spa and wellness centre",
+            "Fitness centre",
+            "2 restaurants",
+            "Facilities for disabled guests",
+            "Bar",
+            "Parking",
+            "Adults only",
+            "Picnic area",
+            "Sun terrace",
+            "Terrace",
+            "Garden",
+            "Tumble dryer",
+            "Bicycle rental Additional charge",
+            "Archery Additional charge Off-site",
+            "Live music/performance",
+            "Squash Off-site",
+            "Horse riding Additional charge Off-site",
+            "Cycling",
+            "Hiking",
+            "Table tennis",
+            "Fishing Additional charge Off-site",
+            "Golf course (within 3 km) Additional charge",
+            "Tennis court Off-site",
+            "Streaming service (like Netflix)",
+            "Coffee house on site",
+            "Fruits",
+            "Special diet menus (on request)",
+            "Restaurant",
+            "Valet parking",
+            "Parking garage",
+            "Lockers",
+            "Luggage storage",
+            "Board games/puzzles",
+            "Daily housekeeping",
+            "Trouser press Additional charge",
+            "Ironing service Additional charge",
+            "Laundry Additional charge",
+            "Fax/photocopying Additional charge",
+            "Meeting/banquet facilities Additional charge",
+            "Security alarm",
+            "Minimarket on site",
+            "Allergy-free room",
+            "Packed lunches",
+            "Barber/beauty shop",
+            "Room service",
+            "Opening times",
+            "Open all year",
+            "All ages welcome",
+            "Heated pool",
+            "Sun loungers or beach chairs",
+            "Sun umbrellas",
+            "Fitness/spa locker rooms",
+            "Personal trainer",
+            "Fitness",
+            "Full body massage",
+            "Head massage",
+            "Foot massage",
+            "Neck massage",
+            "Back massage",
+            "Spa/wellness packages",
+            "Foot bath",
+            "Spa lounge/relaxation area",
+            "Steam room",
+            "Spa facilities",
+            "Body wrap",
+            "Body scrub",
+            "Body treatments",
+            "Hair styling",
+            "Hair colouring",
+            "Hair cut",
+            "Pedicure",
+            "Manicure",
+            "Make up services",
+            "Waxing services",
+            "Facial treatments",
+            "Beauty Services",
+            "Hammam",
+            "Hot tub/Jacuzzi",
+            "Massage Additional charge",
+            "Spa and wellness centre Additional charge",
+            "Solarium Additional charge",
+            "Sauna"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Accesibilidad": [
+            "Parking adaptado para personas de movilidad reducida",
+            "Acceso a pisos superiores en ascensor"
+          ],
+          "Alimentos y bebidas": [
+            "Desayuno fantástico",
+            "Vino / champán De pago",
+            "Minibar"
+          ],
+          "Aparcamiento": [
+            "Parking privado",
+            "Parking gratis"
+          ],
+          "Exteriores y vistas": [
+            "Vistas a un patio interior",
+            "Vistas al jardín",
+            "Piscina con vistas"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Hipoalergénico",
+            "Prohibido fumar en todo el alojamiento",
+            "Suelo de madera o parquet",
+            "Calefacción",
+            "Ascensor",
+            "Toda la unidad en la planta baja"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Detectores de humo",
+            "Tarjeta de acceso",
+            "Seguridad 24 horas"
+          ],
+          "Servicios": [
+            "Servicio de lavandería De pago",
+            "Servicio de despertador"
+          ],
+          "Servicios de recepción": [
+            "Proporciona factura",
+            "Recepción 24 horas"
+          ],
+          "Other": [
+            "12 piscinas",
+            "Spa y centro de bienestar",
+            "Gimnasio",
+            "2 restaurantes",
+            "Adaptado personas de movilidad reducida",
+            "Bar",
+            "Parking",
+            "Zona de pícnic",
+            "Mobiliario exterior",
+            "Terraza / solárium",
+            "Terraza",
+            "Jardín",
+            "Secadora de ropa",
+            "Alquiler de bicicletas De pago",
+            "Tiro con arco De pago Fuera del alojamiento",
+            "Música / espectáculos en directo",
+            "Squash Fuera del alojamiento",
+            "Equitación De pago Fuera del alojamiento",
+            "Ciclismo",
+            "Senderismo",
+            "Ping pong",
+            "Pesca De pago Fuera del alojamiento",
+            "Campo de golf (a menos de 3 km) De pago",
+            "Pista de tenis Fuera del alojamiento",
+            "Servicio de streaming (como Netflix)",
+            "Cafetería en el alojamiento",
+            "Fruta",
+            "Menús para dietas especiales (bajo petición)",
+            "Snack-bar",
+            "Restaurante",
+            "Servicio de aparcacoches",
+            "Parking en un garaje",
+            "Taquillas",
+            "Guardaequipaje",
+            "Información turística",
+            "Juegos de mesa / puzles",
+            "Servicio de limpieza diario",
+            "Plancha para pantalones De pago",
+            "Servicio de planchado De pago",
+            "Fax / fotocopiadora De pago",
+            "Salas de reuniones / banquetes De pago",
+            "Alarma de seguridad",
+            "Servicio de traslado De pago",
+            "Solo para adultos",
+            "Supermercado pequeño en el alojamiento",
+            "Habitaciones hipoalergénicas",
+            "Almuerzos para llevar",
+            "Peluquería / salón de belleza",
+            "Traslado aeropuerto De pago",
+            "Servicio de habitaciones",
+            "WC elevado",
+            "WC con barras de apoyo",
+            "Adaptado para sillas de ruedas",
+            "Horario de apertura",
+            "Abierta todo el año",
+            "Para todas las edades",
+            "Piscina climatizada",
+            "Tumbonas/sillas de playa",
+            "Sombrillas",
+            "Taquillas en el gimnasio / spa",
+            "Entrenador personal",
+            "Masaje corporal completo",
+            "Masaje de cabeza",
+            "Masaje de pies",
+            "Masaje de cuello",
+            "Masaje de espalda",
+            "Paquetes de spa / bienestar",
+            "Pediluvio",
+            "Zona de spa / relajación",
+            "Baño de vapor",
+            "Instalaciones de spa",
+            "Envoltura corporal",
+            "Exfoliación corporal",
+            "Tratamientos corporales",
+            "Peinado",
+            "Tinte",
+            "Corte de pelo",
+            "Pedicura",
+            "Manicura",
+            "Servicios de maquillaje",
+            "Servicios de depilación",
+            "Tratamientos faciales",
+            "Servicios de belleza",
+            "Hammam",
+            "Masajes De pago",
+            "Spa y centro de bienestar De pago",
+            "Solárium De pago",
+            "Sauna"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Allergikerfreundlich",
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Allergikerfreundliche Zimmer verfügbar",
+            "Heizung",
+            "Aufzug",
+            "Gesamte Wohneinheit im Erdgeschoss"
+          ],
+          "Außenbereich": [
+            "Gartenmöbel"
+          ],
+          "Barrierefreiheit": [
+            "Rollstuhlgerecht"
+          ],
+          "Dienstleistungen": [
+            "Shuttleservice Zusätzliche Gebühren",
+            "Weckservice",
+            "Flughafenshuttle Zusätzliche Gebühren"
+          ],
+          "Gesprochene Sprachen": [
+            "Dampfbad/Türkisches Bad",
+            "Deutsch",
+            "Englisch"
+          ],
+          "Parken": [
+            "Privatparkplatz"
+          ],
+          "Rezeptionsleistungen": [
+            "Rechnung auf Anfrage",
+            "24-Stunden-Rezeption"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Speisen & Getränke": [
+            "Hervorragendes Frühstück",
+            "Minibar"
+          ],
+          "Other": [
+            "12 Pools",
+            "Spa & Wellnesscenter",
+            "WLAN inklusive",
+            "Fitnesscenter",
+            "Nichtraucherzimmer",
+            "2 Restaurants",
+            "Einrichtungen für behinderte Gäste",
+            "Bar",
+            "Parkplatz",
+            "Parkplatz inbegriffen",
+            "Blick auf den Innenhof",
+            "Gartenblick",
+            "Picknickbereich",
+            "Sonnenterrasse",
+            "Terrasse",
+            "Garten",
+            "Wäschetrockner",
+            "Fahrradverleih Zusätzliche Gebühren",
+            "Bogenschießen Zusätzliche Gebühren Außerhalb der Unterkunft",
+            "Live-Musik/Performance",
+            "Squash Außerhalb der Unterkunft",
+            "Reiten Zusätzliche Gebühren Außerhalb der Unterkunft",
+            "Radfahren",
+            "Wandern",
+            "Tischtennis",
+            "Angeln Zusätzliche Gebühren Außerhalb der Unterkunft",
+            "Golfplatz (max. 3 km entfernt) Zusätzliche Gebühren",
+            "Tennisplatz Außerhalb der Unterkunft",
+            "Streaming-Dienste (z.B. Netflix)",
+            "Café vor Ort",
+            "Obst",
+            "Wein/Sekt Zusätzliche Gebühren",
+            "Speisen für spezielle Ernährungsbedürfnisse (auf Anfrage)",
+            "Snackbar",
+            "Restaurant",
+            "Parkservice",
+            "Parkhaus",
+            "Behindertengerechte Parkplätze",
+            "Schließfächer",
+            "Gepäckaufbewahrung",
+            "Informationsschalter für Ausflüge",
+            "Brettspiele/Puzzle",
+            "Tägliche Reinigung",
+            "Hosenbügler Zusätzliche Gebühren",
+            "Bügelservice Zusätzliche Gebühren",
+            "Waschsalon/Wäscheservice Zusätzliche Gebühren",
+            "Fax- u. Fotokopiereinrichtungen Zusätzliche Gebühren",
+            "Konferenz- und Veranstaltungsräume Zusätzliche Gebühren",
+            "Sicherheitsalarm",
+            "Zugang mit Schlüsselkarte",
+            "24-Stunden-Sicherheitspersonal",
+            "Nur für Erwachsene",
+            "Minimarkt vor Ort",
+            "Holz- oder Parkettböden",
+            "Lunchpakete",
+            "Friseur-/Schönheitssalon",
+            "Zimmerservice",
+            "Höheres WC",
+            "WC mit Haltegriffen",
+            "Obere Stockwerke mit Fahrstuhl erreichbar",
+            "Öffnungszeiten",
+            "Das ganze Jahr über geöffnet",
+            "Alle Altersgruppen",
+            "Beheizter Pool",
+            "Pool-/Strandtücher",
+            "Sonnenstühle/-liegen",
+            "Sonnenschirme",
+            "Pool mit Blick",
+            "Umkleideraum für Fitness/Wellness",
+            "Persönlicher Trainer",
+            "Fitness",
+            "Ganzkörpermassage",
+            "Kopfmassage",
+            "Fußmassage",
+            "Nackenmassage",
+            "Rückenmassage",
+            "Wellnessangebote",
+            "Fußbad",
+            "Wellnesslounge/Ruhebereich",
+            "Dampfbad",
+            "Wellness",
+            "Ganzkörperpackung",
+            "Körperpeeling",
+            "Körperanwendungen",
+            "Haar-Styling",
+            "Haare färben",
+            "Haare schneiden",
+            "Pediküre",
+            "Maniküre",
+            "Make-up-Service",
+            "Haarentfernung mit Wachs",
+            "Gesichtsbehandlungen",
+            "Schönheitsangebote",
+            "Whirlpool/Jacuzzi",
+            "Massage Zusätzliche Gebühren",
+            "Spa & Wellnesscenter Zusätzliche Gebühren",
+            "Solarium Zusätzliche Gebühren",
+            "Sauna"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Accessibilità": [
+            "Piani superiori accessibili tramite ascensore"
+          ],
+          "Cibo e bevande": [
+            "Colazione eccellente",
+            "Vino/champagne a pagamento",
+            "Snack bar",
+            "Minibar"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Soluzioni anallergiche",
+            "Struttura interamente non fumatori",
+            "Parquet o pavimento in legno",
+            "Riscaldamento",
+            "Ascensore",
+            "Intera unità situata al piano terra"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Lingue parlate": [
+            "Bagno turco",
+            "Tedesco",
+            "Inglese"
+          ],
+          "Parcheggio": [
+            "Parcheggio privato",
+            "Parcheggio gratuito"
+          ],
+          "Servizi": [
+            "Sveglia telefonica"
+          ],
+          "Servizi alla reception": [
+            "Fattura disponibile su richiesta",
+            "Reception 24 ore su 24"
+          ],
+          "Sicurezza": [
+            "Estintori"
+          ],
+          "Spazi esterni": [
+            "Vista cortile interno",
+            "Vista giardino",
+            "Piscina con vista"
+          ],
+          "Other": [
+            "12 piscine",
+            "Spa & centro benessere",
+            "Palestra",
+            "2 ristoranti",
+            "Camere/strutture per ospiti disabili",
+            "Bar",
+            "Parcheggio",
+            "Area picnic",
+            "Arredamento da esterni",
+            "Terrazza solarium",
+            "Terrazza",
+            "Giardino",
+            "Asciugatrice",
+            "Noleggio biciclette a pagamento",
+            "Tiro con l'arco a pagamento Non sul posto",
+            "Spettacolo/musica dal vivo",
+            "Squash Non sul posto",
+            "Equitazione a pagamento Non sul posto",
+            "Escursioni in bicicletta",
+            "Escursionismo",
+            "Ping-pong",
+            "Pesca a pagamento Non sul posto",
+            "Campo da golf (nel raggio di 3 km) a pagamento",
+            "Campo da tennis Non sul posto",
+            "Servizio streaming (per es. Netflix)",
+            "Caffetteria sul posto",
+            "Frutta",
+            "Menù per diete particolari (su richiesta)",
+            "Ristorante",
+            "Servizio di parcheggio e riconsegna auto",
+            "Autorimessa",
+            "Parcheggio per disabili",
+            "Armadietti",
+            "Deposito bagagli",
+            "Banco escursioni",
+            "Giochi da tavolo/puzzle",
+            "Servizio pulizie giornaliero",
+            "Stirapantaloni a pagamento",
+            "Servizio stireria a pagamento",
+            "Servizio lavanderia a pagamento",
+            "Fax/fotocopiatrice a pagamento",
+            "Spazi per riunioni/banchetti a pagamento",
+            "Allarme antifumo",
+            "Allarme di sicurezza",
+            "Accesso con chiavi magnetiche",
+            "Sicurezza 24 ore su 24",
+            "Servizio navetta a pagamento",
+            "Solo per adulti",
+            "Minimarket sul posto",
+            "Camera anallergica",
+            "Possibilità di pranzo al sacco",
+            "Parrucchiere/salone di bellezza",
+            "Navetta aeroportuale a pagamento",
+            "Servizio in camera",
+            "WC con seduta più alta",
+            "WC con maniglioni",
+            "Accesso su sedia a rotelle",
+            "Orari di apertura",
+            "Aperta tutto l'anno",
+            "Accessibile a ogni età",
+            "Piscina riscaldata",
+            "Teli da piscina/spiaggia",
+            "Sdraio/lettini",
+            "Ombrelloni",
+            "Armadietti per fitness/spa",
+            "Personal trainer",
+            "Fitness",
+            "Massaggi corpo",
+            "Massaggi testa",
+            "Massaggi piedi",
+            "Massaggi collo",
+            "Massaggi schiena",
+            "Pacchetti spa/benessere",
+            "Pediluvio",
+            "Sala spa/area relax",
+            "Servizi spa",
+            "Bendaggi corpo",
+            "Scrub corpo",
+            "Trattamenti corpo",
+            "Acconciature",
+            "Tinta capelli",
+            "Taglio capelli",
+            "Pedicure",
+            "Manicure",
+            "Servizi di make up",
+            "Depilazione con ceretta",
+            "Trattamenti viso",
+            "Servizi di bellezza",
+            "Hammam",
+            "Vasca idromassaggio/jacuzzi",
+            "Massaggi a pagamento",
+            "Spa & centro benessere a pagamento",
+            "Solarium a pagamento",
+            "Sauna"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Accessibilité": [
+            "Accessible en fauteuil roulant",
+            "Étages supérieurs accessibles par ascenseur"
+          ],
+          "Alimentation": [
+            "Petit-déjeuner fabuleux",
+            "Vin/champagne En supplément",
+            "Minibar"
+          ],
+          "Équipements": [
+            "Salle de bains privative",
+            "Climatisation",
+            "Télévision à écran plat",
+            "Papier toilette",
+            "Serviettes",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Articles de toilette gratuits",
+            "Peignoir",
+            "Sèche-cheveux",
+            "Douche",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Prise près du lit",
+            "Chaînes satellite",
+            "Télévision",
+            "Bureau d'excursions",
+            "Coffre-fort",
+            "Toilettes surélevées",
+            "Toilettes avec barres d'appui",
+            "Serviettes de piscine/de plage"
+          ],
+          "Extérieur": [
+            "Vue sur une cour intérieure",
+            "Vue sur le jardin",
+            "Piscine avec vue"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Chambre anti-allergie",
+            "Établissement entièrement non-fumeurs",
+            "Parquet",
+            "Chauffage",
+            "Logement entièrement situé au rez-de-chaussée"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais"
+          ],
+          "Parking": [
+            "Parking privé",
+            "Parking gratuit"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Services": [
+            "Service de réveil"
+          ],
+          "Services de réception": [
+            "Facture fournie sur demande"
+          ],
+          "Other": [
+            "12 piscines",
+            "Spa et centre de bien-être",
+            "Connexion Wi-Fi gratuite",
+            "Centre de remise en forme",
+            "2 restaurants",
+            "Équipements pour les personnes handicapées",
+            "Bar",
+            "Parking",
+            "Aire de pique-nique",
+            "Mobilier extérieur",
+            "Terrasse bien exposée",
+            "Terrasse",
+            "Jardin",
+            "Sèche-linge",
+            "Location de vélos En supplément",
+            "Tir à l'arc En supplément En dehors de l'établissement",
+            "Concerts/Spectacles",
+            "Squash En dehors de l'établissement",
+            "Équitation En supplément En dehors de l'établissement",
+            "Cyclisme",
+            "Randonnée",
+            "Tennis de table",
+            "Pêche En supplément En dehors de l'établissement",
+            "Parcours de golf (à moins de 3 km) En supplément",
+            "Court de tennis En dehors de l'établissement",
+            "Service de streaming (ex. Netflix)",
+            "Café sur place",
+            "Fruits",
+            "Menus pour régimes spéciaux (sur demande)",
+            "Snack-bar",
+            "Restaurant",
+            "Service de voiturier",
+            "Parking intérieur",
+            "Parking accessible aux personnes à mobilité réduite",
+            "Casiers",
+            "Bagagerie",
+            "Réception ouverte 24h/24",
+            "Jeux de société/puzzles",
+            "Service de ménage quotidien",
+            "Presse à pantalons En supplément",
+            "Service de repassage En supplément",
+            "Blanchisserie/laverie En supplément",
+            "Fax/photocopies En supplément",
+            "Salles de réunion/réception En supplément",
+            "Détecteurs de fumée",
+            "Alarme de sécurité",
+            "Cartes d'accès",
+            "Sécurité 24h/24",
+            "Service de navette En supplément",
+            "Réservé aux adultes",
+            "Supérette sur place",
+            "Chambres anti-allergie",
+            "Paniers-repas",
+            "Ascenseur",
+            "Salon de coiffure/institut de beauté",
+            "Navette aéroport En supplément",
+            "Service d'étage",
+            "Horaires d'ouverture",
+            "Ouverte toute l'année",
+            "Tous les âges sont les bienvenus",
+            "Piscine chauffée",
+            "Chaises longues ou de plage",
+            "Parasols",
+            "Vestiaires salle de sport/spa",
+            "Coach sportif personnel",
+            "Fitness",
+            "Massage corporel",
+            "Massage crânien",
+            "Massage des pieds",
+            "Massage du cou",
+            "Massage du dos",
+            "Forfaits spa/bien-être",
+            "Bain de pieds",
+            "Coin spa/relaxation",
+            "Bain à vapeur",
+            "Spa",
+            "Enveloppement corporel",
+            "Gommage corporel",
+            "Soins corporels",
+            "Coiffure",
+            "Coloration",
+            "Coupe de cheveux",
+            "Pédicure",
+            "Manucure",
+            "Maquillage",
+            "Épilation",
+            "Soins du visage",
+            "Services beauté",
+            "Hammam",
+            "Bain à remous/jacuzzi",
+            "Massages En supplément",
+            "Spa et centre de bien-être En supplément",
+            "Solarium En supplément",
+            "Sauna"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Soberbo pequeno-almoço",
+            "Minibar"
+          ],
+          "Estacionamento": [
+            "Estacionamento privado",
+            "Estacionamento gratuito"
+          ],
+          "Exterior": [
+            "Vista do pátio interior",
+            "Vista jardim",
+            "Mobiliário de exterior",
+            "Piscina com vista"
+          ],
+          "Geral": [
+            "Antialérgico",
+            "Proibido fumar em todas as áreas",
+            "Quarto antialérgico",
+            "Piso em madeira ou parquet",
+            "Aquecimento",
+            "Elevador",
+            "Pisos superiores acessíveis por elevador",
+            "Toda a unidade situada no piso térreo"
+          ],
+          "Idiomas falados": [
+            "Banho turco",
+            "Alemão",
+            "Inglês"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores",
+            "Cartão de acesso"
+          ],
+          "Serviços": [
+            "Serviço de despertar"
+          ],
+          "Other": [
+            "12 piscinas",
+            "Spa e centro de bem-estar",
+            "Centro de fitness",
+            "Quartos para não fumadores",
+            "2 restaurantes",
+            "Comodidades para pessoas com mobilidade condicionada",
+            "Bar",
+            "Estacionamento",
+            "Apenas para adultos",
+            "Área para piquenique",
+            "Terraço para banhos de sol",
+            "Terraço",
+            "Jardim",
+            "Máquina de secar roupa",
+            "Aluguer de bicicleta Custo adicional",
+            "Arco e flecha Custo adicional Fora do alojamento",
+            "Atuações/música ao vivo",
+            "Squash Fora do alojamento",
+            "Equitação Custo adicional Fora do alojamento",
+            "Ciclismo",
+            "Caminhadas",
+            "Ténis de mesa",
+            "Pesca Custo adicional Fora do alojamento",
+            "Campo de golfe (a menos de 3 km) Custo adicional",
+            "Campo de Ténis Fora do alojamento",
+            "Serviço de streaming (ex.: Netflix)",
+            "Café/cafetaria no local",
+            "Fruta",
+            "Vinho/champanhe Custo adicional",
+            "Menus especiais dietéticos (mediante pedido)",
+            "Snack-bar",
+            "Restaurante",
+            "Estacionamento personalizado",
+            "Garagem",
+            "Estacionamento acessível",
+            "Fatura mediante pedido",
+            "Cacifos",
+            "Sala para bagagem",
+            "Balcão de turismo",
+            "Receção disponível 24 horas",
+            "Jogos de tabuleiro/puzzles",
+            "Serviço de limpeza diário",
+            "Prensa para calças Custo adicional",
+            "Serviço de engomadoria Custo adicional",
+            "Lavandaria Custo adicional",
+            "Fax/fotocopiadora Custo adicional",
+            "Comodidades para reuniões/banquetes Custo adicional",
+            "Detetores de fumo",
+            "Alarme",
+            "Segurança 24 horas",
+            "Serviço de transporte Custo adicional",
+            "Minimercado no local",
+            "Refeições pré-embaladas",
+            "Barbeiro/salão de beleza",
+            "Transfer (aeroporto) Custo adicional",
+            "Serviço de quartos",
+            "WC elevado",
+            "WC com barras de apoio",
+            "Acessibilidade para cadeira de rodas",
+            "Horário de funcionamento",
+            "Aberta todo o ano",
+            "Para todas as idades",
+            "Piscina aquecida",
+            "Cadeiras de praia/espreguiçadeiras",
+            "Guarda-sóis",
+            "Salas de cacifos do spa/centro de fitness",
+            "Personal trainer",
+            "Fitness",
+            "Massagem no corpo todo",
+            "Massagem craniana",
+            "Massagem nos pés",
+            "Massagem no pescoço",
+            "Massagem nas costas",
+            "Pacotes de spa/bem-estar",
+            "Pedilúvio",
+            "Sala de spa/área de relaxamento",
+            "Banho de vapor",
+            "Comodidades de spa",
+            "Envolvimento corporal",
+            "Exfoliação corporal",
+            "Tratamentos corporais",
+            "Penteados",
+            "Coloração do cabelo",
+            "Cortes de cabelo",
+            "Pedicura",
+            "Manicura",
+            "Maquilhagem",
+            "Depilação",
+            "Tratamentos faciais",
+            "Serviços de beleza",
+            "Massagem Custo adicional",
+            "Spa e centro de bem-estar Custo adicional",
+            "Solário Custo adicional",
+            "Sauna"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 22:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 07:00 to 11:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children are not allowed. Cot and extra bed policies Cots and extra beds are not available at this property. Child policies Cot and extra bed policies Children are not allowed. Cots and extra beds are not available at this property."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 18"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Groups",
+          "detail": "When booking more than 8 rooms, different policies and additional supplements may apply."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 22:00"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 7:00 a las 11:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños No se pueden alojar niños. Condiciones sobre cunas y camas supletorias En este alojamiento no hay cunas ni camas supletorias. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias No se pueden alojar niños. En este alojamiento no hay cunas ni camas supletorias."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 18"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Al reservar más de 8 habitaciones, podrán aplicarse condiciones especiales y suplementos."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 22:00 Uhr"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 07:00 bis 11:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder können nicht untergebracht werden. Richtlinien zu Baby- und Zustellbetten Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder können nicht untergebracht werden. Baby- und Zustellbetten sind in dieser Unterkunft nicht verfügbar."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 18 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Gruppen",
+          "detail": "Bei einer Buchung von mehr als 8 Zimmern können abweichende Richtlinien und zusätzliche Aufpreise gelten."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 22:00"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 07:00 alle 11:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini Non è consentito l'accesso ai bambini. Condizioni per culle e letti aggiuntivi In questa struttura non c'è disponibilità di culle e letti supplementari. Condizioni per i bambini Condizioni per culle e letti aggiuntivi Non è consentito l'accesso ai bambini. In questa struttura non c'è disponibilità di culle e letti supplementari."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 18 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Gruppi",
+          "detail": "Alle prenotazioni di oltre 8 camere, la struttura potrebbe applicare differenti condizioni e supplementi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 22:00"
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 07:00 à 11:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Les enfants ne sont pas autorisés. Conditions relatives aux lits bébé et aux lits d'appoint Aucun lit d'appoint/bébé n'est disponible dans cet établissement. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Les enfants ne sont pas autorisés. Aucun lit d'appoint/bébé n'est disponible dans cet établissement."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 18 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Groupes",
+          "detail": "Toute réservation de plus de 8 chambres peut entraîner des conditions particulières et des frais supplémentaires."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 22:00"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 07:00 às 11:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Não são permitidas crianças. Condições de berços e camas extra Os berços e camas extra não estão disponíveis nesta propriedade. Condições de crianças Condições de berços e camas extra Não são permitidas crianças. Os berços e camas extra não estão disponíveis nesta propriedade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 18"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Grupos",
+          "detail": "Ao reservar mais de 8 quartos, poderão aplicar-se condições diferentes e custos adicionais."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {},
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 9.2
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 9.2
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 9.2
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 9.3
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.6
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.5
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 9.2
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.5
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.6
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 8.7
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.4
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 9.2
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}

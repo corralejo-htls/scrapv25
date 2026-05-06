@@ -1,0 +1,1086 @@
+{
+  "data": {
+    "name": {
+      "en": "Steinerhaus Berggasthof",
+      "es": "Steinerhaus Berggasthof",
+      "de": "Steinerhaus Berggasthof",
+      "it": "Steinerhaus Berggasthof",
+      "fr": "Steinerhaus Berggasthof",
+      "pt": "Steinerhaus Berggasthof"
+    },
+    "geoPosition": {
+      "latitude": 47.457857377068244,
+      "longitude": 13.814059187835683
+    },
+    "address": {
+      "en": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Austria, 8962 Gröbming, Austria",
+      "es": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Austria, 8962 Gröbming, Austria",
+      "de": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Österreich, 8962 Gröbming, Österreich",
+      "it": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Austria, 8962 Gröbming, Austria",
+      "fr": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Autriche, 8962 Gröbming, Autriche",
+      "pt": "2 Stoderzinken Alpenstraße, 8962 Gröbming, Áustria, 8962 Gröbming, Áustria"
+    },
+    "accommodationType": "hotel",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660912.jpg?k=c9511bfa99487567eb31f4a9ef8ea5bb21bd31dcde908a0b935292204198324c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660927.jpg?k=f260ebe8a85ffe0f8286a5469da77776cb6295f8bbacb18509582b298795f841&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660924.jpg?k=c6019584f3099cd34569a50160b35b9d0d17d585bf84a268beb52fbf86693a13&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/459637407.jpg?k=0d03439c0705cb871607857c325364e70e72940390436237314cde7270e4be0d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/672624659.jpg?k=d7941bf0826a7826bafe8a34532c747410dbcc5760f73587ffc68e39c44b5a41&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/305637200.jpg?k=4cd5740d6a256367b718ebd4039a09024fb8f886463a1ba34926556ff3682679&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/459637317.jpg?k=7337b7601d89a333b7b958b7cc63951163a3bf1a2ac5e9f51892373ebd9d7303&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/363264726.jpg?k=513d9dbc21b8b44530c37272f36212f8af5b9b2bde0e47f9686f70f633200454&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301980545.jpg?k=ca5b3da9fff5ee9c49ef564870f0180ea236067720cf31d039fc2b3d3a0aee72&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/804925587.jpg?k=69092d45f95de178c093c646c53f7e6f7f15f8c07ccff4cbcd732bb65efe16a6&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/568437212.jpg?k=d09c35156f391419ab01c59fdfda1cb04a45568d1ca9c51ff16f8ca508681d84&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660928.jpg?k=ab0ed7bcb20fa29ce84a6a1f8cb702e93ad30c4523324ffbfcea86331236ad4c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/363264571.jpg?k=feaf0bc174eb3f75a516e1ad6a13c5a4e936d1bba1a454c1ef9c9eb338c0d916&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/332186267.jpg?k=c840208824320883c72c272e00f0f95b37f642b1708873c52efb4377b6cc1594&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/363264331.jpg?k=82fd9ce4afbf599634b39376ae3c262e473201ccbf53f47caf5b462447b155c5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/355797893.jpg?k=ddec80c6cc473f748a8e2f79e693528fc5b45447f4828f70f85fc313e53d5783&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/454086841.jpg?k=b382bb5a58d9f9049fdc3621ec43d3f76a073f18cf4b6d33d6fd26a6ac461fb1&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/459637495.jpg?k=b0831cf6f67470f47f5e3f76fec7ef6101a577c11dd5c6eba52f425ea6cea84c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/305636637.jpg?k=b3148ff9377c2916b8d8de12adbd9fe4a0725537edc2ad57df15f2b4cc342cfa&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/305637300.jpg?k=9be336ca167ccc83f22394c48714d577985929655708905b6b6dcdfc4a48a2a5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/305636991.jpg?k=83557a9c22a94a8005a4b17282c71ff592096f32cd114b140bc66cfebae1a317&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/672626526.jpg?k=3f1565e8b1e0bf2dd4dbac2039d215f53e9dc91ca8df9614c1821aca7aef6a96&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/355798046.jpg?k=ee39a9bd15c201e5980f83ee1bc3e31bd064dcc54e37e10f1ffb301a27e4451c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660930.jpg?k=9110d4b9b13e7883fd3230e9f990b285771e598c86bdb5f471981e90c6618929&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660926.jpg?k=cb1311a5ca98568d7de22ed0e8f041b6731c3e1c98bb73988f2022e1765b3135&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301676641.jpg?k=11f74cd1c1a990fed1b0f958a29e01823c3a79899a24ee5b99e3bc5d199a6e13&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301676351.jpg?k=8bfe52034525b0bb3b97b2ff05c9c511e0b0d5a8060e8e375c94fbb244d9402d&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301676243.jpg?k=a147aeefb2ac7aa99fc4227d11a95e20c6f5d6a69a22ae5ffee58aeccaebd767&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301980429.jpg?k=8445ea33b5f35fb91968088c51434d3adf03d7ef49405ad706018f38121a96d3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/332186203.jpg?k=73a2dd9937e87e0e1664bae767c81fdd6a555ee235384d43fe0d01daef2c78a5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301980727.jpg?k=8f664049f62b6231773d9e446974c618e3139f53bc9028419db0310abd654867&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/332186048.jpg?k=f650b8264122a6b428395b85b56458e141b7ff7993f922541833cf847b3b1c3e&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/804926243.jpg?k=51f221fa700ec255ea736e6135163589ec4967aade43eb75030850c18dd17f7a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/301660929.jpg?k=e35c8abe316a178379eac4603a1889678f1469851db33f596b4a9c283c24040f&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/356664959.jpg?k=1c7a98cd05c3c9ff180faaff1d3608d07aaed0a39cca9d50ec666f6641fb9ac8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/356665047.jpg?k=8a39b2b1bf996deed8cc04f47b2ef857f5bcc53b38e8c002c12771d63b34c388&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/804923855.jpg?k=39fb43c38c85c306218e2342ff3777e723591d6917005ed0de62dee08566135a&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/356665344.jpg?k=4a520e4ccdee4561d566b301aed26e3e8952f88055f9e81d7867d87a36a91460&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/457642733.jpg?k=d518751c20e5a3c3352da69d87e043658a268f110e4f0b73b3c175b1395d7fff&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358008583.jpg?k=bf43515dee8aa8ccc455723b01f64ae06e314de4bdf974587462379fe0f900cf&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/804925018.jpg?k=7d68239d776fcbc51f42b4ea25426ddec80e6644595d6dadfa01510840abf68b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/358010265.jpg?k=db39e6142c4c4afc04bdabd72d9471c31ea5b9b98df83d9845eae98e83c5911b&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/454092341.jpg?k=fe9670684c551b9a474b2980d9d1ab37feb4292afe5dbcb2866fa00f4076a1c5&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/457640602.jpg?k=f70bd6a550930d961daf436d997e7e9b5d3a752cd365ba872a142711addfd7a3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1280x900/457642521.jpg?k=66ff2f928980f77f79c76257c4e81f8f98413770268c05c3b3a041f8c89e01a9&o=&hp=1"
+    ],
+    "keywords": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "rating": 3,
+    "scoreReview": 8.9,
+    "nearbyPlaces": {
+      "en": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "800 yd",
+          "category": 6
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "3.9 mi",
+          "category": 6
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "4.3 mi",
+          "category": 6
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "4.4 mi",
+          "category": 6
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "5 mi",
+          "category": 6
+        }
+      ],
+      "es": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "8 km",
+          "category": 4
+        }
+      ],
+      "de": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "it": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "750 m",
+          "category": 6
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "6 km",
+          "category": 6
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "7 km",
+          "category": 6
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "8 km",
+          "category": 6
+        }
+      ],
+      "fr": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "8 km",
+          "category": 4
+        }
+      ],
+      "pt": [
+        {
+          "name": "Rosemi-Alm",
+          "distance": "750 m",
+          "category": 2
+        },
+        {
+          "name": "Gröbminger Alm",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Barenwirt",
+          "distance": "6 km",
+          "category": 2
+        },
+        {
+          "name": "Aich-Assach",
+          "distance": "7 km",
+          "category": 4
+        },
+        {
+          "name": "Haus im Ennstal",
+          "distance": "8 km",
+          "category": 4
+        }
+      ]
+    },
+    "scoreReviewBasedOn": 578,
+    "toConsider": {
+      "en": "This property is managed, licensed or represented by a business. This label has no relevance in terms of tax, including VAT and other 'indirect taxes', but is required under applicable consumer laws. You can find more information about the business here: See business details .",
+      "es": "Este alojamiento lo gestiona, autoriza o representa una empresa. Esta etiqueta no tiene ninguna importancia en términos fiscales, incluido el IVA y otros \"impuestos indirectos\", pero es obligatoria según la legislación sobre los derechos de los consumidores correspondiente. Puedes encontrar más información sobre la empresa aquí: ver los datos de la empresa .",
+      "de": "Diese Unterkunft wird durch ein Unternehmen verwaltet, lizenziert oder vertreten. Diese Kennzeichnung hat keine steuerliche Relevanz, einschließlich MwSt. und weiterer „indirekter Steuern“. Sie ist jedoch nach geltendem Verbraucherrecht erforderlich. Weitere Informationen zum Unternehmen finden Sie in den: Angaben zum Unternehmen .",
+      "it": "Questa struttura è gestita, autorizzata o rappresentata da un'azienda. Questa definizione non ha rilevanza in termini fiscali, incluse l'IVA e altre \"imposte indirette\", ma è obbligatoria ai sensi delle norme applicabili per la tutela dei consumatori. Per sapere di più sull'azienda, vai a: dettagli dell'azienda .",
+      "fr": "",
+      "pt": ""
+    },
+    "longDescription": {
+      "en": "Comfortable Accommodations:Steinerhaus Berggasthof in Gröbming offers family rooms with private bathrooms, mountain views, and modern amenities including TV and wardrobe.Dining Experience:The family-friendly restaurant serves Austrian, international, and European cuisines with vegetarian options. Breakfast includes continental, buffet, vegetarian, vegan, and gluten-free selections.Leisure Facilities:Guests can relax on the sun terrace or in the garden, enjoy the outdoor seating area, and utilise the picnic area. Free WiFi is available in public areas.Location and Attractions:Located 30 km from Trautenfels Castle, 39 km from Kulm, and 44 km from Dachstein Skywalk. Salzburg W. A. Mozart Airport is 121 km away. Highly rated for its scenic location and excellent service.",
+      "es": "Steinerhaus Berggasthof dispone de jardín, terraza, restaurante y bar en Gröbming. Todas las opciones de alojamiento de este hotel de 3 estrellas tienen vistas a la montaña y wifi gratis. Este alojamiento libre de humo se encuentra a 30 km de Castillo de Trautenfels.\n\nEn el hotel, todas las habitaciones disponen de armario, TV de pantalla plana, baño privado, ropa de cama y toallas.\n\nEl desayuno ofrece opciones buffet, continentales o vegetarianas.\n\nKulm está a 39 km del alojamiento, y Paseo aéreo de Dachstein está a 44 km. El aeropuerto (Aeropuerto de Salzburgo - W. A. Mozart) está a 121 km.",
+      "de": "Die Unterkunft Steinerhaus Berggasthof bietet einen Garten, eine Terrasse, ein Restaurant und eine Bar in Gröbming. Dieses Hotel mit 3 Sternen bietet durchweg Bergblick und kostenloses WLAN. Die Nichtraucher Unterkunft ist 30 km von Schloss Trautenfels entfernt gelegen.\n\nIn der Unterkunft Steinerhaus Berggasthof ist jedes Zimmer ausgestattet mit einem Kleiderschrank, einem Flachbild-TV, einem eigenen Badezimmer, Bettwäsche und Handtüchern.\n\nEin als Buffet angebotenes, kontinentales oder vegetarisches Frühstück wird in der Unterkunft angeboten.\n\nDer Kulm liegt 39 km von der Unterkunft Steinerhaus Berggasthof entfernt, während Dachstein Skywalk 44 km entfernt ist. Der nächstgelegene Flughafen ist der Flughafen Salzburg, 121 km von der Unterkunft Steinerhaus Berggasthof entfernt.",
+      "it": "Steinerhaus Berggasthof presenta un giardino, una terrazza, un ristorante e un bar a Gröbming. In questo hotel a 3 stelle ogni alloggio ha una vista sulla montagna e il WiFi gratuito. L'alloggio è interamente non fumatori ed è posizionato a 30 km da Castello di Trautenfels.\n\nPresso questo hotel, ogni camera comprende un armadio, una TV a schermo piatto, un bagno privato, le lenzuola e gli asciugamani.\n\nA colazione troverete opzioni a buffet, continentali o vegetariane.\n\nKulm è a 39 km da Steinerhaus Berggasthof, mentre Dachstein Skywalk si trova a 44 km di distanza. Aeroporto di Salisburgo - W. A. Mozart si trova a 121 km dalla struttura.",
+      "fr": "Situé à Gröbming, l’établissement Steinerhaus Berggasthof comprend un jardin, une terrasse, un restaurant et un bar. Tous les hébergements de cet hôtel 3 étoiles offrent une vue sur la montagne et disposent d’une connexion Wi-Fi gratuite. Cet établissement non-fumeurs se situe à 30 km de : Gare de Vienne-Meidling.\n\nTous les hébergements proposent une armoire, une télévision à écran plat, une salle de bains privative, du linge de lit et des serviettes.\n\nUn petit-déjeuner buffet, continental ou végétarien est servi sur place.\n\nVous séjournerez à respectivement 39 km et 44 km de ces lieux d’intérêt : Kulm et Dachstein Skywalk. L'aéroport le plus proche (Aéroport Wolfgang Amadeus Mozart de Salzbourg) est à 121 km.",
+      "pt": "Steinerhaus Berggasthof apresenta um jardim, terraço, um restaurante e bar em Gröbming. Todas as acomodações neste hotel de 3 estrelas têm vistas da montanha e acesso Wi-Fi gratuito. Este alojamento não fumador situa-se a 30 km de Castelo Trautenfels.\n\nNo alojamento, cada quarto inclui roupeiro, televisão de ecrã plano, casa de banho privativa, roupa de cama e toalhas.\n\nSão oferecidas opções de pequeno-almoço buffet, continental ou vegetariano.\n\nKulm fica a 39 km de Steinerhaus Berggasthof, enquanto Dachstein Skywalk está a 44 km de distância. O Aeroporto de Salzburgo - W. A. Mozart fica a 121 km da propriedade."
+    },
+    "guestValues": {
+      "en": [
+        {
+          "topic": "What kind of breakfast is served at Steinerhaus Berggasthof?",
+          "topicComments": "Guests staying at Steinerhaus Berggasthof can enjoy a highly-rated breakfast during their stay (guest review score: 8.5). Breakfast option(s) include: Continental Vegetarian Vegan Gluten-free Buffet"
+        },
+        {
+          "topic": "What type of room can I book at Steinerhaus Berggasthof?",
+          "topicComments": "Room options at Steinerhaus Berggasthof include: Quadruple Double"
+        },
+        {
+          "topic": "What are the check-in and check-out times at Steinerhaus Berggasthof?",
+          "topicComments": "Check-in at Steinerhaus Berggasthof is from 15:00, and check-out is until 10:00."
+        },
+        {
+          "topic": "How much does it cost to stay at Steinerhaus Berggasthof?",
+          "topicComments": "The prices at Steinerhaus Berggasthof may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "topic": "Does Steinerhaus Berggasthof have a restaurant on site?",
+          "topicComments": "Steinerhaus Berggasthof has 1 restaurants: Restaurant #1"
+        },
+        {
+          "topic": "How far is Steinerhaus Berggasthof from the centre of Gröbming?",
+          "topicComments": "Steinerhaus Berggasthof is 4.2 mi from the centre of Gröbming."
+        }
+      ],
+      "es": [
+        {
+          "topic": "¿Qué tipo de desayuno se sirve en Steinerhaus Berggasthof?",
+          "topicComments": "Los clientes de Steinerhaus Berggasthof podrán disfrutar durante su estancia de un desayuno con muy buena puntuación (8,5) Las opciones del desayuno son: Continental Vegetariano Vegano Sin gluten Buffet"
+        },
+        {
+          "topic": "¿Qué tipo de habitación puedo reservar en Steinerhaus Berggasthof?",
+          "topicComments": "Las opciones de habitación en Steinerhaus Berggasthof son: Cuádruple Doble"
+        },
+        {
+          "topic": "¿Cuál es el horario de entrada y salida de Steinerhaus Berggasthof?",
+          "topicComments": "Podrás hacer el check-in en Steinerhaus Berggasthof a partir de las 15:00 y el check-out hasta las 10:00."
+        },
+        {
+          "topic": "¿Cuánto cuesta alojarse en Steinerhaus Berggasthof?",
+          "topicComments": "Los precios en Steinerhaus Berggasthof pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        },
+        {
+          "topic": "¿Hay restaurante dentro de Steinerhaus Berggasthof?",
+          "topicComments": "Steinerhaus Berggasthof tiene 1 restaurantes: Restaurant #1"
+        },
+        {
+          "topic": "¿A qué distancia está Steinerhaus Berggasthof del centro de Gröbming?",
+          "topicComments": "Steinerhaus Berggasthof está a 7 km del centro de Gröbming."
+        }
+      ],
+      "de": [
+        {
+          "topic": "Welche Art von Frühstück wird in der Unterkunft Steinerhaus Berggasthof serviert?",
+          "topicComments": "Gäste, die in der Unterkunft Steinerhaus Berggasthof übernachten, können während ihres Aufenthaltes ein gut bewertetes Frühstück genießen (Gästebewertungsergebnis: 8,5). Verfügbare Frühstücksoption(en): Kontinental Vegetarisch Vegan Glutenfrei Buffet"
+        },
+        {
+          "topic": "Welche Art von Zimmer kann ich in der Unterkunft Steinerhaus Berggasthof buchen?",
+          "topicComments": "Zimmeroptionen der Unterkunft Steinerhaus Berggasthof zählen: Vierbettzimmer Doppelzimmer"
+        },
+        {
+          "topic": "Wie lauten die Check-in- und Check-out-Zeiten in der Unterkunft Steinerhaus Berggasthof?",
+          "topicComments": "Der Check-in in der Unterkunft Steinerhaus Berggasthof ist ab 15:00, und der Check-out ist bis 10:00."
+        },
+        {
+          "topic": "Wieviel kostet der Aufenthalt in der Unterkunft Steinerhaus Berggasthof?",
+          "topicComments": "Die Preise an der Unterkunft Steinerhaus Berggasthof könnten je nach Aufenthalt variieren (z.B. gewählter Zeitraum, Hotelrichtlinie usw.). Wenn Sie Ihre Daten eingeben, können Sie die Preise sehen."
+        },
+        {
+          "topic": "Hat die Unterkunft Steinerhaus Berggasthof ein Restaurant vor Ort?",
+          "topicComments": "Die Unterkunft Steinerhaus Berggasthof hat 1 Restaurants: Restaurant #1"
+        },
+        {
+          "topic": "Wie weit ist die Unterkunft Steinerhaus Berggasthof vom Zentrum von Gröbming entfernt?",
+          "topicComments": "Die Unterkunft Steinerhaus Berggasthof ist 7 km vom Zentrum von Gröbming entfernt."
+        }
+      ],
+      "it": [
+        {
+          "topic": "Che tipo di colazione offre Steinerhaus Berggasthof?",
+          "topicComments": "Durante il soggiorno, Steinerhaus Berggasthof propone una colazione molto apprezzata dagli ospiti (punteggio recensioni: 8,5). Colazione disponibile: continentale vegetariana vegana senza glutine a buffet"
+        },
+        {
+          "topic": "Che tipo di camere posso prenotare presso Steinerhaus Berggasthof?",
+          "topicComments": "Steinerhaus Berggasthof offre: Quadrupla Matrimoniale"
+        },
+        {
+          "topic": "Che orari di check-in e check-out sono previsti presso Steinerhaus Berggasthof?",
+          "topicComments": "Presso Steinerhaus Berggasthof, il check-in può essere effettuato dalle 15:00, mentre il check-out è fino alle 10:00."
+        },
+        {
+          "topic": "Quanto costa soggiornare presso Steinerhaus Berggasthof?",
+          "topicComments": "I prezzi di Steinerhaus Berggasthof possono variare in base a vari fattori (per es. date, condizioni dell'hotel, ecc). Per vedere i prezzi, inserisci le date del soggiorno."
+        },
+        {
+          "topic": "Steinerhaus Berggasthof dispone di un ristorante in loco?",
+          "topicComments": "Steinerhaus Berggasthof offre 1 ristoranti: Restaurant #1"
+        },
+        {
+          "topic": "Quanto dista Steinerhaus Berggasthof dal centro di Gröbming?",
+          "topicComments": "Steinerhaus Berggasthof si trova a 7 km dal centro di Gröbming."
+        }
+      ],
+      "fr": [
+        {
+          "topic": "Quel type de petit-déjeuner l'établissement Steinerhaus Berggasthof sert-il ?",
+          "topicComments": "Les clients ayant déjà séjourné à l'établissement Steinerhaus Berggasthof ont attribué une très bonne note à son petit-déjeuner : 8,5. L'établissement sert les types de petit-déjeuner suivants : Continental Végétarien Végétalien Sans gluten Buffet"
+        },
+        {
+          "topic": "Quel type d'hébergement puis-je réserver à l'établissement Steinerhaus Berggasthof ?",
+          "topicComments": "L'établissement Steinerhaus Berggasthof propose les options d'hébergement suivantes : Quadruple Double"
+        },
+        {
+          "topic": "Quels sont les horaires d'arrivée et de départ à l'établissement Steinerhaus Berggasthof ?",
+          "topicComments": "L'enregistrement à l'établissement Steinerhaus Berggasthof se fait à partir de 15:00 et le départ est possible jusqu'à 10:00."
+        },
+        {
+          "topic": "Quel est le tarif d'un séjour à l'établissement Steinerhaus Berggasthof ?",
+          "topicComments": "Les tarifs fixés par l'établissement Steinerhaus Berggasthof peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l'hôtel, etc.). Indiquez vos dates pour voir les tarifs."
+        },
+        {
+          "topic": "L'établissement Steinerhaus Berggasthof dispose-t-il un restaurant sur place ?",
+          "topicComments": "L'établissement Steinerhaus Berggasthof propose 1 restaurant : Restaurant #1"
+        },
+        {
+          "topic": "L'établissement Steinerhaus Berggasthof est-il proche du centre (Gröbming) ?",
+          "topicComments": "L'établissement Steinerhaus Berggasthof se trouve à 7 km du centre (Gröbming)."
+        }
+      ],
+      "pt": [
+        {
+          "topic": "Que tipo de pequeno-almoço é servido em Steinerhaus Berggasthof?",
+          "topicComments": "Os hóspedes em Steinerhaus Berggasthof podem desfrutar de um pequeno-almoço com boa pontuação durante a sua estadia (pontuação de comentários: 8,5). As opções de pequeno-almoço incluem: Continental Vegetariano Vegan Sem glúten Buffet"
+        },
+        {
+          "topic": "Que tipo de quarto posso reservar em Steinerhaus Berggasthof?",
+          "topicComments": "As opções de quarto em Steinerhaus Berggasthof incluem: Quádruplo Duplo"
+        },
+        {
+          "topic": "Quais são os horários de check-in e check-out em Steinerhaus Berggasthof?",
+          "topicComments": "Em Steinerhaus Berggasthof, o check-in é a partir das 15:00 e o check-out até às 10:00."
+        },
+        {
+          "topic": "Quanto custa hospedar-me em Steinerhaus Berggasthof?",
+          "topicComments": "Os preços em Steinerhaus Berggasthof podem variar de acordo com os parâmetros da sua estadia (ex.: as datas que seleciona, as condições do hotel, entre outros). Insira as suas datas e consulte os preços."
+        },
+        {
+          "topic": "Steinerhaus Berggasthof tem um restaurante no local?",
+          "topicComments": "Steinerhaus Berggasthof tem 1 restaurantes: Restaurant #1"
+        },
+        {
+          "topic": "A que distância fica Steinerhaus Berggasthof do centro de Gröbming?",
+          "topicComments": "Steinerhaus Berggasthof fica a 7 km do centro de Gröbming."
+        }
+      ]
+    },
+    "seoDescription": {
+      "en": "Steinerhaus Berggasthof features a garden, terrace, a restaurant and bar in Gröbming.",
+      "es": "Steinerhaus Berggasthof dispone de jardín, terraza, restaurante y bar en Gröbming.",
+      "de": "Die Unterkunft Steinerhaus Berggasthof bietet einen Garten, eine Terrasse, ein Restaurant und eine Bar in Gröbming.",
+      "it": "Steinerhaus Berggasthof presenta un giardino, una terrazza, un ristorante e un bar a Gröbming.",
+      "fr": "Situé à Gröbming, l’établissement Steinerhaus Berggasthof comprend un jardin, une terrasse, un restaurant et un bar.",
+      "pt": "Steinerhaus Berggasthof apresenta um jardim, terraço, um restaurante e bar em Gröbming."
+    },
+    "services": {
+      "en": [
+        {
+          "Food & Drink": [
+            "Very good breakfast"
+          ],
+          "General": [
+            "Non-smoking rooms",
+            "Non-smoking throughout",
+            "Heating"
+          ],
+          "Internet": [
+            "Free WiFi"
+          ],
+          "Languages spoken": [
+            "German",
+            "English",
+            "Spanish",
+            "Dutch"
+          ],
+          "Outdoors & View": [
+            "View",
+            "Mountain view",
+            "Outdoor furniture"
+          ],
+          "Parking": [
+            "Free parking"
+          ],
+          "Safety & security": [
+            "Fire extinguishers",
+            "Smoke alarms"
+          ],
+          "Other": [
+            "Restaurant",
+            "Family rooms",
+            "Bar",
+            "Parking",
+            "Picnic area",
+            "Sun terrace",
+            "Terrace",
+            "Garden",
+            "Cable channels",
+            "Daily housekeeping",
+            "Meeting/banquet facilities Additional charge",
+            "Board games/puzzles",
+            "Key access",
+            "Upper floors accessible by stairs only"
+          ]
+        }
+      ],
+      "es": [
+        {
+          "Alimentos y bebidas": [
+            "Muy buen desayuno"
+          ],
+          "Aparcamiento": [
+            "Parking gratis"
+          ],
+          "Exteriores y vistas": [
+            "Vistas",
+            "Vistas a la montaña"
+          ],
+          "General": [
+            "Habitaciones sin humo",
+            "Prohibido fumar en todo el alojamiento",
+            "Calefacción"
+          ],
+          "Idiomas hablados": [
+            "Alemán",
+            "Inglés",
+            "Español",
+            "Holandés"
+          ],
+          "Internet": [
+            "WiFi gratis"
+          ],
+          "Seguridad": [
+            "Extintores",
+            "Detectores de humo"
+          ],
+          "Other": [
+            "Restaurante",
+            "Habitaciones familiares",
+            "Bar",
+            "Parking",
+            "Zona de pícnic",
+            "Mobiliario exterior",
+            "Terraza / solárium",
+            "Terraza",
+            "Jardín",
+            "Canales por cable",
+            "Servicio de limpieza diario",
+            "Salas de reuniones / banquetes De pago",
+            "Juegos de mesa / puzles",
+            "Llave de acceso",
+            "Acceso a pisos superiores solo mediante escaleras"
+          ]
+        }
+      ],
+      "de": [
+        {
+          "Allgemein": [
+            "Nichtraucherunterkunft (Alle öffentlichen und privaten Bereiche sind Nichtraucherzonen)",
+            "Heizung"
+          ],
+          "Außenbereich": [
+            "Aussicht",
+            "Bergblick",
+            "Gartenmöbel"
+          ],
+          "Gesprochene Sprachen": [
+            "Deutsch",
+            "Englisch",
+            "Spanisch",
+            "Niederländisch"
+          ],
+          "Sicherheit": [
+            "Feuerlöscher",
+            "Rauchmelder"
+          ],
+          "Speisen & Getränke": [
+            "Sehr gutes Frühstück"
+          ],
+          "Other": [
+            "Parkplatz inbegriffen",
+            "WLAN inklusive",
+            "Nichtraucherzimmer",
+            "Restaurant",
+            "Familienzimmer",
+            "Bar",
+            "Parkplatz",
+            "Picknickbereich",
+            "Sonnenterrasse",
+            "Terrasse",
+            "Garten",
+            "Kabelkanäle",
+            "Tägliche Reinigung",
+            "Konferenz- und Veranstaltungsräume Zusätzliche Gebühren",
+            "Brettspiele/Puzzle",
+            "Zugang mit Schlüssel",
+            "Obere Stockwerke nur über eine Treppe erreichbar"
+          ]
+        }
+      ],
+      "it": [
+        {
+          "Cibo e bevande": [
+            "Colazione ottima"
+          ],
+          "Generale": [
+            "Camere non fumatori",
+            "Struttura interamente non fumatori",
+            "Riscaldamento"
+          ],
+          "Internet": [
+            "Connessione WiFi gratuita"
+          ],
+          "Lingue parlate": [
+            "Tedesco",
+            "Inglese",
+            "Spagnolo",
+            "Olandese"
+          ],
+          "Parcheggio": [
+            "Parcheggio gratuito"
+          ],
+          "Sicurezza": [
+            "Estintori"
+          ],
+          "Spazi esterni": [
+            "Vista",
+            "Vista montagna"
+          ],
+          "Other": [
+            "Ristorante",
+            "Disponibilità di camere familiari",
+            "Bar",
+            "Parcheggio",
+            "Area picnic",
+            "Arredamento da esterni",
+            "Terrazza solarium",
+            "Terrazza",
+            "Giardino",
+            "Canali via cavo",
+            "Servizio pulizie giornaliero",
+            "Spazi per riunioni/banchetti a pagamento",
+            "Giochi da tavolo/puzzle",
+            "Allarme antifumo",
+            "Accesso con chiavi",
+            "Piani superiori accessibili solo tramite scale"
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "Alimentation": [
+            "Très bon petit-déjeuner"
+          ],
+          "Équipements": [
+            "Papier toilette",
+            "Serviettes",
+            "Baignoire ou douche",
+            "Toilettes",
+            "Linge de maison",
+            "Armoire ou penderie",
+            "Télévision à écran plat",
+            "Télévision"
+          ],
+          "Extérieur": [
+            "Vue sur la montagne",
+            "Vue"
+          ],
+          "Général": [
+            "Chambres non-fumeurs",
+            "Établissement entièrement non-fumeurs",
+            "Chauffage"
+          ],
+          "Langues parlées": [
+            "Allemand",
+            "Anglais",
+            "Espagnol",
+            "Néerlandais"
+          ],
+          "Parking": [
+            "Parking gratuit"
+          ],
+          "Sécurité": [
+            "Extincteurs"
+          ],
+          "Other": [
+            "Connexion Wi-Fi gratuite",
+            "Restaurant",
+            "Chambres familiales",
+            "Bar",
+            "Aire de pique-nique",
+            "Mobilier extérieur",
+            "Terrasse bien exposée",
+            "Terrasse",
+            "Jardin",
+            "Chaînes du câble",
+            "Service de ménage quotidien",
+            "Salles de réunion/réception En supplément",
+            "Jeux de société/puzzles",
+            "Détecteurs de fumée",
+            "Clés d'accès",
+            "Étages supérieurs accessibles uniquement par les escaliers"
+          ]
+        }
+      ],
+      "pt": [
+        {
+          "Comida e bebidas": [
+            "Muito bom pequeno-almoço"
+          ],
+          "Estacionamento": [
+            "Estacionamento gratuito"
+          ],
+          "Exterior": [
+            "Vista montanha",
+            "Vista",
+            "Mobiliário de exterior"
+          ],
+          "Geral": [
+            "Proibido fumar em todas as áreas",
+            "Aquecimento"
+          ],
+          "Idiomas falados": [
+            "Alemão",
+            "Inglês"
+          ],
+          "Internet": [
+            "Acesso Wi-Fi gratuito"
+          ],
+          "Segurança": [
+            "Extintores"
+          ],
+          "Other": [
+            "Quartos para não fumadores",
+            "Restaurante",
+            "Quartos familiares",
+            "Bar",
+            "Área para piquenique",
+            "Terraço para banhos de sol",
+            "Terraço",
+            "Jardim",
+            "Canais por cabo",
+            "Serviço de limpeza diário",
+            "Comodidades para reuniões/banquetes Custo adicional",
+            "Jogos de tabuleiro/puzzles",
+            "Detetores de fumo",
+            "Chave de acesso",
+            "Pisos superiores acessíveis apenas por escadas",
+            "Espanhol",
+            "Holandês"
+          ]
+        }
+      ]
+    },
+    "extraInfo": {
+      "en": null,
+      "es": null,
+      "de": null,
+      "it": null,
+      "fr": null,
+      "pt": null
+    },
+    "conditions": {
+      "en": [
+        {
+          "condition": "Check-in",
+          "detail": "From 15:00 to 21:30"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "From 06:00 to 10:00"
+        },
+        {
+          "condition": "Cancellation/ prepayment",
+          "detail": "Cancellation and prepayment policies vary according to accommodation type. Please enter the dates of your stay and check the conditions of your required option."
+        },
+        {
+          "condition": "Children and beds",
+          "detail": "Child policies Children of any age are welcome. Children 5 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Cot and extra bed policies 0 - 2 years Extra bed upon request € 30 per child, per night Cot upon request Free 3+ years Extra bed upon request € 30 per person, per night Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability. Child policies Cot and extra bed policies Children of any age are welcome. Children 5 years and above will be charged as adults at this property. To see correct prices and occupancy information, please add the number of children in your group and their ages to your search. Prices for cots and extra beds are not included in the total price, and will have to be paid for separately during your stay. The number of extra beds and cots allowed is dependent on the option you choose. Please check your selected option for more information. All cots and extra beds are subject to availability."
+        },
+        {
+          "condition": "Age restriction",
+          "detail": "The minimum age for check-in is 20"
+        },
+        {
+          "condition": "Pets",
+          "detail": "Pets are not allowed."
+        },
+        {
+          "condition": "Accepted payment methods",
+          "detail": "Cash"
+        }
+      ],
+      "es": [
+        {
+          "condition": "Entrada",
+          "detail": "De las 15:00 a las 21:30"
+        },
+        {
+          "condition": "Salida",
+          "detail": "De las 6:00 a las 10:00"
+        },
+        {
+          "condition": "Cancelación /  prepago",
+          "detail": "Las condiciones de cancelación y de pago por adelantado pueden variar según el tipo de alojamiento. Introduce las fechas de tu estancia y consulta las condiciones de la opción que quieres reservar."
+        },
+        {
+          "condition": "Camas para niños",
+          "detail": "Condiciones para estancias con niños Se pueden alojar niños de cualquier edad. Los niños a partir de 5 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. Condiciones sobre cunas y camas supletorias 0 - 2 años Cama supletoria a petición € 30 por niño y noche Cuna a petición Gratis Más de 3 años Cama supletoria a petición € 30 por persona y noche El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad. Condiciones para estancias con niños Condiciones sobre cunas y camas supletorias Se pueden alojar niños de cualquier edad. Los niños a partir de 5 años pagan como adultos en este alojamiento. Para ver la información correcta sobre precios y ocupación, añade a la búsqueda el número de niños con los que viajas y sus edades. El precio de las cunas y las camas supletorias no está incluido en el precio total y se tiene que pagar por separado durante la estancia. El número de camas supletorias y cunas permitido depende de la opción que escojas. Consulta la opción que has escogido para saber más. Todas las cunas y camas supletorias están sujetas a disponibilidad."
+        },
+        {
+          "condition": "Restricción por edad",
+          "detail": "Edad mínima para el check-in: 20"
+        },
+        {
+          "condition": "Mascotas",
+          "detail": "No se admiten."
+        },
+        {
+          "condition": "Métodos de pago aceptados",
+          "detail": "Efectivo"
+        }
+      ],
+      "de": [
+        {
+          "condition": "Anreise",
+          "detail": "Von 15:00 bis 21:30 Uhr"
+        },
+        {
+          "condition": "Abreise",
+          "detail": "Von 06:00 bis 10:00 Uhr"
+        },
+        {
+          "condition": "Stornierung/ Vorauszahlung",
+          "detail": "Die Stornierungs- und Vorauszahlungsrichtlinien ändern sich je nach Unterkunftskategorie. Bitte geben Sie Ihre Reisedaten ein und überprüfen Sie die Bedingungen Ihrer gewählten Option."
+        },
+        {
+          "condition": "Kinder und Betten",
+          "detail": "Richtlinien für Kinder Kinder jeden Alters sind willkommen. Kinder im Alter von 5 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Richtlinien zu Baby- und Zustellbetten 0 - 2 Jahre Zustellbett auf Anfrage € 30 pro Kind, pro Nacht Babybett auf Anfrage Kostenfrei über 3 Jahre Zustellbett auf Anfrage € 30 pro Person, pro Nacht Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit. Richtlinien für Kinder Richtlinien zu Baby- und Zustellbetten Kinder jeden Alters sind willkommen. Kinder im Alter von 5 Jahren oder älter zahlen in dieser Unterkunft den Erwachsenenpreis. Fügen Sie Ihrer Suche bitte die Anzahl der Kinder in Ihrer Gruppe und deren Alter hinzu, um die korrekten Preise und Belegungsinformationen zu sehen. Preise für Baby- und Zustellbetten sind nicht im Gesamtpreis enthalten und müssen separat während Ihres Aufenthaltes bezahlt werden. Die Anzahl an Zustell- und Babybetten ist von der von Ihnen gewählten Option abhängig. Bitte prüfen Sie Ihre ausgewählte Option für mehr Informationen. Alle Babybetten und Zustellbetten unterliegen der Verfügbarkeit."
+        },
+        {
+          "condition": "Altersbeschränkung",
+          "detail": "Das Mindestalter für den Check-in beträgt 20 Jahre"
+        },
+        {
+          "condition": "Haustiere",
+          "detail": "Haustiere sind nicht gestattet."
+        },
+        {
+          "condition": "Akzeptierte Zahlungsmethoden",
+          "detail": "Barzahlung"
+        }
+      ],
+      "it": [
+        {
+          "condition": "Arrivo",
+          "detail": "Dalle 15:00 alle 21:30"
+        },
+        {
+          "condition": "Partenza",
+          "detail": "Dalle 06:00 alle 10:00"
+        },
+        {
+          "condition": "Cancellazione / Pagamento anticipato",
+          "detail": "Le condizioni relative alla cancellazione e al pagamento anticipato variano a seconda della tipologia di alloggio. Inserisci le date del soggiorno e verifica le condizioni dell'opzione scelta."
+        },
+        {
+          "condition": "Bambini e letti",
+          "detail": "Condizioni per i bambini I bambini di tutte le età sono i benvenuti. I bambini di 5 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Condizioni per culle e letti aggiuntivi 0 - 2 anni Letto supplementare su richiesta € 30 per bambino, a notte Culla su richiesta Gratis 3 anni e oltre Letto supplementare su richiesta € 30 per persona, a notte Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità. Condizioni per i bambini Condizioni per culle e letti aggiuntivi I bambini di tutte le età sono i benvenuti. I bambini di 5 anni o più pagheranno quanto gli adulti presso questa struttura. Per vedere informazioni corrette relativamente a prezzi e occupazione, aggiungi alla ricerca il numero e l'età dei bambini che soggiorneranno. Il prezzo delle culle e dei letti supplementari non è incluso nell'importo totale e dovrà essere pagato separatamente durante il soggiorno. Il numero di culle e letti supplementari ammessi dipende dall'opzione che scegli. Controlla quella che hai selezionato per maggiori informazioni. Le culle e i letti supplementari sono soggetti a disponibilità."
+        },
+        {
+          "condition": "Età minima",
+          "detail": "L'età minima per fare il check-in è 20 anni."
+        },
+        {
+          "condition": "Animali",
+          "detail": "Animali non ammessi."
+        },
+        {
+          "condition": "Metodi di pagamento accettati",
+          "detail": "Contanti"
+        }
+      ],
+      "fr": [
+        {
+          "condition": "Arrivée",
+          "detail": "De 15:00 à 21:30"
+        },
+        {
+          "condition": "Départ",
+          "detail": "De 06:00 à 10:00"
+        },
+        {
+          "condition": "Annulation / Prépaiement",
+          "detail": "Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement. Veuillez saisir les dates de votre séjour et consulter les conditions de l'option choisie."
+        },
+        {
+          "condition": "Enfants et lits",
+          "detail": "Conditions relatives aux enfants Tous les enfants sont les bienvenus. Les enfants âgés de plus de 5 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Conditions relatives aux lits bébé et aux lits d'appoint 0 - 2 ans Lit d'appoint sur demande € 30 par enfant et par nuit Lit bébé sur demande Gratuit Plus de 3 ans Lit d'appoint sur demande € 30 par personne et par nuit Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité. Conditions relatives aux enfants Conditions relatives aux lits bébé et aux lits d'appoint Tous les enfants sont les bienvenus. Les enfants âgés de plus de 5 ans seront facturés au tarif adulte dans cet établissement. Pour voir les tarifs et les informations associés à la taille de votre groupe, veuillez ajouter à votre recherche le nombre d'enfants avec qui vous voyagez ainsi que leur âge. Les frais supplémentaires associés aux lits bébé et aux lits d'appoint ne sont pas inclus dans le montant total et devront être payés séparément pendant votre séjour. Le nombre de lits bébé et de lits d'appoint disponibles dépend de l'option que vous choisissez. Veuillez consulter l'option sélectionnée pour obtenir plus d'informations. Tous les lits bébé et les lits d'appoint sont soumis à disponibilité."
+        },
+        {
+          "condition": "Restriction relative à l'âge",
+          "detail": "Les clients doivent avoir au moins 20 ans pour pouvoir s'enregistrer."
+        },
+        {
+          "condition": "Animaux domestiques",
+          "detail": "Les animaux de compagnie ne sont pas admis au sein de l'établissement."
+        },
+        {
+          "condition": "Moyens de paiement acceptés",
+          "detail": "Espèces"
+        }
+      ],
+      "pt": [
+        {
+          "condition": "Check-in",
+          "detail": "Das 15:00 às 21:30"
+        },
+        {
+          "condition": "Check-out",
+          "detail": "Das 06:00 às 10:00"
+        },
+        {
+          "condition": "Cancelamento/ pré-pagamento",
+          "detail": "As condições de cancelamento e de pré-pagamento variam consoante o tipo de alojamento. Por favor, insira as datas da sua estadia e verifique as condições da opção que selecionou."
+        },
+        {
+          "condition": "Crianças e camas",
+          "detail": "Condições de crianças Todas as crianças são bem-vindas. As crianças com 5 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Condições de berços e camas extra 0 - 2 anos Cama extra mediante pedido € 30 por criança, por noite Berço mediante pedido Gratuito Mais de 3 anos Cama extra mediante pedido € 30 por pessoa, por noite Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade. Condições de crianças Condições de berços e camas extra Todas as crianças são bem-vindas. As crianças com 5 ou mais anos terão de pagar as tarifas de adulto neste alojamento. Para ver os preços corretos e a informação sobre a ocupação, por favor, adicione à sua pesquisa o número de crianças no seu grupo e as respetivas idades. Os preços para berços e camas extra não estão incluídos no preço total e têm se ser pagos separadamente durante a sua estadia. O número permitido de camas extra e de berços está dependente da opção que escolher. Por favor, verifique a sua opção selecionada para mais informações. Todos os berços e camas extra estão sujeitos a disponibilidade."
+        },
+        {
+          "condition": "Restrição de idade",
+          "detail": "A idade mínima para fazer o check-in é de 20"
+        },
+        {
+          "condition": "Animais de estimação",
+          "detail": "Animais de estimação: não admitidos."
+        },
+        {
+          "condition": "Métodos de pagamento aceites",
+          "detail": "Dinheiro"
+        }
+      ]
+    },
+    "categoryScoreReview": {
+      "en": {
+        "hotel_services": {
+          "category": "Facilities",
+          "score": 8.7
+        },
+        "hotel_clean": {
+          "category": "Cleanliness",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Value for money",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Location",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Free Wifi",
+          "score": 8.2
+        }
+      },
+      "es": {
+        "hotel_services": {
+          "category": "Instalaciones",
+          "score": 8.7
+        },
+        "hotel_clean": {
+          "category": "Limpieza",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comodidad",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Precio calidad",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Ubicación",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Wifi gratis",
+          "score": 8.2
+        }
+      },
+      "de": {
+        "hotel_services": {
+          "category": "Ausstattung",
+          "score": 8.7
+        },
+        "hotel_clean": {
+          "category": "Sauberkeit",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Komfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Preis-Leistung",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Lage",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Kostenloses WLAN",
+          "score": 8.2
+        }
+      },
+      "it": {
+        "hotel_services": {
+          "category": "Servizi",
+          "score": 8.7
+        },
+        "hotel_clean": {
+          "category": "Pulizia",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Comfort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Qualità/prezzo",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Posizione",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuito",
+          "score": 8.2
+        }
+      },
+      "fr": {
+        "hotel_services": {
+          "category": "Équipements",
+          "score": 8.7
+        },
+        "hotel_clean": {
+          "category": "Propreté",
+          "score": 9.1
+        },
+        "hotel_comfort": {
+          "category": "Confort",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Rapport qualité/prix",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Emplacement",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi gratuit",
+          "score": 8.2
+        }
+      },
+      "pt": {
+        "hotel_comfort": {
+          "category": "Conforto",
+          "score": 9.1
+        },
+        "hotel_clean": {
+          "category": "Limpeza",
+          "score": 9.1
+        },
+        "hotel_value": {
+          "category": "Custo-benefício",
+          "score": 9
+        },
+        "hotel_location": {
+          "category": "Localização",
+          "score": 9.8
+        },
+        "hotel_wifi": {
+          "category": "Wi-Fi grátis",
+          "score": 8.2
+        }
+      }
+    }
+  },
+  "args": {
+    "seoFormatKey": "",
+    "onlyTitle": true,
+    "regenerateSeo": true,
+    "append": false,
+    "cache": true,
+    "locales": [
+      "en",
+      "es",
+      "de",
+      "it",
+      "fr",
+      "pt"
+    ]
+  }
+}
