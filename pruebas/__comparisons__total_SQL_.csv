@@ -1,0 +1,26 @@
+Query SQL :
+SELECT 
+    u.id, d.hotel_id, u.external_ref, LENGTH(d.description) AS description_length,
+	COALESCE(img.highres_count, 0) AS img_highres_count,
+	COALESCE(s.count_service_category, 0) AS count_service_category, COALESCE(s.count_service, 0) AS count_service
+FROM url_queue u
+LEFT JOIN hotels_description d ON u.id = d.url_id AND d.language = 'en'
+LEFT JOIN (
+    SELECT hotel_id, COUNT(category) AS highres_count
+    FROM image_downloads
+    WHERE category = 'highres_url'
+    GROUP BY hotel_id
+) img 
+       ON d.hotel_id = img.hotel_id
+LEFT JOIN (
+    SELECT url_id, hotel_id , COUNT(DISTINCT service_category) 
+        + COUNT(DISTINCT CASE WHEN service_category IS NULL THEN 1 END) 
+        AS count_service_category,  COUNT(*) AS count_service
+    FROM hotels_all_services
+    WHERE language = 'en'
+    GROUP BY hotel_id, url_id
+) s
+       ON d.hotel_id = s.hotel_id AND u.id = s.url_id
+ORDER BY u.external_ref;
+
+---
