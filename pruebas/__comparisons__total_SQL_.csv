@@ -1,3 +1,4 @@
+- Calidad  fichas hotel 
 Query SQL :
 SELECT 
     u.id, d.hotel_id, u.external_ref, LENGTH(d.description) AS description_length,
@@ -26,7 +27,7 @@ ORDER BY u.external_ref;
 ---
 ---
 
--- Note:
+-- Note: _Calidad__fichas_hotel_
 - Column from external_ref to url_base -> data by DB Scrap 
 - Column from url_base to book_destino_General -> data by booking.com
 {
