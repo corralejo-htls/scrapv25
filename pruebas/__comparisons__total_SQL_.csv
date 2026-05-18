@@ -24,3 +24,25 @@ LEFT JOIN (
 ORDER BY u.external_ref;
 
 ---
+---
+
+-- Note:
+- Column from external_ref to url_base -> data by DB Scrap 
+- Column from url_base to book_destino_General -> data by booking.com
+{
+'Data db Bookingscraper','---','Data booking.com'
+------------------------,---,--------------------
+'external_ref',,
+'url_id',,
+'hotel_id',,
+'length_description','vs','book_lenght'
+'img_highres_count','vs','book_imagenes'
+'count_service_category','vs','book_count_service_category'
+'count_service','vs','book_count_service'
+'hotel_review_score','vs','book_review_score'
+'hotel_review_count','vs','book_review_count'
+'base_url',,'base_url'
+,,'book_quality'
+,,'book_destino_Turistico'
+,,'book_destino_General'
+}
