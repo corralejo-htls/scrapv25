@@ -1,240 +1,195 @@
 """
-test_config.py - BookingScraper Pro v48
-Diagnostico independiente del problema VPN_COUNTRIES / EnvSettingsSource.
-Ejecutar desde C:\\BookingScraper con .venv activo: python test_config.py
+test_config.py — BookingScraper Pro v6.0.0 Build 107
+=====================================================
+Diagnóstico de carga de configuración sobre la clase de producción
+app.config.Settings.
 
-FIX-TEST-001: os.environ limpiado entre tests (TEST A dejaba JSON en env,
-  contaminando TEST B/C que intentan usar formato comma).
-FIX-TEST-002: TEST C ahora sustituye AMBAS fuentes (env + dotenv) con
-  versiones comma-aware. La version anterior solo sustituia dotenv,
-  dejando EnvSettingsSource con json.loads puro -> FAIL.
-FIX-TEST-003: Eliminado backslash invalido en docstring (SyntaxWarning).
-FIX-TEST-004: Nuevo TEST D verifica lectura desde archivo .env real.
+PROPÓSITO (Build 107 — NEUTRALIZADO):
+  Las versiones anteriores de este script demostraban un modo de fallo de
+  pydantic-settings usando clases de juguete con campos `List[str]`
+  (SettingsA/B/C/D) e insinuaban que app/config.py necesitaba un parche
+  llamado "FIX-CFG-001" con una fuente `_CommaAwareEnvSource`.
+
+  Eso era ENGAÑOSO. La clase Settings de producción declara
+  VPN_COUNTRIES y ENABLED_LANGUAGES como `str` (NO `List[str]`), por lo que
+  pydantic-settings NO ejecuta json.loads sobre el valor y el formato
+  separado por comas se acepta de forma nativa, sin ningún override. El
+  troceado a lista se realiza aguas abajo con el patrón canónico
+  cfg.ENABLED_LANGUAGES.split(",") (ver app/completeness_service.py,
+  app/main.py, app/scraper_service.py, app/api_export_system.py).
+
+  Por tanto NO existe ni se necesita FIX-CFG-001 en app/config.py. Este
+  script ahora valida el comportamiento REAL de app.config.Settings:
+    TEST 1 — Los defaults parsean correctamente.
+    TEST 2 — Un valor comma en os.environ carga sin error.
+    TEST 3 — Un valor comma en un archivo .env real carga sin error.
+    TEST 4 — El accesor canónico get_settings().<campo>.split(",") limpia
+             espacios y produce una lista correcta.
+
+NOTA sobre 'en' primero: la regla de negocio "'en' siempre primero" se
+  aplica AGUAS ABAJO (scraper_service.build_language_list y la capa API),
+  NO en el parseo de configuración. Este test solo verifica el parseo fiel
+  del orden tal cual aparece en .env, no el reordenado posterior.
+
+Código de salida: 0 si todo OK, 1 si hay algún FAIL (apto para CI).
+Ejecutar desde C:\\BookingScraper con el .venv activo:  python test_config.py
 """
-import sys
 import os
-import json
+import sys
 import tempfile
-from typing import List
-from pydantic import Field
-from pydantic_settings import BaseSettings, DotEnvSettingsSource, SettingsConfigDict
 
-print("=" * 60)
-print("  BookingScraper -- Diagnostico pydantic-settings")
-print("=" * 60)
-print()
+# Settings exige DB_USER/DB_PASSWORD (campos requeridos sin default). Se
+# proveen credenciales dummy para poder instanciar; no afectan a la lógica
+# de listas comma que este test verifica.
+os.environ.setdefault("DB_USER", "test_user")
+os.environ.setdefault("DB_PASSWORD", "test_password")
 
 import pydantic
 import pydantic_settings
+from app.config import Settings, get_settings, reset_settings
+
+LIST_KEYS = ("VPN_COUNTRIES", "ENABLED_LANGUAGES")
+EXPECTED_DEFAULT_LANGS = ["en", "es", "de", "it", "fr", "pt"]
+
+_passed = 0
+_failed = 0
+
+
+def _ok(msg: str) -> None:
+    global _passed
+    _passed += 1
+    print(f"  [OK] {msg}")
+
+
+def _fail(msg: str) -> None:
+    global _failed
+    _failed += 1
+    print(f"  [FAIL] {msg}")
+
+
+def _clean_list_keys() -> None:
+    """Aísla cada test: quita las claves de lista de os.environ."""
+    for k in LIST_KEYS:
+        os.environ.pop(k, None)
+
+
+def _split(value: str) -> list:
+    """Patrón canónico de consumo usado en toda la app."""
+    return [x.strip() for x in value.split(",") if x.strip()]
+
+
+print("=" * 60)
+print("  BookingScraper -- Diagnóstico de configuración (Settings)")
+print("=" * 60)
+print()
 print(f"[INFO] Python:            {sys.version.split()[0]}")
 print(f"[INFO] pydantic:          {pydantic.__version__}")
 print(f"[INFO] pydantic-settings: {pydantic_settings.__version__}")
+print(f"[INFO] Campos tipados como str (no List[str]): {', '.join(LIST_KEYS)}")
+print("[INFO] -> el formato comma se acepta de forma nativa; el split se")
+print("        realiza aguas abajo. No se requiere FIX-CFG-001.")
 print()
 
-import inspect
-sig = inspect.signature(BaseSettings.settings_customise_sources)
-print("[INFO] Firma real de settings_customise_sources:")
-for name, param in sig.parameters.items():
-    print(f"         {name}: {param.annotation}")
-print()
-
-init_sig = inspect.signature(DotEnvSettingsSource.__init__)
-print("[INFO] Firma real de DotEnvSettingsSource.__init__:")
-for name, param in init_sig.parameters.items():
-    if name != "self":
-        print(f"         {name}: {param.annotation} = {param.default!r}")
-print()
-
-# ── Importar EnvSettingsSource (disponible en pydantic-settings >= 2.0) ───────
-from pydantic_settings import EnvSettingsSource
-
-# ── Clases comma-aware (identicas a las de app/config.py corregido) ──────────
-class _CommaAwareDotEnvSource(DotEnvSettingsSource):
-    """DotEnv source con soporte para listas comma-separated en archivo .env."""
-    def decode_complex_value(self, field_name, field_info, value):
-        if not isinstance(value, str):
-            return value
-        value = value.strip()
-        try:
-            return json.loads(value)
-        except json.JSONDecodeError:
-            pass
-        if "," in value:
-            return [x.strip() for x in value.split(",") if x.strip()]
-        return [value] if value else []
-
-class _CommaAwareEnvSource(EnvSettingsSource):
-    """
-    FIX-CFG-001: os.environ source con soporte para listas comma-separated.
-    Sin este override, EnvSettingsSource llama json.loads("Spain,Germany,...")
-    y lanza SettingsError ANTES de que model_validator pueda normalizarlo.
-    """
-    def decode_complex_value(self, field_name, field_info, value):
-        if not isinstance(value, str):
-            return value
-        value = value.strip()
-        try:
-            return json.loads(value)
-        except json.JSONDecodeError:
-            pass
-        if "," in value:
-            return [x.strip() for x in value.split(",") if x.strip()]
-        return [value] if value else []
-
-# ── Helper de aislamiento entre tests ────────────────────────────────────────
-_TEST_KEYS = ["VPN_COUNTRIES", "ENABLED_LANGUAGES"]
-
-def _clean_env():
-    """FIX-TEST-001: elimina las claves de test de os.environ."""
-    for k in _TEST_KEYS:
-        os.environ.pop(k, None)
-
-# ── TEST A: JSON en os.environ (siempre funciona, sin fix necesario) ──────────
-print("[TEST A] os.environ con formato JSON")
-_clean_env()
-os.environ["VPN_COUNTRIES"]    = '["Spain","Germany","France"]'
-os.environ["ENABLED_LANGUAGES"] = '["en","es","de"]'
-
-class SettingsA(BaseSettings):
-    VPN_COUNTRIES:    List[str] = Field(default=["Spain"])
-    ENABLED_LANGUAGES: List[str] = Field(default=["es"])
-
+# ── TEST 1: defaults ──────────────────────────────────────────────────────
+print("[TEST 1] Defaults de Settings (sin .env, entorno limpio)")
+_clean_list_keys()
 try:
-    s = SettingsA()
-    print(f"  [OK] VPN_COUNTRIES     = {s.VPN_COUNTRIES}")
-    print(f"  [OK] ENABLED_LANGUAGES = {s.ENABLED_LANGUAGES}")
-except Exception as e:
-    print(f"  [FAIL] {e}")
-_clean_env()
+    s = Settings(_env_file=None)
+    langs = _split(s.ENABLED_LANGUAGES)
+    countries = _split(s.VPN_COUNTRIES)
+    if langs == EXPECTED_DEFAULT_LANGS:
+        _ok(f"ENABLED_LANGUAGES default = {langs}")
+    else:
+        _fail(f"ENABLED_LANGUAGES default inesperado = {langs}")
+    if "en" in langs:
+        _ok("'en' presente en ENABLED_LANGUAGES (obligatorio por _API_.md)")
+    else:
+        _fail("'en' ausente en ENABLED_LANGUAGES")
+    if countries and all(isinstance(c, str) and c for c in countries):
+        _ok(f"VPN_COUNTRIES default = {countries}")
+    else:
+        _fail(f"VPN_COUNTRIES default inválido = {countries}")
+except Exception as e:  # noqa: BLE001
+    _fail(f"{type(e).__name__}: {e}")
 print()
 
-# ── TEST B: comma en os.environ SIN fix (debe fallar — confirma el bug) ───────
-print("[TEST B] os.environ comma SIN _CommaAwareEnvSource (EXPECTED-FAIL)")
-print("         Confirma que FIX-CFG-001 es necesario en config.py")
-_clean_env()
-os.environ["VPN_COUNTRIES"]    = "Spain,Germany,France"
-os.environ["ENABLED_LANGUAGES"] = "es,en,de"
-
-class SettingsB(BaseSettings):
-    VPN_COUNTRIES:    List[str] = Field(default=["Spain"])
-    ENABLED_LANGUAGES: List[str] = Field(default=["es"])
-
+# ── TEST 2: comma en os.environ ─────────────────────────────────────────────
+print("[TEST 2] Valor comma en os.environ (tipado str -> sin SettingsError)")
+_clean_list_keys()
+os.environ["VPN_COUNTRIES"] = "Spain,Germany,France"
+os.environ["ENABLED_LANGUAGES"] = "en,es,de"
 try:
-    s = SettingsB()
-    print(f"  [UNEXPECTED-OK] VPN_COUNTRIES = {s.VPN_COUNTRIES}")
-    print(f"  (pydantic-settings cambio de comportamiento en esta version)")
-except Exception as e:
-    print(f"  [EXPECTED-FAIL] {type(e).__name__} -- confirma bug en EnvSettingsSource")
-_clean_env()
+    s = Settings(_env_file=None)
+    got_c = _split(s.VPN_COUNTRIES)
+    got_l = _split(s.ENABLED_LANGUAGES)
+    _ok(f"VPN_COUNTRIES     = {got_c}") if got_c == ["Spain", "Germany", "France"] \
+        else _fail(f"VPN_COUNTRIES     = {got_c}")
+    _ok(f"ENABLED_LANGUAGES = {got_l}") if got_l == ["en", "es", "de"] \
+        else _fail(f"ENABLED_LANGUAGES = {got_l}")
+except Exception as e:  # noqa: BLE001
+    _fail(f"{type(e).__name__}: {e}  (el tipado str debería evitar este error)")
+_clean_list_keys()
 print()
 
-# ── TEST C: comma en os.environ CON _CommaAwareEnvSource (debe pasar) ─────────
-print("[TEST C] os.environ comma CON _CommaAwareEnvSource (FIX-CFG-001)")
-_clean_env()
-os.environ["VPN_COUNTRIES"]    = "Spain,Germany,France"
-os.environ["ENABLED_LANGUAGES"] = "es,en,de"
-
-class SettingsC(BaseSettings):
-    VPN_COUNTRIES:    List[str] = Field(default=["Spain"])
-    ENABLED_LANGUAGES: List[str] = Field(default=["es"])
-
-    @classmethod
-    def settings_customise_sources(cls, settings_cls, **kwargs):
-        init   = kwargs.get("init_settings")
-        dotenv = kwargs.get("dotenv_settings")
-        if dotenv is None:
-            return super().settings_customise_sources(settings_cls, **kwargs)
-        # FIX: reemplazar AMBAS fuentes (env + dotenv) con versiones comma-aware
-        try:
-            comma_env = _CommaAwareEnvSource(settings_cls)
-        except Exception:
-            comma_env = kwargs.get("env_settings")
-        env_file = getattr(dotenv, "env_file", None)
-        try:
-            comma_dotenv = _CommaAwareDotEnvSource(settings_cls,
-                                                    env_file=env_file,
-                                                    env_file_encoding="utf-8")
-        except TypeError:
-            comma_dotenv = _CommaAwareDotEnvSource(settings_cls)
-        return (init, comma_env, comma_dotenv)
-
-try:
-    s = SettingsC()
-    print(f"  [OK] VPN_COUNTRIES     = {s.VPN_COUNTRIES}")
-    print(f"  [OK] ENABLED_LANGUAGES = {s.ENABLED_LANGUAGES}")
-except Exception as e:
-    print(f"  [FAIL] {e}")
-_clean_env()
-print()
-
-# ── TEST D: archivo .env real con comma (escenario de produccion) ─────────────
-print("[TEST D] Archivo .env con formato comma (escenario produccion real)")
-_clean_env()
-
-_env_content = (
-    "VPN_COUNTRIES=Spain,Germany,France,Netherlands,Italy\n"
-    "ENABLED_LANGUAGES=es,en,de,fr,it\n"
-)
-
-_tmp_env_path = None
+# ── TEST 3: comma en archivo .env real ──────────────────────────────────────
+print("[TEST 3] Valor comma en archivo .env real (escenario de producción)")
+_clean_list_keys()
+tmp_path = None
 try:
     with tempfile.NamedTemporaryFile(
         mode="w", suffix=".env", delete=False, encoding="utf-8"
     ) as f:
-        f.write(_env_content)
-        _tmp_env_path = f.name
+        f.write("VPN_COUNTRIES=Spain,Germany,France,Netherlands,Italy\n")
+        f.write("ENABLED_LANGUAGES=en,es,de,fr,it\n")
+        tmp_path = f.name
 
-    class SettingsD(BaseSettings):
-        model_config = SettingsConfigDict(
-            env_file=_tmp_env_path, env_file_encoding="utf-8"
-        )
-        VPN_COUNTRIES:    List[str] = Field(default=["Spain"])
-        ENABLED_LANGUAGES: List[str] = Field(default=["es"])
-
-        @classmethod
-        def settings_customise_sources(cls, settings_cls, **kwargs):
-            init   = kwargs.get("init_settings")
-            dotenv = kwargs.get("dotenv_settings")
-            if dotenv is None:
-                return super().settings_customise_sources(settings_cls, **kwargs)
-            try:
-                comma_env = _CommaAwareEnvSource(settings_cls)
-            except Exception:
-                comma_env = kwargs.get("env_settings")
-            try:
-                comma_dotenv = _CommaAwareDotEnvSource(
-                    settings_cls,
-                    env_file=_tmp_env_path,
-                    env_file_encoding="utf-8",
-                )
-            except TypeError:
-                comma_dotenv = _CommaAwareDotEnvSource(settings_cls)
-            return (init, comma_env, comma_dotenv)
-
-    s = SettingsD()
-    print(f"  [OK] VPN_COUNTRIES     = {s.VPN_COUNTRIES}")
-    print(f"  [OK] ENABLED_LANGUAGES = {s.ENABLED_LANGUAGES}")
-except Exception as e:
-    print(f"  [FAIL] {e}")
+    s = Settings(_env_file=tmp_path)
+    got_c = _split(s.VPN_COUNTRIES)
+    got_l = _split(s.ENABLED_LANGUAGES)
+    _ok(f"VPN_COUNTRIES     = {got_c}") \
+        if got_c == ["Spain", "Germany", "France", "Netherlands", "Italy"] \
+        else _fail(f"VPN_COUNTRIES     = {got_c}")
+    _ok(f"ENABLED_LANGUAGES = {got_l}") \
+        if got_l == ["en", "es", "de", "fr", "it"] \
+        else _fail(f"ENABLED_LANGUAGES = {got_l}")
+except Exception as e:  # noqa: BLE001
+    _fail(f"{type(e).__name__}: {e}")
 finally:
-    if _tmp_env_path:
+    if tmp_path:
         try:
-            os.unlink(_tmp_env_path)
-        except Exception:
+            os.unlink(tmp_path)
+        except OSError:
             pass
-_clean_env()
 print()
 
-# ── Resumen ───────────────────────────────────────────────────────────────────
-print("=" * 60)
-print("  RESUMEN ESPERADO:")
+# ── TEST 4: accesor canónico get_settings().<campo>.split(",") ──────────────
+print("[TEST 4] Accesor canónico get_settings().ENABLED_LANGUAGES.split(',')")
+_clean_list_keys()
+# os.environ tiene mayor precedencia que el .env del proyecto -> determinista
+# en cualquier máquina. Se incluyen espacios a propósito para verificar limpieza.
+os.environ["ENABLED_LANGUAGES"] = " en , es , de "
+try:
+    reset_settings()  # invalida el cache lru de get_settings()
+    cfg = get_settings()
+    langs = _split(cfg.ENABLED_LANGUAGES)
+    _ok(f"split limpio (sin espacios sobrantes) = {langs}") \
+        if langs == ["en", "es", "de"] else _fail(f"split = {langs}")
+except Exception as e:  # noqa: BLE001
+    _fail(f"{type(e).__name__}: {e}")
+finally:
+    _clean_list_keys()
+    reset_settings()
 print()
-print("  TEST A  JSON en os.environ     -> [OK]")
-print("  TEST B  comma SIN fix          -> [EXPECTED-FAIL]  <- confirma bug")
-print("  TEST C  comma CON fix env      -> [OK]             <- FIX-CFG-001")
-print("  TEST D  comma en archivo .env  -> [OK]")
-print()
-print("  Si TEST C y TEST D pasan -> app/config.py corregido funciona.")
-print("  Si TEST B muestra UNEXPECTED-OK -> pydantic-settings cambio de")
-print("  comportamiento en esta version y el fix es inofensivo.")
+
+# ── Resumen ─────────────────────────────────────────────────────────────────
 print("=" * 60)
+print(f"  RESUMEN: {_passed} OK / {_failed} FAIL")
+if _failed == 0:
+    print("  La clase Settings de producción carga y parsea listas comma")
+    print("  correctamente. No se requiere ningún parche en app/config.py")
+    print("  (el tipado str maneja el formato comma de forma nativa).")
+else:
+    print("  Hay fallos: revisar el detalle arriba.")
+print("=" * 60)
+
+sys.exit(1 if _failed else 0)
