@@ -1,0 +1,818 @@
+Query SQL: SELECT * FROM url_language_status WHERE status <> 'done' ORDER BY url_id , language limit 200 
+Result:
+```
+{
+"id"; "url_id"; "language"; "status"; "attempts"; "last_error"; "created_at"; "updated_at"
+"7c1c21a2-b16f-4a0a-a6d2-7e6b62209d25"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "de"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:12:43.281422+01:00"; "2026-05-26 04:12:43.281422+01:00"
+"ad6fe5ae-86fb-4ee7-aa87-c9680194e099"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "en"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:05:24.661404+01:00"; "2026-05-26 04:05:24.661404+01:00"
+"121efdeb-8421-42ad-adc1-074e7c845201"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "es"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:09:32.513504+01:00"; "2026-05-26 04:09:32.513504+01:00"
+"172508cc-4561-42de-84e7-933e0171e22a"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "fr"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:18:34.366792+01:00"; "2026-05-26 04:18:34.366792+01:00"
+"0811e88c-4a1f-4e92-a967-147378736117"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "it"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:15:54.207596+01:00"; "2026-05-26 04:15:54.207596+01:00"
+"9f3bdb66-a96e-409f-8eb9-6af56e3d7e59"; "de735d6e-1199-4cd6-bebf-fdc586a625fe"; "pt"; "error"; "1"; "All scraping engines failed"; "2026-05-26 04:21:24.683343+01:00"; "2026-05-26 04:21:24.683343+01:00"
+}
+```
+
+---
+
+Query SQL: SELECT uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error, COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs FROM url_queue uq LEFT JOIN hotels h ON uq.id = h.url_id LEFT JOIN hotels_description hd ON uq.id = hd.url_id LEFT JOIN hotels_policies hp    ON uq.id = hp.url_id LEFT JOIN hotels_legal hl ON uq.id = hl.url_id GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language) ORDER BY COUNT(DISTINCT h.language) ASC limit 200
+Result:
+```
+{
+"id"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q9: 
+    -- Conteo de fotos únicas por hotel (paso en inglés = canónico)
+       SELECT h.url_id, uq.external_ref, h.hotel_name, COUNT(DISTINCT i.id_photo) AS unique_photos
+       FROM hotels h 
+       JOIN image_data i ON i.hotel_id = h.id 
+       JOIN url_queue uq ON uq.id = h.url_id 
+       WHERE h.language = 'en' 
+       GROUP BY h.url_id, uq.external_ref, h.hotel_name 
+       ORDER BY uq.external_ref;
+    
+Result:
+```
+{
+"url_id"; "external_ref"; "hotel_name"; "unique_photos"
+"92fc5b07-4e2b-4448-b7b6-9260afd18115"; "1001"; "Villa Dvor"; "106"
+"af58edce-0ef2-406d-870f-1f0ac5ae8d44"; "75920"; "Hotel Ambassador"; "52"
+"91785945-bfbb-49b9-bb98-bf683104e863"; "75925"; "Meliá Vienna"; "98"
+"18e00a2f-bc26-4c38-b431-4745cf45d826"; "75950"; "Hilton Vienna Plaza"; "120"
+"8b9ec02e-c486-41c5-8ab7-d63aaba4098a"; "75962"; "Steigenberger Hotel Herrenhof"; "79"
+"e3a370ba-51d0-4704-bc69-9667aa4b2eae"; "75986"; "Vienna Marriott Hotel"; "136"
+"65e164b4-f5f2-4a7a-8297-805395b8571c"; "76010"; "Le Méridien Vienna"; "133"
+"c065f4d1-fb79-446f-9157-42327b15ec99"; "76020"; "SO/ Vienna"; "222"
+"26a41612-ccaa-4111-9964-e4656ed4e02f"; "76032"; "Eurostars Grand Hotel Wien"; "172"
+"f6a39ddb-9a40-49a3-a5ba-3ba7e5c58df5"; "76033"; "Hotel Topazz & Lamée"; "56"
+"456fc037-2a60-4a66-8194-e6c15a13b2c5"; "76051"; "The Leo Grand"; "66"
+"5c72ac8f-49ae-4619-adef-97056cf79628"; "76082"; "InterContinental Wien by IHG"; "78"
+"d5409271-719c-493d-a05f-c08c932ac49e"; "76093"; "The Ritz-Carlton, Vienna"; "142"
+"f2bf7e88-b1b3-4c4e-8623-882f9f1eba77"; "76101"; "The Guesthouse Vienna"; "102"
+"54e435ae-1894-4d98-9fc7-fd6d7bb748a9"; "76108"; "Hotel Sans Souci, Vienna"; "110"
+"deb93b28-31c3-4999-a07a-c12ef2b0e044"; "76126"; "DO&CO Hotel Vienna"; "58"
+"7ac14a5e-e401-429c-8fbe-a87d396777a8"; "76133"; "Hotel Sacher Wien"; "86"
+"e2523267-01ed-44b6-b2e9-ab479342c2bd"; "76137"; "Hotel Imperial, a Luxury Collection Hotel, Vienna"; "222"
+"908eeec7-77e2-4d6d-a66a-d80531dcfee6"; "76144"; "Anantara Palais Hansen Vienna - A Leading Hotel of the World"; "86"
+"897a9cc4-d4a9-4b45-b160-92966c9989ec"; "76151"; "Rosewood Vienna"; "92"
+"04f654ac-3945-4412-bca7-fdbc244f092b"; "76159"; "Almanac Palais Vienna"; "78"
+"f4ee9f19-ab39-4a8e-b8b6-bb0bac00f2bc"; "76161"; "Park Hyatt Vienna"; "179"
+"0a26af56-9591-4211-8c34-8c87d2497d8a"; "76169"; "The Amauris Vienna - Relais & Châteaux"; "72"
+"1538b8d5-e119-44c6-a020-254bdf49ee1f"; "76173"; "Palais Coburg"; "33"
+"623c362b-f7e4-4727-a79f-2d4f509c4ca9"; "76186"; "Hyatt Regency Vienna"; "120"
+"9abbee68-6ab9-4ac7-bdc3-94c9425b4349"; "76187"; "Ibis Budget Graz City"; "52"
+"076988db-18cb-436f-b0b0-16733487e48a"; "76188"; "IntercityHotel Graz"; "89"
+"6ac413d6-cd4f-45ff-8a43-7fd95be22f60"; "76191"; "Hotel Mariahilf"; "130"
+"3db51fa7-bb44-4782-b5ac-1c6b7ef67fa9"; "76194"; "Palais-Hotel Erzherzog Johann"; "67"
+"51650060-85ff-44f9-9a96-6519dcc8a528"; "76196"; "B&B Hotel Graz-Hbf"; "33"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "76197"; "Motel One Graz"; "35"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "76199"; "Hotel Mercure Graz City"; "121"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "76200"; "SHOME Hotel Graz I Self-Check-In I Free Parking"; "77"
+"1d17cea5-06ea-40ea-9b74-4d20fa3f816c"; "76202"; "Hotel Drei Raben"; "31"
+"b8c3d83c-6efc-46ae-8fd6-e193d8693e26"; "76203"; "Zur Steirerstub'n"; "28"
+"871a7477-902c-4f86-9bc6-00233156d0c3"; "76204"; "Hotel Strasser"; "25"
+"50ee651b-496a-4435-a298-9a0b2a7d4223"; "76206"; "Boutique Hotel Dom - Rooms & Suites"; "68"
+"fa0b9266-a7f2-4f3a-b875-a40d9661ca35"; "76208"; "Hotel Feichtinger Graz"; "21"
+"527d003d-1c24-41b4-a0a6-f2e7fd91a354"; "76212"; "ibis Styles Graz Messe"; "111"
+"07e420b9-1af9-4dfd-bad1-ab97d4444079"; "76213"; "Schlossberghotel"; "76"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "76214"; "Hotel Wasserpalast - breakfast for free!!!"; "28"
+"73b8b009-3745-47d7-8034-a486fbd82bae"; "76220"; "Kai 36 - Hotel zwischen Fels und Fluss"; "93"
+"adc70b45-10d6-48cd-a672-a514742eac42"; "76224"; "Radisson Hotel Graz"; "84"
+"d70edd00-eb19-40c8-a24a-711d1f8a0e81"; "76372"; "Hotel Bristol Salzburg"; "85"
+"804cab14-37e6-476f-87bf-890831dc3638"; "76374"; "Hotel Sacher Salzburg"; "98"
+"ce2cb3db-1a9c-4e9d-8296-948b78603b15"; "76384"; "Hotel Goldener Hirsch, A Luxury Collection Hotel, Salzburg"; "62"
+"e5999bf5-760d-4a3e-aeb4-81a2dea4d2d8"; "76386"; "Hotel Schloss Mönchstein"; "223"
+"1f1db4be-344a-4ed5-90bb-e9998c76067e"; "76399"; "Posthotel Achenkirch Resort and Spa - Adults Only"; "108"
+"0f155ba6-25ac-487c-80b3-0c57815d54dd"; "76401"; "Hotel Spirodom"; "59"
+"9b8e0163-6754-43b2-b3a0-98fb1392ac50"; "76402"; "JUFA Hotel Schloss Röthelstein"; "56"
+"b198a2f9-b8cf-4c14-81a2-08a3c99108e2"; "76423"; "Seevilla Altaussee"; "38"
+"ad9852f9-0e31-4402-9f75-7dc0f73aca35"; "76470"; "Narzissen Vital Resort Bad Aussee"; "99"
+"0c45818a-9d86-4652-ac40-ecf1d5d1d5e4"; "76472"; "Rogner Bad Blumau"; "40"
+"94d46727-aa8b-4ead-8e25-7e5d319fbf82"; "76548"; "Thermenwelt Hotel Pulverer"; "108"
+"1027454e-af78-46a8-a9be-83b8a8ef1abf"; "76554"; "THE NEW RONACHER Thermal Spa Hotel"; "97"
+"709c6bd0-5ebe-4aa0-b633-e7a0cf197276"; "76569"; "Hotel Aquamarin"; "137"
+"0f424c1b-69a7-4124-ac1a-b2a785646e3c"; "76577"; "Hotel Birkenhof"; "91"
+"8aeb9e3f-8930-4ae6-acac-f1cbf32b8722"; "76592"; "Adults Only Hotel Reiters Supreme"; "48"
+"af106d6a-e0e2-4009-93fa-871acc74ead7"; "76596"; "Heilthermen Resort Bad Waltersdorf, Adults only"; "107"
+"b04b35ea-47c5-4726-b37d-f8e33b643a2b"; "76598"; "Spa Resort Styria- ADULTS ONLY"; "64"
+"abb1bb1e-0497-4528-b2dd-4a4f29b5a0c0"; "76672"; "JUFA Hotel Bruck an der Mur - im Weitental"; "72"
+"a215a941-327b-4c6c-b299-d4c2467c090d"; "76687"; "JUFA Hotel Deutschlandsberg"; "57"
+"053666af-c5ec-49c3-923b-3032ec7c8b09"; "76689"; "JUFA Hotel Donnersbachwald"; "33"
+"c11a99c2-86b6-401c-82dc-9a6b395bc31a"; "76724"; "Georgi Schloss - Boutique Hotel"; "82"
+"bd511fe6-f06b-400d-a50a-e63529287247"; "76745"; "Kaiserhof Superior"; "124"
+"9e3993af-241e-4cd2-a2df-83b099767528"; "76756"; "Der Lärchenhof"; "205"
+"9eb328b8-4981-42c3-94f8-874928648270"; "76787"; "Hotel Kiwano Graz"; "52"
+"5b18caa2-d7d1-4ce3-8d96-4b62997090b0"; "76811"; "Stock Resort"; "99"
+"8263868f-90df-402b-b0bc-c0014f332210"; "76822"; "Schlosshotel Fiss"; "113"
+"38f6ef46-a423-4a4e-ab09-36741aca113a"; "76888"; "Hotel Restaurant Hesch"; "73"
+"e450be9a-2674-4efc-b708-6e1d16b454f0"; "76896"; "Weinrefugium Brolli"; "40"
+"07474f69-adf1-4dd1-ac9d-37c50c8ecc40"; "76897"; "Jaglhof"; "46"
+"34762bad-5ba8-4bf6-95e8-070da29e3a15"; "76898"; "Schloss Gamlitz"; "33"
+"c738e7bb-a957-437d-a3f9-d32c505b8391"; "76920"; "Traumhotel Alpina Superior"; "117"
+"413568b4-d613-41e1-a16a-cd54de421bcb"; "76951"; "Hotel Bergblick 5 Sterne"; "70"
+"ed19f13d-92f9-40d8-ab11-de820d9b91a4"; "76952"; "Steinerhaus Berggasthof"; "52"
+"1b8de314-34fc-4e83-9ef2-eabcd1c77f91"; "76964"; "Hotel Süd Graz"; "118"
+"2140c080-761d-4b85-a105-9e0ba90067b6"; "76970"; "Hotel Aton"; "52"
+"76db1d55-8539-4d3a-a088-df2a77a486b6"; "76971"; "I AM HOTELS Graz-Seiersberg"; "90"
+"57111e26-82ad-42ca-b561-868819819cca"; "76972"; "Haus Mobene - Hotel Garni"; "47"
+"c3233697-accd-4dcc-8ac7-090e410aa63b"; "76975"; "PLAZA INN Graz Messe"; "63"
+"d906220d-a7c6-47cc-9d31-ec1114fe395d"; "76991"; "DAS EDELWEISS - Salzburg Mountain Resort"; "156"
+"2f31571e-265e-4585-a158-da25e2d56297"; "77002"; "Familien Natur Resort Moar Gut"; "103"
+"4cc15c85-2830-4295-ad19-c32e62cd428e"; "77006"; "JUFA Hotel Grundlsee"; "48"
+"70ce2111-461f-40b0-ab5d-1fe6bdee9caa"; "77007"; "TAUROA Seehotel Grundlsee"; "47"
+"558fc76d-c84d-4425-bea4-ba42c805c2a2"; "77088"; "A-ROSA Ifen Hotel Kleinwalsertal"; "76"
+"e43b5819-fc04-4f6b-95cd-09fdaebec100"; "77089"; "Hotel Adler Garni"; "31"
+"37bb674a-b768-4414-b117-febf2830d90c"; "77091"; "Suitehotel Kleinwalsertal"; "34"
+"a18fd704-8907-40b4-a8f6-779b94d22f92"; "77148"; "Schlosshotel Ischgl 5-Sterne Superior"; "79"
+"7652c4e4-34d3-453e-8365-e866aab039a9"; "77149"; "Trofana Royal 5-Sterne Superior Resort"; "62"
+"a93d7642-3313-4eaf-993d-2223efea0a3b"; "77152"; "Sport- und Genusshotel Silvretta"; "262"
+"5b8b7454-7e76-4f29-89e4-dd29c7f0d4c3"; "77179"; "Elizabeth Arthotel Adults Only"; "91"
+"c0275a18-2b87-4b95-8ff6-d71c141abcc9"; "77196"; "Kempinski Hotel Das Tirol"; "156"
+"5721e1fc-db54-4f44-a12e-843f30045906"; "77198"; "JUFA Hotel Judenburg"; "94"
+"fc015403-57b7-4128-8d73-72ed93360e96"; "77199"; "Stadthotel Schwerterbräu"; "94"
+"538c9e51-a23e-4919-b310-09104e4632af"; "77200"; "Hotel-Gasthof Restaurant Murblick"; "77"
+"0b6da984-d8c8-4de5-a32d-199531812bf6"; "77228"; "Hotel Zhero – Ischgl/Kappl"; "134"
+"6c11d012-ff0d-4be6-9bf2-bef1a2b76345"; "77262"; "Frühstückspension Ochnerbauer"; "48"
+"92e8fbdf-3f9b-4306-8e52-0b2d6734fc0e"; "77313"; "Pension Stieber"; "122"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "77318"; "Das Friedrich"; "33"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "77334"; "Gasthof Rothwangl Hannes"; "39"
+"04ace345-a6cc-4a2d-b1f4-e3dfd3cc8d70"; "77370"; "Naturhotel Waldklause"; "50"
+"7b981f0e-ac54-4156-9f16-9d039282ebf5"; "77373"; "Lachtalhaus"; "61"
+"8c07b1ff-ffd7-4644-9736-45d4d7fb7e6d"; "77374"; "Alpengasthof Tanzstatt"; "110"
+"5d79e974-1b15-4e37-9b9c-33d74f38b2b4"; "77393"; "Gasthof Kranerwirt"; "21"
+"d00f933b-51a3-43df-a68d-37b6d0cf585c"; "77399"; "Dolomitengolf Suites"; "87"
+"320a10f1-c8ce-4d31-b75d-038cef0ca521"; "77413"; "Hotel Sonnenburg"; "54"
+"17c3a938-20d3-4b60-b983-ceec208952c8"; "77414"; "Hotel Arlberg Lech"; "115"
+"ed224d1d-94f4-421c-8ecd-9b7aca893774"; "77415"; "Post Lech Arlberg"; "109"
+"898779be-f677-4bc4-8de7-9388acb8ab9b"; "77416"; "Burg Vital Resort"; "162"
+"685c8f74-b465-49f0-a83e-1c6ecb8d7fdf"; "77417"; "SEVERIN*S – The Alpine Retreat"; "52"
+"4c17f3c4-a26d-4c93-9d36-9de26ca717d3"; "77443"; "Hotel Krallerhof"; "87"
+"3649792f-8550-4868-b921-2e4d09e873e2"; "77460"; "Hotel Highway - Bed & Breakfast"; "59"
+"d7930db0-c564-4255-92d5-110a50d0ab3c"; "77464"; "Grandhotel Lienz Business-Wellness & Gourmet"; "153"
+"9d787bd1-88fb-46f9-9f8f-deb117167b11"; "77490"; "Hotel Seehof"; "19"
+"86d850f2-458b-411b-a015-04cb4b18372c"; "77529"; "JUFA Hotel Maria Lankowitz"; "69"
+"ebf614f0-3c6b-464f-b51c-c1028998d7d3"; "77541"; "JUFA Hotel Mariazell"; "42"
+"5de87b51-386f-451d-9d84-722969e788f7"; "77542"; "Hotel zum Heiligen Geist"; "134"
+"30d81435-d8bb-4db1-afdb-395c34a642b6"; "77544"; "Hotel Drei Hasen"; "66"
+"b8b3bccd-5f11-4f1f-812e-6358594fc370"; "77569"; "Cocoon - Alpine Boutique Lodge"; "69"
+"f86fa814-7f58-4c39-ba01-3bb722df86f5"; "77717"; "Relais&Châteaux Spa-Hotel Jagdhof"; "149"
+"15d65bf1-d025-41a1-a514-c4d74bda265d"; "77736"; "Hotel Brücklwirt"; "58"
+"b6aa70da-047c-4067-9c43-e8c1f7854163"; "77774"; "Sporthotel Cinderella"; "104"
+"47ac6493-be1d-4065-bde6-e8105569db1d"; "77775"; "Hotel das Seekarhaus"; "184"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "77788"; "Gesundheits- & Wellness Resort Oberzeiring"; "26"
+"9aacd236-e7a8-4488-86c3-3ef885280c03"; "77803"; "JUFA Hotel Pöllau"; "29"
+"2a0b2a03-ef49-41a1-ab1b-27998fe197ab"; "77853"; "JUFA Hotel Planneralm"; "29"
+"d1b677f1-b79b-429b-a2f7-9ca2e8464da9"; "77890"; "Hotel Post"; "30"
+"dd557ca0-0fa0-46ae-868c-bab04932669b"; "77892"; "Hotel Pehab - Dachstein Rooftop-Spa"; "135"
+"ca18e137-1464-48eb-ac94-e4edbca6f2b6"; "77897"; "Hotel Rösslhof"; "93"
+"e2437c15-a18f-4ff9-9784-3593e25a09e5"; "77978"; "Bergland Design- und Wellnesshotel"; "87"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "77989"; "Das Central – Alpine . Luxury . Life"; "92"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "78023"; "HYPERION Hotel Salzburg"; "39"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "78033"; "Sheraton Grand Salzburg"; "163"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "78035"; "Rosewood Schloss Fuschl"; "84"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "78073"; "Raffl's St. Antoner Hof"; "57"
+"0313daf0-d1b3-42e1-a6db-6356d9664ca1"; "78137"; "Hotel Auszeit St Lambrecht"; "66"
+"d5397fc0-640a-4898-ab5d-eb99560698be"; "78155"; "Waldschlössl Gasthof"; "25"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "78309"; "vidimo se"; "8"
+"098b32cf-903a-4e4d-a6b1-64430f994bff"; "78465"; "wild & bolz eMotel"; "24"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q10: 
+       SELECT uq.id AS url_id, uq.external_ref, h.hotel_name, COUNT(DISTINCT h.id) AS count_all_hotels, COUNT(DISTINCT l.id) AS count_all_legal, COUNT(DISTINCT d.id) AS count_all_descriptions, COALESCE(hs.count_service_category_en, 0) AS count_service_category_en, COALESCE(p.count_polices_en, 0) AS count_polices_en, COALESCE(p.count_polices_es, 0) AS count_polices_es, COALESCE(p.count_polices_fr, 0) AS count_polices_fr, COALESCE(img.count_highres_url, 0) AS count_highres_url, COALESCE(img.count_large_url, 0) AS count_large_url, COALESCE(img.count_thumb_url, 0) AS count_thumb_url
+       FROM url_queue uq
+       LEFT JOIN hotels h ON h.url_id = uq.id LEFT JOIN hotels_legal l ON l.hotel_id = h.id LEFT JOIN hotels_description d ON d.hotel_id = h.id 
+       LEFT JOIN ( SELECT url_id, COUNT(*) AS count_service_category_en FROM hotels_all_services WHERE language = 'en' GROUP BY url_id) hs ON hs.url_id = uq.id
+       LEFT JOIN ( SELECT url_id, COUNT(*) FILTER (WHERE language = 'en') AS count_polices_en, COUNT(*) FILTER (WHERE language = 'es') AS count_polices_es, COUNT(*) FILTER (WHERE language = 'fr') AS count_polices_fr FROM hotels_policies GROUP BY url_id ) p ON p.url_id = uq.id 
+       LEFT JOIN ( SELECT h.url_id, COUNT(i.name_jpg) FILTER ( WHERE i.category = 'highres_url') AS count_highres_url, COUNT(i.name_jpg) FILTER (WHERE i.category = 'large_url') AS count_large_url, COUNT(i.name_jpg) FILTER (WHERE i.category = 'thumb_url') AS count_thumb_url FROM hotels h LEFT JOIN image_downloads i ON i.hotel_id = h.id WHERE h.language = 'en' GROUP BY h.url_id) img ON img.url_id = uq.id 
+       GROUP BY uq.id, uq.external_ref, h.hotel_name, hs.count_service_category_en, p.count_polices_en, p.count_polices_es, p.count_polices_fr, img.count_highres_url, img.count_large_url, img.count_thumb_url 
+       ORDER BY uq.external_ref; 
+    
+Result:
+```
+{
+"url_id"; "external_ref"; "hotel_name"; "count_all_hotels"; "count_all_legal"; "count_all_descriptions"; "count_service_category_en"; "count_polices_en"; "count_polices_es"; "count_polices_fr"; "count_highres_url"; "count_large_url"; "count_thumb_url"
+"92fc5b07-4e2b-4448-b7b6-9260afd18115"; "1001"; "Villa Dvor"; "6"; "6"; "6"; "48"; "10"; "10"; "10"; "106"; "106"; "106"
+"af58edce-0ef2-406d-870f-1f0ac5ae8d44"; "75920"; "Hotel Ambassador"; "6"; "6"; "6"; "65"; "8"; "8"; "8"; "52"; "52"; "52"
+"91785945-bfbb-49b9-bb98-bf683104e863"; "75925"; "Meliá Vienna"; "6"; "6"; "6"; "65"; "8"; "8"; "8"; "98"; "98"; "98"
+"18e00a2f-bc26-4c38-b431-4745cf45d826"; "75950"; "Hilton Vienna Plaza"; "6"; "6"; "6"; "10"; "8"; "8"; "8"; "120"; "120"; "120"
+"8b9ec02e-c486-41c5-8ab7-d63aaba4098a"; "75962"; "Steigenberger Hotel Herrenhof"; "6"; "6"; "6"; "15"; "8"; "8"; "8"; "79"; "79"; "79"
+"e3a370ba-51d0-4704-bc69-9667aa4b2eae"; "75986"; "Vienna Marriott Hotel"; "6"; "6"; "6"; "95"; "8"; "8"; "8"; "136"; "136"; "136"
+"65e164b4-f5f2-4a7a-8297-805395b8571c"; "76010"; "Le Méridien Vienna"; "6"; "6"; "6"; "79"; "8"; "8"; "8"; "133"; "133"; "133"
+"c065f4d1-fb79-446f-9157-42327b15ec99"; "76020"; "SO/ Vienna"; "6"; "6"; "6"; "144"; "8"; "8"; "8"; "222"; "222"; "222"
+"26a41612-ccaa-4111-9964-e4656ed4e02f"; "76032"; "Eurostars Grand Hotel Wien"; "6"; "6"; "6"; "113"; "8"; "8"; "8"; "172"; "172"; "172"
+"f6a39ddb-9a40-49a3-a5ba-3ba7e5c58df5"; "76033"; "Hotel Topazz & Lamée"; "6"; "6"; "6"; "57"; "8"; "8"; "8"; "56"; "56"; "56"
+"456fc037-2a60-4a66-8194-e6c15a13b2c5"; "76051"; "The Leo Grand"; "6"; "6"; "6"; "79"; "8"; "8"; "8"; "66"; "66"; "66"
+"5c72ac8f-49ae-4619-adef-97056cf79628"; "76082"; "InterContinental Wien by IHG"; "6"; "6"; "6"; "102"; "8"; "8"; "8"; "78"; "78"; "78"
+"d5409271-719c-493d-a05f-c08c932ac49e"; "76093"; "The Ritz-Carlton, Vienna"; "6"; "6"; "6"; "139"; "8"; "8"; "8"; "142"; "142"; "142"
+"f2bf7e88-b1b3-4c4e-8623-882f9f1eba77"; "76101"; "The Guesthouse Vienna"; "6"; "6"; "6"; "83"; "8"; "8"; "8"; "102"; "102"; "102"
+"54e435ae-1894-4d98-9fc7-fd6d7bb748a9"; "76108"; "Hotel Sans Souci, Vienna"; "6"; "6"; "6"; "134"; "8"; "8"; "8"; "110"; "110"; "110"
+"deb93b28-31c3-4999-a07a-c12ef2b0e044"; "76126"; "DO&CO Hotel Vienna"; "6"; "6"; "6"; "63"; "8"; "8"; "8"; "58"; "58"; "58"
+"7ac14a5e-e401-429c-8fbe-a87d396777a8"; "76133"; "Hotel Sacher Wien"; "6"; "6"; "6"; "60"; "8"; "8"; "8"; "86"; "86"; "86"
+"e2523267-01ed-44b6-b2e9-ab479342c2bd"; "76137"; "Hotel Imperial, a Luxury Collection Hotel, Vienna"; "6"; "6"; "6"; "99"; "8"; "8"; "8"; "222"; "222"; "222"
+"908eeec7-77e2-4d6d-a66a-d80531dcfee6"; "76144"; "Anantara Palais Hansen Vienna - A Leading Hotel of the World"; "6"; "6"; "6"; "84"; "8"; "8"; "8"; "86"; "86"; "86"
+"897a9cc4-d4a9-4b45-b160-92966c9989ec"; "76151"; "Rosewood Vienna"; "6"; "6"; "6"; "61"; "8"; "8"; "8"; "92"; "92"; "92"
+"04f654ac-3945-4412-bca7-fdbc244f092b"; "76159"; "Almanac Palais Vienna"; "6"; "6"; "6"; "121"; "8"; "8"; "8"; "78"; "78"; "78"
+"f4ee9f19-ab39-4a8e-b8b6-bb0bac00f2bc"; "76161"; "Park Hyatt Vienna"; "6"; "6"; "6"; "112"; "7"; "7"; "7"; "179"; "179"; "179"
+"0a26af56-9591-4211-8c34-8c87d2497d8a"; "76169"; "The Amauris Vienna - Relais & Châteaux"; "6"; "6"; "6"; "101"; "8"; "8"; "8"; "72"; "72"; "72"
+"1538b8d5-e119-44c6-a020-254bdf49ee1f"; "76173"; "Palais Coburg"; "6"; "6"; "6"; "100"; "8"; "8"; "8"; "33"; "33"; "33"
+"623c362b-f7e4-4727-a79f-2d4f509c4ca9"; "76186"; "Hyatt Regency Vienna"; "6"; "6"; "6"; "100"; "8"; "8"; "8"; "120"; "120"; "120"
+"9abbee68-6ab9-4ac7-bdc3-94c9425b4349"; "76187"; "Ibis Budget Graz City"; "6"; "6"; "6"; "33"; "8"; "8"; "8"; "52"; "52"; "52"
+"076988db-18cb-436f-b0b0-16733487e48a"; "76188"; "IntercityHotel Graz"; "6"; "6"; "6"; "107"; "8"; "8"; "8"; "89"; "89"; "89"
+"6ac413d6-cd4f-45ff-8a43-7fd95be22f60"; "76191"; "Hotel Mariahilf"; "6"; "6"; "6"; "70"; "9"; "9"; "9"; "130"; "130"; "130"
+"3db51fa7-bb44-4782-b5ac-1c6b7ef67fa9"; "76194"; "Palais-Hotel Erzherzog Johann"; "6"; "6"; "6"; "50"; "8"; "8"; "8"; "67"; "67"; "67"
+"51650060-85ff-44f9-9a96-6519dcc8a528"; "76196"; "B&B Hotel Graz-Hbf"; "6"; "6"; "6"; "36"; "8"; "8"; "8"; "33"; "33"; "33"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "76197"; "Motel One Graz"; "6"; "6"; "6"; "37"; "8"; "8"; "8"; "35"; "35"; "35"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "76199"; "Hotel Mercure Graz City"; "6"; "6"; "6"; "46"; "8"; "8"; "8"; "121"; "121"; "121"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "76200"; "SHOME Hotel Graz I Self-Check-In I Free Parking"; "6"; "6"; "6"; "38"; "8"; "8"; "8"; "77"; "77"; "77"
+"1d17cea5-06ea-40ea-9b74-4d20fa3f816c"; "76202"; "Hotel Drei Raben"; "6"; "6"; "6"; "64"; "8"; "8"; "8"; "31"; "31"; "31"
+"b8c3d83c-6efc-46ae-8fd6-e193d8693e26"; "76203"; "Zur Steirerstub'n"; "6"; "6"; "6"; "62"; "8"; "8"; "8"; "28"; "28"; "28"
+"871a7477-902c-4f86-9bc6-00233156d0c3"; "76204"; "Hotel Strasser"; "6"; "6"; "6"; "52"; "8"; "8"; "8"; "25"; "25"; "25"
+"50ee651b-496a-4435-a298-9a0b2a7d4223"; "76206"; "Boutique Hotel Dom - Rooms & Suites"; "6"; "6"; "6"; "52"; "7"; "7"; "7"; "68"; "68"; "68"
+"fa0b9266-a7f2-4f3a-b875-a40d9661ca35"; "76208"; "Hotel Feichtinger Graz"; "6"; "6"; "6"; "53"; "8"; "8"; "8"; "21"; "21"; "21"
+"527d003d-1c24-41b4-a0a6-f2e7fd91a354"; "76212"; "ibis Styles Graz Messe"; "6"; "6"; "6"; "42"; "8"; "8"; "8"; "111"; "111"; "111"
+"07e420b9-1af9-4dfd-bad1-ab97d4444079"; "76213"; "Schlossberghotel"; "6"; "6"; "6"; "95"; "8"; "8"; "8"; "76"; "76"; "76"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "76214"; "Hotel Wasserpalast - breakfast for free!!!"; "6"; "6"; "6"; "16"; "7"; "7"; "7"; "28"; "28"; "28"
+"73b8b009-3745-47d7-8034-a486fbd82bae"; "76220"; "Kai 36 - Hotel zwischen Fels und Fluss"; "6"; "6"; "6"; "62"; "8"; "8"; "8"; "93"; "93"; "93"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "76221"; "NULL"; "0"; "0"; "0"; "0"; "0"; "0"; "0"; "0"; "0"; "0"
+"adc70b45-10d6-48cd-a672-a514742eac42"; "76224"; "Radisson Hotel Graz"; "6"; "6"; "6"; "55"; "8"; "8"; "8"; "84"; "84"; "84"
+"d70edd00-eb19-40c8-a24a-711d1f8a0e81"; "76372"; "Hotel Bristol Salzburg"; "6"; "6"; "6"; "96"; "8"; "8"; "8"; "85"; "85"; "85"
+"804cab14-37e6-476f-87bf-890831dc3638"; "76374"; "Hotel Sacher Salzburg"; "6"; "6"; "6"; "92"; "8"; "8"; "8"; "98"; "98"; "98"
+"ce2cb3db-1a9c-4e9d-8296-948b78603b15"; "76384"; "Hotel Goldener Hirsch, A Luxury Collection Hotel, Salzburg"; "6"; "6"; "6"; "69"; "8"; "8"; "8"; "62"; "62"; "62"
+"e5999bf5-760d-4a3e-aeb4-81a2dea4d2d8"; "76386"; "Hotel Schloss Mönchstein"; "6"; "6"; "6"; "84"; "7"; "7"; "7"; "223"; "223"; "223"
+"1f1db4be-344a-4ed5-90bb-e9998c76067e"; "76399"; "Posthotel Achenkirch Resort and Spa - Adults Only"; "6"; "6"; "6"; "152"; "8"; "8"; "8"; "108"; "108"; "108"
+"0f155ba6-25ac-487c-80b3-0c57815d54dd"; "76401"; "Hotel Spirodom"; "6"; "6"; "6"; "77"; "8"; "8"; "8"; "59"; "59"; "59"
+"9b8e0163-6754-43b2-b3a0-98fb1392ac50"; "76402"; "JUFA Hotel Schloss Röthelstein"; "6"; "6"; "6"; "54"; "8"; "8"; "8"; "56"; "56"; "56"
+"b198a2f9-b8cf-4c14-81a2-08a3c99108e2"; "76423"; "Seevilla Altaussee"; "6"; "6"; "6"; "99"; "7"; "7"; "7"; "38"; "38"; "38"
+"ad9852f9-0e31-4402-9f75-7dc0f73aca35"; "76470"; "Narzissen Vital Resort Bad Aussee"; "6"; "6"; "6"; "117"; "8"; "8"; "8"; "99"; "99"; "99"
+"0c45818a-9d86-4652-ac40-ecf1d5d1d5e4"; "76472"; "Rogner Bad Blumau"; "6"; "6"; "6"; "53"; "7"; "7"; "7"; "40"; "40"; "40"
+"94d46727-aa8b-4ead-8e25-7e5d319fbf82"; "76548"; "Thermenwelt Hotel Pulverer"; "6"; "6"; "6"; "155"; "7"; "7"; "7"; "108"; "108"; "108"
+"1027454e-af78-46a8-a9be-83b8a8ef1abf"; "76554"; "THE NEW RONACHER Thermal Spa Hotel"; "6"; "6"; "6"; "93"; "7"; "7"; "7"; "97"; "97"; "97"
+"709c6bd0-5ebe-4aa0-b633-e7a0cf197276"; "76569"; "Hotel Aquamarin"; "6"; "6"; "6"; "54"; "7"; "7"; "7"; "137"; "137"; "137"
+"0f424c1b-69a7-4124-ac1a-b2a785646e3c"; "76577"; "Hotel Birkenhof"; "6"; "6"; "6"; "4"; "8"; "8"; "8"; "91"; "91"; "91"
+"8aeb9e3f-8930-4ae6-acac-f1cbf32b8722"; "76592"; "Adults Only Hotel Reiters Supreme"; "6"; "6"; "6"; "127"; "7"; "7"; "7"; "48"; "48"; "48"
+"af106d6a-e0e2-4009-93fa-871acc74ead7"; "76596"; "Heilthermen Resort Bad Waltersdorf, Adults only"; "6"; "6"; "6"; "138"; "8"; "8"; "8"; "107"; "107"; "107"
+"b04b35ea-47c5-4726-b37d-f8e33b643a2b"; "76598"; "Spa Resort Styria- ADULTS ONLY"; "6"; "6"; "6"; "106"; "8"; "8"; "8"; "64"; "64"; "64"
+"abb1bb1e-0497-4528-b2dd-4a4f29b5a0c0"; "76672"; "JUFA Hotel Bruck an der Mur - im Weitental"; "6"; "6"; "6"; "59"; "8"; "8"; "8"; "72"; "72"; "72"
+"a215a941-327b-4c6c-b299-d4c2467c090d"; "76687"; "JUFA Hotel Deutschlandsberg"; "6"; "6"; "6"; "69"; "9"; "9"; "9"; "57"; "57"; "57"
+"053666af-c5ec-49c3-923b-3032ec7c8b09"; "76689"; "JUFA Hotel Donnersbachwald"; "6"; "6"; "6"; "67"; "8"; "8"; "8"; "33"; "33"; "33"
+"c11a99c2-86b6-401c-82dc-9a6b395bc31a"; "76724"; "Georgi Schloss - Boutique Hotel"; "6"; "6"; "6"; "54"; "7"; "7"; "7"; "82"; "82"; "82"
+"bd511fe6-f06b-400d-a50a-e63529287247"; "76745"; "Kaiserhof Superior"; "6"; "6"; "6"; "197"; "7"; "7"; "7"; "124"; "124"; "124"
+"9e3993af-241e-4cd2-a2df-83b099767528"; "76756"; "Der Lärchenhof"; "6"; "6"; "6"; "150"; "7"; "7"; "7"; "205"; "205"; "205"
+"9eb328b8-4981-42c3-94f8-874928648270"; "76787"; "Hotel Kiwano Graz"; "6"; "6"; "6"; "67"; "7"; "7"; "7"; "52"; "52"; "52"
+"5b18caa2-d7d1-4ce3-8d96-4b62997090b0"; "76811"; "Stock Resort"; "6"; "6"; "6"; "141"; "7"; "7"; "7"; "99"; "99"; "99"
+"8263868f-90df-402b-b0bc-c0014f332210"; "76822"; "Schlosshotel Fiss"; "6"; "6"; "6"; "156"; "7"; "7"; "7"; "113"; "113"; "113"
+"38f6ef46-a423-4a4e-ab09-36741aca113a"; "76888"; "Hotel Restaurant Hesch"; "6"; "6"; "6"; "64"; "7"; "7"; "7"; "73"; "73"; "73"
+"e450be9a-2674-4efc-b708-6e1d16b454f0"; "76896"; "Weinrefugium Brolli"; "6"; "6"; "6"; "57"; "8"; "8"; "8"; "40"; "40"; "40"
+"07474f69-adf1-4dd1-ac9d-37c50c8ecc40"; "76897"; "Jaglhof"; "6"; "6"; "6"; "70"; "7"; "7"; "7"; "46"; "46"; "46"
+"34762bad-5ba8-4bf6-95e8-070da29e3a15"; "76898"; "Schloss Gamlitz"; "6"; "6"; "6"; "61"; "7"; "7"; "7"; "33"; "33"; "33"
+"c738e7bb-a957-437d-a3f9-d32c505b8391"; "76920"; "Traumhotel Alpina Superior"; "6"; "6"; "6"; "113"; "7"; "7"; "7"; "117"; "117"; "117"
+"413568b4-d613-41e1-a16a-cd54de421bcb"; "76951"; "Hotel Bergblick 5 Sterne"; "6"; "6"; "6"; "79"; "8"; "8"; "8"; "70"; "70"; "70"
+"ed19f13d-92f9-40d8-ab11-de820d9b91a4"; "76952"; "Steinerhaus Berggasthof"; "6"; "6"; "6"; "35"; "7"; "7"; "7"; "52"; "52"; "52"
+"1b8de314-34fc-4e83-9ef2-eabcd1c77f91"; "76964"; "Hotel Süd Graz"; "6"; "6"; "6"; "73"; "8"; "8"; "8"; "118"; "118"; "118"
+"2140c080-761d-4b85-a105-9e0ba90067b6"; "76970"; "Hotel Aton"; "6"; "6"; "6"; "44"; "7"; "7"; "7"; "52"; "52"; "52"
+"76db1d55-8539-4d3a-a088-df2a77a486b6"; "76971"; "I AM HOTELS Graz-Seiersberg"; "6"; "6"; "6"; "70"; "8"; "8"; "8"; "90"; "90"; "90"
+"57111e26-82ad-42ca-b561-868819819cca"; "76972"; "Haus Mobene - Hotel Garni"; "6"; "6"; "6"; "44"; "7"; "7"; "7"; "47"; "47"; "47"
+"c3233697-accd-4dcc-8ac7-090e410aa63b"; "76975"; "PLAZA INN Graz Messe"; "6"; "6"; "6"; "61"; "8"; "8"; "8"; "63"; "63"; "63"
+"d906220d-a7c6-47cc-9d31-ec1114fe395d"; "76991"; "DAS EDELWEISS - Salzburg Mountain Resort"; "6"; "6"; "6"; "180"; "8"; "8"; "8"; "156"; "156"; "156"
+"2f31571e-265e-4585-a158-da25e2d56297"; "77002"; "Familien Natur Resort Moar Gut"; "6"; "6"; "6"; "197"; "8"; "8"; "8"; "103"; "103"; "103"
+"4cc15c85-2830-4295-ad19-c32e62cd428e"; "77006"; "JUFA Hotel Grundlsee"; "6"; "6"; "6"; "72"; "8"; "8"; "8"; "48"; "48"; "48"
+"70ce2111-461f-40b0-ab5d-1fe6bdee9caa"; "77007"; "TAUROA Seehotel Grundlsee"; "6"; "6"; "6"; "67"; "8"; "8"; "8"; "47"; "47"; "47"
+"558fc76d-c84d-4425-bea4-ba42c805c2a2"; "77088"; "A-ROSA Ifen Hotel Kleinwalsertal"; "6"; "6"; "6"; "133"; "8"; "8"; "8"; "76"; "76"; "76"
+"e43b5819-fc04-4f6b-95cd-09fdaebec100"; "77089"; "Hotel Adler Garni"; "6"; "6"; "6"; "41"; "8"; "8"; "8"; "31"; "31"; "31"
+"37bb674a-b768-4414-b117-febf2830d90c"; "77091"; "Suitehotel Kleinwalsertal"; "6"; "6"; "6"; "87"; "7"; "7"; "7"; "34"; "34"; "34"
+"a18fd704-8907-40b4-a8f6-779b94d22f92"; "77148"; "Schlosshotel Ischgl 5-Sterne Superior"; "6"; "6"; "6"; "109"; "7"; "7"; "7"; "79"; "79"; "79"
+"7652c4e4-34d3-453e-8365-e866aab039a9"; "77149"; "Trofana Royal 5-Sterne Superior Resort"; "6"; "6"; "6"; "165"; "7"; "7"; "7"; "62"; "62"; "62"
+"a93d7642-3313-4eaf-993d-2223efea0a3b"; "77152"; "Sport- und Genusshotel Silvretta"; "6"; "6"; "6"; "76"; "7"; "7"; "7"; "262"; "262"; "262"
+"5b8b7454-7e76-4f29-89e4-dd29c7f0d4c3"; "77179"; "Elizabeth Arthotel Adults Only"; "6"; "6"; "6"; "124"; "7"; "7"; "7"; "91"; "91"; "91"
+"c0275a18-2b87-4b95-8ff6-d71c141abcc9"; "77196"; "Kempinski Hotel Das Tirol"; "6"; "6"; "6"; "135"; "8"; "8"; "8"; "156"; "156"; "156"
+"5721e1fc-db54-4f44-a12e-843f30045906"; "77198"; "JUFA Hotel Judenburg"; "6"; "6"; "6"; "52"; "8"; "8"; "8"; "94"; "94"; "94"
+"fc015403-57b7-4128-8d73-72ed93360e96"; "77199"; "Stadthotel Schwerterbräu"; "6"; "6"; "6"; "54"; "8"; "8"; "8"; "94"; "94"; "94"
+"538c9e51-a23e-4919-b310-09104e4632af"; "77200"; "Hotel-Gasthof Restaurant Murblick"; "6"; "6"; "6"; "65"; "8"; "8"; "8"; "77"; "77"; "77"
+"0b6da984-d8c8-4de5-a32d-199531812bf6"; "77228"; "Hotel Zhero – Ischgl/Kappl"; "6"; "6"; "6"; "88"; "7"; "7"; "7"; "134"; "134"; "134"
+"6c11d012-ff0d-4be6-9bf2-bef1a2b76345"; "77262"; "Frühstückspension Ochnerbauer"; "6"; "6"; "6"; "28"; "7"; "7"; "7"; "48"; "48"; "48"
+"92e8fbdf-3f9b-4306-8e52-0b2d6734fc0e"; "77313"; "Pension Stieber"; "6"; "6"; "6"; "5"; "7"; "7"; "7"; "122"; "122"; "122"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "77318"; "Das Friedrich"; "6"; "6"; "6"; "13"; "7"; "7"; "7"; "33"; "33"; "33"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "77334"; "Gasthof Rothwangl Hannes"; "6"; "6"; "6"; "24"; "7"; "7"; "7"; "39"; "39"; "39"
+"04ace345-a6cc-4a2d-b1f4-e3dfd3cc8d70"; "77370"; "Naturhotel Waldklause"; "6"; "6"; "6"; "137"; "7"; "7"; "7"; "50"; "50"; "50"
+"7b981f0e-ac54-4156-9f16-9d039282ebf5"; "77373"; "Lachtalhaus"; "6"; "6"; "6"; "50"; "7"; "7"; "7"; "61"; "61"; "61"
+"8c07b1ff-ffd7-4644-9736-45d4d7fb7e6d"; "77374"; "Alpengasthof Tanzstatt"; "6"; "6"; "6"; "45"; "7"; "7"; "7"; "110"; "110"; "110"
+"5d79e974-1b15-4e37-9b9c-33d74f38b2b4"; "77393"; "Gasthof Kranerwirt"; "6"; "6"; "6"; "6"; "7"; "7"; "7"; "21"; "21"; "21"
+"d00f933b-51a3-43df-a68d-37b6d0cf585c"; "77399"; "Dolomitengolf Suites"; "6"; "6"; "6"; "110"; "7"; "7"; "7"; "87"; "87"; "87"
+"320a10f1-c8ce-4d31-b75d-038cef0ca521"; "77413"; "Hotel Sonnenburg"; "6"; "6"; "6"; "120"; "7"; "7"; "7"; "54"; "54"; "54"
+"17c3a938-20d3-4b60-b983-ceec208952c8"; "77414"; "Hotel Arlberg Lech"; "6"; "6"; "6"; "108"; "7"; "7"; "7"; "115"; "115"; "115"
+"ed224d1d-94f4-421c-8ecd-9b7aca893774"; "77415"; "Post Lech Arlberg"; "6"; "6"; "6"; "148"; "7"; "7"; "7"; "109"; "109"; "109"
+"898779be-f677-4bc4-8de7-9388acb8ab9b"; "77416"; "Burg Vital Resort"; "6"; "6"; "6"; "121"; "8"; "8"; "8"; "162"; "162"; "162"
+"685c8f74-b465-49f0-a83e-1c6ecb8d7fdf"; "77417"; "SEVERIN*S – The Alpine Retreat"; "6"; "6"; "6"; "94"; "7"; "7"; "7"; "52"; "52"; "52"
+"4c17f3c4-a26d-4c93-9d36-9de26ca717d3"; "77443"; "Hotel Krallerhof"; "6"; "6"; "6"; "159"; "7"; "7"; "7"; "87"; "87"; "87"
+"3649792f-8550-4868-b921-2e4d09e873e2"; "77460"; "Hotel Highway - Bed & Breakfast"; "6"; "6"; "6"; "41"; "7"; "7"; "7"; "59"; "59"; "59"
+"d7930db0-c564-4255-92d5-110a50d0ab3c"; "77464"; "Grandhotel Lienz Business-Wellness & Gourmet"; "6"; "6"; "6"; "148"; "7"; "7"; "7"; "153"; "153"; "153"
+"9d787bd1-88fb-46f9-9f8f-deb117167b11"; "77490"; "Hotel Seehof"; "6"; "6"; "6"; "44"; "7"; "7"; "7"; "19"; "19"; "19"
+"86d850f2-458b-411b-a015-04cb4b18372c"; "77529"; "JUFA Hotel Maria Lankowitz"; "6"; "6"; "6"; "75"; "8"; "8"; "8"; "69"; "69"; "69"
+"ebf614f0-3c6b-464f-b51c-c1028998d7d3"; "77541"; "JUFA Hotel Mariazell"; "6"; "6"; "6"; "76"; "8"; "8"; "8"; "42"; "42"; "42"
+"5de87b51-386f-451d-9d84-722969e788f7"; "77542"; "Hotel zum Heiligen Geist"; "6"; "6"; "6"; "43"; "7"; "7"; "7"; "134"; "134"; "134"
+"30d81435-d8bb-4db1-afdb-395c34a642b6"; "77544"; "Hotel Drei Hasen"; "6"; "6"; "6"; "77"; "7"; "7"; "7"; "66"; "66"; "66"
+"b8b3bccd-5f11-4f1f-812e-6358594fc370"; "77569"; "Cocoon - Alpine Boutique Lodge"; "6"; "6"; "6"; "128"; "7"; "7"; "7"; "69"; "69"; "69"
+"f86fa814-7f58-4c39-ba01-3bb722df86f5"; "77717"; "Relais&Châteaux Spa-Hotel Jagdhof"; "6"; "6"; "6"; "104"; "7"; "7"; "7"; "149"; "149"; "149"
+"15d65bf1-d025-41a1-a514-c4d74bda265d"; "77736"; "Hotel Brücklwirt"; "6"; "6"; "6"; "88"; "7"; "7"; "7"; "58"; "58"; "58"
+"b6aa70da-047c-4067-9c43-e8c1f7854163"; "77774"; "Sporthotel Cinderella"; "6"; "6"; "6"; "116"; "7"; "7"; "7"; "104"; "104"; "104"
+"47ac6493-be1d-4065-bde6-e8105569db1d"; "77775"; "Hotel das Seekarhaus"; "6"; "6"; "6"; "144"; "7"; "7"; "7"; "184"; "184"; "184"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "77788"; "Gesundheits- & Wellness Resort Oberzeiring"; "6"; "6"; "6"; "8"; "7"; "7"; "7"; "26"; "26"; "26"
+"9aacd236-e7a8-4488-86c3-3ef885280c03"; "77803"; "JUFA Hotel Pöllau"; "6"; "6"; "6"; "85"; "8"; "8"; "8"; "29"; "29"; "29"
+"2a0b2a03-ef49-41a1-ab1b-27998fe197ab"; "77853"; "JUFA Hotel Planneralm"; "6"; "6"; "6"; "72"; "8"; "8"; "8"; "29"; "29"; "29"
+"d1b677f1-b79b-429b-a2f7-9ca2e8464da9"; "77890"; "Hotel Post"; "6"; "6"; "6"; "68"; "7"; "7"; "7"; "30"; "30"; "30"
+"dd557ca0-0fa0-46ae-868c-bab04932669b"; "77892"; "Hotel Pehab - Dachstein Rooftop-Spa"; "6"; "6"; "6"; "80"; "7"; "7"; "7"; "135"; "135"; "135"
+"ca18e137-1464-48eb-ac94-e4edbca6f2b6"; "77897"; "Hotel Rösslhof"; "6"; "6"; "6"; "148"; "8"; "8"; "8"; "93"; "93"; "93"
+"e2437c15-a18f-4ff9-9784-3593e25a09e5"; "77978"; "Bergland Design- und Wellnesshotel"; "6"; "6"; "6"; "129"; "7"; "7"; "7"; "87"; "87"; "87"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "77989"; "Das Central – Alpine . Luxury . Life"; "6"; "6"; "6"; "118"; "7"; "7"; "7"; "92"; "92"; "92"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "78023"; "HYPERION Hotel Salzburg"; "6"; "6"; "6"; "77"; "8"; "8"; "8"; "39"; "39"; "39"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "78033"; "Sheraton Grand Salzburg"; "6"; "6"; "6"; "97"; "8"; "8"; "8"; "163"; "163"; "163"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "78035"; "Rosewood Schloss Fuschl"; "6"; "6"; "6"; "86"; "7"; "7"; "7"; "84"; "84"; "84"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "78073"; "Raffl's St. Antoner Hof"; "6"; "6"; "6"; "92"; "7"; "7"; "7"; "57"; "57"; "57"
+"0313daf0-d1b3-42e1-a6db-6356d9664ca1"; "78137"; "Hotel Auszeit St Lambrecht"; "6"; "6"; "6"; "86"; "8"; "8"; "8"; "66"; "66"; "66"
+"d5397fc0-640a-4898-ab5d-eb99560698be"; "78155"; "Waldschlössl Gasthof"; "6"; "6"; "6"; "45"; "8"; "8"; "8"; "25"; "25"; "25"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "78309"; "vidimo se"; "6"; "6"; "6"; "15"; "7"; "7"; "7"; "8"; "8"; "8"
+"098b32cf-903a-4e4d-a6b1-64430f994bff"; "78465"; "wild & bolz eMotel"; "6"; "6"; "6"; "33"; "7"; "7"; "7"; "24"; "24"; "24"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q11: Overall URL processing status ──────────────────────────────────────
+       SELECT status, COUNT(*) AS count, MIN(updated_at) AS oldest, MAX(updated_at) AS newest FROM url_queue GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"; "oldest"; "newest"
+"done"; "140"; "2026-05-26 01:03:56.607031+01:00"; "2026-05-26 10:43:33.285263+01:00"
+"error"; "1"; "2026-05-26 04:21:24.781421+01:00"; "2026-05-26 04:21:24.781421+01:00"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q12: Comprehensive diagnosis of all affected URLs
+       SELECT uq.id, uq.external_ref, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error,
+         -- Conteos por tabla
+       COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs
+       FROM url_queue uq LEFT JOIN hotels h ON uq.id = h.url_id LEFT JOIN hotels_description hd ON uq.id = hd.url_id LEFT JOIN hotels_policies hp ON uq.id = hp.url_id LEFT JOIN hotels_legal hl ON uq.id = hl.url_id GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language) ORDER BY COUNT(DISTINCT h.language) ASC;
+    
+Result:
+```
+{
+"id"; "external_ref"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "76221"; "error"; "0"; ""; "en,es,de,it,fr,pt"; "Incomplete: 0/6 languages. OK=[] FAILED=['en', 'es', 'de', 'it', 'fr', 'pt']"; "0"; "0"; "0"; "0"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q13: URLs with missing languages ────────────────────────────────────────
+    -- Expected after Build : 0 rows.
+    -- Run after each batch to confirm all 6 languages are captured.
+       SELECT uq.id  AS url_id, uq.url, uq.external_ref, uq.status, COUNT(DISTINCT h.language) AS lang_count, STRING_AGG(DISTINCT h.language, ', ' ORDER BY h.language) AS languages_present, 6 - COUNT(DISTINCT h.language) AS missing_count, uq.languages_failed FROM url_queue uq LEFT JOIN hotels h ON h.url_id = uq.id WHERE uq.status IN ('done', 'error') GROUP BY uq.id, uq.url, uq.status, uq.languages_failed HAVING COUNT(DISTINCT h.language) < 6 ORDER BY missing_count DESC, uq.updated_at DESC;  
+    
+Result:
+```
+{
+"url_id"; "url"; "external_ref"; "status"; "lang_count"; "languages_present"; "missing_count"; "languages_failed"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "https://www.booking.com/hotel/at/minihotel-graz.html"; "76221"; "error"; "0"; "NULL"; "6"; "en,es,de,it,fr,pt"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q14: 
+       SELECT event_type, status, count(*) FROM scraping_logs GROUP BY event_type, status ORDER BY count DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "count"
+"scrape_success"; "done"; "840"
+"scrape_failed"; "error"; "6"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q15: Logs from the last session:
+       SELECT url_id, language, event_type, status, duration_ms, scraped_at FROM scraping_logs WHERE scraped_at >= '2026-03-31 22:00:00+00' ORDER BY scraped_at DESC LIMIT 30; 
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "scraped_at"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "pt"; "scrape_success"; "done"; "22621"; "2026-05-26 10:43:33.276846+01:00"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "fr"; "scrape_success"; "done"; "22528"; "2026-05-26 10:42:50.054028+01:00"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "it"; "scrape_success"; "done"; "25965"; "2026-05-26 10:41:46.143936+01:00"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "de"; "scrape_success"; "done"; "13379"; "2026-05-26 10:40:27.316024+01:00"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "es"; "scrape_success"; "done"; "27079"; "2026-05-26 10:40:01.517760+01:00"
+"8dd60551-c586-4105-b0d7-c063c732f271"; "en"; "scrape_success"; "done"; "50085"; "2026-05-26 10:38:54.048575+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "pt"; "scrape_success"; "done"; "33413"; "2026-05-26 10:37:20.854356+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "fr"; "scrape_success"; "done"; "45491"; "2026-05-26 10:36:12.363131+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "pt"; "scrape_success"; "done"; "26555"; "2026-05-26 10:35:47.948827+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "it"; "scrape_success"; "done"; "55098"; "2026-05-26 10:34:57.634747+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "fr"; "scrape_success"; "done"; "34124"; "2026-05-26 10:34:40.540472+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "it"; "scrape_success"; "done"; "24768"; "2026-05-26 10:33:47.094110+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "de"; "scrape_success"; "done"; "43404"; "2026-05-26 10:33:23.410956+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "de"; "scrape_success"; "done"; "33735"; "2026-05-26 10:33:09.203318+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "es"; "scrape_success"; "done"; "40234"; "2026-05-26 10:32:25.846394+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "es"; "scrape_success"; "done"; "32252"; "2026-05-26 10:31:57.514936+01:00"
+"d301c1c6-9394-42b9-9a8b-3b2bac34c9e4"; "en"; "scrape_success"; "done"; "97333"; "2026-05-26 10:31:25.592080+01:00"
+"37f5f3f7-0de4-4d53-bf2a-ea1715c47a82"; "en"; "scrape_success"; "done"; "48362"; "2026-05-26 10:30:42.338271+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "pt"; "scrape_success"; "done"; "61759"; "2026-05-26 10:28:38.738989+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "pt"; "scrape_success"; "done"; "40827"; "2026-05-26 10:28:24.175475+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "fr"; "scrape_success"; "done"; "52107"; "2026-05-26 10:27:25.023214+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "fr"; "scrape_success"; "done"; "34191"; "2026-05-26 10:27:02.346317+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "it"; "scrape_success"; "done"; "21848"; "2026-05-26 10:26:02.027091+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "it"; "scrape_success"; "done"; "44439"; "2026-05-26 10:25:44.242592+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "de"; "scrape_success"; "done"; "21381"; "2026-05-26 10:25:21.495280+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "de"; "scrape_success"; "done"; "17928"; "2026-05-26 10:24:30.191927+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "es"; "scrape_success"; "done"; "15111"; "2026-05-26 10:24:18.853353+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "es"; "scrape_success"; "done"; "28359"; "2026-05-26 10:23:58.116081+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "en"; "scrape_success"; "done"; "100172"; "2026-05-26 10:23:49.284013+01:00"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "en"; "scrape_success"; "done"; "46794"; "2026-05-26 10:22:53.432560+01:00"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q16: Distribution using only confirmed columns
+       SELECT event_type, status, COUNT(*) AS total, ROUND(AVG(duration_ms) / 1000.0, 1) AS avg_s, ROUND(MIN(duration_ms) / 1000.0, 1)    AS min_s, ROUND(MAX(duration_ms) / 1000.0, 1) AS max_s FROM scraping_logs GROUP BY event_type, status ORDER BY total DESC; 
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "840"; "39.8"; "11.3"; "148.2"
+"scrape_failed"; "error"; "6"; "170.4"; "126.4"; "291.7"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q17: Scrapes over 100 seconds
+       SELECT url_id, language, event_type, status, duration_ms, ROUND(duration_ms / 1000.0, 1) AS duration_s, scraped_at FROM scraping_logs WHERE duration_ms > 100000 ORDER BY duration_ms DESC;
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "duration_s"; "scraped_at"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "en"; "scrape_failed"; "error"; "291666"; "291.7"; "2026-05-26 04:05:24.687796+01:00"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "es"; "scrape_failed"; "error"; "167884"; "167.9"; "2026-05-26 04:09:32.520135+01:00"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "it"; "scrape_failed"; "error"; "160051"; "160.1"; "2026-05-26 04:15:54.210153+01:00"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "de"; "scrape_failed"; "error"; "150033"; "150.0"; "2026-05-26 04:12:43.289788+01:00"
+"7652c4e4-34d3-453e-8365-e866aab039a9"; "en"; "scrape_success"; "done"; "148165"; "148.2"; "2026-05-26 07:33:00.111675+01:00"
+"adc70b45-10d6-48cd-a672-a514742eac42"; "en"; "scrape_success"; "done"; "141530"; "141.5"; "2026-05-26 04:04:08.460453+01:00"
+"54e435ae-1894-4d98-9fc7-fd6d7bb748a9"; "en"; "scrape_success"; "done"; "136451"; "136.5"; "2026-05-26 02:12:41.494528+01:00"
+"d70edd00-eb19-40c8-a24a-711d1f8a0e81"; "en"; "scrape_success"; "done"; "135488"; "135.5"; "2026-05-26 04:25:15.017984+01:00"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "en"; "scrape_success"; "done"; "130609"; "130.6"; "2026-05-26 03:22:42.125103+01:00"
+"17c3a938-20d3-4b60-b983-ceec208952c8"; "en"; "scrape_success"; "done"; "129009"; "129.0"; "2026-05-26 08:43:26.444206+01:00"
+"558fc76d-c84d-4425-bea4-ba42c805c2a2"; "en"; "scrape_success"; "done"; "127998"; "128.0"; "2026-05-26 07:15:24.202848+01:00"
+"908eeec7-77e2-4d6d-a66a-d80531dcfee6"; "en"; "scrape_success"; "done"; "126415"; "126.4"; "2026-05-26 02:29:53.511997+01:00"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "fr"; "scrape_failed"; "error"; "126413"; "126.4"; "2026-05-26 04:18:34.369803+01:00"
+"de735d6e-1199-4cd6-bebf-fdc586a625fe"; "pt"; "scrape_failed"; "error"; "126360"; "126.4"; "2026-05-26 04:21:24.691489+01:00"
+"c11a99c2-86b6-401c-82dc-9a6b395bc31a"; "en"; "scrape_success"; "done"; "126157"; "126.2"; "2026-05-26 05:45:33.246442+01:00"
+"1f1db4be-344a-4ed5-90bb-e9998c76067e"; "en"; "scrape_success"; "done"; "123461"; "123.5"; "2026-05-26 04:42:44.370300+01:00"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "en"; "scrape_success"; "done"; "123383"; "123.4"; "2026-05-26 03:54:44.083045+01:00"
+"7ac14a5e-e401-429c-8fbe-a87d396777a8"; "en"; "scrape_success"; "done"; "122237"; "122.2"; "2026-05-26 02:21:03.563822+01:00"
+"37bb674a-b768-4414-b117-febf2830d90c"; "en"; "scrape_success"; "done"; "121777"; "121.8"; "2026-05-26 07:24:04.107624+01:00"
+"c738e7bb-a957-437d-a3f9-d32c505b8391"; "en"; "scrape_success"; "done"; "121327"; "121.3"; "2026-05-26 06:27:45.932032+01:00"
+"92fc5b07-4e2b-4448-b7b6-9260afd18115"; "en"; "scrape_success"; "done"; "121283"; "121.3"; "2026-05-26 01:08:04.639061+01:00"
+"04f654ac-3945-4412-bca7-fdbc244f092b"; "en"; "scrape_success"; "done"; "119451"; "119.5"; "2026-05-26 02:37:58.175572+01:00"
+"8c07b1ff-ffd7-4644-9736-45d4d7fb7e6d"; "en"; "scrape_success"; "done"; "119144"; "119.1"; "2026-05-26 08:27:49.770393+01:00"
+"ed19f13d-92f9-40d8-ab11-de820d9b91a4"; "en"; "scrape_success"; "done"; "117927"; "117.9"; "2026-05-26 06:36:12.866675+01:00"
+"5721e1fc-db54-4f44-a12e-843f30045906"; "en"; "scrape_success"; "done"; "117777"; "117.8"; "2026-05-26 07:49:46.267613+01:00"
+"94d46727-aa8b-4ead-8e25-7e5d319fbf82"; "en"; "scrape_success"; "done"; "117554"; "117.6"; "2026-05-26 05:07:13.949493+01:00"
+"5de87b51-386f-451d-9d84-722969e788f7"; "en"; "scrape_success"; "done"; "117106"; "117.1"; "2026-05-26 09:26:59.846388+01:00"
+"9e3993af-241e-4cd2-a2df-83b099767528"; "en"; "scrape_success"; "done"; "116423"; "116.4"; "2026-05-26 05:56:11.329865+01:00"
+"d7930db0-c564-4255-92d5-110a50d0ab3c"; "en"; "scrape_success"; "done"; "116081"; "116.1"; "2026-05-26 09:10:03.099239+01:00"
+"898779be-f677-4bc4-8de7-9388acb8ab9b"; "en"; "scrape_success"; "done"; "115091"; "115.1"; "2026-05-26 08:53:52.729835+01:00"
+"38f6ef46-a423-4a4e-ab09-36741aca113a"; "en"; "scrape_success"; "done"; "114419"; "114.4"; "2026-05-26 06:11:58.988372+01:00"
+"9b8e0163-6754-43b2-b3a0-98fb1392ac50"; "en"; "scrape_success"; "done"; "114174"; "114.2"; "2026-05-26 04:51:26.267448+01:00"
+"57111e26-82ad-42ca-b561-868819819cca"; "en"; "scrape_success"; "done"; "112560"; "112.6"; "2026-05-26 06:51:37.629711+01:00"
+"5b18caa2-d7d1-4ce3-8d96-4b62997090b0"; "en"; "scrape_success"; "done"; "111822"; "111.8"; "2026-05-26 06:04:34.611745+01:00"
+"623c362b-f7e4-4727-a79f-2d4f509c4ca9"; "en"; "scrape_success"; "done"; "111637"; "111.6"; "2026-05-26 02:55:43.502596+01:00"
+"4c17f3c4-a26d-4c93-9d36-9de26ca717d3"; "en"; "scrape_success"; "done"; "110891"; "110.9"; "2026-05-26 09:00:50.165691+01:00"
+"3db51fa7-bb44-4782-b5ac-1c6b7ef67fa9"; "en"; "scrape_success"; "done"; "110629"; "110.6"; "2026-05-26 03:08:36.900656+01:00"
+"b04b35ea-47c5-4726-b37d-f8e33b643a2b"; "en"; "scrape_success"; "done"; "110592"; "110.6"; "2026-05-26 05:30:32.355906+01:00"
+"456fc037-2a60-4a66-8194-e6c15a13b2c5"; "en"; "scrape_success"; "done"; "110391"; "110.4"; "2026-05-26 01:55:43.094807+01:00"
+"4cc15c85-2830-4295-ad19-c32e62cd428e"; "en"; "scrape_success"; "done"; "110106"; "110.1"; "2026-05-26 07:08:06.897829+01:00"
+"2140c080-761d-4b85-a105-9e0ba90067b6"; "en"; "scrape_success"; "done"; "109387"; "109.4"; "2026-05-26 06:44:14.910973+01:00"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "en"; "scrape_success"; "done"; "109336"; "109.3"; "2026-05-26 08:12:47.174604+01:00"
+"709c6bd0-5ebe-4aa0-b633-e7a0cf197276"; "en"; "scrape_success"; "done"; "108790"; "108.8"; "2026-05-26 05:14:12.593272+01:00"
+"d1b677f1-b79b-429b-a2f7-9ca2e8464da9"; "en"; "scrape_success"; "done"; "108786"; "108.8"; "2026-05-26 10:06:49.087008+01:00"
+"d5409271-719c-493d-a05f-c08c932ac49e"; "en"; "scrape_success"; "done"; "108754"; "108.8"; "2026-05-26 02:04:09.457141+01:00"
+"b8b3bccd-5f11-4f1f-812e-6358594fc370"; "en"; "scrape_success"; "done"; "108273"; "108.3"; "2026-05-26 09:34:32.637241+01:00"
+"0313daf0-d1b3-42e1-a6db-6356d9664ca1"; "en"; "scrape_success"; "done"; "108180"; "108.2"; "2026-05-26 01:00:39.624230+01:00"
+"ca18e137-1464-48eb-ac94-e4edbca6f2b6"; "en"; "scrape_success"; "done"; "108026"; "108.0"; "2026-05-26 10:16:39.012951+01:00"
+"50ee651b-496a-4435-a298-9a0b2a7d4223"; "en"; "scrape_success"; "done"; "107779"; "107.8"; "2026-05-26 03:37:52.019378+01:00"
+"07474f69-adf1-4dd1-ac9d-37c50c8ecc40"; "en"; "scrape_success"; "done"; "107256"; "107.3"; "2026-05-26 06:19:30.030132+01:00"
+"bd511fe6-f06b-400d-a50a-e63529287247"; "it"; "scrape_success"; "done"; "107148"; "107.1"; "2026-05-26 05:50:12.093884+01:00"
+"8aeb9e3f-8930-4ae6-acac-f1cbf32b8722"; "en"; "scrape_success"; "done"; "106622"; "106.6"; "2026-05-26 05:22:21.728262+01:00"
+"ce2cb3db-1a9c-4e9d-8296-948b78603b15"; "en"; "scrape_success"; "done"; "106551"; "106.6"; "2026-05-26 04:33:53.101296+01:00"
+"8b9ec02e-c486-41c5-8ab7-d63aaba4098a"; "en"; "scrape_success"; "done"; "105247"; "105.2"; "2026-05-26 01:31:44.794982+01:00"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "en"; "scrape_success"; "done"; "104752"; "104.8"; "2026-05-26 01:15:39.506183+01:00"
+"86d850f2-458b-411b-a015-04cb4b18372c"; "en"; "scrape_success"; "done"; "103530"; "103.5"; "2026-05-26 09:18:23.841030+01:00"
+"0a26af56-9591-4211-8c34-8c87d2497d8a"; "en"; "scrape_success"; "done"; "103312"; "103.3"; "2026-05-26 02:46:24.790010+01:00"
+"26a41612-ccaa-4111-9964-e4656ed4e02f"; "en"; "scrape_success"; "done"; "102707"; "102.7"; "2026-05-26 01:47:06.292361+01:00"
+"d906220d-a7c6-47cc-9d31-ec1114fe395d"; "en"; "scrape_success"; "done"; "102620"; "102.6"; "2026-05-26 06:59:33.762118+01:00"
+"65e164b4-f5f2-4a7a-8297-805395b8571c"; "en"; "scrape_success"; "done"; "100261"; "100.3"; "2026-05-26 01:39:56.302066+01:00"
+"e404e0a3-795a-4a56-bb93-fa9e0fdadeaf"; "en"; "scrape_success"; "done"; "100172"; "100.2"; "2026-05-26 10:23:49.284013+01:00"
+"ad9852f9-0e31-4402-9f75-7dc0f73aca35"; "en"; "scrape_success"; "done"; "100116"; "100.1"; "2026-05-26 04:59:20.364730+01:00"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q18: Per-language duration statistics
+       SELECT language, COUNT(*) AS scrapes, ROUND(AVG(duration_ms) / 1000.0, 1) AS avg_s, ROUND(MIN(duration_ms) / 1000.0, 1) AS min_s, ROUND(MAX(duration_ms) / 1000.0, 1) AS max_s, ROUND(STDDEV(duration_ms) / 1000.0, 1) AS stddev_s FROM scraping_logs WHERE status = 'done' GROUP BY language ORDER BY avg_s DESC; 
+    
+Result:
+```
+{
+"language"; "scrapes"; "avg_s"; "min_s"; "max_s"; "stddev_s"
+"en"; "140"; "84.4"; "40.9"; "148.2"; "28.4"
+"it"; "140"; "37.5"; "14.1"; "107.1"; "14.1"
+"fr"; "140"; "33.0"; "12.6"; "71.7"; "11.6"
+"pt"; "140"; "28.5"; "11.3"; "67.5"; "11.4"
+"es"; "140"; "28.0"; "11.7"; "71.4"; "9.9"
+"de"; "140"; "27.3"; "11.4"; "67.9"; "10.5"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q19: Timestamp collision risk (WARN-ORM-001, scraped_at as ORM PK)
+       SELECT scraped_at, COUNT(*) AS collision_count FROM scraping_logs GROUP BY scraped_at HAVING COUNT(*) > 1 ORDER BY collision_count DESC;
+    
+Result:
+```
+{
+(Consulta ejecutada pero no devolvió filas)
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q20: Basic ratio (no column assumptions)
+       SELECT (SELECT COUNT(*) FROM image_data) AS total_image_data, (SELECT COUNT(*) FROM image_downloads)  AS total_image_downloads, ROUND((SELECT COUNT(*) FROM image_downloads)::numeric / NULLIF((SELECT COUNT(*) FROM image_data), 0),2) AS downloads_per_photo;
+    -- Expected: 3.00 (thumb + large + highres) 
+    
+Result:
+```
+{
+"total_image_data"; "total_image_downloads"; "downloads_per_photo"
+"11812"; "35436"; "3.00"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q21: Download status breakdown — fill in after confirms 'status' column
+       SELECT status, COUNT(*) FROM image_downloads GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"
+"done"; "35289"
+"error"; "147"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q22: Resumen global
+        SELECT event_type, status, COUNT(*) AS total, ROUND(AVG(duration_ms)/1000.0, 1)  AS avg_s, ROUND(MIN(duration_ms)/1000.0, 1)  AS min_s, ROUND(MAX(duration_ms)/1000.0, 1)  AS max_s FROM scraping_logs GROUP BY event_type, status ORDER BY total DESC; 
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "840"; "39.8"; "11.3"; "148.2"
+"scrape_failed"; "error"; "6"; "170.4"; "126.4"; "291.7"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q23: 
+       SELECT tablename, pg_size_pretty(pg_total_relation_size(schemaname || '.' || tablename)) AS size FROM pg_tables WHERE tablename LIKE 'scraping_logs%' ORDER BY tablename;
+    
+Result:
+```
+{
+"tablename"; "size"
+"scraping_logs"; "0 bytes"
+"scraping_logs_2025_01"; "8192 bytes"
+"scraping_logs_2025_02"; "8192 bytes"
+"scraping_logs_2025_03"; "8192 bytes"
+"scraping_logs_2025_04"; "8192 bytes"
+"scraping_logs_2025_05"; "8192 bytes"
+"scraping_logs_2025_06"; "8192 bytes"
+"scraping_logs_2025_07"; "8192 bytes"
+"scraping_logs_2025_08"; "8192 bytes"
+"scraping_logs_2025_09"; "8192 bytes"
+"scraping_logs_2025_10"; "8192 bytes"
+"scraping_logs_2025_11"; "8192 bytes"
+"scraping_logs_2025_12"; "8192 bytes"
+"scraping_logs_2026_01"; "8192 bytes"
+"scraping_logs_2026_02"; "8192 bytes"
+"scraping_logs_2026_03"; "8192 bytes"
+"scraping_logs_2026_04"; "8192 bytes"
+"scraping_logs_2026_05"; "344 kB"
+"scraping_logs_2026_06"; "8192 bytes"
+"scraping_logs_2026_07"; "8192 bytes"
+"scraping_logs_2026_08"; "8192 bytes"
+"scraping_logs_2026_09"; "8192 bytes"
+"scraping_logs_2026_10"; "8192 bytes"
+"scraping_logs_2026_11"; "8192 bytes"
+"scraping_logs_2026_12"; "8192 bytes"
+"scraping_logs_2027_01"; "8192 bytes"
+"scraping_logs_2027_02"; "8192 bytes"
+"scraping_logs_2027_03"; "8192 bytes"
+"scraping_logs_2027_04"; "8192 bytes"
+"scraping_logs_2027_05"; "8192 bytes"
+"scraping_logs_2027_06"; "8192 bytes"
+"scraping_logs_2027_07"; "8192 bytes"
+"scraping_logs_2027_08"; "8192 bytes"
+"scraping_logs_2027_09"; "8192 bytes"
+"scraping_logs_2027_10"; "8192 bytes"
+"scraping_logs_2027_11"; "8192 bytes"
+"scraping_logs_2027_12"; "8192 bytes"
+"scraping_logs_default"; "8192 bytes"
+}
+```
+
+---
+
+Query SQL:     
+    -- ── Q24: 
+       SELECT 'hotels' AS table_name, COUNT(*) AS rows FROM hotels
+       UNION ALL SELECT 'hotels_description',              COUNT(*) FROM hotels_description
+       UNION ALL SELECT 'hotels_policies',                 COUNT(*) FROM hotels_policies
+       UNION ALL SELECT 'hotels_legal',                    COUNT(*) FROM hotels_legal
+       UNION ALL SELECT 'hotels_fine_print',               COUNT(*) FROM hotels_fine_print
+       UNION ALL SELECT 'hotels_all_services',             COUNT(*) FROM hotels_all_services
+       UNION ALL SELECT 'hotels_popular_services',         COUNT(*) FROM hotels_popular_services
+       UNION ALL SELECT 'hotels_faqs',                     COUNT(*) FROM hotels_faqs
+       UNION ALL SELECT 'hotels_guest_reviews',            COUNT(*) FROM hotels_guest_reviews
+       UNION ALL SELECT 'hotels_property_highlights',      COUNT(*) FROM hotels_property_highlights
+       UNION ALL SELECT 'image_data',                      COUNT(*) FROM image_data
+       UNION ALL SELECT 'image_downloads',                 COUNT(*) FROM image_downloads
+       UNION ALL SELECT 'url_language_status',             COUNT(*) FROM url_language_status
+       UNION ALL SELECT 'scraping_logs',                   COUNT(*) FROM scraping_logs
+       UNION ALL SELECT 'url_queue',                       COUNT(*) FROM url_queue
+       ORDER BY table_name;
+    
+Result:
+```
+{
+"table_name"; "rows"
+"hotels"; "840"
+"hotels_all_services"; "67792"
+"hotels_description"; "840"
+"hotels_faqs"; "6097"
+"hotels_fine_print"; "840"
+"hotels_guest_reviews"; "5808"
+"hotels_legal"; "840"
+"hotels_policies"; "6372"
+"hotels_popular_services"; "7488"
+"hotels_property_highlights"; "2496"
+"image_data"; "11812"
+"image_downloads"; "35436"
+"scraping_logs"; "846"
+"url_language_status"; "846"
+"url_queue"; "141"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q25: DATA QUALITY — hotels_popular_services vs hotels_all_services
+    --    Validate that popular is a reasonable subset of all_services
+    --    Expected: n_popular < n_all 
+    --    pct alto (>100%) This would indicate that popular has items not present in all
+       SELECT ps.url_id, ps.language, COUNT(DISTINCT ps.popular_service)  AS n_popular, COUNT(DISTINCT al.service) AS n_all, ROUND( COUNT(DISTINCT ps.popular_service)::numeric / NULLIF(COUNT(DISTINCT al.service), 0) * 100, 1) AS pct_popular_de_all FROM hotels_popular_services ps LEFT JOIN hotels_all_services al ON al.url_id = ps.url_id AND al.language = ps.language GROUP BY ps.url_id, ps.language ORDER BY pct_popular_de_all DESC LIMIT 90; 
+    
+Result:
+```
+{
+"url_id"; "language"; "n_popular"; "n_all"; "pct_popular_de_all"
+"d5409271-719c-493d-a05f-c08c932ac49e"; "pt"; "10"; "10"; "100.0"
+"9aacd236-e7a8-4488-86c3-3ef885280c03"; "pt"; "8"; "8"; "100.0"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "fr"; "10"; "10"; "100.0"
+"8b9ec02e-c486-41c5-8ab7-d63aaba4098a"; "de"; "10"; "10"; "100.0"
+"dd557ca0-0fa0-46ae-868c-bab04932669b"; "es"; "10"; "10"; "100.0"
+"3649792f-8550-4868-b921-2e4d09e873e2"; "es"; "5"; "5"; "100.0"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "pt"; "9"; "9"; "100.0"
+"bd511fe6-f06b-400d-a50a-e63529287247"; "fr"; "10"; "10"; "100.0"
+"9abbee68-6ab9-4ac7-bdc3-94c9425b4349"; "pt"; "6"; "6"; "100.0"
+"e2523267-01ed-44b6-b2e9-ab479342c2bd"; "pt"; "9"; "9"; "100.0"
+"38f6ef46-a423-4a4e-ab09-36741aca113a"; "de"; "10"; "10"; "100.0"
+"04f654ac-3945-4412-bca7-fdbc244f092b"; "de"; "10"; "10"; "100.0"
+"0f424c1b-69a7-4124-ac1a-b2a785646e3c"; "en"; "4"; "4"; "100.0"
+"ed224d1d-94f4-421c-8ecd-9b7aca893774"; "fr"; "10"; "10"; "100.0"
+"e43b5819-fc04-4f6b-95cd-09fdaebec100"; "fr"; "6"; "6"; "100.0"
+"18e00a2f-bc26-4c38-b431-4745cf45d826"; "it"; "10"; "10"; "100.0"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "en"; "8"; "8"; "100.0"
+"2140c080-761d-4b85-a105-9e0ba90067b6"; "de"; "8"; "8"; "100.0"
+"0f424c1b-69a7-4124-ac1a-b2a785646e3c"; "es"; "4"; "4"; "100.0"
+"871a7477-902c-4f86-9bc6-00233156d0c3"; "fr"; "10"; "10"; "100.0"
+"18e00a2f-bc26-4c38-b431-4745cf45d826"; "en"; "10"; "10"; "100.0"
+"fa0b9266-a7f2-4f3a-b875-a40d9661ca35"; "es"; "7"; "7"; "100.0"
+"0f424c1b-69a7-4124-ac1a-b2a785646e3c"; "de"; "4"; "4"; "100.0"
+"92e8fbdf-3f9b-4306-8e52-0b2d6734fc0e"; "en"; "5"; "5"; "100.0"
+"6cdb89f3-476d-4cfc-9c0a-2b1e770fbea4"; "pt"; "10"; "10"; "100.0"
+"5d79e974-1b15-4e37-9b9c-33d74f38b2b4"; "en"; "6"; "6"; "100.0"
+"bd511fe6-f06b-400d-a50a-e63529287247"; "it"; "10"; "10"; "100.0"
+"2a0b2a03-ef49-41a1-ab1b-27998fe197ab"; "it"; "8"; "8"; "100.0"
+"a215a941-327b-4c6c-b299-d4c2467c090d"; "pt"; "10"; "10"; "100.0"
+"f86fa814-7f58-4c39-ba01-3bb722df86f5"; "pt"; "10"; "10"; "100.0"
+"0f155ba6-25ac-487c-80b3-0c57815d54dd"; "es"; "10"; "10"; "100.0"
+"adc70b45-10d6-48cd-a672-a514742eac42"; "de"; "10"; "10"; "100.0"
+"91785945-bfbb-49b9-bb98-bf683104e863"; "it"; "10"; "10"; "100.0"
+"5d79e974-1b15-4e37-9b9c-33d74f38b2b4"; "es"; "6"; "6"; "100.0"
+"5d79e974-1b15-4e37-9b9c-33d74f38b2b4"; "it"; "6"; "6"; "100.0"
+"527d003d-1c24-41b4-a0a6-f2e7fd91a354"; "pt"; "8"; "8"; "100.0"
+"7b981f0e-ac54-4156-9f16-9d039282ebf5"; "de"; "10"; "10"; "100.0"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "pt"; "8"; "8"; "100.0"
+"4cc15c85-2830-4295-ad19-c32e62cd428e"; "pt"; "9"; "9"; "100.0"
+"18e00a2f-bc26-4c38-b431-4745cf45d826"; "de"; "10"; "10"; "100.0"
+"804cab14-37e6-476f-87bf-890831dc3638"; "fr"; "10"; "10"; "100.0"
+"8b9ec02e-c486-41c5-8ab7-d63aaba4098a"; "en"; "10"; "15"; "66.7"
+"d7930db0-c564-4255-92d5-110a50d0ab3c"; "fr"; "10"; "16"; "62.5"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "it"; "6"; "13"; "46.2"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "en"; "6"; "13"; "46.2"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "es"; "6"; "13"; "46.2"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "pt"; "6"; "13"; "46.2"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "de"; "6"; "13"; "46.2"
+"9adf7171-6b72-4b81-8c21-caed9451c8a9"; "fr"; "6"; "13"; "46.2"
+"c11a99c2-86b6-401c-82dc-9a6b395bc31a"; "pt"; "5"; "11"; "45.5"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "en"; "8"; "24"; "33.3"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "de"; "8"; "24"; "33.3"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "it"; "5"; "15"; "33.3"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "es"; "8"; "24"; "33.3"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "de"; "5"; "15"; "33.3"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "fr"; "8"; "24"; "33.3"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "es"; "5"; "15"; "33.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "it"; "5"; "15"; "33.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "de"; "5"; "15"; "33.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "es"; "5"; "15"; "33.3"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "it"; "8"; "24"; "33.3"
+"38fb2daa-4107-46de-b93f-fb9a4d36353b"; "pt"; "8"; "24"; "33.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "en"; "5"; "15"; "33.3"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "en"; "5"; "16"; "31.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "pt"; "5"; "16"; "31.3"
+"da8b20a6-56a5-47ab-a5fa-bd4b434c9651"; "fr"; "5"; "16"; "31.3"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "pt"; "5"; "16"; "31.3"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "de"; "8"; "27"; "29.6"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "es"; "8"; "27"; "29.6"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "it"; "8"; "27"; "29.6"
+"1a4a888d-368c-4bff-8b68-227587fc44e7"; "fr"; "5"; "17"; "29.4"
+"a835bd76-ba8b-4ad9-996b-63c96536927e"; "fr"; "8"; "29"; "27.6"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "it"; "9"; "38"; "23.7"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "fr"; "9"; "38"; "23.7"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "es"; "9"; "38"; "23.7"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "en"; "9"; "38"; "23.7"
+"0dba85d3-2b6d-4057-9282-e4354e4634ea"; "de"; "9"; "38"; "23.7"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "es"; "8"; "36"; "22.2"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "de"; "8"; "36"; "22.2"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "es"; "10"; "45"; "22.2"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "it"; "8"; "36"; "22.2"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "pt"; "10"; "46"; "21.7"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "it"; "10"; "46"; "21.7"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "fr"; "10"; "46"; "21.7"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "de"; "10"; "46"; "21.7"
+"5c4c86d1-15d8-4082-bb73-efb849a891cd"; "en"; "10"; "46"; "21.7"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "en"; "8"; "37"; "21.6"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "pt"; "8"; "37"; "21.6"
+"f744f3c7-cfaf-410d-8b1c-26cff3c5fe48"; "fr"; "8"; "38"; "21.1"
+"57111e26-82ad-42ca-b561-868819819cca"; "de"; "9"; "43"; "20.9"
+}
+```
