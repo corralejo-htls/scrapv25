@@ -308,4 +308,4 @@ If all languages fail:
 
 ---
 
-CRITICAL RESTRICTION: The database is ALWAYS deleted upon system startup. The SQL file is re-executed to generate a new database (schema_v77_complete.sql). There are no migrations. Data is not retained.
+CRITICAL RESTRICTION: The database is ALWAYS deleted upon system startup. The SQL file is re-executed to generate a new database (schema_v77_complete.sql). There are no migrations. Data is not retained. (iniciar.bat)
