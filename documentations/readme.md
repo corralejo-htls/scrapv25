@@ -7,7 +7,7 @@
 **Language:** Python  
 **Architecture:** Distributed Scraping + Task Queue + Integrity System  
 **Source of truth:** https://github.com/corralejo-htls/scrapv25/blob/main/schema_v77_complete.sql
-**repository file listings:** https://github.com/corralejo-htls/scrapv25/blob/main/documentations/_path-file.csv
+**repository file listings:** https://github.com/corralejo-htls/scrapv25/blob/main/documentations/_path-file.md
 # Overview
 
 SCRAPV25 is a distributed web scraping system designed to extract structured hotel data from Booking.com across multiple languages.
