@@ -7,7 +7,7 @@
 **Core Concept:** Data Integrity First  
 **Architecture:** Python + Celery + Redis/Memurai + SQL + Selenium  
 **Architecture Style:** Hybrid (Service + Script-based + Automation Layer)
-**Source of truth:** https://github.com/corralejo-htls/scrapv25/blob/main/schema_v77_complete.sql
+**Schema Source of Truth:** https://github.com/corralejo-htls/scrapv25/blob/main/schema_v77_complete.sql
 **repository file listings:** https://github.com/corralejo-htls/scrapv25/blob/main/documentations/_path-file.csv
 **File listings in Windows:** https://github.com/corralejo-htls/scrapv25/blob/main/pruebas/_arbol_.csv
 
