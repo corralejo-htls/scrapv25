@@ -1,0 +1,864 @@
+Query SQL: SELECT url_id , COUNT(*) as COUNT_hotels , hotel_name FROM hotels GROUP BY url_id, hotel_name ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_hotels"; "hotel_name"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "6"; "Hotel Auszeit St Lambrecht"
+"c186be75-2066-428c-bd2f-70279edffb65"; "1"; "wild & bolz eMotel"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "6"; "Waldschlössl Gasthof"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_legal FROM hotels_legal GROUP BY url_id ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_legal"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "6"
+"c186be75-2066-428c-bd2f-70279edffb65"; "1"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "6"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_polices FROM hotels_policies GROUP BY url_id ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_polices"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "48"
+"c186be75-2066-428c-bd2f-70279edffb65"; "7"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "48"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , language, COUNT(*) as COUNT_policies FROM hotels_policies GROUP BY url_id, language ORDER BY url_id, language limit 200 
+Result:
+```
+{
+"url_id"; "language"; "count_policies"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "de"; "8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "en"; "8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "es"; "8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "fr"; "8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "it"; "8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "pt"; "8"
+"c186be75-2066-428c-bd2f-70279edffb65"; "en"; "7"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "de"; "8"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "en"; "8"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "es"; "8"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "fr"; "8"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "it"; "8"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "pt"; "8"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , COUNT(*) as COUNT_descriptions FROM hotels_description GROUP BY url_id  ORDER BY url_id limit 200 
+Result:
+```
+{
+"url_id"; "count_descriptions"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "6"
+"c186be75-2066-428c-bd2f-70279edffb65"; "1"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "6"
+}
+```
+
+---
+
+Query SQL: SELECT url_id , language, COUNT(*) AS COUNT_service_category  FROM hotels_all_services WHERE language ='en' GROUP BY url_id , language limit 200 
+Result:
+```
+{
+"url_id"; "language"; "count_service_category"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "en"; "45"
+"c186be75-2066-428c-bd2f-70279edffb65"; "en"; "33"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "en"; "86"
+}
+```
+
+---
+
+Query SQL: SELECT al.url_id , al.hotel_id , al.language , COUNT(al.*) AS COUNT_service_category , h.hotel_name FROM hotels_all_services al LEFT JOIN hotels h ON al.url_id = h.url_id and al.language = h.language and al.hotel_id = h.id GROUP BY al.url_id , al.hotel_id , h.hotel_name , al.language ORDER BY  al.url_id , al.language  limit 200 
+Result:
+```
+{
+"url_id"; "hotel_id"; "language"; "count_service_category"; "hotel_name"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "741976b5-be1e-4931-a48c-5a51f4440875"; "de"; "85"; "Hotel Auszeit St Lambrecht"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "fe545aac-350b-4869-83fa-844efe4451f4"; "en"; "86"; "Hotel Auszeit St Lambrecht"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "99e4a58f-6d08-406e-a47b-c2f93d8286d6"; "es"; "84"; "Hotel Auszeit St Lambrecht"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "8b46420e-1212-4863-978b-1abe37c5c08c"; "fr"; "87"; "Hotel Auszeit St Lambrecht"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "36daa3a5-55c1-4553-99dd-fcb5bdb0fd55"; "it"; "10"; "Hotel Auszeit St Lambrecht"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "608d4363-1249-4b7b-b08b-c64e310d446a"; "pt"; "86"; "Hotel Auszeit St Lambrecht"
+"c186be75-2066-428c-bd2f-70279edffb65"; "5de7dc22-de97-4c5c-9539-4be15445e8a8"; "en"; "33"; "wild & bolz eMotel"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "d82f2a86-5dda-4848-8e75-d8f62cc4ef4a"; "de"; "44"; "Waldschlössl Gasthof"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "e6444d7c-06b3-4a75-b391-54652391394b"; "en"; "45"; "Waldschlössl Gasthof"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "b841e8ce-7172-482a-b139-0dd039b5d8c0"; "es"; "44"; "Waldschlössl Gasthof"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "18d7eb93-9923-495c-ab82-36da97dab301"; "fr"; "45"; "Waldschlössl Gasthof"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "16f39015-da76-4162-a852-a57929a78f09"; "it"; "44"; "Waldschlössl Gasthof"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "1a5f6d9f-b3b2-4f3a-bfc0-ba6b65d0c4a6"; "pt"; "44"; "Waldschlössl Gasthof"
+}
+```
+
+---
+
+Query SQL: SELECT * FROM url_language_status WHERE status <> 'done' ORDER BY url_id , language limit 200 
+Result:
+```
+{
+(Consulta ejecutada pero no devolvió filas)
+}
+```
+
+---
+
+Query SQL: SELECT uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error, COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs FROM url_queue uq LEFT JOIN hotels h ON uq.id = h.url_id LEFT JOIN hotels_description hd ON uq.id = hd.url_id LEFT JOIN hotels_policies hp    ON uq.id = hp.url_id LEFT JOIN hotels_legal hl ON uq.id = hl.url_id GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language) ORDER BY COUNT(DISTINCT h.language) ASC limit 200
+Result:
+```
+{
+"id"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"ffc9243e-eefb-4b4e-8e05-d2152f9ab929"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"059190a0-d8de-483e-8d60-7968e87044aa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"07a5f83c-7a3a-49ba-8cee-7620edbeba2d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"08b20291-2666-4107-ad3a-b8979509f864"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"08f5986f-0f48-4223-a6a6-801e78c1a1a4"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"0c2b6b0b-f6bf-47b1-b812-a85ab372cb88"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"104ca59e-8243-423f-ab88-3cdfafeb3e35"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"10586565-9063-47f7-9ff7-f4f6b1b06392"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"115052cd-dc34-44ff-b9d1-3790a5cdfe8a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1351dbdd-5e8b-4224-8627-5a3f7608afab"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"15c4305f-ed29-4383-8a8e-bf477bfc64f6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"17b7c119-5522-41b5-b3da-e85acc37effb"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"19299913-e27e-4421-9e66-57653f9ec1af"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1ded7b2f-2d1c-4276-abb4-4d1311c02538"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1f694654-6d57-468b-86a2-7c38eee67bdf"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"20820e3e-ff2b-4cc2-b631-db0d1dd11d28"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2096dcf7-ac7e-4228-85a1-f05b6f71c1f8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"21bbf673-9797-46f3-a53d-000cf16ffc48"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"227c4d53-764d-4a6f-aad3-9c89dab211b3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2506eb65-5e4f-4d54-b9bc-388597c2706e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2709e034-7143-4ad0-9b04-f1d29c67d3c1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2988cb25-97e9-44f7-b173-aa5ed80f1e97"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2c2ff727-08a2-410d-9306-b30292784038"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2fbbcff9-ed25-4873-9d17-51a4f5778786"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3311f457-da95-4ecd-a00b-1fd13252dc03"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"341a20af-df89-4dee-9c59-117f81ebdca1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"354917d0-a2be-43b4-9451-929fa4ba1156"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"35c65f17-b62f-48df-bf99-7b1430abc339"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"386e004b-67da-4e78-be09-23670cec38f9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"38998cde-6632-4c41-a330-04f733eaabbe"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"38ea3239-ef80-41cb-8e24-dc213c9f8bd7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3a26f946-9543-4b32-930b-57ac500fe231"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3aa09a25-36e7-43de-b044-5dbb6a844c85"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3aa8f295-dc4e-47cc-b644-8b7b46e8f833"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3abff3f3-7d81-4280-9a51-b377f671744f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3c8de0d4-5df7-4f01-bdfb-4d2f45be3af6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3e309a2e-f0a1-41e9-9991-2f5e78483d61"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"42e301be-065b-4cdd-a9c5-00d657b5daa8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"456cde7b-2171-43c9-85f3-130dbc285c71"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"475c3e9e-c076-48f0-8718-02dca157e487"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"47721027-542a-477b-87bc-c8dba090f2fc"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4a85caf8-4bb3-4017-a403-5b4af047fb06"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4bd17fee-8ebe-4048-8b43-5d6272885436"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4d840fce-896c-4314-97a4-0bab701f38f4"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"501dc59f-72ee-431c-a6e9-4911159e2f09"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5280792b-3307-44c4-8d34-245643a61b4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"531d53f0-5253-4705-97ab-9bc45e747055"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"563a67c8-8153-4754-82f6-caabefa2807d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"59d52c77-9145-41e6-9ca1-4251f3a77f4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5b0b1e1a-9352-4f41-ace6-28beee90a22a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5b720f42-7a64-4a01-b640-787ecfdc56c9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5c89a713-a891-42a1-bff7-45e0a5e16e88"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5e94c16c-3426-4d9a-95de-c30d4b27760d"; "processing"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5ea777d0-3920-4266-981a-71a1b711a002"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"64313c2d-97ce-45e1-b87c-a7e7c58ba032"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"643245c8-fa5e-4691-8faa-e6da7a8c012c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"69ee796c-1633-4a14-9975-eac1236ae15f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6ac3e1cf-4506-4976-914e-98b6d1eefaca"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6c019f47-da10-4e7f-a149-b4c4d9a65fa7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6e725486-6813-4e31-be43-a6897ec8024b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7446bf45-4f54-4f06-8a46-14d826111d29"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"744e9d04-81c4-4d1b-ad67-36a3bd2e56e6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"79e90ca8-53e0-424e-a673-17addc673b31"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7bdd92bb-c4a9-4d89-a1df-ab8b2cd91352"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7fc13eb3-bd8a-4c11-89c5-eee984997c4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"800ca3cd-3fe0-4e1b-90b8-213e47fb9489"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"80829bb7-0ab5-4721-a5b5-93e84391df0a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"81d6ace7-2ba3-4432-b5bb-3e8c1483f9c3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"835c4a5a-364c-4f54-beac-1b6f618ffc0e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8593b1d6-bda6-41f5-ab59-11e5990ee60d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8593ec05-2a68-4193-ab49-e81fe64e59a2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"871c016e-c351-4626-bd67-8ecb5eb78a5d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"88ecde5c-9f53-4f06-b57b-1779b90a2f29"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8b5cc0fc-e129-4299-b850-35d9bb6a3039"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8bea6806-f7e2-481e-abe4-59e49766d18b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8e23e223-0685-476c-b189-88f609086449"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"93b9f113-6a2a-4b75-9479-2e3a6e2a8198"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"94a075b2-9a48-4dc5-80b2-c59c0fd06b21"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"977d64ea-1e22-47e9-a9b9-d22586e10119"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"97fb7813-379e-4745-8204-f912cf4fa41c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a18c5ab-9c73-4f4d-9e98-d054897b9537"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a27c4ec-9185-4809-a272-c9eb6553532f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a7e1258-10c7-48f4-bccf-63991133794e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9aee0850-d2d7-423a-ba0e-b310e4379c6d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9bced3cd-26ec-4a3c-9774-88c0aadc3826"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9cb17315-2196-4cb1-a5ce-24e869c6bb07"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9def7084-e290-46e3-bb16-ae074575b6b1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9e3eef9c-70f9-4128-b6f6-a81892651092"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a0004809-fed7-4bd4-8d1f-5a13ae4c80b3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a03dfaff-9b7d-4416-b16f-1f951ea078f7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a07e4426-fa83-4ce6-ba53-df6d4930451b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a0f84743-750d-4fdb-a11a-f93292a36770"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a593da6e-fba3-47a0-8c6d-017b4e936e1d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a666ef68-d361-46f0-b907-02b08bf5273e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a99556f1-2938-4f5f-a12c-aa537a6601d1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a9c2a587-0d04-4d15-80a5-8c1a4c68aa4d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"aa451cfd-f168-46b0-97d0-a6f391af2e01"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"aae3e57a-6494-4948-a3ef-6c6160b317cb"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ab124c9f-fbee-468b-a0e1-e4d4f5d4c0d2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b4ae9fb2-a770-441f-9336-8a63bb4b514a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b4ea8f99-02b5-404f-9077-99e675110834"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b862c097-62e1-4416-b5c4-1339cc82d9f7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b8c394c8-f225-4352-8e63-16727a5f89c8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b91076f1-9d50-4762-9292-a747ea5a5901"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bc41b3e0-9cdd-4827-aa5a-76fc2ce75de9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bef36d80-1f16-4f91-9d90-dd9d7d7a5937"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bf09b0bb-346f-4c5a-966f-bd6129180cea"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c153a832-047f-4c56-a505-1f939453967e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"03d89a5c-137f-48e6-9141-70ae252c4a26"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c1975fbb-b09c-48a7-8edd-28e76730a6cd"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c209ddad-8276-4e66-8c2e-12e03405a970"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c63b5510-d86b-4913-8927-0e81fc1e7684"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"cc2da775-17b0-4aa9-b3ae-9ed1b2d30b56"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ce121dca-b3be-445b-9032-36ca7cc051fa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ced35e05-8f30-4043-abfe-291587577037"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"cf2f5ba8-77ff-43e5-8329-29780bca6322"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d6161591-a2b3-411c-95c1-dadac3373c49"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d6a90285-b5f7-45ef-9786-807d3d708aaa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d98ece7e-54e9-4a2b-8c2b-1e2f0001bf9c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"da1c81f4-8cc8-4aeb-8a6e-ce6831a5979d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ddc7e9cd-b2f6-428d-9e4d-1e5cb1bf46b1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"de380cd4-09c7-493f-bec9-0fd7ee5b058c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e03c4fc8-8751-4ae5-8855-51785e66cdca"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e17cd28c-9885-41a0-a70b-e38eb8456460"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e4630594-f5f4-4c88-8608-54437f7fd231"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e7025b24-5ecc-4670-a8be-4cdf8f256440"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e75b3a1e-ddd9-412b-8fac-c494550d4f22"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e90a0aa5-a002-4bfb-97e2-9788e869c454"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e9e2b058-cac6-4dbe-8510-f8826736bd1d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb109892-ead3-40c1-8ed4-79fd95e4851a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb2f0e37-2b1d-4686-a3a5-889180398b7f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb38e0d9-466a-427c-bcd3-b994c4d59bf8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f121923b-00f6-4742-acf7-01c529ef1e55"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f3bca44b-c971-413e-8d0a-3317a5a1d8e2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f488b779-8aca-4384-8066-2c7f866c414c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f5214ae1-bbe3-42b8-86ef-c154faa2447c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"fad87cec-bcef-4fc3-84be-c7adf017fb08"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"fb9e5008-df66-43e2-b85e-f52740b445ef"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c186be75-2066-428c-bd2f-70279edffb65"; "processing"; "0"; "en"; ""; "NULL"; "1"; "1"; "1"; "1"
+}
+```
+
+---
+
+Query SQL: 
+    -- ── Q8: Overall URL processing status ──────────────────────────────────────
+    SELECT status, COUNT(*) AS count, MIN(updated_at) AS oldest, MAX(updated_at) AS newest FROM url_queue GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"; "oldest"; "newest"
+"pending"; "137"; "2026-06-02 15:53:44.437267+01:00"; "2026-06-02 15:53:44.437267+01:00"
+"processing"; "2"; "2026-06-02 16:01:10.757852+01:00"; "2026-06-02 16:02:29.785966+01:00"
+"done"; "2"; "2026-06-02 15:58:41.931645+01:00"; "2026-06-02 16:00:52.936501+01:00"
+}
+```
+
+---
+
+Query SQL: 
+    -- Diagnóstico integral de todas las URLs afectadas
+    SELECT 
+        uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error,
+        -- Conteos por tabla
+        COUNT(DISTINCT h.language)  AS hotels_langs, COUNT(DISTINCT hd.language) AS desc_langs, COUNT(DISTINCT hp.language) AS policies_langs, COUNT(DISTINCT hl.language) AS legal_langs
+    FROM url_queue uq
+    LEFT JOIN hotels h          ON uq.id = h.url_id
+    LEFT JOIN hotels_description hd ON uq.id = hd.url_id
+    LEFT JOIN hotels_policies hp    ON uq.id = hp.url_id
+    LEFT JOIN hotels_legal hl       ON uq.id = hl.url_id
+    GROUP BY uq.id, uq.status, uq.retry_count, uq.languages_completed, uq.languages_failed, uq.last_error
+    HAVING COUNT(DISTINCT h.language) < 6 OR COUNT(DISTINCT hl.language) < COUNT(DISTINCT h.language)
+    ORDER BY COUNT(DISTINCT h.language) ASC;
+    
+Result:
+```
+{
+"id"; "status"; "retry_count"; "languages_completed"; "languages_failed"; "last_error"; "hotels_langs"; "desc_langs"; "policies_langs"; "legal_langs"
+"ffc9243e-eefb-4b4e-8e05-d2152f9ab929"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"059190a0-d8de-483e-8d60-7968e87044aa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"07a5f83c-7a3a-49ba-8cee-7620edbeba2d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"08b20291-2666-4107-ad3a-b8979509f864"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"08f5986f-0f48-4223-a6a6-801e78c1a1a4"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"0c2b6b0b-f6bf-47b1-b812-a85ab372cb88"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"104ca59e-8243-423f-ab88-3cdfafeb3e35"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"10586565-9063-47f7-9ff7-f4f6b1b06392"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"115052cd-dc34-44ff-b9d1-3790a5cdfe8a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1351dbdd-5e8b-4224-8627-5a3f7608afab"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"15c4305f-ed29-4383-8a8e-bf477bfc64f6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"17b7c119-5522-41b5-b3da-e85acc37effb"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"19299913-e27e-4421-9e66-57653f9ec1af"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1ded7b2f-2d1c-4276-abb4-4d1311c02538"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"1f694654-6d57-468b-86a2-7c38eee67bdf"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"20820e3e-ff2b-4cc2-b631-db0d1dd11d28"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2096dcf7-ac7e-4228-85a1-f05b6f71c1f8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"21bbf673-9797-46f3-a53d-000cf16ffc48"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"227c4d53-764d-4a6f-aad3-9c89dab211b3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2506eb65-5e4f-4d54-b9bc-388597c2706e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2709e034-7143-4ad0-9b04-f1d29c67d3c1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2988cb25-97e9-44f7-b173-aa5ed80f1e97"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2c2ff727-08a2-410d-9306-b30292784038"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"2fbbcff9-ed25-4873-9d17-51a4f5778786"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3311f457-da95-4ecd-a00b-1fd13252dc03"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"341a20af-df89-4dee-9c59-117f81ebdca1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"354917d0-a2be-43b4-9451-929fa4ba1156"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"35c65f17-b62f-48df-bf99-7b1430abc339"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"386e004b-67da-4e78-be09-23670cec38f9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"38998cde-6632-4c41-a330-04f733eaabbe"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"38ea3239-ef80-41cb-8e24-dc213c9f8bd7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3a26f946-9543-4b32-930b-57ac500fe231"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3aa09a25-36e7-43de-b044-5dbb6a844c85"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3aa8f295-dc4e-47cc-b644-8b7b46e8f833"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3abff3f3-7d81-4280-9a51-b377f671744f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3c8de0d4-5df7-4f01-bdfb-4d2f45be3af6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"3e309a2e-f0a1-41e9-9991-2f5e78483d61"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"42e301be-065b-4cdd-a9c5-00d657b5daa8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"456cde7b-2171-43c9-85f3-130dbc285c71"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"475c3e9e-c076-48f0-8718-02dca157e487"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"47721027-542a-477b-87bc-c8dba090f2fc"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4a85caf8-4bb3-4017-a403-5b4af047fb06"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4bd17fee-8ebe-4048-8b43-5d6272885436"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"4d840fce-896c-4314-97a4-0bab701f38f4"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"501dc59f-72ee-431c-a6e9-4911159e2f09"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5280792b-3307-44c4-8d34-245643a61b4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"531d53f0-5253-4705-97ab-9bc45e747055"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"563a67c8-8153-4754-82f6-caabefa2807d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"59d52c77-9145-41e6-9ca1-4251f3a77f4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5b0b1e1a-9352-4f41-ace6-28beee90a22a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5b720f42-7a64-4a01-b640-787ecfdc56c9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5c89a713-a891-42a1-bff7-45e0a5e16e88"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5e94c16c-3426-4d9a-95de-c30d4b27760d"; "processing"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"5ea777d0-3920-4266-981a-71a1b711a002"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"64313c2d-97ce-45e1-b87c-a7e7c58ba032"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"643245c8-fa5e-4691-8faa-e6da7a8c012c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"69ee796c-1633-4a14-9975-eac1236ae15f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6ac3e1cf-4506-4976-914e-98b6d1eefaca"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6c019f47-da10-4e7f-a149-b4c4d9a65fa7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"6e725486-6813-4e31-be43-a6897ec8024b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7446bf45-4f54-4f06-8a46-14d826111d29"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"744e9d04-81c4-4d1b-ad67-36a3bd2e56e6"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"79e90ca8-53e0-424e-a673-17addc673b31"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7bdd92bb-c4a9-4d89-a1df-ab8b2cd91352"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"7fc13eb3-bd8a-4c11-89c5-eee984997c4f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"800ca3cd-3fe0-4e1b-90b8-213e47fb9489"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"80829bb7-0ab5-4721-a5b5-93e84391df0a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"81d6ace7-2ba3-4432-b5bb-3e8c1483f9c3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"835c4a5a-364c-4f54-beac-1b6f618ffc0e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8593b1d6-bda6-41f5-ab59-11e5990ee60d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8593ec05-2a68-4193-ab49-e81fe64e59a2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"871c016e-c351-4626-bd67-8ecb5eb78a5d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"88ecde5c-9f53-4f06-b57b-1779b90a2f29"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8b5cc0fc-e129-4299-b850-35d9bb6a3039"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8bea6806-f7e2-481e-abe4-59e49766d18b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"8e23e223-0685-476c-b189-88f609086449"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"93b9f113-6a2a-4b75-9479-2e3a6e2a8198"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"94a075b2-9a48-4dc5-80b2-c59c0fd06b21"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"977d64ea-1e22-47e9-a9b9-d22586e10119"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"97fb7813-379e-4745-8204-f912cf4fa41c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a18c5ab-9c73-4f4d-9e98-d054897b9537"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a27c4ec-9185-4809-a272-c9eb6553532f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9a7e1258-10c7-48f4-bccf-63991133794e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9aee0850-d2d7-423a-ba0e-b310e4379c6d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9bced3cd-26ec-4a3c-9774-88c0aadc3826"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9cb17315-2196-4cb1-a5ce-24e869c6bb07"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9def7084-e290-46e3-bb16-ae074575b6b1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"9e3eef9c-70f9-4128-b6f6-a81892651092"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a0004809-fed7-4bd4-8d1f-5a13ae4c80b3"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a03dfaff-9b7d-4416-b16f-1f951ea078f7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a07e4426-fa83-4ce6-ba53-df6d4930451b"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a0f84743-750d-4fdb-a11a-f93292a36770"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a593da6e-fba3-47a0-8c6d-017b4e936e1d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a666ef68-d361-46f0-b907-02b08bf5273e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a99556f1-2938-4f5f-a12c-aa537a6601d1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"a9c2a587-0d04-4d15-80a5-8c1a4c68aa4d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"aa451cfd-f168-46b0-97d0-a6f391af2e01"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"aae3e57a-6494-4948-a3ef-6c6160b317cb"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ab124c9f-fbee-468b-a0e1-e4d4f5d4c0d2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b4ae9fb2-a770-441f-9336-8a63bb4b514a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b4ea8f99-02b5-404f-9077-99e675110834"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b862c097-62e1-4416-b5c4-1339cc82d9f7"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b8c394c8-f225-4352-8e63-16727a5f89c8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"b91076f1-9d50-4762-9292-a747ea5a5901"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bc41b3e0-9cdd-4827-aa5a-76fc2ce75de9"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bef36d80-1f16-4f91-9d90-dd9d7d7a5937"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"bf09b0bb-346f-4c5a-966f-bd6129180cea"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c153a832-047f-4c56-a505-1f939453967e"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"03d89a5c-137f-48e6-9141-70ae252c4a26"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c1975fbb-b09c-48a7-8edd-28e76730a6cd"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c209ddad-8276-4e66-8c2e-12e03405a970"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c63b5510-d86b-4913-8927-0e81fc1e7684"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"cc2da775-17b0-4aa9-b3ae-9ed1b2d30b56"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ce121dca-b3be-445b-9032-36ca7cc051fa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ced35e05-8f30-4043-abfe-291587577037"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"cf2f5ba8-77ff-43e5-8329-29780bca6322"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d6161591-a2b3-411c-95c1-dadac3373c49"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d6a90285-b5f7-45ef-9786-807d3d708aaa"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"d98ece7e-54e9-4a2b-8c2b-1e2f0001bf9c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"da1c81f4-8cc8-4aeb-8a6e-ce6831a5979d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"ddc7e9cd-b2f6-428d-9e4d-1e5cb1bf46b1"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"de380cd4-09c7-493f-bec9-0fd7ee5b058c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e03c4fc8-8751-4ae5-8855-51785e66cdca"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e17cd28c-9885-41a0-a70b-e38eb8456460"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e4630594-f5f4-4c88-8608-54437f7fd231"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e7025b24-5ecc-4670-a8be-4cdf8f256440"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e75b3a1e-ddd9-412b-8fac-c494550d4f22"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e90a0aa5-a002-4bfb-97e2-9788e869c454"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"e9e2b058-cac6-4dbe-8510-f8826736bd1d"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb109892-ead3-40c1-8ed4-79fd95e4851a"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb2f0e37-2b1d-4686-a3a5-889180398b7f"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"eb38e0d9-466a-427c-bcd3-b994c4d59bf8"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f121923b-00f6-4742-acf7-01c529ef1e55"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f3bca44b-c971-413e-8d0a-3317a5a1d8e2"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f488b779-8aca-4384-8066-2c7f866c414c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"f5214ae1-bbe3-42b8-86ef-c154faa2447c"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"fad87cec-bcef-4fc3-84be-c7adf017fb08"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"fb9e5008-df66-43e2-b85e-f52740b445ef"; "pending"; "0"; ""; ""; "NULL"; "0"; "0"; "0"; "0"
+"c186be75-2066-428c-bd2f-70279edffb65"; "processing"; "0"; "en"; ""; "NULL"; "1"; "1"; "1"; "1"
+}
+```
+
+---
+
+Query SQL: 
+       -- ── Q1: URLs with missing languages ────────────────────────────────────────
+    -- Expected after Build 62: 0 rows.
+    -- Run after each batch to confirm all 6 languages are captured.
+    SELECT
+        uq.id  AS url_id,
+        uq.url,
+        uq.status,
+        COUNT(DISTINCT h.language) AS lang_count,
+        STRING_AGG(DISTINCT h.language, ', '
+                   ORDER BY h.language) AS languages_present,
+        6 - COUNT(DISTINCT h.language)  AS missing_count,
+        uq.languages_failed
+    FROM url_queue uq
+    LEFT JOIN hotels h ON h.url_id = uq.id
+    WHERE uq.status IN ('done', 'error')
+    GROUP BY uq.id, uq.url, uq.status, uq.languages_failed
+    HAVING COUNT(DISTINCT h.language) < 6
+    ORDER BY missing_count DESC, uq.updated_at DESC;
+    
+Result:
+```
+{
+(Consulta ejecutada pero no devolvió filas)
+}
+```
+
+---
+
+Query SQL: 
+    SELECT event_type, status, count(*) FROM scraping_logs GROUP BY event_type, status ORDER BY count DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "count"
+"scrape_success"; "done"; "13"
+}
+```
+
+---
+
+Query SQL: 
+    -- Logs de la última sesión:
+    SELECT url_id, language, event_type, status, duration_ms, scraped_at
+    FROM scraping_logs
+    WHERE scraped_at >= '2026-03-31 22:00:00+00'
+    ORDER BY scraped_at DESC
+    LIMIT 60;
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "scraped_at"
+"c186be75-2066-428c-bd2f-70279edffb65"; "en"; "scrape_success"; "done"; "62462"; "2026-06-02 16:02:29.780660+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "pt"; "scrape_success"; "done"; "15715"; "2026-06-02 16:00:52.930711+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "fr"; "scrape_success"; "done"; "12918"; "2026-06-02 16:00:07.778289+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "it"; "scrape_success"; "done"; "30978"; "2026-06-02 15:59:41.933896+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "de"; "scrape_success"; "done"; "60108"; "2026-06-02 15:58:43.103787+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "pt"; "scrape_success"; "done"; "9261"; "2026-06-02 15:58:41.924035+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "fr"; "scrape_success"; "done"; "20146"; "2026-06-02 15:58:17.086221+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "it"; "scrape_success"; "done"; "14749"; "2026-06-02 15:57:27.661691+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "es"; "scrape_success"; "done"; "10758"; "2026-06-02 15:57:15.878082+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "de"; "scrape_success"; "done"; "16748"; "2026-06-02 15:57:01.915966+01:00"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "en"; "scrape_success"; "done"; "108460"; "2026-06-02 15:56:51.577659+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "es"; "scrape_success"; "done"; "24217"; "2026-06-02 15:56:16.524391+01:00"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "en"; "scrape_success"; "done"; "56831"; "2026-06-02 15:55:02.717817+01:00"
+}
+```
+
+---
+
+Query SQL: 
+        -- 3a. Distribution using only confirmed columns
+        SELECT
+            event_type,
+            status,
+            COUNT(*)                                AS total,
+            ROUND(AVG(duration_ms) / 1000.0, 1)    AS avg_s,
+            ROUND(MIN(duration_ms) / 1000.0, 1)    AS min_s,
+            ROUND(MAX(duration_ms) / 1000.0, 1)    AS max_s
+        FROM scraping_logs
+        GROUP BY event_type, status
+        ORDER BY total DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "13"; "34.1"; "9.3"; "108.5"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4a. Scrapes over 100 seconds
+        SELECT
+            url_id,
+            language,
+            event_type,
+            status,
+            duration_ms,
+            ROUND(duration_ms / 1000.0, 1) AS duration_s,
+            scraped_at
+        FROM scraping_logs
+        WHERE duration_ms > 100000
+        ORDER BY duration_ms DESC;
+    
+Result:
+```
+{
+"url_id"; "language"; "event_type"; "status"; "duration_ms"; "duration_s"; "scraped_at"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "en"; "scrape_success"; "done"; "108460"; "108.5"; "2026-06-02 15:56:51.577659+01:00"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4b. Per-language duration statistics
+        SELECT
+            language,
+            COUNT(*)                                 AS scrapes,
+            ROUND(AVG(duration_ms) / 1000.0, 1)     AS avg_s,
+            ROUND(MIN(duration_ms) / 1000.0, 1)     AS min_s,
+            ROUND(MAX(duration_ms) / 1000.0, 1)     AS max_s,
+            ROUND(STDDEV(duration_ms) / 1000.0, 1)  AS stddev_s
+        FROM scraping_logs
+        WHERE status = 'done'
+        GROUP BY language
+        ORDER BY avg_s DESC;
+    
+Result:
+```
+{
+"language"; "scrapes"; "avg_s"; "min_s"; "max_s"; "stddev_s"
+"en"; "3"; "75.9"; "56.8"; "108.5"; "28.3"
+"de"; "2"; "38.4"; "16.7"; "60.1"; "30.7"
+"it"; "2"; "22.9"; "14.7"; "31.0"; "11.5"
+"es"; "2"; "17.5"; "10.8"; "24.2"; "9.5"
+"fr"; "2"; "16.5"; "12.9"; "20.1"; "5.1"
+"pt"; "2"; "12.5"; "9.3"; "15.7"; "4.6"
+}
+```
+
+---
+
+Query SQL: 
+        -- 4c. Timestamp collision risk (WARN-ORM-001, scraped_at as ORM PK)
+        SELECT
+            scraped_at,
+            COUNT(*) AS collision_count
+        FROM scraping_logs
+        GROUP BY scraped_at
+        HAVING COUNT(*) > 1
+        ORDER BY collision_count DESC;
+    
+Result:
+```
+{
+(Consulta ejecutada pero no devolvió filas)
+}
+```
+
+---
+
+Query SQL: 
+        -- 5a. Basic ratio (no column assumptions)
+        SELECT
+            (SELECT COUNT(*) FROM image_data)       AS total_image_data,
+            (SELECT COUNT(*) FROM image_downloads)  AS total_image_downloads,
+            ROUND(
+                (SELECT COUNT(*) FROM image_downloads)::numeric /
+                NULLIF((SELECT COUNT(*) FROM image_data), 0),
+            2)                                      AS downloads_per_photo;
+        -- Expected: 3.00 (thumb + large + highres)
+    
+Result:
+```
+{
+"total_image_data"; "total_image_downloads"; "downloads_per_photo"
+"148"; "444"; "3.00"
+}
+```
+
+---
+
+Query SQL: 
+    -- 5b. Download status breakdown — fill in after confirms 'status' column
+       SELECT status, COUNT(*) FROM image_downloads GROUP BY status ORDER BY count DESC;
+    
+Result:
+```
+{
+"status"; "count"
+"done"; "438"
+"error"; "6"
+}
+```
+
+---
+
+Query SQL: 
+        SELECT 'hotels' AS table_name, COUNT(*) AS rows FROM hotels
+        UNION ALL SELECT 'hotels_description',          COUNT(*) FROM hotels_description
+        UNION ALL SELECT 'hotels_policies',             COUNT(*) FROM hotels_policies
+        UNION ALL SELECT 'hotels_legal',                COUNT(*) FROM hotels_legal
+        UNION ALL SELECT 'hotels_popular_services',     COUNT(*) FROM hotels_popular_services
+        UNION ALL SELECT 'hotels_fine_print',           COUNT(*) FROM hotels_fine_print
+        UNION ALL SELECT 'hotels_all_services',         COUNT(*) FROM hotels_all_services
+        UNION ALL SELECT 'hotels_faqs',                 COUNT(*) FROM hotels_faqs
+        UNION ALL SELECT 'hotels_guest_reviews',        COUNT(*) FROM hotels_guest_reviews
+        UNION ALL SELECT 'hotels_property_highlights',  COUNT(*) FROM hotels_property_highlights
+        UNION ALL SELECT 'image_data',                  COUNT(*) FROM image_data
+        UNION ALL SELECT 'image_downloads',             COUNT(*) FROM image_downloads
+        UNION ALL SELECT 'url_language_status',         COUNT(*) FROM url_language_status
+        UNION ALL SELECT 'scraping_logs',               COUNT(*) FROM scraping_logs
+        UNION ALL SELECT 'url_queue',                   COUNT(*) FROM url_queue
+        ORDER BY table_name;
+    
+Result:
+```
+{
+"table_name"; "rows"
+"hotels"; "13"
+"hotels_all_services"; "737"
+"hotels_description"; "13"
+"hotels_faqs"; "100"
+"hotels_fine_print"; "13"
+"hotels_guest_reviews"; "91"
+"hotels_legal"; "13"
+"hotels_policies"; "103"
+"hotels_popular_services"; "105"
+"hotels_property_highlights"; "38"
+"image_data"; "148"
+"image_downloads"; "444"
+"scraping_logs"; "13"
+"url_language_status"; "13"
+"url_queue"; "141"
+}
+```
+
+---
+
+Query SQL: 
+        SELECT
+            tablename,
+            pg_size_pretty(
+                pg_total_relation_size(schemaname || '.' || tablename)
+            ) AS size
+        FROM pg_tables
+        WHERE tablename LIKE 'scraping_logs%'
+        ORDER BY tablename;
+    
+Result:
+```
+{
+"tablename"; "size"
+"scraping_logs"; "0 bytes"
+"scraping_logs_2025_01"; "8192 bytes"
+"scraping_logs_2025_02"; "8192 bytes"
+"scraping_logs_2025_03"; "8192 bytes"
+"scraping_logs_2025_04"; "8192 bytes"
+"scraping_logs_2025_05"; "8192 bytes"
+"scraping_logs_2025_06"; "8192 bytes"
+"scraping_logs_2025_07"; "8192 bytes"
+"scraping_logs_2025_08"; "8192 bytes"
+"scraping_logs_2025_09"; "8192 bytes"
+"scraping_logs_2025_10"; "8192 bytes"
+"scraping_logs_2025_11"; "8192 bytes"
+"scraping_logs_2025_12"; "8192 bytes"
+"scraping_logs_2026_01"; "8192 bytes"
+"scraping_logs_2026_02"; "8192 bytes"
+"scraping_logs_2026_03"; "8192 bytes"
+"scraping_logs_2026_04"; "8192 bytes"
+"scraping_logs_2026_05"; "8192 bytes"
+"scraping_logs_2026_06"; "16 kB"
+"scraping_logs_2026_07"; "8192 bytes"
+"scraping_logs_2026_08"; "8192 bytes"
+"scraping_logs_2026_09"; "8192 bytes"
+"scraping_logs_2026_10"; "8192 bytes"
+"scraping_logs_2026_11"; "8192 bytes"
+"scraping_logs_2026_12"; "8192 bytes"
+"scraping_logs_2027_01"; "8192 bytes"
+"scraping_logs_2027_02"; "8192 bytes"
+"scraping_logs_2027_03"; "8192 bytes"
+"scraping_logs_2027_04"; "8192 bytes"
+"scraping_logs_2027_05"; "8192 bytes"
+"scraping_logs_2027_06"; "8192 bytes"
+"scraping_logs_2027_07"; "8192 bytes"
+"scraping_logs_2027_08"; "8192 bytes"
+"scraping_logs_2027_09"; "8192 bytes"
+"scraping_logs_2027_10"; "8192 bytes"
+"scraping_logs_2027_11"; "8192 bytes"
+"scraping_logs_2027_12"; "8192 bytes"
+"scraping_logs_default"; "8192 bytes"
+}
+```
+
+---
+
+Query SQL: 
+        -- 5a. Resumen global
+        SELECT
+            event_type,
+            status,
+            COUNT(*)                            AS total,
+            ROUND(AVG(duration_ms)/1000.0, 1)  AS avg_s,
+            ROUND(MIN(duration_ms)/1000.0, 1)  AS min_s,
+            ROUND(MAX(duration_ms)/1000.0, 1)  AS max_s
+        FROM scraping_logs
+        GROUP BY event_type, status
+        ORDER BY total DESC;
+    
+Result:
+```
+{
+"event_type"; "status"; "total"; "avg_s"; "min_s"; "max_s"
+"scrape_success"; "done"; "13"; "34.1"; "9.3"; "108.5"
+}
+```
+
+---
+
+Query SQL:     
+        SELECT 'hotels'                     AS table_name, COUNT(*) AS rows FROM hotels
+        UNION ALL SELECT 'hotels_description',              COUNT(*) FROM hotels_description
+        UNION ALL SELECT 'hotels_policies',                 COUNT(*) FROM hotels_policies
+        UNION ALL SELECT 'hotels_legal',                    COUNT(*) FROM hotels_legal
+        UNION ALL SELECT 'hotels_fine_print',               COUNT(*) FROM hotels_fine_print
+        UNION ALL SELECT 'hotels_all_services',             COUNT(*) FROM hotels_all_services
+        UNION ALL SELECT 'hotels_popular_services',         COUNT(*) FROM hotels_popular_services
+        UNION ALL SELECT 'hotels_faqs',                     COUNT(*) FROM hotels_faqs
+        UNION ALL SELECT 'hotels_guest_reviews',            COUNT(*) FROM hotels_guest_reviews
+        UNION ALL SELECT 'hotels_property_highlights',      COUNT(*) FROM hotels_property_highlights
+        UNION ALL SELECT 'image_data',                      COUNT(*) FROM image_data
+        UNION ALL SELECT 'image_downloads',                 COUNT(*) FROM image_downloads
+        UNION ALL SELECT 'url_language_status',             COUNT(*) FROM url_language_status
+        UNION ALL SELECT 'scraping_logs',                   COUNT(*) FROM scraping_logs
+        UNION ALL SELECT 'url_queue',                       COUNT(*) FROM url_queue
+        ORDER BY table_name;
+        -- Esperado para 13 URLs x 6 idiomas:
+        --   hotels / description / policies / legal / fine_print → 78 filas c/u
+        --   url_language_status / scraping_logs                  → 78 filas c/u
+        --   url_queue                                            → 13 filas
+        --   Tablas variables (all_services, popular_services, faqs,
+        --     guest_reviews, property_highlights, image_data, image_downloads) → > 0
+    
+Result:
+```
+{
+"table_name"; "rows"
+"hotels"; "13"
+"hotels_all_services"; "737"
+"hotels_description"; "13"
+"hotels_faqs"; "100"
+"hotels_fine_print"; "13"
+"hotels_guest_reviews"; "91"
+"hotels_legal"; "13"
+"hotels_policies"; "103"
+"hotels_popular_services"; "105"
+"hotels_property_highlights"; "38"
+"image_data"; "148"
+"image_downloads"; "444"
+"scraping_logs"; "13"
+"url_language_status"; "13"
+"url_queue"; "141"
+}
+```
+
+---
+
+Query SQL: 
+        -- -----------------------------------------------------------------------------
+        -- 4. CALIDAD DE DATOS — hotels_popular_services vs hotels_all_services
+        --    Valida que popular es subconjunto razonable de all_services
+        -- -----------------------------------------------------------------------------
+        SELECT
+            ps.url_id,
+            ps.language,
+            COUNT(DISTINCT ps.popular_service)  AS n_popular,
+            COUNT(DISTINCT al.service)          AS n_all,
+            ROUND(
+                COUNT(DISTINCT ps.popular_service)::numeric /
+                NULLIF(COUNT(DISTINCT al.service), 0) * 100,
+            1) AS pct_popular_de_all
+        FROM hotels_popular_services ps
+        LEFT JOIN hotels_all_services al
+               ON al.url_id = ps.url_id AND al.language = ps.language
+        GROUP BY ps.url_id, ps.language
+        ORDER BY pct_popular_de_all DESC
+        LIMIT 20;
+        -- Esperado: n_popular < n_all en la mayoría de casos
+        -- pct alto (>100%) indicaría que popular tiene ítems no presentes en all
+    
+Result:
+```
+{
+"url_id"; "language"; "n_popular"; "n_all"; "pct_popular_de_all"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "it"; "10"; "10"; "100.0"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "de"; "7"; "44"; "15.9"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "pt"; "7"; "44"; "15.9"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "es"; "7"; "44"; "15.9"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "it"; "7"; "44"; "15.9"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "fr"; "7"; "45"; "15.6"
+"fd38ceca-5214-4255-b59a-ec99372bc50c"; "en"; "7"; "45"; "15.6"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "es"; "10"; "84"; "11.9"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "de"; "10"; "85"; "11.8"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "en"; "10"; "86"; "11.6"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "pt"; "10"; "86"; "11.6"
+"77b3927e-d33e-43a8-9d2e-1b6dd0618c29"; "fr"; "10"; "87"; "11.5"
+"c186be75-2066-428c-bd2f-70279edffb65"; "en"; "3"; "33"; "9.1"
+}
+```
