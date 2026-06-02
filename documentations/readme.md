@@ -5,7 +5,7 @@
 **Repository:** https://github.com/corralejo-htls/scrapv25  
 **Version:** v6.0.0 Build 58+  
 **Core Concept:** Data Integrity First  
-**Architecture:** Python + Celery + Redis/Memurai + SQL + Selenium  
+**Platform:** Windows 11 / Python + Celery + Memurai (Redis) + PostgreSQL + Selenium 
 **Architecture Style:** Hybrid (Service + Script-based + Automation Layer)
 **Schema Source of Truth:** https://github.com/corralejo-htls/scrapv25/blob/main/schema_v77_complete.sql
 **repository file listings:** https://github.com/corralejo-htls/scrapv25/blob/main/documentations/_path-file.csv
