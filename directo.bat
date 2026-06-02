@@ -2,6 +2,22 @@
 SETLOCAL
 
 cd /d C:\BookingScraper
+cls
+REM Crear venv si no existe
+IF NOT EXIST ".venv\Scripts\activate.bat" (
+    python -m venv .venv
+)
+
+REM Activar entorno virtual
+call .venv\Scripts\activate.bat
+
+echo VIRTUAL_ENV=%VIRTUAL_ENV%
+where python
+python --version
+
+
+REM Ejecutar purge de colas
+call purge_queues.bat
 
 ECHO [1] Eliminar archivos...
 
@@ -30,5 +46,7 @@ DIR /b /s > "_arbol_.csv"
 
 ECHO.
 ECHO Proceso completado.
+
+call cmd /k
 
 ENDLOCAL
