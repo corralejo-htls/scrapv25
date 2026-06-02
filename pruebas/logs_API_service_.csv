@@ -1,0 +1,15 @@
+
+===  BookingScraper API  ===
+
+←[32mINFO←[0m:     Started server process [←[36m9556←[0m]
+←[32mINFO←[0m:     Waiting for application startup.
+{"time":"2026-06-01T23:14:47","level":"INFO","logger":"app.main","msg":Starting BookingScraper Pro v6.0.0 build 113 | platform=win32}
+{"time":"2026-06-01T23:14:50","level":"INFO","logger":"app.database","msg":Database engine created: host=localhost db=bookingscraper pool_size=10 max_overflow=5}
+{"time":"2026-06-01T23:14:50","level":"INFO","logger":"app.language_config","msg":✅ LanguageConfig OK — 6 langs validated against languages.json}
+{"time":"2026-06-01T23:14:50","level":"INFO","logger":"app.main","msg":LanguageConfig loaded: 6 languages active ['en', 'es', 'de', 'it', 'fr', 'pt']}
+←[32mINFO←[0m:     Application startup complete.
+←[32mINFO←[0m:     Uvicorn running on ←[1mhttp://127.0.0.1:8000←[0m (Press CTRL+C to quit)
+←[32mINFO←[0m:     127.0.0.1:56825 - "←[1mGET /docs HTTP/1.1←[0m" ←[32m200 OK←[0m
+←[32mINFO←[0m:     127.0.0.1:56825 - "←[1mGET /openapi.json HTTP/1.1←[0m" ←[32m200 OK←[0m
+{"time":"2026-06-01T23:15:45","level":"INFO","logger":"app.main","msg":load-csv completado — insertadas: 141  external_ref actualizado: 0  sin cambios: 0  invalidas: 0}
+←[32mINFO←[0m:     127.0.0.1:54665 - "←[1mPOST /urls/load-csv HTTP/1.1←[0m" ←[32m200 OK←[0m
