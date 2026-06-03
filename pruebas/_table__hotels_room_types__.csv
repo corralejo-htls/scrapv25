@@ -1,0 +1,70 @@
+id,hotel_id,url_id,language,room_name,description,facilities,adults,children,images,info,created_at
+1,4f174a9a-a1d0-42ea-b079-27c3afe81f48,58dc7a07-478b-4dc2-92c1-2289495c77e2,en,Single Room,1 single bed,[],,,[],,2026-06-02 23:48:14.837717+01
+2,4f174a9a-a1d0-42ea-b079-27c3afe81f48,58dc7a07-478b-4dc2-92c1-2289495c77e2,en,Double Room,1 large double bed,[],,,[],,2026-06-02 23:48:14.837717+01
+3,4f174a9a-a1d0-42ea-b079-27c3afe81f48,58dc7a07-478b-4dc2-92c1-2289495c77e2,en,Double Room with Extra Bed,1 sofa bed and 1 large double bed,[],,,[],,2026-06-02 23:48:14.837717+01
+4,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Double Room with Garden View,1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+5,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Economy Double Room,1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+6,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Double Room with Patio,1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+7,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Triple Room with Garden View,1 single bed and 1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+8,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,King Room with Lake View,1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+9,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Double Room with Lake View,1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+10,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Twin Room with Private External Bathroom,2 single beds,[],,,[],,2026-06-02 23:49:06.139822+01
+11,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Family Room with Garden View,2 single beds and 1 large double bed,[],,,[],,2026-06-02 23:49:06.139822+01
+12,c20592f1-289b-465d-be76-28b89933913e,58dc7a07-478b-4dc2-92c1-2289495c77e2,es,Habitación Individual,1 cama individual,[],,,[],,2026-06-02 23:49:16.256884+01
+13,c20592f1-289b-465d-be76-28b89933913e,58dc7a07-478b-4dc2-92c1-2289495c77e2,es,Habitación Doble,1 cama doble grande,[],,,[],,2026-06-02 23:49:16.256884+01
+14,c20592f1-289b-465d-be76-28b89933913e,58dc7a07-478b-4dc2-92c1-2289495c77e2,es,Habitación Doble con cama supletoria,1 sofá cama y 1 cama doble grande,[],,,[],,2026-06-02 23:49:16.256884+01
+15,9b2eb779-24cc-4645-ab95-b8d28714da26,58dc7a07-478b-4dc2-92c1-2289495c77e2,de,Einzelzimmer,1 Einzelbett,[],,,[],,2026-06-02 23:50:04.543259+01
+16,9b2eb779-24cc-4645-ab95-b8d28714da26,58dc7a07-478b-4dc2-92c1-2289495c77e2,de,Doppelzimmer,1 Doppelbett,[],,,[],,2026-06-02 23:50:04.543259+01
+17,9b2eb779-24cc-4645-ab95-b8d28714da26,58dc7a07-478b-4dc2-92c1-2289495c77e2,de,Doppelzimmer mit Zustellbett,1 Schlafsofa und 1 Doppelbett,[],,,[],,2026-06-02 23:50:04.543259+01
+18,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Doble con vistas al jardín,1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+19,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Doble Económica,1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+20,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Doble con patio,1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+21,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Triple con vistas al jardín,1 cama individual y 1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+22,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación con cama extragrande y vistas al lago,1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+23,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Doble con vistas al lago,1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+24,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Doble con baño privado externo - 2 camas,2 camas individuales,[],,,[],,2026-06-02 23:50:19.083652+01
+25,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Habitación Familiar con vistas al jardín,2 camas individuales y 1 cama doble grande,[],,,[],,2026-06-02 23:50:19.083652+01
+26,1391d7a6-fa25-4537-a6f6-2df363332166,58dc7a07-478b-4dc2-92c1-2289495c77e2,it,Camera Singola,1 letto singolo,[],,,[],,2026-06-02 23:50:35.514727+01
+27,1391d7a6-fa25-4537-a6f6-2df363332166,58dc7a07-478b-4dc2-92c1-2289495c77e2,it,Camera Matrimoniale,1 letto matrimoniale,[],,,[],,2026-06-02 23:50:35.514727+01
+28,1391d7a6-fa25-4537-a6f6-2df363332166,58dc7a07-478b-4dc2-92c1-2289495c77e2,it,Camera Matrimoniale con Letto Supplementare,1 divano letto e 1 letto matrimoniale,[],,,[],,2026-06-02 23:50:35.514727+01
+29,4360d920-f357-4816-9e4f-685c3179c091,58dc7a07-478b-4dc2-92c1-2289495c77e2,fr,Chambre Simple,1 lit simple,[],,,[],,2026-06-02 23:51:03.447238+01
+30,4360d920-f357-4816-9e4f-685c3179c091,58dc7a07-478b-4dc2-92c1-2289495c77e2,fr,Chambre Double,1 grand lit double,[],,,[],,2026-06-02 23:51:03.447238+01
+31,4360d920-f357-4816-9e4f-685c3179c091,58dc7a07-478b-4dc2-92c1-2289495c77e2,fr,Chambre Double avec Lit d'Appoint,1 canapé-lit et 1 grand lit double,[],,,[],,2026-06-02 23:51:03.447238+01
+32,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Doppelzimmer mit Gartenblick,1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+33,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Economy Doppelzimmer,1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+34,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Doppelzimmer mit Patio,1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+35,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Dreibettzimmer mit Gartenblick,1 Einzelbett und 1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+36,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Zimmer mit Kingsize-Bett und Seeblick,1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+37,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Doppelzimmer mit Seeblick,1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+38,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Zweibettzimmer mit eigenem Bad außerhalb des Zimmers,2 Einzelbetten,[],,,[],,2026-06-02 23:51:14.866113+01
+39,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Familienzimmer mit Gartenblick,2 Einzelbetten und 1 Doppelbett,[],,,[],,2026-06-02 23:51:14.866113+01
+40,c302c8f2-f5fe-498e-bfad-d688e1871a9b,58dc7a07-478b-4dc2-92c1-2289495c77e2,pt,Quarto Individual,1 cama individual,[],,,[],,2026-06-02 23:51:25.28212+01
+41,c302c8f2-f5fe-498e-bfad-d688e1871a9b,58dc7a07-478b-4dc2-92c1-2289495c77e2,pt,Quarto Duplo,1 cama de casal grande,[],,,[],,2026-06-02 23:51:25.28212+01
+42,c302c8f2-f5fe-498e-bfad-d688e1871a9b,58dc7a07-478b-4dc2-92c1-2289495c77e2,pt,Quarto Duplo com Cama Extra,1 sofá-cama e 1 cama de casal grande,[],,,[],,2026-06-02 23:51:25.28212+01
+43,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Matrimoniale con Vista Giardino,1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+44,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Matrimoniale Economy,1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+45,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Matrimoniale con Patio,1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+46,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Tripla con Vista Giardino,1 letto singolo e 1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+47,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera King con Vista Lago,1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+48,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Matrimoniale con Vista Lago,1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+49,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Doppia con Letti Singoli con Bagno Privato Esterno,2 letti singoli,[],,,[],,2026-06-02 23:52:09.15531+01
+50,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Camera Familiare con Vista Giardino,2 letti singoli e 1 letto matrimoniale,[],,,[],,2026-06-02 23:52:09.15531+01
+51,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Double - Vue sur Jardin,1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+52,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Double Économique,1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+53,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Double avec Patio,1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+54,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Triple - Vue sur Jardin,1 lit simple et 1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+55,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Lit King-Size - Vue sur Lac,1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+56,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Double – Vue sur Lac,1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+57,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Lits Jumeaux avec Salle de Bains Privative Séparée,2 lits simples,[],,,[],,2026-06-02 23:53:04.142761+01
+58,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Chambre Familiale - Vue sur Jardin,2 lits simples et 1 grand lit double,[],,,[],,2026-06-02 23:53:04.142761+01
+59,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Duplo com Vista Jardim,1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+60,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Duplo Económico,1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+61,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Duplo com Pátio,1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+62,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Triplo com Vista do Jardim,1 cama individual e 1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+63,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto King com Vista Lago,1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+64,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Duplo com Vista Lago,1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+65,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Twin com Casa de Banho Privada Externa,2 camas individuais,[],,,[],,2026-06-02 23:53:30.197244+01
+66,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Quarto Familiar com Vista Jardim,2 camas individuais e 1 cama de casal grande,[],,,[],,2026-06-02 23:53:30.197244+01
+67,624def06-27ca-4ade-9766-41a9b7d2c6a6,425b983e-dd3a-46ba-88c2-f15b3017ebc8,en,Classic Double Room,"1 large double bed, 2 single beds",[],,,[],,2026-06-02 23:54:45.546162+01
+68,624def06-27ca-4ade-9766-41a9b7d2c6a6,425b983e-dd3a-46ba-88c2-f15b3017ebc8,en,Apartment,1 large double bed,[],,,[],,2026-06-02 23:54:45.546162+01
+69,624def06-27ca-4ade-9766-41a9b7d2c6a6,425b983e-dd3a-46ba-88c2-f15b3017ebc8,en,Business Double Room,"1 large double bed, 2 single beds",[],,,[],,2026-06-02 23:54:45.546162+01

@@ -1,0 +1,21 @@
+id,hotel_id,url_id,language,highlight_category,highlight_detail,created_at
+1,4f174a9a-a1d0-42ea-b079-27c3afe81f48,58dc7a07-478b-4dc2-92c1-2289495c77e2,en,Top Location,Top location: Highly rated by recent guests (8.6),2026-06-02 23:48:14.781974+01
+2,4f174a9a-a1d0-42ea-b079-27c3afe81f48,58dc7a07-478b-4dc2-92c1-2289495c77e2,en,Parking,Free private parking available at the hotel,2026-06-02 23:48:14.781974+01
+3,e582affa-ed7a-43a6-b384-e90ddc7708c4,847d2c53-d873-404c-8196-895b8651a7e4,en,Heart,"Situated in the best rated area in Ohrid, this property has an excellent location score of 9.3",2026-06-02 23:49:06.101322+01
+4,c20592f1-289b-465d-be76-28b89933913e,58dc7a07-478b-4dc2-92c1-2289495c77e2,es,Top Location,La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8.6),2026-06-02 23:49:16.241728+01
+5,c20592f1-289b-465d-be76-28b89933913e,58dc7a07-478b-4dc2-92c1-2289495c77e2,es,Parking,Hay parking privado gratis en el hotel,2026-06-02 23:49:16.241728+01
+6,9b2eb779-24cc-4645-ab95-b8d28714da26,58dc7a07-478b-4dc2-92c1-2289495c77e2,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,6)",2026-06-02 23:50:04.522997+01
+7,9b2eb779-24cc-4645-ab95-b8d28714da26,58dc7a07-478b-4dc2-92c1-2289495c77e2,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-06-02 23:50:04.522997+01
+8,1a0d53eb-2148-449d-927b-a4c6018265f3,847d2c53-d873-404c-8196-895b8651a7e4,es,Heart,"Situado en la zona mejor valorada de Ohrid, este alojamiento tiene una excelente puntuación en ubicación (9,3).",2026-06-02 23:50:19.028405+01
+9,1391d7a6-fa25-4537-a6f6-2df363332166,58dc7a07-478b-4dc2-92c1-2289495c77e2,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,6",2026-06-02 23:50:35.487426+01
+10,1391d7a6-fa25-4537-a6f6-2df363332166,58dc7a07-478b-4dc2-92c1-2289495c77e2,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-06-02 23:50:35.487426+01
+11,4360d920-f357-4816-9e4f-685c3179c091,58dc7a07-478b-4dc2-92c1-2289495c77e2,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,6)",2026-06-02 23:51:03.415862+01
+12,4360d920-f357-4816-9e4f-685c3179c091,58dc7a07-478b-4dc2-92c1-2289495c77e2,fr,Parking,Parking privé gratuit à l'hôtel,2026-06-02 23:51:03.415862+01
+13,2a15a668-f520-4680-8c44-88c7e945157d,847d2c53-d873-404c-8196-895b8651a7e4,de,Heart,"Diese Unterkunft befindet sich in der am besten bewerteten Gegend in Ohrid und hat für ihre Lage ein hervorragendes Bewertungsergebnis von 9,3",2026-06-02 23:51:14.813351+01
+14,c302c8f2-f5fe-498e-bfad-d688e1871a9b,58dc7a07-478b-4dc2-92c1-2289495c77e2,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,6)",2026-06-02 23:51:25.262636+01
+15,c302c8f2-f5fe-498e-bfad-d688e1871a9b,58dc7a07-478b-4dc2-92c1-2289495c77e2,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-06-02 23:51:25.262636+01
+16,d4211e66-8b31-40ee-b2ca-a8beda6885ee,847d2c53-d873-404c-8196-895b8651a7e4,it,Heart,"Situata nella zona più gettonata di Ohrid, questa struttura ha un ottimo punteggio per la posizione: 9,3!",2026-06-02 23:52:09.113246+01
+17,99e15db4-87f2-4ad4-b1b1-e3553c0bd4b4,847d2c53-d873-404c-8196-895b8651a7e4,fr,Heart,"Situé dans le quartier le plus apprécié de Ohrid, cet établissement affiche l'excellente note de 9,3 pour sa situation géographique.",2026-06-02 23:53:04.140748+01
+18,a3c185e9-144a-49d4-963e-a203f8b74484,847d2c53-d873-404c-8196-895b8651a7e4,pt,Heart,"Situado na área com melhor avaliação em Ohrid, este alojamento tem uma excelente pontuação de localização: 9,3",2026-06-02 23:53:30.157335+01
+19,624def06-27ca-4ade-9766-41a9b7d2c6a6,425b983e-dd3a-46ba-88c2-f15b3017ebc8,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.8",2026-06-02 23:54:45.462497+01
+20,624def06-27ca-4ade-9766-41a9b7d2c6a6,425b983e-dd3a-46ba-88c2-f15b3017ebc8,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-02 23:54:45.462497+01
