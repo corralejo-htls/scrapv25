@@ -1,5 +1,13 @@
 -- =============================================================================
--- BookingScraper Pro — Schema Completo v6.0.0 build 112
+-- BookingScraper Pro — Schema Completo v6.0.0 build 117
+-- Build 117: BUG-SCHEMA-INDEX-001-FIX — 5 índices añadidos a la tabla padre
+--            scraping_logs (url_id, hotel_id, event_status, scraped_at,
+--            worker_id). Sin índices, todas las queries de monitorización
+--            realizaban full sequential scan en todas las particiones.
+--            PostgreSQL 14+ propaga automáticamente índices padre→particiones.
+-- Build 117: BUG-PARTITION-001-FIX — Particiones para 2028 añadidas (12 meses).
+--            Sin estas, datos de log después de 2027-12-31 irían a la partición
+--            DEFAULT sin beneficio de partition pruning en queries de rango.
 -- Build 109: image_data + columnas de clasificación (gallery_visible, source,
 --            subcategory, gallery_order) + vista v_api_export_images.
 -- Build 112: BUG-VIEW-DEDUP-001 — v_api_export_images reescrita con DISTINCT ON
@@ -17,6 +25,22 @@
 -- =============================================================================
 -- CHANGELOG
 -- =============================================================================
+--
+-- v77 (Build 117):
+-- BUG-SCHEMA-INDEX-001-FIX : scraping_logs — 5 índices añadidos en tabla padre.
+--   La tabla scraping_logs es RANGE-particionada pero tenía CERO índices
+--   definidos en la tabla padre. PostgreSQL 14+ require que los índices se
+--   declaren en la tabla padre para propagarlos automáticamente a todas las
+--   particiones (existentes y futuras). Sin estos índices, todas las queries
+--   de monitorización (url_id, event_type, hotel_id) realizaban full sequential
+--   scan sobre todas las particiones — O(n) en lugar de O(log n).
+--   Índices añadidos: ix_slog_url_id, ix_slog_hotel_id (partial WHERE NOT NULL),
+--   ix_slog_event_status (compuesto), ix_slog_scraped_at, ix_slog_worker_id
+--   (partial WHERE NOT NULL). Sin cambios estructurales en ninguna otra tabla.
+-- BUG-PARTITION-001-FIX : scraping_logs — 12 particiones para 2028 añadidas.
+--   La cobertura anterior terminaba en scraping_logs_2027_12. Datos de log
+--   después del 31/12/2027 caerían en scraping_logs_default sin partition
+--   pruning. Las nuevas particiones cubren 2028-01 a 2028-12.
 --
 -- v77 (Build 103):
 --   BUG-SVC-EXTRAER4-001-V45: extractor.py — extraer4.py v4.5 (Main-Only).
@@ -572,6 +596,20 @@ CREATE TABLE IF NOT EXISTS scraping_logs_2027_12 PARTITION OF scraping_logs FOR 
 -- Partición DEFAULT para fechas fuera de rango preconfigurado
 CREATE TABLE IF NOT EXISTS scraping_logs_default PARTITION OF scraping_logs DEFAULT;
 
+-- Particiones 2028 (BUG-PARTITION-001-FIX, Build 117)
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_01 PARTITION OF scraping_logs FOR VALUES FROM ('2028-01-01') TO ('2028-02-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_02 PARTITION OF scraping_logs FOR VALUES FROM ('2028-02-01') TO ('2028-03-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_03 PARTITION OF scraping_logs FOR VALUES FROM ('2028-03-01') TO ('2028-04-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_04 PARTITION OF scraping_logs FOR VALUES FROM ('2028-04-01') TO ('2028-05-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_05 PARTITION OF scraping_logs FOR VALUES FROM ('2028-05-01') TO ('2028-06-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_06 PARTITION OF scraping_logs FOR VALUES FROM ('2028-06-01') TO ('2028-07-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_07 PARTITION OF scraping_logs FOR VALUES FROM ('2028-07-01') TO ('2028-08-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_08 PARTITION OF scraping_logs FOR VALUES FROM ('2028-08-01') TO ('2028-09-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_09 PARTITION OF scraping_logs FOR VALUES FROM ('2028-09-01') TO ('2028-10-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_10 PARTITION OF scraping_logs FOR VALUES FROM ('2028-10-01') TO ('2028-11-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_11 PARTITION OF scraping_logs FOR VALUES FROM ('2028-11-01') TO ('2028-12-01');
+CREATE TABLE IF NOT EXISTS scraping_logs_2028_12 PARTITION OF scraping_logs FOR VALUES FROM ('2028-12-01') TO ('2029-01-01');
+
 COMMENT ON TABLE scraping_logs IS
     'Log particionado por mes de eventos de scraping. FK via trigger (BUG-003/103)';
 
@@ -593,6 +631,49 @@ $$ LANGUAGE plpgsql;
 CREATE OR REPLACE TRIGGER trg_scraping_logs_fk_check
     BEFORE INSERT OR UPDATE ON scraping_logs
     FOR EACH ROW EXECUTE FUNCTION fn_scraping_logs_fk_check();
+
+-- =============================================================================
+-- ÍNDICES PARA scraping_logs (BUG-SCHEMA-INDEX-001-FIX, Build 117)
+-- =============================================================================
+-- scraping_logs es RANGE-particionada y tenía CERO índices en la tabla padre.
+-- PostgreSQL 14+ propaga índices padre→particiones automáticamente.
+-- Sin estos índices, TODAS las queries de monitorización realizaban full scan.
+-- =============================================================================
+
+-- Índice en url_id: permite recuperación eficiente de logs por URL
+CREATE INDEX IF NOT EXISTS ix_slog_url_id
+    ON scraping_logs (url_id);
+
+-- Índice parcial en hotel_id: solo para registros con hotel_id no nulo
+CREATE INDEX IF NOT EXISTS ix_slog_hotel_id
+    ON scraping_logs (hotel_id)
+    WHERE hotel_id IS NOT NULL;
+
+-- Índice compuesto en event_type + status: soporta queries de monitorización
+-- de fallos (WHERE event_type='scrape_failed' AND status='error')
+CREATE INDEX IF NOT EXISTS ix_slog_event_status
+    ON scraping_logs (event_type, status);
+
+-- Índice en scraped_at: soporta queries de rango temporal
+-- (complementa el partition pruning de RANGE partitioning)
+CREATE INDEX IF NOT EXISTS ix_slog_scraped_at
+    ON scraping_logs (scraped_at);
+
+-- Índice parcial en worker_id: para trazabilidad por worker Celery
+CREATE INDEX IF NOT EXISTS ix_slog_worker_id
+    ON scraping_logs (worker_id)
+    WHERE worker_id IS NOT NULL;
+
+COMMENT ON INDEX ix_slog_url_id IS
+    'BUG-SCHEMA-INDEX-001-FIX (Build 117): Recuperación eficiente de logs por URL. Propagado a todas las particiones.';
+COMMENT ON INDEX ix_slog_hotel_id IS
+    'BUG-SCHEMA-INDEX-001-FIX (Build 117): Logs por hotel. Parcial: WHERE hotel_id IS NOT NULL.';
+COMMENT ON INDEX ix_slog_event_status IS
+    'BUG-SCHEMA-INDEX-001-FIX (Build 117): Monitorización de fallos de scraping (event_type, status compuesto).';
+COMMENT ON INDEX ix_slog_scraped_at IS
+    'BUG-SCHEMA-INDEX-001-FIX (Build 117): Queries de rango temporal sobre logs.';
+COMMENT ON INDEX ix_slog_worker_id IS
+    'BUG-SCHEMA-INDEX-001-FIX (Build 117): Trazabilidad por worker Celery. Parcial: WHERE worker_id IS NOT NULL.';
 
 
 -- =============================================================================
