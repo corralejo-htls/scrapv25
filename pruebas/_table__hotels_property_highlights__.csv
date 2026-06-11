@@ -1,0 +1,561 @@
+id,hotel_id,url_id,language,highlight_category,highlight_detail,created_at
+1,3df3967c-52b8-4866-aff0-bb8b25cfbfa6,1bcfe846-48f9-4179-a81b-9868672f93aa,en,Heart,"Situated in the best rated area in Sankt Lorenzen ob Murau, this hotel has an excellent location score of 9.9",2026-06-07 23:56:44.342305+01
+2,3df3967c-52b8-4866-aff0-bb8b25cfbfa6,1bcfe846-48f9-4179-a81b-9868672f93aa,en,Breakfast info,Buffet,2026-06-07 23:56:44.342305+01
+3,3df3967c-52b8-4866-aff0-bb8b25cfbfa6,1bcfe846-48f9-4179-a81b-9868672f93aa,en,Parking,Free private parking available at the hotel,2026-06-07 23:56:44.342305+01
+4,50203763-fd70-4a7c-a4f8-3ff549ed9f54,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,en,Top Location,Top location: Highly rated by recent guests (9.0),2026-06-07 23:57:50.660782+01
+5,50203763-fd70-4a7c-a4f8-3ff549ed9f54,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,en,Breakfast info,Buffet,2026-06-07 23:57:50.660782+01
+6,50203763-fd70-4a7c-a4f8-3ff549ed9f54,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,en,Parking,Private parking at the hotel,2026-06-07 23:57:50.660782+01
+7,7f85d105-257e-4b60-bc1e-d3313926350a,1bcfe846-48f9-4179-a81b-9868672f93aa,es,Heart,"Situado en la zona mejor valorada de Sankt Lorenzen ob Murau, este hotel tiene una excelente puntuación en ubicación (9,9).",2026-06-07 23:58:02.549867+01
+8,7f85d105-257e-4b60-bc1e-d3313926350a,1bcfe846-48f9-4179-a81b-9868672f93aa,es,Información sobre el desayuno,Buffet,2026-06-07 23:58:02.549867+01
+9,7f85d105-257e-4b60-bc1e-d3313926350a,1bcfe846-48f9-4179-a81b-9868672f93aa,es,Parking,Hay parking privado gratis en el hotel,2026-06-07 23:58:02.549867+01
+10,5db0e31d-bbd0-4d9a-be84-4ba27d12ccd3,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,0)",2026-06-07 23:58:58.765775+01
+11,5db0e31d-bbd0-4d9a-be84-4ba27d12ccd3,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,es,Información sobre el desayuno,Buffet,2026-06-07 23:58:58.765775+01
+12,5db0e31d-bbd0-4d9a-be84-4ba27d12ccd3,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,es,Parking,Hay parking privado en el hotel,2026-06-07 23:58:58.765775+01
+13,bb4082d9-de2d-4b6b-93d5-c0b185da7852,1bcfe846-48f9-4179-a81b-9868672f93aa,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Sankt Lorenzen ob Murau und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,9",2026-06-07 23:59:08.895007+01
+14,bb4082d9-de2d-4b6b-93d5-c0b185da7852,1bcfe846-48f9-4179-a81b-9868672f93aa,de,Frühstücks-Info,Buffet,2026-06-07 23:59:08.895007+01
+15,bb4082d9-de2d-4b6b-93d5-c0b185da7852,1bcfe846-48f9-4179-a81b-9868672f93aa,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-06-07 23:59:08.895007+01
+16,6144bce3-2c34-4791-a366-efb64ef8e764,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,0)",2026-06-07 23:59:22.110193+01
+17,6144bce3-2c34-4791-a366-efb64ef8e764,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,de,Frühstücks-Info,Buffet,2026-06-07 23:59:22.110193+01
+18,6144bce3-2c34-4791-a366-efb64ef8e764,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-06-07 23:59:22.110193+01
+19,de03d327-5975-4e3f-8360-2dac62664ba1,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,0",2026-06-08 00:00:01.706204+01
+20,de03d327-5975-4e3f-8360-2dac62664ba1,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,it,Informazioni sulla colazione,a buffet,2026-06-08 00:00:01.706204+01
+21,de03d327-5975-4e3f-8360-2dac62664ba1,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-06-08 00:00:01.706204+01
+22,140ef8da-f318-4928-9e2a-d37778c59464,1bcfe846-48f9-4179-a81b-9868672f93aa,it,Heart,"Situato nella zona più gettonata di Sankt Lorenzen ob Murau, questo hotel ha un ottimo punteggio per la posizione: 9,9!",2026-06-08 00:00:21.857784+01
+23,140ef8da-f318-4928-9e2a-d37778c59464,1bcfe846-48f9-4179-a81b-9868672f93aa,it,Informazioni sulla colazione,a buffet,2026-06-08 00:00:21.857784+01
+24,140ef8da-f318-4928-9e2a-d37778c59464,1bcfe846-48f9-4179-a81b-9868672f93aa,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-06-08 00:00:21.857784+01
+25,f0cfe56a-da4f-47e5-828d-8266a7d44180,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,0)",2026-06-08 00:00:28.467385+01
+26,f0cfe56a-da4f-47e5-828d-8266a7d44180,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 00:00:28.467385+01
+27,f0cfe56a-da4f-47e5-828d-8266a7d44180,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,fr,Parking,Parking privé à l'hôtel,2026-06-08 00:00:28.467385+01
+28,e2b5e27e-b389-451b-aa74-83eb67cda3c9,1bcfe846-48f9-4179-a81b-9868672f93aa,fr,Heart,"Situé dans le quartier le plus apprécié à Sankt Lorenzen ob Murau, cet hôtel affiche l'excellente note de 9,9 pour sa situation géographique.",2026-06-08 00:01:30.102344+01
+29,e2b5e27e-b389-451b-aa74-83eb67cda3c9,1bcfe846-48f9-4179-a81b-9868672f93aa,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 00:01:30.102344+01
+30,e2b5e27e-b389-451b-aa74-83eb67cda3c9,1bcfe846-48f9-4179-a81b-9868672f93aa,fr,Parking,Parking privé gratuit à l'hôtel,2026-06-08 00:01:30.102344+01
+31,9652e617-1b3f-4f88-b3e7-dbeb9bc91315,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,0)",2026-06-08 00:01:43.863598+01
+32,9652e617-1b3f-4f88-b3e7-dbeb9bc91315,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 00:01:43.863598+01
+33,9652e617-1b3f-4f88-b3e7-dbeb9bc91315,bd8b90bc-e361-4ede-89bd-9d9237d4fe72,pt,Parking,Estacionamento privado disponível no hotel,2026-06-08 00:01:43.863598+01
+34,1ac92c97-5970-4462-9c88-ec9b206eb231,1bcfe846-48f9-4179-a81b-9868672f93aa,pt,Heart,"Situado na área com melhor avaliação em St. Lorenzen ob Murau, este hotel tem uma excelente pontuação de localização: 9,9",2026-06-08 00:01:55.121532+01
+35,1ac92c97-5970-4462-9c88-ec9b206eb231,1bcfe846-48f9-4179-a81b-9868672f93aa,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 00:01:55.121532+01
+36,1ac92c97-5970-4462-9c88-ec9b206eb231,1bcfe846-48f9-4179-a81b-9868672f93aa,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-06-08 00:01:55.121532+01
+37,ecdbc2f1-63cb-43ef-8bc1-aeee9bf07f7c,f03963dd-820c-457d-ad6a-7d360d35e44a,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.8",2026-06-08 00:08:14.815687+01
+38,ecdbc2f1-63cb-43ef-8bc1-aeee9bf07f7c,f03963dd-820c-457d-ad6a-7d360d35e44a,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:08:14.815687+01
+39,3826106a-8dd3-4333-ab00-c72da46bbe69,05cd5dd6-988d-420f-a45d-d5ddc4159c88,en,Parking,Free private parking available at the hotel,2026-06-08 00:09:16.887564+01
+40,90ed70c0-a824-4655-995c-7dabfb46e60d,f03963dd-820c-457d-ad6a-7d360d35e44a,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,8",2026-06-08 00:09:28.256959+01
+41,90ed70c0-a824-4655-995c-7dabfb46e60d,f03963dd-820c-457d-ad6a-7d360d35e44a,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:09:28.256959+01
+42,7fd83f4f-d126-4b2e-ab39-5a39c202084c,05cd5dd6-988d-420f-a45d-d5ddc4159c88,es,Parking,Hay parking privado gratis en el hotel,2026-06-08 00:10:15.282657+01
+43,81613c9f-1485-4392-bfa6-be29e4f9a45d,f03963dd-820c-457d-ad6a-7d360d35e44a,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,8)",2026-06-08 00:10:29.411339+01
+44,81613c9f-1485-4392-bfa6-be29e4f9a45d,f03963dd-820c-457d-ad6a-7d360d35e44a,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:10:29.411339+01
+45,1da47fbf-fe03-4bc8-b613-5b227ee4bb46,05cd5dd6-988d-420f-a45d-d5ddc4159c88,de,Parking,An dem Hotel stehen kostenfreie Privatparkplätze zur Verfügung,2026-06-08 00:10:39.047382+01
+46,79a648a6-23b2-43d5-95c0-c435a7d0f24f,05cd5dd6-988d-420f-a45d-d5ddc4159c88,it,Parking,Parcheggio privato gratuito disponibile presso l'hotel,2026-06-08 00:11:24.524269+01
+47,2573dfcb-33c7-4a6f-aed6-f22814c25823,f03963dd-820c-457d-ad6a-7d360d35e44a,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,8!",2026-06-08 00:11:38.084757+01
+48,2573dfcb-33c7-4a6f-aed6-f22814c25823,f03963dd-820c-457d-ad6a-7d360d35e44a,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:11:38.084757+01
+49,89421b7d-37e1-4412-8d02-37b0f4f9f47c,05cd5dd6-988d-420f-a45d-d5ddc4159c88,fr,Parking,Parking privé gratuit à l'hôtel,2026-06-08 00:11:49.82596+01
+50,96b8bd08-55df-4216-96e7-b29301538b39,f03963dd-820c-457d-ad6a-7d360d35e44a,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,8 pour sa situation géographique.",2026-06-08 00:12:45.504639+01
+51,96b8bd08-55df-4216-96e7-b29301538b39,f03963dd-820c-457d-ad6a-7d360d35e44a,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:12:45.504639+01
+52,9d7811b4-ce4e-43bb-b97b-9307806f0d30,05cd5dd6-988d-420f-a45d-d5ddc4159c88,pt,Parking,Estacionamento privado gratuito disponível no hotel,2026-06-08 00:13:07.12736+01
+53,9f404883-28da-4293-9257-bb368e0030f1,f03963dd-820c-457d-ad6a-7d360d35e44a,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,8",2026-06-08 00:13:12.269608+01
+54,9f404883-28da-4293-9257-bb368e0030f1,f03963dd-820c-457d-ad6a-7d360d35e44a,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:13:12.269608+01
+55,492d5418-3b99-4e9c-9732-1760299c922a,183a3b50-4210-4cea-b460-39b4f1b14e64,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.4",2026-06-08 00:19:56.791599+01
+56,492d5418-3b99-4e9c-9732-1760299c922a,183a3b50-4210-4cea-b460-39b4f1b14e64,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, American, Buffet",2026-06-08 00:19:56.791599+01
+57,492d5418-3b99-4e9c-9732-1760299c922a,183a3b50-4210-4cea-b460-39b4f1b14e64,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:19:56.791599+01
+58,012e94a8-235a-4caa-9edf-71361cdd068d,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.8",2026-06-08 00:21:05.233043+01
+59,012e94a8-235a-4caa-9edf-71361cdd068d,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Asian, American, Buffet",2026-06-08 00:21:05.233043+01
+60,012e94a8-235a-4caa-9edf-71361cdd068d,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,en,Parking,Private parking at the hotel,2026-06-08 00:21:05.233043+01
+61,012e94a8-235a-4caa-9edf-71361cdd068d,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:21:05.233043+01
+62,6ab00701-b145-4886-9d00-f82c581b6dea,183a3b50-4210-4cea-b460-39b4f1b14e64,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,4",2026-06-08 00:21:30.163741+01
+63,6ab00701-b145-4886-9d00-f82c581b6dea,183a3b50-4210-4cea-b460-39b4f1b14e64,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Americano, Buffet",2026-06-08 00:21:30.163741+01
+64,6ab00701-b145-4886-9d00-f82c581b6dea,183a3b50-4210-4cea-b460-39b4f1b14e64,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:21:30.163741+01
+65,fee3105b-8dc5-428f-b870-c8177062bb40,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,8",2026-06-08 00:21:42.869742+01
+66,fee3105b-8dc5-428f-b870-c8177062bb40,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Asiático, Americano, Buffet",2026-06-08 00:21:42.869742+01
+67,fee3105b-8dc5-428f-b870-c8177062bb40,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,es,Parking,Hay parking privado en el hotel,2026-06-08 00:21:42.869742+01
+68,fee3105b-8dc5-428f-b870-c8177062bb40,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:21:42.869742+01
+69,1c70237d-3778-4c82-9d0b-5dece3121d97,183a3b50-4210-4cea-b460-39b4f1b14e64,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,4)",2026-06-08 00:21:55.068361+01
+70,1c70237d-3778-4c82-9d0b-5dece3121d97,183a3b50-4210-4cea-b460-39b4f1b14e64,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Amerikanisch, Buffet",2026-06-08 00:21:55.068361+01
+71,1c70237d-3778-4c82-9d0b-5dece3121d97,183a3b50-4210-4cea-b460-39b4f1b14e64,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:21:55.068361+01
+72,1b973646-33de-493a-920f-2ce29613ad9c,183a3b50-4210-4cea-b460-39b4f1b14e64,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,4!",2026-06-08 00:22:41.76058+01
+73,1b973646-33de-493a-920f-2ce29613ad9c,183a3b50-4210-4cea-b460-39b4f1b14e64,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, americana, a buffet",2026-06-08 00:22:41.76058+01
+74,1b973646-33de-493a-920f-2ce29613ad9c,183a3b50-4210-4cea-b460-39b4f1b14e64,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:22:41.76058+01
+75,1879360e-8023-446c-9623-5d40b31ec046,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,8)",2026-06-08 00:22:45.990067+01
+76,1879360e-8023-446c-9623-5d40b31ec046,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Asiatisch, Amerikanisch, Buffet",2026-06-08 00:22:45.990067+01
+77,1879360e-8023-446c-9623-5d40b31ec046,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-06-08 00:22:45.990067+01
+78,1879360e-8023-446c-9623-5d40b31ec046,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:22:45.990067+01
+79,581f2843-ebc4-48f1-a329-93b9851633f2,183a3b50-4210-4cea-b460-39b4f1b14e64,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,4 pour sa situation géographique.",2026-06-08 00:23:17.906698+01
+80,581f2843-ebc4-48f1-a329-93b9851633f2,183a3b50-4210-4cea-b460-39b4f1b14e64,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Américain, Buffet",2026-06-08 00:23:17.906698+01
+81,581f2843-ebc4-48f1-a329-93b9851633f2,183a3b50-4210-4cea-b460-39b4f1b14e64,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:23:17.906698+01
+82,6171adbf-1b47-4207-8851-c1971413559c,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,8!",2026-06-08 00:23:50.39732+01
+83,6171adbf-1b47-4207-8851-c1971413559c,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, asiatica, americana, a buffet",2026-06-08 00:23:50.39732+01
+84,6171adbf-1b47-4207-8851-c1971413559c,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-06-08 00:23:50.39732+01
+85,6171adbf-1b47-4207-8851-c1971413559c,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:23:50.39732+01
+86,cb0786b0-49cf-45b1-8ee1-702f338074bb,183a3b50-4210-4cea-b460-39b4f1b14e64,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,4",2026-06-08 00:24:05.333872+01
+87,cb0786b0-49cf-45b1-8ee1-702f338074bb,183a3b50-4210-4cea-b460-39b4f1b14e64,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Americano, Buffet",2026-06-08 00:24:05.333872+01
+88,cb0786b0-49cf-45b1-8ee1-702f338074bb,183a3b50-4210-4cea-b460-39b4f1b14e64,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:24:05.333872+01
+89,bdf0e5c5-f91e-4224-9d05-1d5da6771a6a,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,8 pour sa situation géographique.",2026-06-08 00:24:18.860604+01
+90,bdf0e5c5-f91e-4224-9d05-1d5da6771a6a,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Asiatique, Américain, Buffet",2026-06-08 00:24:18.860604+01
+91,bdf0e5c5-f91e-4224-9d05-1d5da6771a6a,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,fr,Parking,Parking privé à l'hôtel,2026-06-08 00:24:18.860604+01
+92,bdf0e5c5-f91e-4224-9d05-1d5da6771a6a,ce1303a5-3c0e-4cf0-9c40-34dfb4693ae7,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:24:18.860604+01
+93,242d78ee-398b-440c-97d4-2a59262da5e2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.6",2026-06-08 00:27:08.870252+01
+94,242d78ee-398b-440c-97d4-2a59262da5e2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,en,Breakfast info,"Vegetarian, Vegan, Gluten-free, Buffet",2026-06-08 00:27:08.870252+01
+95,242d78ee-398b-440c-97d4-2a59262da5e2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,en,Parking,Parking available at the hotel,2026-06-08 00:27:08.870252+01
+96,41dd185a-6e31-4829-ba9d-61f9d35e4432,b54df85e-b4ff-497a-8e70-40f44f83eb27,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.6",2026-06-08 00:28:17.867033+01
+97,41dd185a-6e31-4829-ba9d-61f9d35e4432,b54df85e-b4ff-497a-8e70-40f44f83eb27,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Asian, American, Buffet",2026-06-08 00:28:17.867033+01
+98,41dd185a-6e31-4829-ba9d-61f9d35e4432,b54df85e-b4ff-497a-8e70-40f44f83eb27,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:28:17.867033+01
+99,4465a58f-1625-4975-a177-fd9b5c46f780,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,6",2026-06-08 00:29:11.154437+01
+100,4465a58f-1625-4975-a177-fd9b5c46f780,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,es,Información sobre el desayuno,"Vegetariano, Vegano, Sin gluten, Buffet",2026-06-08 00:29:11.154437+01
+101,4465a58f-1625-4975-a177-fd9b5c46f780,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,es,Parking,Hay parking en el hotel,2026-06-08 00:29:11.154437+01
+102,235a4cb8-2fbe-44aa-a5e6-2446da74776c,b54df85e-b4ff-497a-8e70-40f44f83eb27,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,6",2026-06-08 00:29:24.249112+01
+103,235a4cb8-2fbe-44aa-a5e6-2446da74776c,b54df85e-b4ff-497a-8e70-40f44f83eb27,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Asiático, Americano, Buffet",2026-06-08 00:29:24.249112+01
+104,235a4cb8-2fbe-44aa-a5e6-2446da74776c,b54df85e-b4ff-497a-8e70-40f44f83eb27,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:29:24.249112+01
+105,d52f0aaf-51d8-4cf8-9a86-086e03efc37d,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,6)",2026-06-08 00:29:45.736475+01
+106,d52f0aaf-51d8-4cf8-9a86-086e03efc37d,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,de,Frühstücks-Info,"Vegetarisch, Vegan, Glutenfrei, Buffet",2026-06-08 00:29:45.736475+01
+107,d52f0aaf-51d8-4cf8-9a86-086e03efc37d,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 00:29:45.736475+01
+108,84987e68-f4c2-44f5-8586-1285aaf0d27c,b54df85e-b4ff-497a-8e70-40f44f83eb27,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,6)",2026-06-08 00:30:17.962827+01
+109,84987e68-f4c2-44f5-8586-1285aaf0d27c,b54df85e-b4ff-497a-8e70-40f44f83eb27,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Asiatisch, Amerikanisch, Buffet",2026-06-08 00:30:17.962827+01
+110,84987e68-f4c2-44f5-8586-1285aaf0d27c,b54df85e-b4ff-497a-8e70-40f44f83eb27,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:30:17.962827+01
+111,2ece39b9-50aa-4676-b853-56f45596f9a2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-06-08 00:30:33.02078+01
+112,2ece39b9-50aa-4676-b853-56f45596f9a2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,it,Informazioni sulla colazione,"vegetariana, vegana, senza glutine, a buffet",2026-06-08 00:30:33.02078+01
+113,2ece39b9-50aa-4676-b853-56f45596f9a2,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 00:30:33.02078+01
+114,ca6d1279-5cae-4ace-9526-991bdd3afe04,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-06-08 00:30:59.721358+01
+115,ca6d1279-5cae-4ace-9526-991bdd3afe04,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,fr,Infos concernant le petit-déjeuner,"Végétarien, Végétalien, Sans gluten, Buffet",2026-06-08 00:30:59.721358+01
+116,ca6d1279-5cae-4ace-9526-991bdd3afe04,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,fr,Parking,Parking disponible à l'hôtel,2026-06-08 00:30:59.721358+01
+117,a876cab3-2fe1-4aec-85e6-6704ac3d153c,b54df85e-b4ff-497a-8e70-40f44f83eb27,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-06-08 00:31:27.290844+01
+118,a876cab3-2fe1-4aec-85e6-6704ac3d153c,b54df85e-b4ff-497a-8e70-40f44f83eb27,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, asiatica, americana, a buffet",2026-06-08 00:31:27.290844+01
+119,a876cab3-2fe1-4aec-85e6-6704ac3d153c,b54df85e-b4ff-497a-8e70-40f44f83eb27,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:31:27.290844+01
+120,3851c7cd-3ce1-46e8-9986-ccdbf37354ee,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,6",2026-06-08 00:31:39.914766+01
+121,3851c7cd-3ce1-46e8-9986-ccdbf37354ee,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,pt,Informação sobre o pequeno-almoço,"Vegetariano, Vegan, Sem glúten, Buffet",2026-06-08 00:31:39.914766+01
+122,3851c7cd-3ce1-46e8-9986-ccdbf37354ee,f0cf9c7a-ca5a-42a8-8fa8-588817985d9f,pt,Parking,Estacionamento disponível no hotel,2026-06-08 00:31:39.914766+01
+123,e0c83d3f-46c3-44f8-9867-aa1137746583,b54df85e-b4ff-497a-8e70-40f44f83eb27,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-06-08 00:31:51.50368+01
+124,e0c83d3f-46c3-44f8-9867-aa1137746583,b54df85e-b4ff-497a-8e70-40f44f83eb27,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Asiatique, Américain, Buffet",2026-06-08 00:31:51.50368+01
+125,e0c83d3f-46c3-44f8-9867-aa1137746583,b54df85e-b4ff-497a-8e70-40f44f83eb27,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:31:51.50368+01
+126,1d457280-f6df-4abb-b06d-eb2d8fff6f45,b54df85e-b4ff-497a-8e70-40f44f83eb27,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,6",2026-06-08 00:32:38.643845+01
+127,1d457280-f6df-4abb-b06d-eb2d8fff6f45,b54df85e-b4ff-497a-8e70-40f44f83eb27,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Asiático, Americano, Buffet",2026-06-08 00:32:38.643845+01
+128,1d457280-f6df-4abb-b06d-eb2d8fff6f45,b54df85e-b4ff-497a-8e70-40f44f83eb27,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:32:38.643845+01
+129,6fda8dc5-fd1a-4b74-8496-bfdc2afed4bc,150419eb-1119-4669-af4f-5e0477467683,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.6",2026-06-08 00:34:40.620881+01
+130,6fda8dc5-fd1a-4b74-8496-bfdc2afed4bc,150419eb-1119-4669-af4f-5e0477467683,en,Breakfast info,"Continental, Buffet",2026-06-08 00:34:40.620881+01
+131,ea8444cc-cda1-4658-a584-605beaaa3455,940006a8-ee81-4e28-b7ac-b11ed957f595,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.7",2026-06-08 00:35:33.325099+01
+132,ea8444cc-cda1-4658-a584-605beaaa3455,940006a8-ee81-4e28-b7ac-b11ed957f595,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Asian, Buffet",2026-06-08 00:35:33.325099+01
+133,ea8444cc-cda1-4658-a584-605beaaa3455,940006a8-ee81-4e28-b7ac-b11ed957f595,en,Parking,Parking available at the hotel,2026-06-08 00:35:33.325099+01
+134,ea8444cc-cda1-4658-a584-605beaaa3455,940006a8-ee81-4e28-b7ac-b11ed957f595,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:35:33.325099+01
+135,7094c22c-9065-4325-a1cb-fe603f08e921,150419eb-1119-4669-af4f-5e0477467683,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,6",2026-06-08 00:35:55.652528+01
+136,7094c22c-9065-4325-a1cb-fe603f08e921,150419eb-1119-4669-af4f-5e0477467683,es,Información sobre el desayuno,"Continental, Buffet",2026-06-08 00:35:55.652528+01
+137,ae69ce40-c3a9-45fd-a857-c483a998b9db,150419eb-1119-4669-af4f-5e0477467683,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,6)",2026-06-08 00:36:22.607765+01
+138,ae69ce40-c3a9-45fd-a857-c483a998b9db,150419eb-1119-4669-af4f-5e0477467683,de,Frühstücks-Info,"Kontinental, Buffet",2026-06-08 00:36:22.607765+01
+139,3faf0eb8-8a81-4776-9cf9-50a8eeb0bdf8,940006a8-ee81-4e28-b7ac-b11ed957f595,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,7",2026-06-08 00:36:35.066144+01
+140,3faf0eb8-8a81-4776-9cf9-50a8eeb0bdf8,940006a8-ee81-4e28-b7ac-b11ed957f595,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Asiático, Buffet",2026-06-08 00:36:35.066144+01
+141,3faf0eb8-8a81-4776-9cf9-50a8eeb0bdf8,940006a8-ee81-4e28-b7ac-b11ed957f595,es,Parking,Hay parking en el hotel,2026-06-08 00:36:35.066144+01
+142,3faf0eb8-8a81-4776-9cf9-50a8eeb0bdf8,940006a8-ee81-4e28-b7ac-b11ed957f595,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:36:35.066144+01
+143,c6369854-07ce-4898-b792-3ff382e49a9e,940006a8-ee81-4e28-b7ac-b11ed957f595,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,7)",2026-06-08 00:37:14.128015+01
+144,c6369854-07ce-4898-b792-3ff382e49a9e,940006a8-ee81-4e28-b7ac-b11ed957f595,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Asiatisch, Buffet",2026-06-08 00:37:14.128015+01
+145,c6369854-07ce-4898-b792-3ff382e49a9e,940006a8-ee81-4e28-b7ac-b11ed957f595,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 00:37:14.128015+01
+146,c6369854-07ce-4898-b792-3ff382e49a9e,940006a8-ee81-4e28-b7ac-b11ed957f595,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:37:14.128015+01
+147,ca7d4466-bbe4-40e1-b96c-5f97573bdb24,150419eb-1119-4669-af4f-5e0477467683,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-06-08 00:37:34.535822+01
+148,ca7d4466-bbe4-40e1-b96c-5f97573bdb24,150419eb-1119-4669-af4f-5e0477467683,it,Informazioni sulla colazione,"continentale, a buffet",2026-06-08 00:37:34.535822+01
+149,6a1961cf-202e-4480-b6dd-c83bb6d9516c,150419eb-1119-4669-af4f-5e0477467683,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-06-08 00:38:08.013523+01
+150,6a1961cf-202e-4480-b6dd-c83bb6d9516c,150419eb-1119-4669-af4f-5e0477467683,fr,Infos concernant le petit-déjeuner,"Continental, Buffet",2026-06-08 00:38:08.013523+01
+151,dd7e2dd3-2629-46a5-a545-f7ca5e889143,940006a8-ee81-4e28-b7ac-b11ed957f595,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-06-08 00:38:22.828658+01
+152,dd7e2dd3-2629-46a5-a545-f7ca5e889143,940006a8-ee81-4e28-b7ac-b11ed957f595,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, asiatica, a buffet",2026-06-08 00:38:22.828658+01
+153,dd7e2dd3-2629-46a5-a545-f7ca5e889143,940006a8-ee81-4e28-b7ac-b11ed957f595,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 00:38:22.828658+01
+154,dd7e2dd3-2629-46a5-a545-f7ca5e889143,940006a8-ee81-4e28-b7ac-b11ed957f595,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:38:22.828658+01
+155,1f70a003-6258-4b0f-bf32-9270f91584c8,150419eb-1119-4669-af4f-5e0477467683,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,6",2026-06-08 00:38:35.276513+01
+156,1f70a003-6258-4b0f-bf32-9270f91584c8,150419eb-1119-4669-af4f-5e0477467683,pt,Informação sobre o pequeno-almoço,"Continental, Buffet",2026-06-08 00:38:35.276513+01
+157,0b3946e2-7f3c-4c85-84d6-df6267d359d7,940006a8-ee81-4e28-b7ac-b11ed957f595,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-06-08 00:39:15.0915+01
+158,0b3946e2-7f3c-4c85-84d6-df6267d359d7,940006a8-ee81-4e28-b7ac-b11ed957f595,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Asiatique, Buffet",2026-06-08 00:39:15.0915+01
+159,0b3946e2-7f3c-4c85-84d6-df6267d359d7,940006a8-ee81-4e28-b7ac-b11ed957f595,fr,Parking,Parking disponible à l'hôtel,2026-06-08 00:39:15.0915+01
+160,0b3946e2-7f3c-4c85-84d6-df6267d359d7,940006a8-ee81-4e28-b7ac-b11ed957f595,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:39:15.0915+01
+161,49782d76-e2f3-46a4-b0e6-bcd35f0cfd7c,940006a8-ee81-4e28-b7ac-b11ed957f595,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,7",2026-06-08 00:39:40.730014+01
+162,49782d76-e2f3-46a4-b0e6-bcd35f0cfd7c,940006a8-ee81-4e28-b7ac-b11ed957f595,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Asiático, Buffet",2026-06-08 00:39:40.730014+01
+163,49782d76-e2f3-46a4-b0e6-bcd35f0cfd7c,940006a8-ee81-4e28-b7ac-b11ed957f595,pt,Parking,Estacionamento disponível no hotel,2026-06-08 00:39:40.730014+01
+164,49782d76-e2f3-46a4-b0e6-bcd35f0cfd7c,940006a8-ee81-4e28-b7ac-b11ed957f595,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:39:40.730014+01
+165,bdde88a7-ce52-46aa-a983-1de053e7558d,1edff744-d65f-4bee-a8df-db0adf99e0cd,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.2",2026-06-08 00:41:16.619257+01
+166,bdde88a7-ce52-46aa-a983-1de053e7558d,1edff744-d65f-4bee-a8df-db0adf99e0cd,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Asian, American, Buffet",2026-06-08 00:41:16.619257+01
+167,bdde88a7-ce52-46aa-a983-1de053e7558d,1edff744-d65f-4bee-a8df-db0adf99e0cd,en,Parking,Parking available at the hotel,2026-06-08 00:41:16.619257+01
+168,bdde88a7-ce52-46aa-a983-1de053e7558d,1edff744-d65f-4bee-a8df-db0adf99e0cd,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:41:16.619257+01
+170,1babc095-e76f-4ee0-9410-31192b7ea641,1edff744-d65f-4bee-a8df-db0adf99e0cd,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,2",2026-06-08 00:42:35.061715+01
+171,1babc095-e76f-4ee0-9410-31192b7ea641,1edff744-d65f-4bee-a8df-db0adf99e0cd,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Asiático, Americano, Buffet",2026-06-08 00:42:35.061715+01
+172,1babc095-e76f-4ee0-9410-31192b7ea641,1edff744-d65f-4bee-a8df-db0adf99e0cd,es,Parking,Hay parking en el hotel,2026-06-08 00:42:35.061715+01
+173,1babc095-e76f-4ee0-9410-31192b7ea641,1edff744-d65f-4bee-a8df-db0adf99e0cd,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:42:35.061715+01
+169,03d67b83-bb9b-4d3a-b07a-7bfd917862f9,53681a81-2bfb-444a-a7da-8afb0d1f89d1,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.9",2026-06-08 00:42:23.060597+01
+174,c9e20e06-097f-4a6d-9ea9-c64ac13a7c62,1edff744-d65f-4bee-a8df-db0adf99e0cd,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,2)",2026-06-08 00:43:36.187459+01
+175,c9e20e06-097f-4a6d-9ea9-c64ac13a7c62,1edff744-d65f-4bee-a8df-db0adf99e0cd,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Asiatisch, Amerikanisch, Buffet",2026-06-08 00:43:36.187459+01
+176,c9e20e06-097f-4a6d-9ea9-c64ac13a7c62,1edff744-d65f-4bee-a8df-db0adf99e0cd,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 00:43:36.187459+01
+177,c9e20e06-097f-4a6d-9ea9-c64ac13a7c62,1edff744-d65f-4bee-a8df-db0adf99e0cd,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:43:36.187459+01
+178,a4e8b3e2-0da9-4f35-bbd3-e8b85713af2d,53681a81-2bfb-444a-a7da-8afb0d1f89d1,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,9",2026-06-08 00:43:49.265228+01
+179,ccd9123e-56c8-489e-b73a-755d028e5f88,1edff744-d65f-4bee-a8df-db0adf99e0cd,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,2!",2026-06-08 00:44:05.379229+01
+180,ccd9123e-56c8-489e-b73a-755d028e5f88,1edff744-d65f-4bee-a8df-db0adf99e0cd,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, asiatica, americana, a buffet",2026-06-08 00:44:05.379229+01
+181,ccd9123e-56c8-489e-b73a-755d028e5f88,1edff744-d65f-4bee-a8df-db0adf99e0cd,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 00:44:05.379229+01
+182,ccd9123e-56c8-489e-b73a-755d028e5f88,1edff744-d65f-4bee-a8df-db0adf99e0cd,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:44:05.379229+01
+183,917a8cc7-b7ff-4d13-b8c4-909d52b884d8,1edff744-d65f-4bee-a8df-db0adf99e0cd,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,2 pour sa situation géographique.",2026-06-08 00:44:37.622808+01
+184,917a8cc7-b7ff-4d13-b8c4-909d52b884d8,1edff744-d65f-4bee-a8df-db0adf99e0cd,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Asiatique, Américain, Buffet",2026-06-08 00:44:37.622808+01
+185,917a8cc7-b7ff-4d13-b8c4-909d52b884d8,1edff744-d65f-4bee-a8df-db0adf99e0cd,fr,Parking,Parking disponible à l'hôtel,2026-06-08 00:44:37.622808+01
+186,917a8cc7-b7ff-4d13-b8c4-909d52b884d8,1edff744-d65f-4bee-a8df-db0adf99e0cd,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:44:37.622808+01
+187,46ac87fa-6989-4123-ab20-ace13c0828c9,53681a81-2bfb-444a-a7da-8afb0d1f89d1,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,9)",2026-06-08 00:44:50.577124+01
+188,eb8b3a03-295a-4904-bb36-29c45526c9ad,1edff744-d65f-4bee-a8df-db0adf99e0cd,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,2",2026-06-08 00:45:02.970284+01
+189,eb8b3a03-295a-4904-bb36-29c45526c9ad,1edff744-d65f-4bee-a8df-db0adf99e0cd,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Asiático, Americano, Buffet",2026-06-08 00:45:02.970284+01
+190,eb8b3a03-295a-4904-bb36-29c45526c9ad,1edff744-d65f-4bee-a8df-db0adf99e0cd,pt,Parking,Estacionamento disponível no hotel,2026-06-08 00:45:02.970284+01
+191,eb8b3a03-295a-4904-bb36-29c45526c9ad,1edff744-d65f-4bee-a8df-db0adf99e0cd,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:45:02.970284+01
+192,f197bb64-f759-496c-a208-0f9fc99d63a4,53681a81-2bfb-444a-a7da-8afb0d1f89d1,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,9!",2026-06-08 00:45:57.459113+01
+193,67c13746-f922-4856-9b9a-3a1fdcb1e013,53681a81-2bfb-444a-a7da-8afb0d1f89d1,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,9 pour sa situation géographique.",2026-06-08 00:46:26.021985+01
+194,4a2cf2d6-895e-4507-8be0-25ba49857c85,53681a81-2bfb-444a-a7da-8afb0d1f89d1,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,9",2026-06-08 00:47:02.981046+01
+195,ff2bb43c-82b0-4486-80b5-7c56a69adcab,7f657cd2-a6fe-4519-8fa4-90c687901421,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.9",2026-06-08 00:48:46.131848+01
+196,ff2bb43c-82b0-4486-80b5-7c56a69adcab,7f657cd2-a6fe-4519-8fa4-90c687901421,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:48:46.131848+01
+197,06ccd838-5bd2-4aaa-821d-c4a0f460b2b2,02e61340-37b1-488a-861d-37954a50353b,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.4",2026-06-08 00:49:54.959445+01
+198,06ccd838-5bd2-4aaa-821d-c4a0f460b2b2,02e61340-37b1-488a-861d-37954a50353b,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free",2026-06-08 00:49:54.959445+01
+199,06ccd838-5bd2-4aaa-821d-c4a0f460b2b2,02e61340-37b1-488a-861d-37954a50353b,en,Parking,Parking available at the hotel,2026-06-08 00:49:54.959445+01
+200,06ccd838-5bd2-4aaa-821d-c4a0f460b2b2,02e61340-37b1-488a-861d-37954a50353b,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:49:54.959445+01
+201,816da354-ce81-4b88-b60c-2172ef643033,7f657cd2-a6fe-4519-8fa4-90c687901421,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,9",2026-06-08 00:50:08.258341+01
+202,816da354-ce81-4b88-b60c-2172ef643033,7f657cd2-a6fe-4519-8fa4-90c687901421,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:50:08.258341+01
+203,76e0c68d-a382-49fe-a8b8-7bbf0a7f75a1,02e61340-37b1-488a-861d-37954a50353b,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,4",2026-06-08 00:51:01.742359+01
+204,76e0c68d-a382-49fe-a8b8-7bbf0a7f75a1,02e61340-37b1-488a-861d-37954a50353b,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten",2026-06-08 00:51:01.742359+01
+205,76e0c68d-a382-49fe-a8b8-7bbf0a7f75a1,02e61340-37b1-488a-861d-37954a50353b,es,Parking,Hay parking en el hotel,2026-06-08 00:51:01.742359+01
+206,76e0c68d-a382-49fe-a8b8-7bbf0a7f75a1,02e61340-37b1-488a-861d-37954a50353b,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:51:01.742359+01
+207,a299d80b-6947-458a-ae34-8b131d09b48a,7f657cd2-a6fe-4519-8fa4-90c687901421,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,9)",2026-06-08 00:51:14.352023+01
+208,a299d80b-6947-458a-ae34-8b131d09b48a,7f657cd2-a6fe-4519-8fa4-90c687901421,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:51:14.352023+01
+209,f78f75d4-504e-4ba4-8b5e-6eb787b7dfdd,02e61340-37b1-488a-861d-37954a50353b,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,4)",2026-06-08 00:51:37.359543+01
+210,f78f75d4-504e-4ba4-8b5e-6eb787b7dfdd,02e61340-37b1-488a-861d-37954a50353b,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei",2026-06-08 00:51:37.359543+01
+211,f78f75d4-504e-4ba4-8b5e-6eb787b7dfdd,02e61340-37b1-488a-861d-37954a50353b,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 00:51:37.359543+01
+212,f78f75d4-504e-4ba4-8b5e-6eb787b7dfdd,02e61340-37b1-488a-861d-37954a50353b,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:51:37.359543+01
+213,14d77a5c-6562-4bf4-92e0-770a41e4f170,7f657cd2-a6fe-4519-8fa4-90c687901421,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,9!",2026-06-08 00:52:14.524918+01
+214,14d77a5c-6562-4bf4-92e0-770a41e4f170,7f657cd2-a6fe-4519-8fa4-90c687901421,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:52:14.524918+01
+215,d55ff7f7-bcdc-43c3-ac3a-7e78f7ab389d,02e61340-37b1-488a-861d-37954a50353b,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,4!",2026-06-08 00:52:28.418934+01
+216,d55ff7f7-bcdc-43c3-ac3a-7e78f7ab389d,02e61340-37b1-488a-861d-37954a50353b,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine",2026-06-08 00:52:28.418934+01
+217,d55ff7f7-bcdc-43c3-ac3a-7e78f7ab389d,02e61340-37b1-488a-861d-37954a50353b,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 00:52:28.418934+01
+218,d55ff7f7-bcdc-43c3-ac3a-7e78f7ab389d,02e61340-37b1-488a-861d-37954a50353b,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:52:28.418934+01
+219,07a70e1d-7716-49b1-8d88-5f7947b4f5b0,7f657cd2-a6fe-4519-8fa4-90c687901421,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,9 pour sa situation géographique.",2026-06-08 00:52:41.378059+01
+220,07a70e1d-7716-49b1-8d88-5f7947b4f5b0,7f657cd2-a6fe-4519-8fa4-90c687901421,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:52:41.378059+01
+221,f676843b-242c-4bb0-8869-256194dde025,02e61340-37b1-488a-861d-37954a50353b,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,4 pour sa situation géographique.",2026-06-08 00:53:39.001717+01
+222,f676843b-242c-4bb0-8869-256194dde025,02e61340-37b1-488a-861d-37954a50353b,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten",2026-06-08 00:53:39.001717+01
+223,f676843b-242c-4bb0-8869-256194dde025,02e61340-37b1-488a-861d-37954a50353b,fr,Parking,Parking disponible à l'hôtel,2026-06-08 00:53:39.001717+01
+224,f676843b-242c-4bb0-8869-256194dde025,02e61340-37b1-488a-861d-37954a50353b,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:53:39.001717+01
+227,a1064f55-2d53-46b3-a77b-a1fc7e9636ec,02e61340-37b1-488a-861d-37954a50353b,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,4",2026-06-08 00:54:07.461433+01
+228,a1064f55-2d53-46b3-a77b-a1fc7e9636ec,02e61340-37b1-488a-861d-37954a50353b,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten",2026-06-08 00:54:07.461433+01
+229,a1064f55-2d53-46b3-a77b-a1fc7e9636ec,02e61340-37b1-488a-861d-37954a50353b,pt,Parking,Estacionamento disponível no hotel,2026-06-08 00:54:07.461433+01
+230,a1064f55-2d53-46b3-a77b-a1fc7e9636ec,02e61340-37b1-488a-861d-37954a50353b,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:54:07.461433+01
+225,ed536838-156b-4f3b-b90b-b17ee8d712cb,7f657cd2-a6fe-4519-8fa4-90c687901421,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,9",2026-06-08 00:53:51.667696+01
+226,ed536838-156b-4f3b-b90b-b17ee8d712cb,7f657cd2-a6fe-4519-8fa4-90c687901421,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:53:51.667696+01
+233,3bb96614-c2a7-4fc0-9be0-0b2d53f2afe0,420a4fe4-0d63-4c5c-a599-78cadd9c7567,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.6",2026-06-08 00:56:51.958009+01
+234,3bb96614-c2a7-4fc0-9be0-0b2d53f2afe0,420a4fe4-0d63-4c5c-a599-78cadd9c7567,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Buffet",2026-06-08 00:56:51.958009+01
+235,3bb96614-c2a7-4fc0-9be0-0b2d53f2afe0,420a4fe4-0d63-4c5c-a599-78cadd9c7567,en,Parking,Private parking at the hotel,2026-06-08 00:56:51.958009+01
+236,b9a01ccc-68cf-4ebc-94a0-b81212642e04,19a219d9-c01c-444e-8a7f-733885b0e842,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,8",2026-06-08 00:57:05.394163+01
+237,b9a01ccc-68cf-4ebc-94a0-b81212642e04,19a219d9-c01c-444e-8a7f-733885b0e842,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 00:57:05.394163+01
+238,63742d64-4383-4244-9503-bae1964791f5,19a219d9-c01c-444e-8a7f-733885b0e842,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,8)",2026-06-08 00:58:01.099368+01
+239,63742d64-4383-4244-9503-bae1964791f5,19a219d9-c01c-444e-8a7f-733885b0e842,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 00:58:01.099368+01
+231,2b8ff6c4-480c-479f-b654-f5db416860e3,19a219d9-c01c-444e-8a7f-733885b0e842,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.8",2026-06-08 00:55:45.84212+01
+232,2b8ff6c4-480c-479f-b654-f5db416860e3,19a219d9-c01c-444e-8a7f-733885b0e842,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 00:55:45.84212+01
+240,d90d8d02-a06e-4f50-8119-75732e43f187,420a4fe4-0d63-4c5c-a599-78cadd9c7567,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,6",2026-06-08 00:58:15.707276+01
+241,d90d8d02-a06e-4f50-8119-75732e43f187,420a4fe4-0d63-4c5c-a599-78cadd9c7567,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Buffet",2026-06-08 00:58:15.707276+01
+242,d90d8d02-a06e-4f50-8119-75732e43f187,420a4fe4-0d63-4c5c-a599-78cadd9c7567,es,Parking,Hay parking privado en el hotel,2026-06-08 00:58:15.707276+01
+243,81a6c93b-eb39-4ad6-a7e5-62a088fe91dc,19a219d9-c01c-444e-8a7f-733885b0e842,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,8!",2026-06-08 00:58:31.061907+01
+244,81a6c93b-eb39-4ad6-a7e5-62a088fe91dc,19a219d9-c01c-444e-8a7f-733885b0e842,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 00:58:31.061907+01
+245,9f5d9616-5357-4007-b4df-947c356a7fae,19a219d9-c01c-444e-8a7f-733885b0e842,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,8 pour sa situation géographique.",2026-06-08 00:59:04.190091+01
+246,9f5d9616-5357-4007-b4df-947c356a7fae,19a219d9-c01c-444e-8a7f-733885b0e842,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 00:59:04.190091+01
+247,597d06f9-d3f3-45a5-b5fe-af3a6fa2b2ba,420a4fe4-0d63-4c5c-a599-78cadd9c7567,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,6)",2026-06-08 00:59:16.005253+01
+248,597d06f9-d3f3-45a5-b5fe-af3a6fa2b2ba,420a4fe4-0d63-4c5c-a599-78cadd9c7567,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Buffet",2026-06-08 00:59:16.005253+01
+249,597d06f9-d3f3-45a5-b5fe-af3a6fa2b2ba,420a4fe4-0d63-4c5c-a599-78cadd9c7567,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-06-08 00:59:16.005253+01
+250,35335997-73cd-4f65-8a24-fd1f3c6e15f7,19a219d9-c01c-444e-8a7f-733885b0e842,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,8",2026-06-08 00:59:40.926656+01
+251,35335997-73cd-4f65-8a24-fd1f3c6e15f7,19a219d9-c01c-444e-8a7f-733885b0e842,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 00:59:40.926656+01
+252,9d303b96-479f-4202-b7e3-932595800973,420a4fe4-0d63-4c5c-a599-78cadd9c7567,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-06-08 01:00:13.482179+01
+253,9d303b96-479f-4202-b7e3-932595800973,420a4fe4-0d63-4c5c-a599-78cadd9c7567,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, a buffet",2026-06-08 01:00:13.482179+01
+254,9d303b96-479f-4202-b7e3-932595800973,420a4fe4-0d63-4c5c-a599-78cadd9c7567,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-06-08 01:00:13.482179+01
+255,55c006ec-5d2c-4541-88f6-b5ccb77f4103,420a4fe4-0d63-4c5c-a599-78cadd9c7567,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-06-08 01:00:38.740417+01
+256,55c006ec-5d2c-4541-88f6-b5ccb77f4103,420a4fe4-0d63-4c5c-a599-78cadd9c7567,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Buffet",2026-06-08 01:00:38.740417+01
+257,55c006ec-5d2c-4541-88f6-b5ccb77f4103,420a4fe4-0d63-4c5c-a599-78cadd9c7567,fr,Parking,Parking privé à l'hôtel,2026-06-08 01:00:38.740417+01
+258,5a7f0e12-1910-47a7-8d5b-1976b858a43c,420a4fe4-0d63-4c5c-a599-78cadd9c7567,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,6",2026-06-08 01:01:03.4594+01
+259,5a7f0e12-1910-47a7-8d5b-1976b858a43c,420a4fe4-0d63-4c5c-a599-78cadd9c7567,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Buffet",2026-06-08 01:01:03.4594+01
+260,5a7f0e12-1910-47a7-8d5b-1976b858a43c,420a4fe4-0d63-4c5c-a599-78cadd9c7567,pt,Parking,Estacionamento privado disponível no hotel,2026-06-08 01:01:03.4594+01
+261,7e25e081-0674-412e-a39d-2046116cabcd,539323b9-405d-4129-8c27-11d33c8dd640,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.7",2026-06-08 01:02:45.207957+01
+262,7e25e081-0674-412e-a39d-2046116cabcd,539323b9-405d-4129-8c27-11d33c8dd640,en,Breakfast info,Buffet,2026-06-08 01:02:45.207957+01
+263,95364f43-d8fc-4d42-998d-5eb11db16f44,07709886-d42b-4a99-b772-3de60a950627,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.9",2026-06-08 01:03:54.266537+01
+264,95364f43-d8fc-4d42-998d-5eb11db16f44,07709886-d42b-4a99-b772-3de60a950627,en,Breakfast info,"Continental, Vegetarian, Gluten-free, American, Buffet",2026-06-08 01:03:54.266537+01
+265,95364f43-d8fc-4d42-998d-5eb11db16f44,07709886-d42b-4a99-b772-3de60a950627,en,Parking,Private parking available,2026-06-08 01:03:54.266537+01
+266,95364f43-d8fc-4d42-998d-5eb11db16f44,07709886-d42b-4a99-b772-3de60a950627,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:03:54.266537+01
+267,8cf5f9ed-c064-44f5-80b5-731f54921d4b,539323b9-405d-4129-8c27-11d33c8dd640,es,Heart,Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9.7,2026-06-08 01:04:35.171602+01
+268,8cf5f9ed-c064-44f5-80b5-731f54921d4b,539323b9-405d-4129-8c27-11d33c8dd640,es,Información sobre el desayuno,Buffet,2026-06-08 01:04:35.171602+01
+269,7bd2c73e-a90f-4554-b53a-865ef55c490e,07709886-d42b-4a99-b772-3de60a950627,es,Heart,Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9.9,2026-06-08 01:04:40.260336+01
+270,7bd2c73e-a90f-4554-b53a-865ef55c490e,07709886-d42b-4a99-b772-3de60a950627,es,Información sobre el desayuno,"Continental, Vegetariano, Sin gluten, Americano, Buffet",2026-06-08 01:04:40.260336+01
+271,7bd2c73e-a90f-4554-b53a-865ef55c490e,07709886-d42b-4a99-b772-3de60a950627,es,Parking,Parking privado disponible,2026-06-08 01:04:40.260336+01
+272,7bd2c73e-a90f-4554-b53a-865ef55c490e,07709886-d42b-4a99-b772-3de60a950627,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:04:40.260336+01
+273,115961d8-84f0-4a60-a028-ce31b76a3a99,539323b9-405d-4129-8c27-11d33c8dd640,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,7)",2026-06-08 01:05:03.753043+01
+274,115961d8-84f0-4a60-a028-ce31b76a3a99,539323b9-405d-4129-8c27-11d33c8dd640,de,Frühstücks-Info,Buffet,2026-06-08 01:05:03.753043+01
+275,7cb0fc4e-ec0c-4446-aca5-0362e557a454,07709886-d42b-4a99-b772-3de60a950627,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,9)",2026-06-08 01:05:44.394789+01
+276,7cb0fc4e-ec0c-4446-aca5-0362e557a454,07709886-d42b-4a99-b772-3de60a950627,de,Frühstücks-Info,"Kontinental, Vegetarisch, Glutenfrei, Amerikanisch, Buffet",2026-06-08 01:05:44.394789+01
+277,7cb0fc4e-ec0c-4446-aca5-0362e557a454,07709886-d42b-4a99-b772-3de60a950627,de,Parking,Privatparkplätze verfügbar,2026-06-08 01:05:44.394789+01
+278,7cb0fc4e-ec0c-4446-aca5-0362e557a454,07709886-d42b-4a99-b772-3de60a950627,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:05:44.394789+01
+279,b67d5381-d8f6-4caa-8f2f-cb7521fa01bb,539323b9-405d-4129-8c27-11d33c8dd640,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-06-08 01:05:58.465466+01
+280,b67d5381-d8f6-4caa-8f2f-cb7521fa01bb,539323b9-405d-4129-8c27-11d33c8dd640,it,Informazioni sulla colazione,a buffet,2026-06-08 01:05:58.465466+01
+281,6b87f6ac-6984-4ebe-ae77-3172b77486d0,539323b9-405d-4129-8c27-11d33c8dd640,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-06-08 01:06:25.472063+01
+282,6b87f6ac-6984-4ebe-ae77-3172b77486d0,539323b9-405d-4129-8c27-11d33c8dd640,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 01:06:25.472063+01
+283,4cc317f9-e935-4f8d-9784-8c7d30a60954,07709886-d42b-4a99-b772-3de60a950627,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,9!",2026-06-08 01:06:52.922897+01
+284,4cc317f9-e935-4f8d-9784-8c7d30a60954,07709886-d42b-4a99-b772-3de60a950627,it,Informazioni sulla colazione,"continentale, vegetariana, senza glutine, americana, a buffet",2026-06-08 01:06:52.922897+01
+285,4cc317f9-e935-4f8d-9784-8c7d30a60954,07709886-d42b-4a99-b772-3de60a950627,it,Parking,Parcheggio privato disponibile,2026-06-08 01:06:52.922897+01
+286,4cc317f9-e935-4f8d-9784-8c7d30a60954,07709886-d42b-4a99-b772-3de60a950627,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:06:52.922897+01
+287,d01a5b91-0884-4d76-a8c4-dd6bb659bc88,539323b9-405d-4129-8c27-11d33c8dd640,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,7",2026-06-08 01:07:06.405885+01
+288,d01a5b91-0884-4d76-a8c4-dd6bb659bc88,539323b9-405d-4129-8c27-11d33c8dd640,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 01:07:06.405885+01
+293,391a8e6a-8cca-4b8b-b6cf-11024487b246,07709886-d42b-4a99-b772-3de60a950627,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,9",2026-06-08 01:08:11.645596+01
+294,391a8e6a-8cca-4b8b-b6cf-11024487b246,07709886-d42b-4a99-b772-3de60a950627,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Sem glúten, Americano, Buffet",2026-06-08 01:08:11.645596+01
+295,391a8e6a-8cca-4b8b-b6cf-11024487b246,07709886-d42b-4a99-b772-3de60a950627,pt,Parking,Estacionamento privado disponível,2026-06-08 01:08:11.645596+01
+296,391a8e6a-8cca-4b8b-b6cf-11024487b246,07709886-d42b-4a99-b772-3de60a950627,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:08:11.645596+01
+303,4de05248-6e55-4a43-b662-0d6206de925d,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 10,0",2026-06-08 01:11:26.725675+01
+304,4de05248-6e55-4a43-b662-0d6206de925d,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,es,Parking,Hay parking privado en el hotel,2026-06-08 01:11:26.725675+01
+311,58ae3bcb-2522-4ede-b8e0-d3f53e8bcbf6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,3)",2026-06-08 01:12:45.049599+01
+312,58ae3bcb-2522-4ede-b8e0-d3f53e8bcbf6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,de,Frühstücks-Info,"Kontinental, Italienisch, Englisch/Irisch, Vegetarisch, Vegan, Halal, Glutenfrei, Asiatisch, Amerikanisch, Buffet",2026-06-08 01:12:45.049599+01
+313,58ae3bcb-2522-4ede-b8e0-d3f53e8bcbf6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:12:45.049599+01
+314,58ae3bcb-2522-4ede-b8e0-d3f53e8bcbf6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:12:45.049599+01
+319,a7da0137-186a-4a43-938a-6b91874eba6e,bb7408cf-6bde-4903-96d6-fc58cd3bda07,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,3!",2026-06-08 01:13:54.841472+01
+320,a7da0137-186a-4a43-938a-6b91874eba6e,bb7408cf-6bde-4903-96d6-fc58cd3bda07,it,Informazioni sulla colazione,"continentale, italiana, inglese/irlandese, vegetariana, vegana, halal, senza glutine, asiatica, americana, a buffet",2026-06-08 01:13:54.841472+01
+321,a7da0137-186a-4a43-938a-6b91874eba6e,bb7408cf-6bde-4903-96d6-fc58cd3bda07,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:13:54.841472+01
+322,a7da0137-186a-4a43-938a-6b91874eba6e,bb7408cf-6bde-4903-96d6-fc58cd3bda07,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:13:54.841472+01
+325,2daea4c0-314a-4be8-83e2-93523117f3f4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,3 pour sa situation géographique.",2026-06-08 01:14:19.978813+01
+326,2daea4c0-314a-4be8-83e2-93523117f3f4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,fr,Infos concernant le petit-déjeuner,"Continental, Italien, Anglais / irlandais complet, Végétarien, Végétalien, Halal, Sans gluten, Asiatique, Américain, Buffet",2026-06-08 01:14:19.978813+01
+327,2daea4c0-314a-4be8-83e2-93523117f3f4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:14:19.978813+01
+328,2daea4c0-314a-4be8-83e2-93523117f3f4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:14:19.978813+01
+289,250d93c2-1802-4816-96c8-1f4186b10b3a,07709886-d42b-4a99-b772-3de60a950627,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,9 pour sa situation géographique.",2026-06-08 01:07:27.37699+01
+290,250d93c2-1802-4816-96c8-1f4186b10b3a,07709886-d42b-4a99-b772-3de60a950627,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Sans gluten, Américain, Buffet",2026-06-08 01:07:27.37699+01
+291,250d93c2-1802-4816-96c8-1f4186b10b3a,07709886-d42b-4a99-b772-3de60a950627,fr,Parking,Parking privé disponible,2026-06-08 01:07:27.37699+01
+292,250d93c2-1802-4816-96c8-1f4186b10b3a,07709886-d42b-4a99-b772-3de60a950627,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:07:27.37699+01
+297,1cc0f369-34d3-4616-beed-16cc0a7761e4,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 10.0",2026-06-08 01:09:55.062869+01
+298,1cc0f369-34d3-4616-beed-16cc0a7761e4,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,en,Parking,Private parking at the hotel,2026-06-08 01:09:55.062869+01
+299,fdbcc0fc-4c1b-412d-8623-9baf01b03364,bb7408cf-6bde-4903-96d6-fc58cd3bda07,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.3",2026-06-08 01:11:03.991569+01
+300,fdbcc0fc-4c1b-412d-8623-9baf01b03364,bb7408cf-6bde-4903-96d6-fc58cd3bda07,en,Breakfast info,"Continental, Italian, Full English/Irish, Vegetarian, Vegan, Halal, Gluten-free, Asian, American, Buffet",2026-06-08 01:11:03.991569+01
+301,fdbcc0fc-4c1b-412d-8623-9baf01b03364,bb7408cf-6bde-4903-96d6-fc58cd3bda07,en,Parking,Parking available at the hotel,2026-06-08 01:11:03.991569+01
+302,fdbcc0fc-4c1b-412d-8623-9baf01b03364,bb7408cf-6bde-4903-96d6-fc58cd3bda07,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:11:03.991569+01
+305,aad73dd3-e51a-4739-b7c0-18a0df31a0d6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,3",2026-06-08 01:11:45.978542+01
+306,aad73dd3-e51a-4739-b7c0-18a0df31a0d6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,es,Información sobre el desayuno,"Continental, Italiano, Inglés/irlandés completo, Vegetariano, Vegano, Halal, Sin gluten, Asiático, Americano, Buffet",2026-06-08 01:11:45.978542+01
+307,aad73dd3-e51a-4739-b7c0-18a0df31a0d6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,es,Parking,Hay parking en el hotel,2026-06-08 01:11:45.978542+01
+308,aad73dd3-e51a-4739-b7c0-18a0df31a0d6,bb7408cf-6bde-4903-96d6-fc58cd3bda07,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:11:45.978542+01
+315,49cc7970-aa5c-4f05-8b8b-562ce753f2e3,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 10,0!",2026-06-08 01:12:57.894423+01
+316,49cc7970-aa5c-4f05-8b8b-562ce753f2e3,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-06-08 01:12:57.894423+01
+323,89a1eb2f-9850-4620-a15d-b9ad3cd5e39d,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 10,0",2026-06-08 01:14:08.069237+01
+324,89a1eb2f-9850-4620-a15d-b9ad3cd5e39d,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,pt,Parking,Estacionamento privado disponível no hotel,2026-06-08 01:14:08.069237+01
+309,63f0bf04-f329-4d90-887b-2fe1545a6594,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 10,0)",2026-06-08 01:12:09.841402+01
+310,63f0bf04-f329-4d90-887b-2fe1545a6594,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-06-08 01:12:09.841402+01
+317,312f32ef-ac83-4ccb-9b40-ecd3a8cee795,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 10,0 pour sa situation géographique.",2026-06-08 01:13:27.254192+01
+318,312f32ef-ac83-4ccb-9b40-ecd3a8cee795,2002fc9c-ed82-42ad-bc0a-eca3ca37fba9,fr,Parking,Parking privé à l'hôtel,2026-06-08 01:13:27.254192+01
+329,483b27d8-33f1-4d11-bd4b-6a7eecc0a3c4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,3",2026-06-08 01:15:22.764672+01
+330,483b27d8-33f1-4d11-bd4b-6a7eecc0a3c4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,pt,Informação sobre o pequeno-almoço,"Continental, Italiano, Inglês/irlandês completo, Vegetariano, Vegan, Halal, Sem glúten, Asiático, Americano, Buffet",2026-06-08 01:15:22.764672+01
+331,483b27d8-33f1-4d11-bd4b-6a7eecc0a3c4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:15:22.764672+01
+332,483b27d8-33f1-4d11-bd4b-6a7eecc0a3c4,bb7408cf-6bde-4903-96d6-fc58cd3bda07,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:15:22.764672+01
+333,98ad2164-e7d8-4610-a9b5-abe5c4dafa83,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.9",2026-06-08 01:16:58.922592+01
+334,98ad2164-e7d8-4610-a9b5-abe5c4dafa83,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,en,Breakfast info,"Continental, Vegetarian, American, Buffet",2026-06-08 01:16:58.922592+01
+335,98ad2164-e7d8-4610-a9b5-abe5c4dafa83,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,en,Parking,Parking available at the hotel,2026-06-08 01:16:58.922592+01
+336,98ad2164-e7d8-4610-a9b5-abe5c4dafa83,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:16:58.922592+01
+337,e62189ac-1fec-4fc0-91ef-6f115e48612c,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.6",2026-06-08 01:18:04.560438+01
+338,e62189ac-1fec-4fc0-91ef-6f115e48612c,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,en,Breakfast info,"Vegetarian, Vegan, Gluten-free, Breakfast to go",2026-06-08 01:18:04.560438+01
+339,e165b68f-da85-441f-b066-40455956ab05,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,9",2026-06-08 01:18:43.175742+01
+340,e165b68f-da85-441f-b066-40455956ab05,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,es,Información sobre el desayuno,"Continental, Vegetariano, Americano, Buffet",2026-06-08 01:18:43.175742+01
+341,e165b68f-da85-441f-b066-40455956ab05,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,es,Parking,Hay parking en el hotel,2026-06-08 01:18:43.175742+01
+342,e165b68f-da85-441f-b066-40455956ab05,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:18:43.175742+01
+343,f96ab9b5-4a90-4d71-9716-5e97a850ee2f,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,6",2026-06-08 01:18:55.815965+01
+344,f96ab9b5-4a90-4d71-9716-5e97a850ee2f,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,es,Información sobre el desayuno,"Vegetariano, Vegano, Sin gluten, Desayuno para llevar",2026-06-08 01:18:55.815965+01
+345,5e0a6b0a-6a84-4f81-b07a-6cfd92d74f87,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,9)",2026-06-08 01:19:10.14393+01
+346,5e0a6b0a-6a84-4f81-b07a-6cfd92d74f87,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,de,Frühstücks-Info,"Kontinental, Vegetarisch, Amerikanisch, Buffet",2026-06-08 01:19:10.14393+01
+347,5e0a6b0a-6a84-4f81-b07a-6cfd92d74f87,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:19:10.14393+01
+348,5e0a6b0a-6a84-4f81-b07a-6cfd92d74f87,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:19:10.14393+01
+349,71f0b218-2591-4246-a5ce-2d7984652ac4,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,6)",2026-06-08 01:19:53.805622+01
+350,71f0b218-2591-4246-a5ce-2d7984652ac4,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,de,Frühstücks-Info,"Vegetarisch, Vegan, Glutenfrei, Frühstück zum Mitnehmen",2026-06-08 01:19:53.805622+01
+351,0a696f92-1fae-42e2-9861-9e05ee434d8f,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,9!",2026-06-08 01:20:07.785982+01
+352,0a696f92-1fae-42e2-9861-9e05ee434d8f,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,it,Informazioni sulla colazione,"continentale, vegetariana, americana, a buffet",2026-06-08 01:20:07.785982+01
+353,0a696f92-1fae-42e2-9861-9e05ee434d8f,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:20:07.785982+01
+354,0a696f92-1fae-42e2-9861-9e05ee434d8f,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:20:07.785982+01
+355,78a47e24-d2d3-4f1e-9ab4-dbd856652528,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,6!",2026-06-08 01:20:30.298456+01
+356,78a47e24-d2d3-4f1e-9ab4-dbd856652528,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,it,Informazioni sulla colazione,"vegetariana, vegana, senza glutine, Colazione da asporto",2026-06-08 01:20:30.298456+01
+357,b9fef53a-c427-4d19-91ee-03d90706757a,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,9 pour sa situation géographique.",2026-06-08 01:20:59.854853+01
+358,b9fef53a-c427-4d19-91ee-03d90706757a,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Américain, Buffet",2026-06-08 01:20:59.854853+01
+359,b9fef53a-c427-4d19-91ee-03d90706757a,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:20:59.854853+01
+360,b9fef53a-c427-4d19-91ee-03d90706757a,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:20:59.854853+01
+361,1d1d6e90-2bb1-4e0d-9609-75bb6f5d52ef,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,6 pour sa situation géographique.",2026-06-08 01:21:12.397214+01
+362,1d1d6e90-2bb1-4e0d-9609-75bb6f5d52ef,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,fr,Infos concernant le petit-déjeuner,"Végétarien, Végétalien, Sans gluten, Petit-déjeuner à emporter",2026-06-08 01:21:12.397214+01
+363,5c6c04c3-0533-4dab-b817-217c00f031de,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,9",2026-06-08 01:21:23.973587+01
+364,5c6c04c3-0533-4dab-b817-217c00f031de,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Americano, Buffet",2026-06-08 01:21:23.973587+01
+365,5c6c04c3-0533-4dab-b817-217c00f031de,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:21:23.973587+01
+366,5c6c04c3-0533-4dab-b817-217c00f031de,9cc2be2c-6f38-4dfc-a0ff-b75a8cd607d2,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:21:23.973587+01
+367,cbc9e931-fa98-4ab4-aef8-c5844955fed0,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,6",2026-06-08 01:22:02.716507+01
+368,cbc9e931-fa98-4ab4-aef8-c5844955fed0,2c94aca1-d73b-4bbb-a26f-c3f3d22b6ce6,pt,Informação sobre o pequeno-almoço,"Vegetariano, Vegan, Sem glúten, Pequeno-almoço para levar",2026-06-08 01:22:02.716507+01
+369,d7544a3c-16ea-4be5-bd62-83623315a953,b86cd31a-df45-4710-a929-c32759699565,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.5",2026-06-08 01:23:53.571213+01
+370,d7544a3c-16ea-4be5-bd62-83623315a953,b86cd31a-df45-4710-a929-c32759699565,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Buffet",2026-06-08 01:23:53.571213+01
+371,d7544a3c-16ea-4be5-bd62-83623315a953,b86cd31a-df45-4710-a929-c32759699565,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:23:53.571213+01
+372,7b246149-2305-4fc5-830c-cb4da389d581,8091cb5c-8b51-4868-8646-d1d6b59c20a4,en,Heart,"Situated in the real heart of Vienna, this hotel has an excellent location score of 9.8",2026-06-08 01:25:02.235338+01
+373,7b246149-2305-4fc5-830c-cb4da389d581,8091cb5c-8b51-4868-8646-d1d6b59c20a4,en,Breakfast info,"Continental, Vegetarian, American",2026-06-08 01:25:02.235338+01
+374,7b246149-2305-4fc5-830c-cb4da389d581,8091cb5c-8b51-4868-8646-d1d6b59c20a4,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:25:02.235338+01
+375,b36a52ce-1234-4bcf-a18f-3e63d40aa031,b86cd31a-df45-4710-a929-c32759699565,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,5",2026-06-08 01:25:12.539382+01
+376,b36a52ce-1234-4bcf-a18f-3e63d40aa031,b86cd31a-df45-4710-a929-c32759699565,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Buffet",2026-06-08 01:25:12.539382+01
+377,b36a52ce-1234-4bcf-a18f-3e63d40aa031,b86cd31a-df45-4710-a929-c32759699565,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:25:12.539382+01
+378,7dcde4f3-fca3-40a3-8148-dbfcd5b716a3,8091cb5c-8b51-4868-8646-d1d6b59c20a4,es,Heart,"Este hotel está en el corazón de Viena y tiene una puntuación excelente en ubicación: 9,8",2026-06-08 01:26:07.394246+01
+379,7dcde4f3-fca3-40a3-8148-dbfcd5b716a3,8091cb5c-8b51-4868-8646-d1d6b59c20a4,es,Información sobre el desayuno,"Continental, Vegetariano, Americano",2026-06-08 01:26:07.394246+01
+380,7dcde4f3-fca3-40a3-8148-dbfcd5b716a3,8091cb5c-8b51-4868-8646-d1d6b59c20a4,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:26:07.394246+01
+387,3a5831c9-7c89-453a-9b6f-bfb8fc2fe625,8091cb5c-8b51-4868-8646-d1d6b59c20a4,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,8!",2026-06-08 01:27:12.162554+01
+388,3a5831c9-7c89-453a-9b6f-bfb8fc2fe625,8091cb5c-8b51-4868-8646-d1d6b59c20a4,it,Informazioni sulla colazione,"continentale, vegetariana, americana",2026-06-08 01:27:12.162554+01
+389,3a5831c9-7c89-453a-9b6f-bfb8fc2fe625,8091cb5c-8b51-4868-8646-d1d6b59c20a4,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:27:12.162554+01
+381,3acca617-b1e9-468c-96b9-790fb66f304e,b86cd31a-df45-4710-a929-c32759699565,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,5)",2026-06-08 01:26:19.629156+01
+382,3acca617-b1e9-468c-96b9-790fb66f304e,b86cd31a-df45-4710-a929-c32759699565,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Buffet",2026-06-08 01:26:19.629156+01
+383,3acca617-b1e9-468c-96b9-790fb66f304e,b86cd31a-df45-4710-a929-c32759699565,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:26:19.629156+01
+384,54ae74c7-e5a7-4cc6-9746-362778046af5,8091cb5c-8b51-4868-8646-d1d6b59c20a4,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Wien und hat eine exzellente Lage (bewertet mit 9,8)",2026-06-08 01:26:34.252296+01
+385,54ae74c7-e5a7-4cc6-9746-362778046af5,8091cb5c-8b51-4868-8646-d1d6b59c20a4,de,Frühstücks-Info,"Kontinental, Vegetarisch, Amerikanisch",2026-06-08 01:26:34.252296+01
+386,54ae74c7-e5a7-4cc6-9746-362778046af5,8091cb5c-8b51-4868-8646-d1d6b59c20a4,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:26:34.252296+01
+390,899f9cf1-891c-43ad-8908-de91f1d2fee9,b86cd31a-df45-4710-a929-c32759699565,it,Heart,"Situato nel vero cuore di Vienna, questo hotel ha un ottimo punteggio per la posizione: 9,5!",2026-06-08 01:27:24.609156+01
+391,899f9cf1-891c-43ad-8908-de91f1d2fee9,b86cd31a-df45-4710-a929-c32759699565,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, a buffet",2026-06-08 01:27:24.609156+01
+392,899f9cf1-891c-43ad-8908-de91f1d2fee9,b86cd31a-df45-4710-a929-c32759699565,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:27:24.609156+01
+393,20c1ff14-9a1c-4e09-a3de-10718f07b719,8091cb5c-8b51-4868-8646-d1d6b59c20a4,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,8 pour sa situation géographique.",2026-06-08 01:27:36.585521+01
+394,20c1ff14-9a1c-4e09-a3de-10718f07b719,8091cb5c-8b51-4868-8646-d1d6b59c20a4,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Américain",2026-06-08 01:27:36.585521+01
+395,20c1ff14-9a1c-4e09-a3de-10718f07b719,8091cb5c-8b51-4868-8646-d1d6b59c20a4,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:27:36.585521+01
+396,d5a7980a-47e5-4439-8cff-151abba05482,b86cd31a-df45-4710-a929-c32759699565,fr,Heart,"Situé en plein cœur de Vienne, cet hôtel affiche l'excellente note de 9,5 pour sa situation géographique.",2026-06-08 01:28:29.73467+01
+397,d5a7980a-47e5-4439-8cff-151abba05482,b86cd31a-df45-4710-a929-c32759699565,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Buffet",2026-06-08 01:28:29.73467+01
+398,d5a7980a-47e5-4439-8cff-151abba05482,b86cd31a-df45-4710-a929-c32759699565,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:28:29.73467+01
+399,7edd1d8d-77b4-4951-b616-3b6c4c601f3c,8091cb5c-8b51-4868-8646-d1d6b59c20a4,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,8",2026-06-08 01:28:48.030925+01
+400,7edd1d8d-77b4-4951-b616-3b6c4c601f3c,8091cb5c-8b51-4868-8646-d1d6b59c20a4,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Americano",2026-06-08 01:28:48.030925+01
+401,7edd1d8d-77b4-4951-b616-3b6c4c601f3c,8091cb5c-8b51-4868-8646-d1d6b59c20a4,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:28:48.030925+01
+402,24b5ce93-73fd-4590-a8f3-9961b15f78a2,b86cd31a-df45-4710-a929-c32759699565,pt,Heart,"Situado na área mais popular de Viena, este hotel tem uma pontuação de localização excelente: 9,5",2026-06-08 01:29:15.266649+01
+403,24b5ce93-73fd-4590-a8f3-9961b15f78a2,b86cd31a-df45-4710-a929-c32759699565,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Buffet",2026-06-08 01:29:15.266649+01
+404,24b5ce93-73fd-4590-a8f3-9961b15f78a2,b86cd31a-df45-4710-a929-c32759699565,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:29:15.266649+01
+405,9921dd77-4e22-4308-9e8f-3f6b78088837,db27ed49-9b60-40e5-a22a-5851d4538da9,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 8.9",2026-06-08 01:30:51.811736+01
+406,9921dd77-4e22-4308-9e8f-3f6b78088837,db27ed49-9b60-40e5-a22a-5851d4538da9,en,Breakfast info,"Continental, Buffet",2026-06-08 01:30:51.811736+01
+407,9921dd77-4e22-4308-9e8f-3f6b78088837,db27ed49-9b60-40e5-a22a-5851d4538da9,en,Parking,Parking available at the hotel,2026-06-08 01:30:51.811736+01
+408,9921dd77-4e22-4308-9e8f-3f6b78088837,db27ed49-9b60-40e5-a22a-5851d4538da9,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:30:51.811736+01
+409,6b1b1f4c-7233-4d2d-833a-45c8dd78e0a0,10aa5b65-8880-42b4-a4b6-a227f760984e,en,Top Location,Top location: Highly rated by recent guests (8.7),2026-06-08 01:31:59.657627+01
+410,6b1b1f4c-7233-4d2d-833a-45c8dd78e0a0,10aa5b65-8880-42b4-a4b6-a227f760984e,en,Breakfast info,Buffet,2026-06-08 01:31:59.657627+01
+411,6b1b1f4c-7233-4d2d-833a-45c8dd78e0a0,10aa5b65-8880-42b4-a4b6-a227f760984e,en,Parking,Private parking at the hotel,2026-06-08 01:31:59.657627+01
+412,bd2219c6-a8fc-4c37-a210-344734824642,db27ed49-9b60-40e5-a22a-5851d4538da9,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (8,9).",2026-06-08 01:32:10.947575+01
+413,bd2219c6-a8fc-4c37-a210-344734824642,db27ed49-9b60-40e5-a22a-5851d4538da9,es,Información sobre el desayuno,"Continental, Buffet",2026-06-08 01:32:10.947575+01
+414,bd2219c6-a8fc-4c37-a210-344734824642,db27ed49-9b60-40e5-a22a-5851d4538da9,es,Parking,Hay parking en el hotel,2026-06-08 01:32:10.947575+01
+415,bd2219c6-a8fc-4c37-a210-344734824642,db27ed49-9b60-40e5-a22a-5851d4538da9,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:32:10.947575+01
+416,b3e33c7c-c585-40b1-9342-0c8c7aa8f2bf,db27ed49-9b60-40e5-a22a-5851d4538da9,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 8,9",2026-06-08 01:33:01.841587+01
+417,b3e33c7c-c585-40b1-9342-0c8c7aa8f2bf,db27ed49-9b60-40e5-a22a-5851d4538da9,de,Frühstücks-Info,"Kontinental, Buffet",2026-06-08 01:33:01.841587+01
+418,b3e33c7c-c585-40b1-9342-0c8c7aa8f2bf,db27ed49-9b60-40e5-a22a-5851d4538da9,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:33:01.841587+01
+419,b3e33c7c-c585-40b1-9342-0c8c7aa8f2bf,db27ed49-9b60-40e5-a22a-5851d4538da9,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:33:01.841587+01
+420,20749d60-eba8-4152-b8f3-a224b940a77b,10aa5b65-8880-42b4-a4b6-a227f760984e,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,7)",2026-06-08 01:33:15.589766+01
+421,20749d60-eba8-4152-b8f3-a224b940a77b,10aa5b65-8880-42b4-a4b6-a227f760984e,es,Información sobre el desayuno,Buffet,2026-06-08 01:33:15.589766+01
+422,20749d60-eba8-4152-b8f3-a224b940a77b,10aa5b65-8880-42b4-a4b6-a227f760984e,es,Parking,Hay parking privado en el hotel,2026-06-08 01:33:15.589766+01
+423,1f59bad0-4c6d-4f57-93ad-68625d4d12e0,db27ed49-9b60-40e5-a22a-5851d4538da9,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 8,9!",2026-06-08 01:33:30.119493+01
+424,1f59bad0-4c6d-4f57-93ad-68625d4d12e0,db27ed49-9b60-40e5-a22a-5851d4538da9,it,Informazioni sulla colazione,"continentale, a buffet",2026-06-08 01:33:30.119493+01
+425,1f59bad0-4c6d-4f57-93ad-68625d4d12e0,db27ed49-9b60-40e5-a22a-5851d4538da9,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:33:30.119493+01
+426,1f59bad0-4c6d-4f57-93ad-68625d4d12e0,db27ed49-9b60-40e5-a22a-5851d4538da9,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:33:30.119493+01
+427,557d4b1f-a311-40b4-a06e-7b068a3af1bb,db27ed49-9b60-40e5-a22a-5851d4538da9,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 8,9 pour sa situation géographique.",2026-06-08 01:34:00.775235+01
+428,557d4b1f-a311-40b4-a06e-7b068a3af1bb,db27ed49-9b60-40e5-a22a-5851d4538da9,fr,Infos concernant le petit-déjeuner,"Continental, Buffet",2026-06-08 01:34:00.775235+01
+429,557d4b1f-a311-40b4-a06e-7b068a3af1bb,db27ed49-9b60-40e5-a22a-5851d4538da9,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:34:00.775235+01
+430,557d4b1f-a311-40b4-a06e-7b068a3af1bb,db27ed49-9b60-40e5-a22a-5851d4538da9,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:34:00.775235+01
+431,e62c678f-2bec-431d-92e3-5706f57d0adc,db27ed49-9b60-40e5-a22a-5851d4538da9,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 8,9",2026-06-08 01:34:27.304693+01
+432,e62c678f-2bec-431d-92e3-5706f57d0adc,db27ed49-9b60-40e5-a22a-5851d4538da9,pt,Informação sobre o pequeno-almoço,"Continental, Buffet",2026-06-08 01:34:27.304693+01
+433,e62c678f-2bec-431d-92e3-5706f57d0adc,db27ed49-9b60-40e5-a22a-5851d4538da9,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:34:27.304693+01
+434,e62c678f-2bec-431d-92e3-5706f57d0adc,db27ed49-9b60-40e5-a22a-5851d4538da9,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:34:27.304693+01
+441,e56b0197-d2e4-4022-a8d7-bfe55beccc1e,10aa5b65-8880-42b4-a4b6-a227f760984e,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,7)",2026-06-08 01:36:02.033542+01
+442,e56b0197-d2e4-4022-a8d7-bfe55beccc1e,10aa5b65-8880-42b4-a4b6-a227f760984e,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 01:36:02.033542+01
+443,e56b0197-d2e4-4022-a8d7-bfe55beccc1e,10aa5b65-8880-42b4-a4b6-a227f760984e,fr,Parking,Parking privé à l'hôtel,2026-06-08 01:36:02.033542+01
+447,a24ea69f-21fe-42b6-8b23-7874684ba280,f43d1324-0183-4e7a-a099-71e508073361,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 9.7",2026-06-08 01:38:14.793478+01
+448,a24ea69f-21fe-42b6-8b23-7874684ba280,f43d1324-0183-4e7a-a099-71e508073361,en,Breakfast info,"Continental, Vegetarian, Vegan, Gluten-free, Buffet",2026-06-08 01:38:14.793478+01
+449,a24ea69f-21fe-42b6-8b23-7874684ba280,f43d1324-0183-4e7a-a099-71e508073361,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:38:14.793478+01
+459,9848097c-b5fd-4fd2-8ce6-1ecbd211ccf0,f43d1324-0183-4e7a-a099-71e508073361,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,7",2026-06-08 01:41:10.528653+01
+460,9848097c-b5fd-4fd2-8ce6-1ecbd211ccf0,f43d1324-0183-4e7a-a099-71e508073361,de,Frühstücks-Info,"Kontinental, Vegetarisch, Vegan, Glutenfrei, Buffet",2026-06-08 01:41:10.528653+01
+461,9848097c-b5fd-4fd2-8ce6-1ecbd211ccf0,f43d1324-0183-4e7a-a099-71e508073361,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:41:10.528653+01
+468,0c32c364-2aec-49c0-a7c5-03ede4f8bcd6,96e61b8f-043d-475a-af42-aaad48d102f0,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 9,0",2026-06-08 01:42:16.062852+01
+469,0c32c364-2aec-49c0-a7c5-03ede4f8bcd6,96e61b8f-043d-475a-af42-aaad48d102f0,it,Informazioni sulla colazione,a buffet,2026-06-08 01:42:16.062852+01
+470,0c32c364-2aec-49c0-a7c5-03ede4f8bcd6,96e61b8f-043d-475a-af42-aaad48d102f0,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:42:16.062852+01
+477,ac0ba8dd-7f5f-4df9-bdc1-c8bf3f1d7b86,f43d1324-0183-4e7a-a099-71e508073361,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 9,7",2026-06-08 01:43:15.762317+01
+478,ac0ba8dd-7f5f-4df9-bdc1-c8bf3f1d7b86,f43d1324-0183-4e7a-a099-71e508073361,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Vegan, Sem glúten, Buffet",2026-06-08 01:43:15.762317+01
+479,ac0ba8dd-7f5f-4df9-bdc1-c8bf3f1d7b86,f43d1324-0183-4e7a-a099-71e508073361,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:43:15.762317+01
+486,7bb866a4-6222-4292-a63d-682049f519f5,c16843b2-ec3d-4e34-9805-3e2861730ff0,en,Heart,"Situated in the real heart of Graz, this hotel has an excellent location score of 9.8",2026-06-08 01:46:49.221398+01
+487,7bb866a4-6222-4292-a63d-682049f519f5,c16843b2-ec3d-4e34-9805-3e2861730ff0,en,Breakfast info,Buffet,2026-06-08 01:46:49.221398+01
+488,7bb866a4-6222-4292-a63d-682049f519f5,c16843b2-ec3d-4e34-9805-3e2861730ff0,en,Parking,Parking available at the hotel,2026-06-08 01:46:49.221398+01
+489,7bb866a4-6222-4292-a63d-682049f519f5,c16843b2-ec3d-4e34-9805-3e2861730ff0,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:46:49.221398+01
+493,ad72affd-90be-4799-8aed-80f0426b50fb,c16843b2-ec3d-4e34-9805-3e2861730ff0,es,Heart,"Este hotel está en el corazón de Graz y tiene una puntuación excelente en ubicación: 9,8",2026-06-08 01:47:49.931847+01
+494,ad72affd-90be-4799-8aed-80f0426b50fb,c16843b2-ec3d-4e34-9805-3e2861730ff0,es,Información sobre el desayuno,Buffet,2026-06-08 01:47:49.931847+01
+495,ad72affd-90be-4799-8aed-80f0426b50fb,c16843b2-ec3d-4e34-9805-3e2861730ff0,es,Parking,Hay parking en el hotel,2026-06-08 01:47:49.931847+01
+496,ad72affd-90be-4799-8aed-80f0426b50fb,c16843b2-ec3d-4e34-9805-3e2861730ff0,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:47:49.931847+01
+507,df5f903c-38f8-4c0a-8c23-6522e1cbcecb,c16843b2-ec3d-4e34-9805-3e2861730ff0,it,Heart,"Situato nel vero cuore di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,8!",2026-06-08 01:49:05.794399+01
+508,df5f903c-38f8-4c0a-8c23-6522e1cbcecb,c16843b2-ec3d-4e34-9805-3e2861730ff0,it,Informazioni sulla colazione,a buffet,2026-06-08 01:49:05.794399+01
+509,df5f903c-38f8-4c0a-8c23-6522e1cbcecb,c16843b2-ec3d-4e34-9805-3e2861730ff0,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:49:05.794399+01
+510,df5f903c-38f8-4c0a-8c23-6522e1cbcecb,c16843b2-ec3d-4e34-9805-3e2861730ff0,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:49:05.794399+01
+435,c522ac03-531a-490d-87d9-f344d3865923,10aa5b65-8880-42b4-a4b6-a227f760984e,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,7)",2026-06-08 01:34:27.468078+01
+436,c522ac03-531a-490d-87d9-f344d3865923,10aa5b65-8880-42b4-a4b6-a227f760984e,de,Frühstücks-Info,Buffet,2026-06-08 01:34:27.468078+01
+437,c522ac03-531a-490d-87d9-f344d3865923,10aa5b65-8880-42b4-a4b6-a227f760984e,de,Parking,An dem Hotel stehen Privatparkplätze zur Verfügung,2026-06-08 01:34:27.468078+01
+444,bcaf4830-0ab6-4c28-a126-6b61b18d9246,10aa5b65-8880-42b4-a4b6-a227f760984e,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,7)",2026-06-08 01:36:30.10808+01
+445,bcaf4830-0ab6-4c28-a126-6b61b18d9246,10aa5b65-8880-42b4-a4b6-a227f760984e,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 01:36:30.10808+01
+446,bcaf4830-0ab6-4c28-a126-6b61b18d9246,10aa5b65-8880-42b4-a4b6-a227f760984e,pt,Parking,Estacionamento privado disponível no hotel,2026-06-08 01:36:30.10808+01
+453,2436f456-e4bd-4e58-bbf1-b4894f5fae0f,f43d1324-0183-4e7a-a099-71e508073361,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (9,7).",2026-06-08 01:40:44.309909+01
+454,2436f456-e4bd-4e58-bbf1-b4894f5fae0f,f43d1324-0183-4e7a-a099-71e508073361,es,Información sobre el desayuno,"Continental, Vegetariano, Vegano, Sin gluten, Buffet",2026-06-08 01:40:44.309909+01
+455,2436f456-e4bd-4e58-bbf1-b4894f5fae0f,f43d1324-0183-4e7a-a099-71e508073361,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:40:44.309909+01
+462,310087a7-930d-4543-96f3-670cc3fdfac2,96e61b8f-043d-475a-af42-aaad48d102f0,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (9,0)",2026-06-08 01:41:46.035705+01
+463,310087a7-930d-4543-96f3-670cc3fdfac2,96e61b8f-043d-475a-af42-aaad48d102f0,de,Frühstücks-Info,Buffet,2026-06-08 01:41:46.035705+01
+464,310087a7-930d-4543-96f3-670cc3fdfac2,96e61b8f-043d-475a-af42-aaad48d102f0,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:41:46.035705+01
+471,f6e6e70f-2880-4025-905d-a70d4214ac00,f43d1324-0183-4e7a-a099-71e508073361,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-06-08 01:42:49.899103+01
+472,f6e6e70f-2880-4025-905d-a70d4214ac00,f43d1324-0183-4e7a-a099-71e508073361,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Végétalien, Sans gluten, Buffet",2026-06-08 01:42:49.899103+01
+473,f6e6e70f-2880-4025-905d-a70d4214ac00,f43d1324-0183-4e7a-a099-71e508073361,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:42:49.899103+01
+483,4e600200-9156-425e-8128-9a3f471c51b5,363798ba-d8d5-4e3b-838a-4bb37165016b,en,Top Location,Top location: Highly rated by recent guests (8.9),2026-06-08 01:45:44.102812+01
+484,4e600200-9156-425e-8128-9a3f471c51b5,363798ba-d8d5-4e3b-838a-4bb37165016b,en,Breakfast info,"Continental, Buffet",2026-06-08 01:45:44.102812+01
+485,4e600200-9156-425e-8128-9a3f471c51b5,363798ba-d8d5-4e3b-838a-4bb37165016b,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:45:44.102812+01
+497,e916cb9f-9595-4ad1-8a3c-5733128323f1,363798ba-d8d5-4e3b-838a-4bb37165016b,de,Top Location,"Tolle Lage: von Gästen aktuell mit sehr gut bewertet (8,9)",2026-06-08 01:48:02.621184+01
+498,e916cb9f-9595-4ad1-8a3c-5733128323f1,363798ba-d8d5-4e3b-838a-4bb37165016b,de,Frühstücks-Info,"Kontinental, Buffet",2026-06-08 01:48:02.621184+01
+499,e916cb9f-9595-4ad1-8a3c-5733128323f1,363798ba-d8d5-4e3b-838a-4bb37165016b,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:48:02.621184+01
+504,e79b6927-0ee6-43f0-ad8c-ee42a2224a99,363798ba-d8d5-4e3b-838a-4bb37165016b,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,9",2026-06-08 01:49:05.733818+01
+505,e79b6927-0ee6-43f0-ad8c-ee42a2224a99,363798ba-d8d5-4e3b-838a-4bb37165016b,it,Informazioni sulla colazione,"continentale, a buffet",2026-06-08 01:49:05.733818+01
+506,e79b6927-0ee6-43f0-ad8c-ee42a2224a99,363798ba-d8d5-4e3b-838a-4bb37165016b,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:49:05.733818+01
+438,dd7a2daa-68fc-4cb4-a731-a6cb5a4983d5,10aa5b65-8880-42b4-a4b6-a227f760984e,it,Top Location,"Posizione fantastica: valutata dagli ospiti recenti con 8,7",2026-06-08 01:35:37.583185+01
+439,dd7a2daa-68fc-4cb4-a731-a6cb5a4983d5,10aa5b65-8880-42b4-a4b6-a227f760984e,it,Informazioni sulla colazione,a buffet,2026-06-08 01:35:37.583185+01
+440,dd7a2daa-68fc-4cb4-a731-a6cb5a4983d5,10aa5b65-8880-42b4-a4b6-a227f760984e,it,Parking,Parcheggio privato disponibile presso l'hotel,2026-06-08 01:35:37.583185+01
+450,dd686eaf-619e-402e-b07b-9b18572fb969,96e61b8f-043d-475a-af42-aaad48d102f0,en,Top Location,Top location: Highly rated by recent guests (9.0),2026-06-08 01:39:21.449268+01
+451,dd686eaf-619e-402e-b07b-9b18572fb969,96e61b8f-043d-475a-af42-aaad48d102f0,en,Breakfast info,Buffet,2026-06-08 01:39:21.449268+01
+452,dd686eaf-619e-402e-b07b-9b18572fb969,96e61b8f-043d-475a-af42-aaad48d102f0,en,Parking,Parking available at the hotel,2026-06-08 01:39:21.449268+01
+456,ecdb22df-aa77-439d-be54-a786c6506a5e,96e61b8f-043d-475a-af42-aaad48d102f0,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (9,0)",2026-06-08 01:40:57.078431+01
+457,ecdb22df-aa77-439d-be54-a786c6506a5e,96e61b8f-043d-475a-af42-aaad48d102f0,es,Información sobre el desayuno,Buffet,2026-06-08 01:40:57.078431+01
+458,ecdb22df-aa77-439d-be54-a786c6506a5e,96e61b8f-043d-475a-af42-aaad48d102f0,es,Parking,Hay parking en el hotel,2026-06-08 01:40:57.078431+01
+465,6803a7d8-9831-415d-82a8-ae2aea456a3e,f43d1324-0183-4e7a-a099-71e508073361,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-06-08 01:41:57.681763+01
+466,6803a7d8-9831-415d-82a8-ae2aea456a3e,f43d1324-0183-4e7a-a099-71e508073361,it,Informazioni sulla colazione,"continentale, vegetariana, vegana, senza glutine, a buffet",2026-06-08 01:41:57.681763+01
+467,6803a7d8-9831-415d-82a8-ae2aea456a3e,f43d1324-0183-4e7a-a099-71e508073361,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:41:57.681763+01
+474,0379df42-02a1-4457-aace-41bd67bb446f,96e61b8f-043d-475a-af42-aaad48d102f0,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (9,0)",2026-06-08 01:43:02.746717+01
+475,0379df42-02a1-4457-aace-41bd67bb446f,96e61b8f-043d-475a-af42-aaad48d102f0,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 01:43:02.746717+01
+476,0379df42-02a1-4457-aace-41bd67bb446f,96e61b8f-043d-475a-af42-aaad48d102f0,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:43:02.746717+01
+480,b7352cba-daf7-4de1-b46b-45fc97ffdf8e,96e61b8f-043d-475a-af42-aaad48d102f0,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (9,0)",2026-06-08 01:44:08.477821+01
+481,b7352cba-daf7-4de1-b46b-45fc97ffdf8e,96e61b8f-043d-475a-af42-aaad48d102f0,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 01:44:08.477821+01
+482,b7352cba-daf7-4de1-b46b-45fc97ffdf8e,96e61b8f-043d-475a-af42-aaad48d102f0,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:44:08.477821+01
+490,3441ed2f-9797-41d6-bdb4-ab49abfc023c,363798ba-d8d5-4e3b-838a-4bb37165016b,es,Top Location,"La mejor ubicación. Los viajeros recientes le dan una puntuación alta (8,9)",2026-06-08 01:47:01.107009+01
+491,3441ed2f-9797-41d6-bdb4-ab49abfc023c,363798ba-d8d5-4e3b-838a-4bb37165016b,es,Información sobre el desayuno,"Continental, Buffet",2026-06-08 01:47:01.107009+01
+492,3441ed2f-9797-41d6-bdb4-ab49abfc023c,363798ba-d8d5-4e3b-838a-4bb37165016b,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:47:01.107009+01
+500,7f8b944c-951c-4d3d-89a2-7c37b1cb12a6,c16843b2-ec3d-4e34-9805-3e2861730ff0,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Graz und hat eine exzellente Lage (bewertet mit 9,8)",2026-06-08 01:48:13.205504+01
+501,7f8b944c-951c-4d3d-89a2-7c37b1cb12a6,c16843b2-ec3d-4e34-9805-3e2861730ff0,de,Frühstücks-Info,Buffet,2026-06-08 01:48:13.205504+01
+502,7f8b944c-951c-4d3d-89a2-7c37b1cb12a6,c16843b2-ec3d-4e34-9805-3e2861730ff0,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:48:13.205504+01
+503,7f8b944c-951c-4d3d-89a2-7c37b1cb12a6,c16843b2-ec3d-4e34-9805-3e2861730ff0,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:48:13.205504+01
+511,75ccc51a-7dfd-4f56-b546-a7fdc371276e,c16843b2-ec3d-4e34-9805-3e2861730ff0,fr,Heart,"Situé en plein cœur de Graz, cet hôtel affiche l'excellente note de 9,8 pour sa situation géographique.",2026-06-08 01:49:28.062168+01
+512,75ccc51a-7dfd-4f56-b546-a7fdc371276e,c16843b2-ec3d-4e34-9805-3e2861730ff0,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 01:49:28.062168+01
+513,75ccc51a-7dfd-4f56-b546-a7fdc371276e,c16843b2-ec3d-4e34-9805-3e2861730ff0,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:49:28.062168+01
+514,75ccc51a-7dfd-4f56-b546-a7fdc371276e,c16843b2-ec3d-4e34-9805-3e2861730ff0,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:49:28.062168+01
+515,2729f6f0-7615-4bed-b23b-ef46cccba190,363798ba-d8d5-4e3b-838a-4bb37165016b,fr,Top Location,"Bonne situation géographique : très bien notée par de récents voyageurs (8,9)",2026-06-08 01:50:17.118947+01
+516,2729f6f0-7615-4bed-b23b-ef46cccba190,363798ba-d8d5-4e3b-838a-4bb37165016b,fr,Infos concernant le petit-déjeuner,"Continental, Buffet",2026-06-08 01:50:17.118947+01
+517,2729f6f0-7615-4bed-b23b-ef46cccba190,363798ba-d8d5-4e3b-838a-4bb37165016b,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:50:17.118947+01
+518,0747799c-916f-44d1-99c5-271c0cb64d52,c16843b2-ec3d-4e34-9805-3e2861730ff0,pt,Heart,"Situado na área mais popular de Graz, este hotel tem uma pontuação de localização excelente: 9,8",2026-06-08 01:50:39.203505+01
+519,0747799c-916f-44d1-99c5-271c0cb64d52,c16843b2-ec3d-4e34-9805-3e2861730ff0,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 01:50:39.203505+01
+520,0747799c-916f-44d1-99c5-271c0cb64d52,c16843b2-ec3d-4e34-9805-3e2861730ff0,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:50:39.203505+01
+521,0747799c-916f-44d1-99c5-271c0cb64d52,c16843b2-ec3d-4e34-9805-3e2861730ff0,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:50:39.203505+01
+522,945cd9ef-f036-4d40-a447-167d867b1081,363798ba-d8d5-4e3b-838a-4bb37165016b,pt,Top Location,"Excelente localização: os hóspedes recentes deram uma pontuação alta (8,9)",2026-06-08 01:50:51.693789+01
+523,945cd9ef-f036-4d40-a447-167d867b1081,363798ba-d8d5-4e3b-838a-4bb37165016b,pt,Informação sobre o pequeno-almoço,"Continental, Buffet",2026-06-08 01:50:51.693789+01
+524,945cd9ef-f036-4d40-a447-167d867b1081,363798ba-d8d5-4e3b-838a-4bb37165016b,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:50:51.693789+01
+525,ad29362e-51f0-4d57-ac0f-77fa311016a0,cee07a9a-021e-4131-90fc-1f1df6263da5,en,Heart,"Situated in the best rated area in Graz, this hotel has an excellent location score of 9.3",2026-06-08 01:52:29.764572+01
+526,ad29362e-51f0-4d57-ac0f-77fa311016a0,cee07a9a-021e-4131-90fc-1f1df6263da5,en,Breakfast info,"Continental, Vegetarian, Gluten-free, Buffet",2026-06-08 01:52:29.764572+01
+527,ad29362e-51f0-4d57-ac0f-77fa311016a0,cee07a9a-021e-4131-90fc-1f1df6263da5,en,Parking,Parking available at the hotel,2026-06-08 01:52:29.764572+01
+528,ad29362e-51f0-4d57-ac0f-77fa311016a0,cee07a9a-021e-4131-90fc-1f1df6263da5,en,Loyal customers,There are more repeat guests here than most other properties.,2026-06-08 01:52:29.764572+01
+529,560f30e7-4379-45e4-a38f-a8924e4e28f9,19dd50f0-1590-4b1f-9d7c-0335239a239d,en,Heart,"Situated in the real heart of Graz, this hotel has an excellent location score of 9.7",2026-06-08 01:53:34.51913+01
+530,560f30e7-4379-45e4-a38f-a8924e4e28f9,19dd50f0-1590-4b1f-9d7c-0335239a239d,en,Breakfast info,Buffet,2026-06-08 01:53:34.51913+01
+531,67da2ca5-0f6a-4ddd-b766-9092eed4dd24,cee07a9a-021e-4131-90fc-1f1df6263da5,es,Heart,"Situado en la zona mejor valorada de Graz, este hotel tiene una excelente puntuación en ubicación (9,3).",2026-06-08 01:54:00.386236+01
+532,67da2ca5-0f6a-4ddd-b766-9092eed4dd24,cee07a9a-021e-4131-90fc-1f1df6263da5,es,Información sobre el desayuno,"Continental, Vegetariano, Sin gluten, Buffet",2026-06-08 01:54:00.386236+01
+533,67da2ca5-0f6a-4ddd-b766-9092eed4dd24,cee07a9a-021e-4131-90fc-1f1df6263da5,es,Parking,Hay parking en el hotel,2026-06-08 01:54:00.386236+01
+534,67da2ca5-0f6a-4ddd-b766-9092eed4dd24,cee07a9a-021e-4131-90fc-1f1df6263da5,es,Clientes fieles,Los clientes repiten más aquí que en otros alojamientos.,2026-06-08 01:54:00.386236+01
+535,a3a88215-7957-462b-b10d-78e0b96b0508,cee07a9a-021e-4131-90fc-1f1df6263da5,de,Heart,"Dieses Hotel befindet sich in der am besten bewerteten Gegend in Graz und hat für seine Lage ein hervorragendes Bewertungsergebnis von 9,3",2026-06-08 01:54:32.87125+01
+536,a3a88215-7957-462b-b10d-78e0b96b0508,cee07a9a-021e-4131-90fc-1f1df6263da5,de,Frühstücks-Info,"Kontinental, Vegetarisch, Glutenfrei, Buffet",2026-06-08 01:54:32.87125+01
+537,a3a88215-7957-462b-b10d-78e0b96b0508,cee07a9a-021e-4131-90fc-1f1df6263da5,de,Parking,Am Hotel stehen Parkplätze zur Verfügung,2026-06-08 01:54:32.87125+01
+538,a3a88215-7957-462b-b10d-78e0b96b0508,cee07a9a-021e-4131-90fc-1f1df6263da5,de,Stammgäste,Sie hat mehr wiederkehrende Gäste als die meisten anderen Unterkünfte.,2026-06-08 01:54:32.87125+01
+539,1389841f-88b0-44dd-a94c-c5443cc3c11b,19dd50f0-1590-4b1f-9d7c-0335239a239d,es,Heart,"Este hotel está en el corazón de Graz y tiene una puntuación excelente en ubicación: 9,7",2026-06-08 01:54:45.328583+01
+540,1389841f-88b0-44dd-a94c-c5443cc3c11b,19dd50f0-1590-4b1f-9d7c-0335239a239d,es,Información sobre el desayuno,Buffet,2026-06-08 01:54:45.328583+01
+549,dfe5fd93-8764-43bf-b93c-36f7df19b37f,19dd50f0-1590-4b1f-9d7c-0335239a239d,de,Heart,"Dieses Hotel befindet sich im wahren Herzen von Graz und hat eine exzellente Lage (bewertet mit 9,7)",2026-06-08 01:55:49.632935+01
+550,dfe5fd93-8764-43bf-b93c-36f7df19b37f,19dd50f0-1590-4b1f-9d7c-0335239a239d,de,Frühstücks-Info,Buffet,2026-06-08 01:55:49.632935+01
+555,a3458bca-34fb-4a7a-816e-4cb9007d2963,19dd50f0-1590-4b1f-9d7c-0335239a239d,it,Heart,"Situato nel vero cuore di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,7!",2026-06-08 01:56:45.127944+01
+556,a3458bca-34fb-4a7a-816e-4cb9007d2963,19dd50f0-1590-4b1f-9d7c-0335239a239d,it,Informazioni sulla colazione,a buffet,2026-06-08 01:56:45.127944+01
+541,99f78fb3-850b-4a18-8e5a-90eab910b06f,cee07a9a-021e-4131-90fc-1f1df6263da5,it,Heart,"Situato nella zona più gettonata di Graz, questo hotel ha un ottimo punteggio per la posizione: 9,3!",2026-06-08 01:55:02.958862+01
+542,99f78fb3-850b-4a18-8e5a-90eab910b06f,cee07a9a-021e-4131-90fc-1f1df6263da5,it,Informazioni sulla colazione,"continentale, vegetariana, senza glutine, a buffet",2026-06-08 01:55:02.958862+01
+543,99f78fb3-850b-4a18-8e5a-90eab910b06f,cee07a9a-021e-4131-90fc-1f1df6263da5,it,Parking,Parcheggio disponibile presso l'hotel,2026-06-08 01:55:02.958862+01
+544,99f78fb3-850b-4a18-8e5a-90eab910b06f,cee07a9a-021e-4131-90fc-1f1df6263da5,it,Clienti fedeli,Vanta più clienti abituali rispetto a molte altre strutture.,2026-06-08 01:55:02.958862+01
+551,6928b171-7560-43c7-a715-46606685f2d0,cee07a9a-021e-4131-90fc-1f1df6263da5,pt,Heart,"Situado na área com melhor avaliação em Graz, este hotel tem uma excelente pontuação de localização: 9,3",2026-06-08 01:56:02.103579+01
+552,6928b171-7560-43c7-a715-46606685f2d0,cee07a9a-021e-4131-90fc-1f1df6263da5,pt,Informação sobre o pequeno-almoço,"Continental, Vegetariano, Sem glúten, Buffet",2026-06-08 01:56:02.103579+01
+553,6928b171-7560-43c7-a715-46606685f2d0,cee07a9a-021e-4131-90fc-1f1df6263da5,pt,Parking,Estacionamento disponível no hotel,2026-06-08 01:56:02.103579+01
+554,6928b171-7560-43c7-a715-46606685f2d0,cee07a9a-021e-4131-90fc-1f1df6263da5,pt,Clientes leais,Os hóspedes tendem a regressar mais vezes a este alojamento do que a outros.,2026-06-08 01:56:02.103579+01
+557,13cadc1a-8bff-4395-9113-c67c603e5c7a,19dd50f0-1590-4b1f-9d7c-0335239a239d,fr,Heart,"Situé en plein cœur de Graz, cet hôtel affiche l'excellente note de 9,7 pour sa situation géographique.",2026-06-08 01:57:39.588296+01
+558,13cadc1a-8bff-4395-9113-c67c603e5c7a,19dd50f0-1590-4b1f-9d7c-0335239a239d,fr,Infos concernant le petit-déjeuner,Buffet,2026-06-08 01:57:39.588296+01
+545,bae567df-304f-4c52-953a-c107cc4d695f,cee07a9a-021e-4131-90fc-1f1df6263da5,fr,Heart,"Situé dans le quartier le plus apprécié à Graz, cet hôtel affiche l'excellente note de 9,3 pour sa situation géographique.",2026-06-08 01:55:37.401658+01
+546,bae567df-304f-4c52-953a-c107cc4d695f,cee07a9a-021e-4131-90fc-1f1df6263da5,fr,Infos concernant le petit-déjeuner,"Continental, Végétarien, Sans gluten, Buffet",2026-06-08 01:55:37.401658+01
+547,bae567df-304f-4c52-953a-c107cc4d695f,cee07a9a-021e-4131-90fc-1f1df6263da5,fr,Parking,Parking disponible à l'hôtel,2026-06-08 01:55:37.401658+01
+548,bae567df-304f-4c52-953a-c107cc4d695f,cee07a9a-021e-4131-90fc-1f1df6263da5,fr,Clients réguliers,Cet établissement compte plus de voyageurs réguliers que la plupart des établissements.,2026-06-08 01:55:37.401658+01
+559,10dce40a-236f-4987-b3c9-6ec3bb1113a3,19dd50f0-1590-4b1f-9d7c-0335239a239d,pt,Heart,"Situado na área mais popular de Graz, este hotel tem uma pontuação de localização excelente: 9,7",2026-06-08 01:58:05.859998+01
+560,10dce40a-236f-4987-b3c9-6ec3bb1113a3,19dd50f0-1590-4b1f-9d7c-0335239a239d,pt,Informação sobre o pequeno-almoço,Buffet,2026-06-08 01:58:05.859998+01
