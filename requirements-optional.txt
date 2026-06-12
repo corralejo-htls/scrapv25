@@ -1,0 +1,20 @@
+# requirements-optional.txt — Dependencias opcionales (Build 120)
+# Actualizado: referencia a Python 3.14 eliminada. En uso: Python 3.12.10.
+#
+# lxml 6.1.1 tiene wheel binario para Python 3.12 en Windows x64.
+# NO necesita Visual C++ Build Tools. Instala directamente:
+#
+#   pip install -r requirements-optional.txt
+#
+# Beneficio: parsing HTML 30-40% más rápido que html.parser (stdlib).
+# El sistema usa html.parser automáticamente si lxml no está instalado.
+# Sin pérdida de funcionalidad — solo diferencia de velocidad.
+#
+# Verifica disponibilidad de wheels en: https://pypi.org/project/lxml/#files
+# (Filtrar por Python 3.12, Windows AMD64)
+#
+# Estado verificado 2026-06-11:
+#   lxml 6.1.1 instalado y activo en el entorno de producción (pip list).
+#   La nota sobre Python 3.14 en versiones anteriores de este archivo era stale.
+
+lxml>=5.0.0,<7.0.0
